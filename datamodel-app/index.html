@@ -41,11 +41,18 @@
     .metadata { margin-top: 22px; padding: 15px; border: 1px solid #e1e8ee; border-radius: 10px; background: #f8fafc; }
     .metadata h3 { margin: 0 0 13px; font-size: 13px; }
     .metadata-label { margin: 13px 0 6px; color: #71869b; font-size: 10px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
-    .metadata-label:first-of-type { margin-top: 0; }
-    .metadata-table { display: inline-block; margin: 0 4px 4px 0; padding: 4px 6px; border-radius: 4px; background: #eaf0f5; color: #274b70; font: 11px ui-monospace, monospace; overflow-wrap: anywhere; }
-    .metadata-groups { display: grid; gap: 10px; }
+    .metadata-groups { display: grid; gap: 8px; }
+    .metadata-table-detail { border: 1px solid #dfe6ed; border-radius: 6px; background: white; min-width: 0; }
+    .metadata-table-detail summary { padding: 9px; color: #274b70; cursor: pointer; overflow-wrap: anywhere; }
+    .metadata-table-detail summary code { font: 11px ui-monospace, monospace; }
+    .metadata-table-detail summary:focus-visible { outline: 3px solid #3986cc; outline-offset: 2px; }
+    .metadata-table-body { padding: 0 9px 11px; }
+    .metadata-table-body dl { display: grid; grid-template-columns: 85px minmax(0, 1fr); gap: 7px 5px; margin: 4px 0 12px; font-size: 11px; line-height: 1.45; overflow-wrap: anywhere; }
+    .metadata-table-body dt { color: #71869b; }
+    .metadata-table-body dd { margin: 0; color: #344d62; }
+    .metadata-table-body a { color: #1969b8; }
     .metadata-fields { display: flex; flex-wrap: wrap; gap: 5px; }
-    .metadata-table-name { margin: 0 0 5px; color: #71869b; font: 10px ui-monospace, monospace; }
+    .metadata-unavailable { font-size: 11px; color: #778796; }
     .metadata-field { min-width: 0; max-width: 100%; padding: 4px 6px; border: 1px solid #dfe6ed; border-radius: 4px; background: white; color: #536a7d; font: 10px ui-monospace, monospace; overflow-wrap: anywhere; word-break: break-word; }
     .metadata-note { margin: 11px 0 0; color: #778796; font-size: 11px; line-height: 1.5; }
     h3 { font-size: 13px; margin: 25px 0 12px; }
@@ -88,9 +95,7 @@
       <p id="description"></p>
       <section class="metadata" aria-labelledby="metadata-title">
         <h3 id="metadata-title">Indhold og metadata</h3>
-        <p class="metadata-label">Datakilde</p>
-        <div id="metadata-source"></div>
-        <p class="metadata-label">Felter i datamodellen</p>
+        <p class="metadata-label">Tabeller og datasæt</p>
         <div id="metadata-fields" class="metadata-groups"></div>
         <p id="metadata-note" class="metadata-note"></p>
       </section>
@@ -99,6 +104,7 @@
       <p class="note">Valgt element er blåt. Linjer viser overordnede sammenhænge, ikke nødvendigvis fremmednøgler eller én-til-én-forhold. Stiplet linje viser geografisk overlap.<br><br>Træk i baggrunden for at flytte kortet. Zoom med musehjulet eller knapperne. Bokse kan også vælges med Tab og Enter.<br><br>Statisk model fra databaseundersøgelsen. Ingen liveforbindelse eller persondata.</p>
     </aside>
   </main>
+  <script src="dashboard-metadata.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
