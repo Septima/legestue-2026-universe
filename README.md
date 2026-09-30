@@ -2,7 +2,8 @@
 
 A "universe" type interactive canvas displaying data types in Databox.
 
-Check out the public site at https://septima.dk/legestue-2026-universe/
+- View universe site at https://septima.dk/legestue-2026-universe/
+- View data map at https://septima.dk/legestue-2026-universe/datamodel-app/
 
 Open index.html directly in a browser to get started. (No server or dependencies needed.)
 
