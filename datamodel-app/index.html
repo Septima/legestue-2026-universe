@@ -12,6 +12,9 @@
     h1 { margin: 0 0 5px; font-size: 23px; letter-spacing: -.6px; }
     header p { margin: 0; color: #66788a; font-size: 14px; }
     .badge { font-size: 12px; color: #39705c; background: #eaf5ef; padding: 8px 12px; border-radius: 20px; white-space: nowrap; }
+    .view-controls { display: flex; align-items: center; gap: 15px; }
+    .view-controls label { margin: 0; white-space: nowrap; }
+    .view-controls select { width: auto; margin: 0; min-width: 145px; }
     main { display: grid; grid-template-columns: minmax(0, 1fr) 300px; height: calc(100dvh - 100px); min-height: 460px; }
     .map { position: relative; overflow: hidden; background: radial-gradient(circle, #cfd9e4 1px, transparent 1px); background-size: 22px 22px; }
     svg { width: 100%; height: 100%; display: block; touch-action: none; cursor: grab; }
@@ -58,10 +61,17 @@
     h3 { font-size: 13px; margin: 25px 0 12px; }
     #neighbors { display: grid; gap: 8px; }
     #neighbors button { text-align: left; font-size: 13px; }
-    #neighbors small { display: block; color: #708295; padding-top: 4px; line-height: 1.4; }
+    #neighbors small { display: block; color: #708295; padding-top: 4px; line-height: 1.4; overflow-wrap: anywhere; }
+    .relation-evidence { padding: 0 8px 10px; color: #62758a; font-size: 11px; overflow-wrap: anywhere; }
+    .relation-evidence summary { cursor: pointer; }
+    .relation-evidence ul, #schema-datasets { padding-left: 18px; line-height: 1.6; }
+    #schema-datasets-details { margin-top: 20px; }
+    #schema-datasets-details summary { cursor: pointer; font-size: 13px; font-weight: 600; }
+    [hidden] { display: none !important; }
     .note { font-size: 12px; color: #778796; line-height: 1.6; border-top: 1px solid #e5eaf0; margin-top: 25px; padding-top: 18px; }
     @media (max-width: 720px) {
       header { padding: 16px; } h1 { font-size: 19px; } .badge { display: none; }
+      .view-controls label { display: none; } .view-controls select { min-width: 0; max-width: 125px; padding: 7px 4px; }
       main { display: flex; flex-direction: column; height: auto; }
       .map { height: 65dvh; min-height: 380px; }
       aside { border-left: 0; border-top: 1px solid #dfe5eb; padding: 20px; }
@@ -71,8 +81,15 @@
 </head>
 <body>
   <header>
-    <div><h1>Datakort</h1><p>Ejendomme, adresser og deres sammenhænge</p></div>
-    <span class="badge">22 elementer · Klik for at udforske</span>
+    <div><h1>Datakort</h1><p id="map-subtitle">Ejendomme, adresser og deres sammenhænge</p></div>
+    <div class="view-controls">
+      <label for="view-mode">Visning</label>
+      <select id="view-mode" aria-label="Vælg visning">
+        <option value="elements">Elementer</option>
+        <option value="schemas">Databaseskemaer</option>
+      </select>
+      <span class="badge">22 elementer · Klik for at udforske</span>
+    </div>
   </header>
   <main>
     <section class="map" aria-label="Interaktivt relationskort">
@@ -88,22 +105,30 @@
       </div>
     </section>
     <aside>
-      <label for="choose">Gå til element</label>
+      <label id="choose-label" for="choose">Gå til element</label>
       <select id="choose"></select>
       <p class="eyebrow">I centrum</p>
       <h2 id="title" aria-live="polite"></h2>
       <p id="description"></p>
-      <section class="metadata" aria-labelledby="metadata-title">
+      <section id="element-metadata" class="metadata" aria-labelledby="metadata-title">
         <h3 id="metadata-title">Indhold og metadata</h3>
         <p class="metadata-label">Tabeller og datasæt</p>
         <div id="metadata-fields" class="metadata-groups"></div>
         <p id="metadata-note" class="metadata-note"></p>
       </section>
-      <h3>Direkte forbindelser</h3>
+      <section id="schema-metadata" hidden>
+        <details id="schema-datasets-details">
+          <summary id="schema-datasets-count">Datasæt</summary>
+          <ul id="schema-datasets"></ul>
+        </details>
+      </section>
+      <h3 id="relations-heading">Direkte forbindelser</h3>
       <div id="neighbors"></div>
-      <p class="note">Valgt element er blåt. Linjer viser overordnede sammenhænge, ikke nødvendigvis fremmednøgler eller én-til-én-forhold. Stiplet linje viser geografisk overlap.<br><br>Træk i baggrunden for at flytte kortet. Zoom med musehjulet eller knapperne. Bokse kan også vælges med Tab og Enter.<br><br>Statisk model fra databaseundersøgelsen. Ingen liveforbindelse eller persondata.</p>
+      <p id="map-note" class="note"></p>
     </aside>
   </main>
+  <script src="../data.js"></script>
+  <script src="schema-graph.js"></script>
   <script src="dashboard-metadata.js"></script>
   <script src="app.js"></script>
 </body>

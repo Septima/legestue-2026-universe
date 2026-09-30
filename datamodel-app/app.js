@@ -1,4 +1,4 @@
-const nodes = [
+const elementNodes = [
   ['mat', 'Ejendom / BFE', 'Matriklen · mat2', 'Samlet fast ejendom er udgangspunktet for jordstykker, ejerskab og beliggenhed. Ejerlejligheder har også egne BFE-numre.'],
   ['jord', 'Jordstykker', 'Matriklen · mat2', 'Matriklens jordstykker forbinder ejendomme med bygninger, ejerlav og geografiske temaer.'],
   ['byg', 'Bygninger', 'BBR', 'Bygninger med enheder, jordstykkehenvisninger og forbindelse til GeoDanmarks bygningsgeometri.'],
@@ -23,7 +23,7 @@ const nodes = [
   ['dati', 'Daginstitutioner', 'Anvisningsenheder · datireg', 'Anvisningsenhedernes dawaid henviser til DAR-adresser.', true],
 ].map(([id, label, schema, description, added = false, second = '']) => ({ id, label, schema, description, added, second }));
 
-const edges = [
+const elementEdges = [
   ['mat', 'jord', 'Ejendoms-id'], ['mat', 'ejerlej', 'Samlet fast ejendoms lokal-id'],
   ['jord', 'ejerlav', 'Ejerlavets lokal-id'], ['jord', 'byg', 'Jordstykke-id'],
   ['byg', 'enhed', 'Bygnings-id'], ['enhed', 'adresse', 'Adresse-id'],
@@ -73,13 +73,18 @@ const schemaDetails = {
   dati: [{ table: 'datireg.anvisningsenhed', fields: ['anvisningsenhedsnummer', 'anvisningsenhedsnavn', 'dawaid', 'daginstitutionsnummer'] }],
 };
 
+const schemaGraph = window.buildSchemaGraph(window.UNIVERSE_DATA, elementNodes, elementEdges, schemaDetails);
+let nodes = elementNodes;
+let edges = elementEdges;
+let mode = 'elements';
 const svg = document.querySelector('svg');
 const viewport = document.querySelector('#viewport');
 const chooser = document.querySelector('#choose');
 const ns = 'http://www.w3.org/2000/svg';
-const byId = new Map(nodes.map(node => [node.id, node]));
-const positions = new Map(nodes.map(node => [node.id, { x: 0, y: 0 }]));
-const nodeElements = new Map();
+let byId = new Map();
+let positions = new Map();
+let nodeElements = new Map();
+let lines = [];
 let selected = 'mat';
 let width = 1, height = 1, zoom = 1, panX = 0, panY = 0;
 let animation = 0;
@@ -88,7 +93,6 @@ let drag = null;
 let suppressClick = false;
 const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
 
-document.querySelector('.badge').textContent = `${nodes.length} elementer · Klik for at udforske`;
 
 function element(tag, attrs, parent) {
   const el = document.createElementNS(ns, tag);
@@ -97,35 +101,72 @@ function element(tag, attrs, parent) {
   return el;
 }
 
-const lines = edges.map(edge => {
-  const line = element('path', { class: `edge${edge.spatial ? ' spatial' : ''}` }, document.querySelector('#edges'));
-  element('title', {}, line).textContent = edge.label;
-  return line;
-});
-
-nodes.forEach(node => {
-  const group = element('g', {
-    class: `node${node.added ? ' added' : ''}`, role: 'button', tabindex: '0',
-    'aria-label': `${node.label} ${node.second} (${node.schema}). Sæt i centrum.`,
-    'data-id': node.id,
-  }, document.querySelector('#nodes'));
-  element('rect', { x: -102, y: -36, width: 204, height: 72, rx: 12 }, group);
-  element('text', { y: node.second ? -12 : -3 }, group).textContent = node.label;
-  if (node.second) element('text', { y: 5 }, group).textContent = node.second;
-  element('text', { y: 23, class: 'sub' }, group).textContent = node.schema;
-  group.addEventListener('click', () => { if (!suppressClick) selectNode(node.id); });
-  group.addEventListener('keydown', event => {
-    if (event.key === 'Enter' || event.key === ' ') {
-      event.preventDefault();
-      selectNode(node.id);
-    }
+function renderView(nextMode) {
+  if (nextMode !== 'elements' && nextMode !== 'schemas') throw new Error(`Unknown map view: ${nextMode}`);
+  mode = nextMode;
+  document.querySelector('#view-mode').value = mode;
+  const url = new URL(location.href);
+  if (mode === 'schemas') url.searchParams.set('view', 'schemas');
+  else url.searchParams.delete('view');
+  history.replaceState(null, '', url);
+  nodes = mode === 'schemas' ? schemaGraph.nodes : elementNodes;
+  edges = mode === 'schemas' ? schemaGraph.edges : elementEdges;
+  byId = new Map(nodes.map(node => [node.id, node]));
+  positions = new Map(nodes.map(node => [node.id, { x: 0, y: 0 }]));
+  nodeElements = new Map();
+  chooser.replaceChildren();
+  const edgesGroup = document.querySelector('#edges');
+  const nodesGroup = document.querySelector('#nodes');
+  edgesGroup.replaceChildren();
+  nodesGroup.replaceChildren();
+  lines = edges.map(edge => {
+    const line = element('path', { class: `edge${edge.spatial ? ' spatial' : ''}` }, edgesGroup);
+    element('title', {}, line).textContent = edge.label;
+    return line;
   });
-  nodeElements.set(node.id, group);
-  const option = document.createElement('option');
-  option.value = node.id;
-  option.textContent = `${node.label} ${node.second} · ${node.schema}`;
-  chooser.append(option);
-});
+  nodes.forEach(node => {
+    const group = element('g', {
+      class: 'node', role: 'button', tabindex: '0',
+      'aria-label': `${node.label} ${node.second} (${mode === 'schemas' ? 'skema' : node.schema}). Sæt i centrum.`,
+      'data-id': node.id,
+    }, nodesGroup);
+    element('rect', { x: -102, y: -36, width: 204, height: 72, rx: 12 }, group);
+    element('text', { y: node.second && mode === 'elements' ? -12 : -3 }, group).textContent = node.label;
+    if (node.second && mode === 'elements') element('text', { y: 5 }, group).textContent = node.second;
+    element('text', { y: 23, class: 'sub' }, group).textContent = mode === 'schemas' ? node.second : node.schema;
+    group.addEventListener('click', () => { if (!suppressClick) selectNode(node.id); });
+    group.addEventListener('keydown', event => {
+      if (event.key === 'Enter' || event.key === ' ') {
+        event.preventDefault();
+        selectNode(node.id);
+      }
+    });
+    nodeElements.set(node.id, group);
+    const option = document.createElement('option');
+    option.value = node.id;
+    option.textContent = mode === 'schemas' ? `${node.label} · ${node.second}` : `${node.label} ${node.second} · ${node.schema}`;
+    chooser.append(option);
+  });
+  document.title = mode === 'schemas' ? 'Datakort · Databaseskemaer' : 'Datakort · Ejendomme og adresser';
+  document.querySelector('#map-subtitle').textContent = mode === 'schemas' ? 'Databaseskemaer og deres mulige relationer' : 'Ejendomme, adresser og deres sammenhænge';
+  document.querySelector('#choose-label').textContent = mode === 'schemas' ? 'Gå til skema' : 'Gå til element';
+  document.querySelector('#relations-heading').textContent = mode === 'schemas' ? 'Mulige skemarelationer' : 'Direkte forbindelser';
+  document.querySelector('.badge').textContent = mode === 'schemas'
+    ? `${nodes.length} skemaer · ${edges.length} mulige relationer`
+    : `${nodes.length} elementer · Klik for at udforske`;
+  document.querySelector('#element-metadata').hidden = mode === 'schemas';
+  document.querySelector('#schema-metadata').hidden = mode !== 'schemas';
+  document.querySelector('#map-note').textContent = mode === 'schemas'
+    ? 'Stregerne viser mulige forbindelser ud fra feltnavne og elementkortets overordnede relationer. De er ikke verificerede fremmednøgler. Ingen streg betyder ikke, at der ingen relation er.'
+    : 'Valgt element er blåt. Linjer viser overordnede sammenhænge, ikke nødvendigvis fremmednøgler eller én-til-én-forhold. Stiplet linje viser geografisk overlap. Træk for at flytte kortet, og zoom med musehjulet eller knapperne. Ingen liveforbindelse eller persondata.';
+  selected = mode === 'schemas' ? 'dar' : 'mat';
+  zoom = 1;
+  panX = panY = 0;
+  const rect = svg.getBoundingClientRect();
+  width = rect.width;
+  height = rect.height;
+  selectNode(selected, true);
+}
 
 // Breadth-first rings put direct neighbors nearest the selected object.
 function layout(id) {
@@ -149,6 +190,14 @@ function layout(id) {
     radius = Math.max(radius + 255, ring.length > 1 ? 245 / (2 * Math.sin(Math.PI / ring.length)) : 255);
     ring.forEach((node, index) => {
       const angle = (index / ring.length) * Math.PI * 2 - Math.PI / 2 + level * .17;
+      result.set(node.id, { x: Math.cos(angle) * radius, y: Math.sin(angle) * radius });
+    });
+  }
+  const unconnected = nodes.filter(node => !distances.has(node.id));
+  if (unconnected.length) {
+    radius = Math.max(radius + 255, unconnected.length > 1 ? 245 / (2 * Math.sin(Math.PI / unconnected.length)) : 255);
+    unconnected.forEach((node, index) => {
+      const angle = index / unconnected.length * Math.PI * 2 - Math.PI / 2;
       result.set(node.id, { x: Math.cos(angle) * radius, y: Math.sin(angle) * radius });
     });
   }
@@ -264,15 +313,30 @@ function renderMetadata(id) {
     : 'Dashboardmetadata kunne ikke indlæses. Kun feltnavne fra det lokale databaseskema vises.';
 }
 
+function renderSchemaMetadata(id) {
+  const list = document.querySelector('#schema-datasets');
+  list.replaceChildren();
+  const datasets = window.UNIVERSE_DATA.nodes.filter(node => node.s === id);
+  document.querySelector('#schema-datasets-count').textContent = `${datasets.length} datasæt i ${id}`;
+  datasets.forEach(dataset => {
+    const item = document.createElement('li');
+    item.textContent = dataset.n;
+    list.append(item);
+  });
+  document.querySelector('#schema-datasets-details').open = false;
+}
+
 function selectNode(id, immediate = false) {
+  if (!byId.has(id)) throw new Error(`Unknown ${mode} node: ${id}`);
   cancelAnimationFrame(animation);
   selected = id;
   targets = layout(id);
   chooser.value = id;
   const node = byId.get(id);
-  document.querySelector('#title').textContent = `${node.label} ${node.second}`;
+  document.querySelector('#title').textContent = mode === 'schemas' ? node.label : `${node.label} ${node.second}`;
   document.querySelector('#description').textContent = node.description;
-  renderMetadata(id);
+  if (mode === 'schemas') renderSchemaMetadata(id);
+  else renderMetadata(id);
   const neighbors = document.querySelector('#neighbors');
   neighbors.replaceChildren();
   nodes.forEach(n => {
@@ -286,12 +350,27 @@ function selectNode(id, immediate = false) {
     if (!active) return;
     const other = byId.get(edge.a === id ? edge.b : edge.a);
     const button = document.createElement('button');
-    button.textContent = `${other.label} ${other.second}`;
+    button.textContent = mode === 'schemas' ? other.label : `${other.label} ${other.second}`;
     const small = document.createElement('small');
     small.textContent = edge.label;
     button.append(small);
     button.addEventListener('click', () => selectNode(other.id));
     neighbors.append(button);
+    if (mode === 'schemas') {
+      const detail = document.createElement('details');
+      detail.className = 'relation-evidence';
+      const summary = document.createElement('summary');
+      summary.textContent = `Vis ${edge.examples.length} ${edge.examples.length === 1 ? 'forbindelse' : 'forbindelser'}`;
+      detail.append(summary);
+      const list = document.createElement('ul');
+      edge.examples.forEach(example => {
+        const item = document.createElement('li');
+        item.textContent = example;
+        list.append(item);
+      });
+      detail.append(list);
+      neighbors.append(detail);
+    }
   });
   const initial = new Map([...positions].map(([key, value]) => [key, { ...value }]));
   const startZoom = zoom, startX = panX, startY = panY;
@@ -334,9 +413,10 @@ function changeZoom(factor, x = width / 2, y = height / 2) {
 }
 
 chooser.addEventListener('change', () => selectNode(chooser.value));
+document.querySelector('#view-mode').addEventListener('change', event => renderView(event.target.value));
 document.querySelector('#zoom-in').addEventListener('click', () => changeZoom(1.25));
 document.querySelector('#zoom-out').addEventListener('click', () => changeZoom(.8));
-document.querySelector('#reset').addEventListener('click', () => selectNode('mat'));
+document.querySelector('#reset').addEventListener('click', () => selectNode(mode === 'schemas' ? 'dar' : 'mat'));
 document.querySelector('#fit').addEventListener('click', () => {
   finishAnimation();
   zoom = fitScale(positions);
@@ -380,3 +460,4 @@ new ResizeObserver(() => {
   height = rect.height;
   selectNode(selected, true);
 }).observe(svg);
+renderView(new URL(location.href).searchParams.get('view') === 'schemas' ? 'schemas' : 'elements');
