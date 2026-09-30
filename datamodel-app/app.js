@@ -186,36 +186,82 @@ function fitScale(points) {
 }
 
 function renderMetadata(id) {
-  const details = schemaDetails[id] || [];
-  const source = document.querySelector('#metadata-source');
-  const fields = document.querySelector('#metadata-fields');
-  source.replaceChildren();
-  fields.replaceChildren();
-  details.forEach(detail => {
-    const table = document.createElement('code');
-    table.className = 'metadata-table';
-    table.textContent = detail.table;
-    source.append(table);
+  const container = document.querySelector('#metadata-fields');
+  container.replaceChildren();
+  const mapped = schemaDetails[id];
+  const snapshot = window.DATAMAP_METADATA;
+  const formatCount = new Intl.NumberFormat('da-DK');
+  const retrievedAt = snapshot && new Intl.DateTimeFormat('da-DK', { dateStyle: 'medium', timeStyle: 'short', timeZone: 'UTC' }).format(new Date(snapshot.retrievedAt));
+  const intervals = { '1 day': 'Dagligt', '7 days': 'Hver 7. dag', '6 mons': 'Hver 6. måned' };
 
-    const group = document.createElement('div');
-    group.className = 'metadata-field-group';
-    const tableName = document.createElement('p');
-    tableName.className = 'metadata-table-name';
-    tableName.textContent = detail.table;
-    group.append(tableName);
-    const fieldList = document.createElement('div');
-    fieldList.className = 'metadata-fields';
-    detail.fields.forEach(name => {
+  mapped.forEach((item, index) => {
+    const section = document.createElement('details');
+    section.className = 'metadata-table-detail';
+    section.open = index === 0;
+    const summary = document.createElement('summary');
+    const name = document.createElement('code');
+    name.textContent = item.table;
+    summary.append(name);
+    section.append(summary);
+
+    const body = document.createElement('div');
+    body.className = 'metadata-table-body';
+    const info = snapshot?.tables[item.table];
+    if (info) {
+      const facts = document.createElement('dl');
+      const addFact = (label, value) => {
+        if (value === null || value === undefined || value === '') return;
+        const term = document.createElement('dt');
+        term.textContent = label;
+        const definition = document.createElement('dd');
+        definition.textContent = value;
+        facts.append(term, definition);
+      };
+      addFact('Kilde', info.source);
+      addFact('Beskrivelse', info.description);
+      addFact('Interval', intervals[info.updateInterval] || info.updateInterval);
+      addFact('Metode', info.updateDescription);
+      addFact('Ca. rækker', info.approxRows == null ? null : formatCount.format(info.approxRows));
+      addFact('Ca. størrelse', info.approxSize);
+      if (info.rightsUrl) {
+        const term = document.createElement('dt');
+        term.textContent = 'Rettigheder';
+        const definition = document.createElement('dd');
+        const link = document.createElement('a');
+        link.href = info.rightsUrl;
+        link.textContent = 'Se vilkår';
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+        definition.append(link);
+        facts.append(term, definition);
+      }
+      body.append(facts);
+    } else {
+      const unavailable = document.createElement('p');
+      unavailable.className = 'metadata-unavailable';
+      unavailable.textContent = 'Dashboardmetadata er ikke tilgængelige for denne tabel.';
+      body.append(unavailable);
+    }
+
+    const label = document.createElement('p');
+    label.className = 'metadata-label';
+    label.textContent = 'Udvalgte felter';
+    body.append(label);
+    const fields = document.createElement('div');
+    fields.className = 'metadata-fields';
+    item.fields.forEach(fieldName => {
       const field = document.createElement('code');
       field.className = 'metadata-field';
-      field.textContent = name;
-      fieldList.append(field);
+      field.textContent = fieldName;
+      fields.append(field);
     });
-    group.append(fieldList);
-    fields.append(group);
+    body.append(fields);
+    section.append(body);
+    container.append(section);
   });
-  document.querySelector('#metadata-note').textContent =
-    'Feltnavne fra det lokale databaseskema. Kortet viser ikke aktuelle registerværdier.';
+  document.querySelector('#metadata-note').textContent = snapshot
+    ? `Dashboardmetadata hentet ${retrievedAt} UTC. Rækkeantal og størrelse er omtrentlige øjebliksbilleder. Feltnavne stammer fra det lokale databaseskema; kortet viser ikke registerværdier.`
+    : 'Dashboardmetadata kunne ikke indlæses. Kun feltnavne fra det lokale databaseskema vises.';
 }
 
 function selectNode(id, immediate = false) {
