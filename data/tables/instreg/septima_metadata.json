@@ -1,0 +1,152 @@
+[
+  {
+    "tabelnavn": "hierarki_inst_2",
+    "beskrivelse": "Institutioner fra STILs (uddannelses)institutionsregister",
+    "kilde": "Hentes fra stil.dk",
+    "rettigheder": "Oplysningerne stammer fra Institutionsregisteret som Styrelsen for It og Læring (STIL) vedligeholder og er ansvarlig myndighed for. Registerets oplysninger er frit tilgængelige.",
+    "rettigheder_url": "-",
+    "attributtering": "Styrelsen for IT og Læring",
+    "attributtering_url": "https://stil.dk",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "hierarki_inst_3",
+    "beskrivelse": "Institutioner fra STILs (uddannelses)institutionsregister",
+    "kilde": "Hentes fra stil.dk",
+    "rettigheder": "Oplysningerne stammer fra Institutionsregisteret som Styrelsen for It og Læring (STIL) vedligeholder og er ansvarlig myndighed for. Registerets oplysninger er frit tilgængelige.",
+    "rettigheder_url": "-",
+    "attributtering": "Styrelsen for IT og Læring",
+    "attributtering_url": "https://stil.dk",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "institutioner",
+    "beskrivelse": "Institutioner fra STILs (uddannelses)institutionsregister",
+    "kilde": "Hentes fra stil.dk",
+    "rettigheder": "Oplysningerne stammer fra Institutionsregisteret som Styrelsen for It og Læring (STIL) vedligeholder og er ansvarlig myndighed for. Registerets oplysninger er frit tilgængelige.",
+    "rettigheder_url": "-",
+    "attributtering": "Styrelsen for IT og Læring",
+    "attributtering_url": "https://stil.dk",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "label_aktiv_kode",
+    "beskrivelse": "Institutioner fra STILs (uddannelses)institutionsregister",
+    "kilde": "Hentes fra stil.dk",
+    "rettigheder": "Oplysningerne stammer fra Institutionsregisteret som Styrelsen for It og Læring (STIL) vedligeholder og er ansvarlig myndighed for. Registerets oplysninger er frit tilgængelige.",
+    "rettigheder_url": "-",
+    "attributtering": "Styrelsen for IT og Læring",
+    "attributtering_url": "https://stil.dk",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "label_ejer_kode",
+    "beskrivelse": "Institutioner fra STILs (uddannelses)institutionsregister",
+    "kilde": "Hentes fra stil.dk",
+    "rettigheder": "Oplysningerne stammer fra Institutionsregisteret som Styrelsen for It og Læring (STIL) vedligeholder og er ansvarlig myndighed for. Registerets oplysninger er frit tilgængelige.",
+    "rettigheder_url": "-",
+    "attributtering": "Styrelsen for IT og Læring",
+    "attributtering_url": "https://stil.dk",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "label_enhedsart",
+    "beskrivelse": "Institutioner fra STILs (uddannelses)institutionsregister",
+    "kilde": "Hentes fra stil.dk",
+    "rettigheder": "Oplysningerne stammer fra Institutionsregisteret som Styrelsen for It og Læring (STIL) vedligeholder og er ansvarlig myndighed for. Registerets oplysninger er frit tilgængelige.",
+    "rettigheder_url": "-",
+    "attributtering": "Styrelsen for IT og Læring",
+    "attributtering_url": "https://stil.dk",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "label_flytte_kode",
+    "beskrivelse": "Institutioner fra STILs (uddannelses)institutionsregister",
+    "kilde": "Hentes fra stil.dk",
+    "rettigheder": "Oplysningerne stammer fra Institutionsregisteret som Styrelsen for It og Læring (STIL) vedligeholder og er ansvarlig myndighed for. Registerets oplysninger er frit tilgængelige.",
+    "rettigheder_url": "-",
+    "attributtering": "Styrelsen for IT og Læring",
+    "attributtering_url": "https://stil.dk",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "label_inst_type_2",
+    "beskrivelse": "Institutioner fra STILs (uddannelses)institutionsregister",
+    "kilde": "Hentes fra stil.dk",
+    "rettigheder": "Oplysningerne stammer fra Institutionsregisteret som Styrelsen for It og Læring (STIL) vedligeholder og er ansvarlig myndighed for. Registerets oplysninger er frit tilgængelige.",
+    "rettigheder_url": "-",
+    "attributtering": "Styrelsen for IT og Læring",
+    "attributtering_url": "https://stil.dk",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "label_inst_type_2_hovedgruppe",
+    "beskrivelse": "Institutioner fra STILs (uddannelses)institutionsregister",
+    "kilde": "Hentes fra stil.dk",
+    "rettigheder": "Oplysningerne stammer fra Institutionsregisteret som Styrelsen for It og Læring (STIL) vedligeholder og er ansvarlig myndighed for. Registerets oplysninger er frit tilgængelige.",
+    "rettigheder_url": "-",
+    "attributtering": "Styrelsen for IT og Læring",
+    "attributtering_url": "https://stil.dk",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "label_inst_type_2_undergruppe",
+    "beskrivelse": "Institutioner fra STILs (uddannelses)institutionsregister",
+    "kilde": "Hentes fra stil.dk",
+    "rettigheder": "Oplysningerne stammer fra Institutionsregisteret som Styrelsen for It og Læring (STIL) vedligeholder og er ansvarlig myndighed for. Registerets oplysninger er frit tilgængelige.",
+    "rettigheder_url": "-",
+    "attributtering": "Styrelsen for IT og Læring",
+    "attributtering_url": "https://stil.dk",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "tabelnavn": "byggefelt_forslag",
+    "beskrivelse": "Plandata",
+    "kilde": "Hentes fra Plandata.dk",
+    "rettigheder": "Plandata.dk er det landsdækkende digitale register for fysisk planlægning i Danmark. Plandata.dk indeholder oplysninger om planer mv., der er tilvejebragt efter planloven og sikrer, at plandata er entydige og digitalt tilgængelige for alle. Se url",
+    "rettigheder_url": "https://planinfo.erhvervsstyrelsen.dk/om-plandatadk",
+    "attributtering": "-",
+    "attributtering_url": "-",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "byggefelt_vedtaget",
+    "beskrivelse": "Plandata",
+    "kilde": "Hentes fra Plandata.dk",
+    "rettigheder": "Plandata.dk er det landsdækkende digitale register for fysisk planlægning i Danmark. Plandata.dk indeholder oplysninger om planer mv., der er tilvejebragt efter planloven og sikrer, at plandata er entydige og digitalt tilgængelige for alle. Se url",
+    "rettigheder_url": "https://planinfo.erhvervsstyrelsen.dk/om-plandatadk",
+    "attributtering": "-",
+    "attributtering_url": "-",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "byzonesommerhusomraade_forslag",
+    "beskrivelse": "Plandata",
+    "kilde": "Hentes fra Plandata.dk",
+    "rettigheder": "Plandata.dk er det landsdækkende digitale register for fysisk planlægning i Danmark. Plandata.dk indeholder oplysninger om planer mv., der er tilvejebragt efter planloven og sikrer, at plandata er entydige og digitalt tilgængelige for alle. Se url",
+    "rettigheder_url": "https://planinfo.erhvervsstyrelsen.dk/om-plandatadk",
+    "attributtering": "-",
+    "attributtering_url": "-",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "byzonesommerhusomraade_vedtaget",
+    "beskrivelse": "Plandata",
+    "kilde": "Hentes fra Plandata.dk",
+    "rettigheder": "Plandata.dk er det landsdækkende digitale register for fysisk planlægning i Danmark. Plandata.dk indeholder oplysninger om planer mv., der er tilvejebragt efter planloven og sikrer, at plandata er entydige og digitalt tilgængelige for alle. Se url",
+    "rettigheder_url": "https://planinfo.erhvervsstyrelsen.dk/om-plandatadk",
+    "attributtering": "-",
+    "attributtering_url": "-",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "codelist_byggefelttype",
+    "beskrivelse": "Plandata",
+    "kilde": "Hentes fra Plandata.dk",
+    "rettigheder": "Plandata.dk er det landsdækkende digitale register for fysisk planlægning i Danmark. Plandata.dk indeholder oplysninger om planer mv., der er tilvejebragt efter planloven og sikrer, at plandata er entydige og digitalt tilgængelige for alle. Se url",
+    "rettigheder_url": "https://planinfo.erhvervsstyrelsen.dk/om-plandatadk",
+    "attributtering": "-",
+    "attributtering_url": "-",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "codelist_forsyningsforbudomraade",
+    "beskrivelse": "Plandata",
+    "kilde": "Hentes fra Plandata.dk",
+    "rettigheder": "Plandata.dk er det landsdækkende digitale register for fysisk planlægning i Danmark. Plandata.dk indeholder oplysninger om planer mv., der er tilvejebragt efter planloven og sikrer, at plandata er entydige og digitalt tilgængelige for alle. Se url",
+    "rettigheder_url": "https://planinfo.erhvervsstyrelsen.dk/om-plandatadk",
+    "attributtering": "-",
+    "attributtering_url": "-",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "codelist_forsyningsform",
+    "beskrivelse": "Plandata",
+    "kilde": "Hentes fra Plandata.dk",
+    "rettigheder": "Plandata.dk er det landsdækkende digitale register for fysisk planlægning i Danmark. Plandata.dk indeholder oplysninger om planer mv., der er tilvejebragt efter planloven og sikrer, at plandata er entydige og digitalt tilgængelige for alle. Se url",
+    "rettigheder_url": "https://planinfo.erhvervsstyrelsen.dk/om-plandatadk",
+    "attributtering": "-",
+    "attributtering_url": "-",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "codelist_tilslutningspligt",
+    "beskrivelse": "Plandata",
+    "kilde": "Hentes fra Plandata.dk",
+    "rettigheder": "Plandata.dk er det landsdækkende digitale register for fysisk planlægning i Danmark. Plandata.dk indeholder oplysninger om planer mv., der er tilvejebragt efter planloven og sikrer, at plandata er entydige og digitalt tilgængelige for alle. Se url",
+    "rettigheder_url": "https://planinfo.erhvervsstyrelsen.dk/om-plandatadk",
+    "attributtering": "-",
+    "attributtering_url": "-",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "codelist_tilslutningspligtomraade",
+    "beskrivelse": "Plandata",
+    "kilde": "Hentes fra Plandata.dk",
+    "rettigheder": "Plandata.dk er det landsdækkende digitale register for fysisk planlægning i Danmark. Plandata.dk indeholder oplysninger om planer mv., der er tilvejebragt efter planloven og sikrer, at plandata er entydige og digitalt tilgængelige for alle. Se url",
+    "rettigheder_url": "https://planinfo.erhvervsstyrelsen.dk/om-plandatadk",
+    "attributtering": "-",
+    "attributtering_url": "-",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "codelist_zonestatus",
+    "beskrivelse": "Plandata",
+    "kilde": "Hentes fra Plandata.dk",
+    "rettigheder": "Plandata.dk er det landsdækkende digitale register for fysisk planlægning i Danmark. Plandata.dk indeholder oplysninger om planer mv., der er tilvejebragt efter planloven og sikrer, at plandata er entydige og digitalt tilgængelige for alle. Se url",
+    "rettigheder_url": "https://planinfo.erhvervsstyrelsen.dk/om-plandatadk",
+    "attributtering": "-",
+    "attributtering_url": "-",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  }
+]

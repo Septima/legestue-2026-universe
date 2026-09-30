@@ -1,0 +1,82 @@
+[
+  {
+    "_language": null,
+    "value": "DBC bibliotek",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150972",
+    "septima_serial": "1570533"
+  },
+  {
+    "_language": null,
+    "value": "Flensborg Bibliotek",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150973",
+    "septima_serial": "1570534"
+  },
+  {
+    "_language": null,
+    "value": "The Central Danish Library for South Slesvig.",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150973",
+    "septima_serial": "1570535"
+  },
+  {
+    "_language": null,
+    "value": "Husum Bibliotek",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150974",
+    "septima_serial": "1570536"
+  },
+  {
+    "_language": null,
+    "value": "Slesvig Bibliotek",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150975",
+    "septima_serial": "1570537"
+  },
+  {
+    "_language": null,
+    "value": "Fællesbiblioteket Egernførde",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150976",
+    "septima_serial": "1570538"
+  },
+  {
+    "_language": null,
+    "value": "Bogbusserne",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150977",
+    "septima_serial": "1570539"
+  },
+  {
+    "_language": null,
+    "value": "Hovedbiblioteket, Krystalgade",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150978",
+    "septima_serial": "1570540"
+  },
+  {
+    "_language": null,
+    "value": "Copenhagen City Public Library",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150978",
+    "septima_serial": "1570541"
+  },
+  {
+    "_language": null,
+    "value": "Blågårdens Bibliotek",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150979",
+    "septima_serial": "1570542"
+  }
+]

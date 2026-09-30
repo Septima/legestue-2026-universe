@@ -1,0 +1,137 @@
+[
+  {
+    "tabelnavn": "adresse",
+    "beskrivelse": "adresse",
+    "kilde": "Danmarks Adresseregister (DAR)",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, som frit bl.a. kan:\n        kopieres, distribueres og offentliggøres,\n        ændres og sammensættes med andet materiale,\n        bruges kommercielt og ikke-kommercielt",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/danmarks-adresseregister-dar/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "adressepunkt",
+    "beskrivelse": "adressepunkt",
+    "kilde": "Danmarks Adresseregister (DAR)",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, som frit bl.a. kan:\n        kopieres, distribueres og offentliggøres,\n        ændres og sammensættes med andet materiale,\n        bruges kommercielt og ikke-kommercielt",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/danmarks-adresseregister-dar/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "husnummer",
+    "beskrivelse": "husnummer",
+    "kilde": "Danmarks Adresseregister (DAR)",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, som frit bl.a. kan:\n        kopieres, distribueres og offentliggøres,\n        ændres og sammensættes med andet materiale,\n        bruges kommercielt og ikke-kommercielt",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/danmarks-adresseregister-dar/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "navngivenvej",
+    "beskrivelse": "navngivenvej",
+    "kilde": "Danmarks Adresseregister (DAR)",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, som frit bl.a. kan:\n        kopieres, distribueres og offentliggøres,\n        ændres og sammensættes med andet materiale,\n        bruges kommercielt og ikke-kommercielt",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/danmarks-adresseregister-dar/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "navngivenvejkommunedel",
+    "beskrivelse": "navngivenvejKommunedel",
+    "kilde": "Danmarks Adresseregister (DAR)",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, som frit bl.a. kan:\n        kopieres, distribueres og offentliggøres,\n        ændres og sammensættes med andet materiale,\n        bruges kommercielt og ikke-kommercielt",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/danmarks-adresseregister-dar/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "navngivenvejpostnummer",
+    "beskrivelse": "navngivenvejpostnummer",
+    "kilde": "Danmarks Adresseregister (DAR)",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, som frit bl.a. kan:\n        kopieres, distribueres og offentliggøres,\n        ændres og sammensættes med andet materiale,\n        bruges kommercielt og ikke-kommercielt",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/danmarks-adresseregister-dar/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "navngivenvejsupplerendebynavn",
+    "beskrivelse": "navngivenvejsupplerendebynavn",
+    "kilde": "Danmarks Adresseregister (DAR)",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, som frit bl.a. kan:\n        kopieres, distribueres og offentliggøres,\n        ændres og sammensættes med andet materiale,\n        bruges kommercielt og ikke-kommercielt",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/danmarks-adresseregister-dar/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "postnummer",
+    "beskrivelse": "postnummer",
+    "kilde": "Danmarks Adresseregister (DAR)",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, som frit bl.a. kan:\n        kopieres, distribueres og offentliggøres,\n        ændres og sammensættes med andet materiale,\n        bruges kommercielt og ikke-kommercielt",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/danmarks-adresseregister-dar/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "supplerendebynavn",
+    "beskrivelse": "supplerendebynavn",
+    "kilde": "Danmarks Adresseregister (DAR)",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, som frit bl.a. kan:\n        kopieres, distribueres og offentliggøres,\n        ændres og sammensættes med andet materiale,\n        bruges kommercielt og ikke-kommercielt",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/danmarks-adresseregister-dar/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  }
+]

@@ -1,0 +1,1022 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.921990595,
+                55.012279782,
+                0
+              ],
+              [
+                11.921357796,
+                55.012323038,
+                0
+              ],
+              [
+                11.921298689,
+                55.012046025,
+                0
+              ],
+              [
+                11.921543678,
+                55.012028811,
+                0
+              ],
+              [
+                11.921509241,
+                55.011867272,
+                0
+              ],
+              [
+                11.921895112,
+                55.011840468,
+                0
+              ],
+              [
+                11.921990595,
+                55.012279782,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Oprindelse for BPFG ændret til 'Matriklen - stedfæstet'",
+        "senestesaglokalid": "100208242",
+        "forretningsproces": "Bygning på fremmed grund fra landinspektør",
+        "id": "12",
+        "registreringfra": "2024-01-23T10:50:03.408000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2024-01-23T10:50:03.408000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "100722657",
+        "opdeltiejerlejligheder": false,
+        "samletfastejendomlokalid": "5391962",
+        "oprindelse": "Matriklen - stedfæstet",
+        "paahavet": false,
+        "lokalid": "100722657",
+        "rids": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/BygningPaaFremmedGrundFlade",
+        "septima_hash86": "AZSJnQSz2jBjAS2fYVsWKmoL5/+4IngwIc8slBkpYmbQV9dhvpwE9klJ/ogeMhJ0pl1kYi29CD37wsphz8n2BA",
+        "septima_serial": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.71269097,
+                56.47505693,
+                0
+              ],
+              [
+                8.712770765,
+                56.475036748,
+                0
+              ],
+              [
+                8.712782638,
+                56.475051015,
+                0
+              ],
+              [
+                8.712858335,
+                56.475031703,
+                0
+              ],
+              [
+                8.712895368,
+                56.475078444,
+                0
+              ],
+              [
+                8.712931998,
+                56.475069051,
+                0
+              ],
+              [
+                8.712939929,
+                56.475078565,
+                0
+              ],
+              [
+                8.712902829,
+                56.475087976,
+                0
+              ],
+              [
+                8.712825587,
+                56.475107581,
+                0
+              ],
+              [
+                8.712811593,
+                56.475090424,
+                0
+              ],
+              [
+                8.712734937,
+                56.475109869,
+                0
+              ],
+              [
+                8.71269097,
+                56.47505693,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Oprindelse for BPFG ændret til 'Matriklen - stedfæstet'",
+        "senestesaglokalid": "100208786",
+        "forretningsproces": "Bygning på fremmed grund fra landinspektør",
+        "id": "24",
+        "registreringfra": "2024-02-02T14:10:02.236000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2024-02-02T14:10:02.236000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "740698",
+        "opdeltiejerlejligheder": false,
+        "samletfastejendomlokalid": "4492260",
+        "oprindelse": "Matriklen - stedfæstet",
+        "paahavet": false,
+        "lokalid": "740698",
+        "rids": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/BygningPaaFremmedGrundFlade",
+        "septima_hash86": "fjwRLYk7I/jQxTqrgTFZ+/tM10YJJUacedgjd/Si2D2ooqsRzi+wti+ejGGdbbmU0PCtLAAXkASgWq6LmMd6gg",
+        "septima_serial": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.640026808,
+                55.181690425,
+                0
+              ],
+              [
+                11.639966321,
+                55.18170459,
+                0
+              ],
+              [
+                11.639951953,
+                55.181684495,
+                0
+              ],
+              [
+                11.640012597,
+                55.181670326,
+                0
+              ],
+              [
+                11.640026808,
+                55.181690425,
+                0
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                11.640131169,
+                55.181665061,
+                0
+              ],
+              [
+                11.640185537,
+                55.18174362,
+                0
+              ],
+              [
+                11.640082191,
+                55.181767703,
+                0
+              ],
+              [
+                11.640049369,
+                55.181722748,
+                0
+              ],
+              [
+                11.640072259,
+                55.181717308,
+                0
+              ],
+              [
+                11.640048698,
+                55.181684107,
+                0
+              ],
+              [
+                11.640131169,
+                55.181665061,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Oprindelse for BPFG ændret til 'Matriklen - stedfæstet'",
+        "senestesaglokalid": "100208488",
+        "forretningsproces": "Bygning på fremmed grund fra landinspektør",
+        "id": "29",
+        "registreringfra": "2024-02-09T08:10:01.994000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2024-02-09T08:10:01.994000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "723358",
+        "opdeltiejerlejligheder": false,
+        "samletfastejendomlokalid": "2527109",
+        "oprindelse": "Matriklen - stedfæstet",
+        "paahavet": false,
+        "lokalid": "723358",
+        "rids": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/BygningPaaFremmedGrundFlade",
+        "septima_hash86": "Xfa4w4D3xTUNbA0gdtNxSnTQnb6V5151rT+TTZPFlSdoXAszLYNLco/BUVATL+dP6EaTsTVeyUeAhaw5oO2kow",
+        "septima_serial": "23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.590560934,
+                57.716500533,
+                0
+              ],
+              [
+                10.591138472,
+                57.716730633,
+                0
+              ],
+              [
+                10.590782865,
+                57.716986292,
+                0
+              ],
+              [
+                10.590204994,
+                57.716756285,
+                0
+              ],
+              [
+                10.590560934,
+                57.716500533,
+                0
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                10.588318891,
+                57.715868539,
+                0
+              ],
+              [
+                10.588696301,
+                57.716014554,
+                0
+              ],
+              [
+                10.588049931,
+                57.716492883,
+                0
+              ],
+              [
+                10.587672519,
+                57.716346865,
+                0
+              ],
+              [
+                10.588318891,
+                57.715868539,
+                0
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                10.588694832,
+                57.7161726,
+                0
+              ],
+              [
+                10.589043749,
+                57.716308102,
+                0
+              ],
+              [
+                10.58853651,
+                57.716682,
+                0
+              ],
+              [
+                10.588187588,
+                57.716546407,
+                0
+              ],
+              [
+                10.588694832,
+                57.7161726,
+                0
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                10.589454811,
+                57.716088046,
+                0
+              ],
+              [
+                10.590405055,
+                57.716456494,
+                0
+              ],
+              [
+                10.590115929,
+                57.71667008,
+                0
+              ],
+              [
+                10.589165683,
+                57.71630163,
+                0
+              ],
+              [
+                10.589454811,
+                57.716088046,
+                0
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                10.590482607,
+                57.716153928,
+                0
+              ],
+              [
+                10.590735914,
+                57.716252894,
+                0
+              ],
+              [
+                10.590850402,
+                57.716302484,
+                0
+              ],
+              [
+                10.590893773,
+                57.716365006,
+                0
+              ],
+              [
+                10.590717659,
+                57.716494971,
+                0
+              ],
+              [
+                10.590347562,
+                57.716351385,
+                0
+              ],
+              [
+                10.590389658,
+                57.716323635,
+                0
+              ],
+              [
+                10.590299299,
+                57.716288295,
+                0
+              ],
+              [
+                10.590400793,
+                57.716213891,
+                0
+              ],
+              [
+                10.590387641,
+                57.716208756,
+                0
+              ],
+              [
+                10.590420986,
+                57.71618435,
+                0
+              ],
+              [
+                10.590434138,
+                57.716189485,
+                0
+              ],
+              [
+                10.590482607,
+                57.716153928,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Oprindelse for BPFG ændret til 'Matriklen - stedfæstet'",
+        "senestesaglokalid": "100208674",
+        "forretningsproces": "Bygning på fremmed grund fra landinspektør",
+        "id": "35",
+        "registreringfra": "2024-02-16T12:50:01.840000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2024-02-16T12:50:01.840000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "750388",
+        "opdeltiejerlejligheder": false,
+        "samletfastejendomlokalid": "9711121",
+        "oprindelse": "Matriklen - stedfæstet",
+        "paahavet": false,
+        "lokalid": "750388",
+        "rids": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/BygningPaaFremmedGrundFlade",
+        "septima_hash86": "gRKCHADgYCw3eTTyzN5cdyX83ktf1vKDzpAY71H405N0vpzlSo3DJH3Zy3Un57mL4KFlTI87t48QZUy1Ab9kiA",
+        "septima_serial": "48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.588220688,
+                55.590772669,
+                0
+              ],
+              [
+                12.588188863,
+                55.590838308,
+                0
+              ],
+              [
+                12.588006116,
+                55.590809888,
+                0
+              ],
+              [
+                12.588037942,
+                55.590744259,
+                0
+              ],
+              [
+                12.588220688,
+                55.590772669,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Oprindelse for BPFG ændret til 'Matriklen - stedfæstet'",
+        "senestesaglokalid": "100209812",
+        "forretningsproces": "Bygning på fremmed grund fra landinspektør",
+        "id": "38",
+        "registreringfra": "2024-02-21T11:20:02.506000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2024-02-21T11:20:02.506000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "717558",
+        "opdeltiejerlejligheder": false,
+        "samletfastejendomlokalid": "2054511",
+        "oprindelse": "Matriklen - stedfæstet",
+        "paahavet": false,
+        "lokalid": "717558",
+        "rids": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/BygningPaaFremmedGrundFlade",
+        "septima_hash86": "vchORfx9iiRjr8PrZiIUZ0pAhzXAFkrEn08pO3WXfKh186nJMvbJbqjMvaKi+Ow7tJLxQVJ3FIZhBm4vczKovA",
+        "septima_serial": "69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.011972933,
+                55.768772791,
+                0
+              ],
+              [
+                10.01203591,
+                55.768729689,
+                0
+              ],
+              [
+                10.012079795,
+                55.768750076,
+                0
+              ],
+              [
+                10.012016817,
+                55.768793169,
+                0
+              ],
+              [
+                10.011972933,
+                55.768772791,
+                0
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                10.014697531,
+                55.768901408,
+                0
+              ],
+              [
+                10.014859909,
+                55.768947989,
+                0
+              ],
+              [
+                10.014824273,
+                55.768987461,
+                0
+              ],
+              [
+                10.014793262,
+                55.76897856,
+                0
+              ],
+              [
+                10.014779209,
+                55.768994132,
+                0
+              ],
+              [
+                10.01472329,
+                55.768978087,
+                0
+              ],
+              [
+                10.014731378,
+                55.768969142,
+                0
+              ],
+              [
+                10.01465593,
+                55.768947498,
+                0
+              ],
+              [
+                10.014697531,
+                55.768901408,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Oprindelse for BPFG ændret til 'Matriklen - stedfæstet'",
+        "senestesaglokalid": "100208636",
+        "forretningsproces": "Bygning på fremmed grund fra landinspektør",
+        "id": "40",
+        "registreringfra": "2024-02-21T11:40:02.481000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2024-02-21T11:40:02.481000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "747336",
+        "opdeltiejerlejligheder": false,
+        "samletfastejendomlokalid": "4315282",
+        "oprindelse": "Matriklen - stedfæstet",
+        "paahavet": false,
+        "lokalid": "747336",
+        "rids": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/BygningPaaFremmedGrundFlade",
+        "septima_hash86": "Nk++yS3fZJymdpIhg31Qx6bEJ5sqyz7ATf6c3mDgbWZYiLTq61s3TmKntIQ7TryNERYNypQVpkOmwgs2nsgAQg",
+        "septima_serial": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.354008732,
+                55.711458605,
+                0
+              ],
+              [
+                12.353957203,
+                55.711461273,
+                0
+              ],
+              [
+                12.353951571,
+                55.711427171,
+                0
+              ],
+              [
+                12.35400251,
+                55.711424493,
+                0
+              ],
+              [
+                12.35400125,
+                55.711417424,
+                0
+              ],
+              [
+                12.354109666,
+                55.71141179,
+                0
+              ],
+              [
+                12.354110558,
+                55.711416621,
+                0
+              ],
+              [
+                12.354175553,
+                55.711413136,
+                0
+              ],
+              [
+                12.354181773,
+                55.711450368,
+                0
+              ],
+              [
+                12.354117254,
+                55.71145384,
+                0
+              ],
+              [
+                12.354117841,
+                55.711456971,
+                0
+              ],
+              [
+                12.354009404,
+                55.711462723,
+                0
+              ],
+              [
+                12.354008732,
+                55.711458605,
+                0
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                12.353865692,
+                55.71146755,
+                0
+              ],
+              [
+                12.353861447,
+                55.711445908,
+                0
+              ],
+              [
+                12.353904691,
+                55.711443198,
+                0
+              ],
+              [
+                12.353908777,
+                55.711464844,
+                0
+              ],
+              [
+                12.353865692,
+                55.71146755,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Oprindelse for BPFG ændret til 'Matriklen - stedfæstet'",
+        "senestesaglokalid": "100209338",
+        "forretningsproces": "Bygning på fremmed grund fra landinspektør",
+        "id": "44",
+        "registreringfra": "2024-02-22T09:50:01.972000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2024-02-22T09:50:01.972000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "707275",
+        "opdeltiejerlejligheder": false,
+        "samletfastejendomlokalid": "8811683",
+        "oprindelse": "Matriklen - stedfæstet",
+        "paahavet": false,
+        "lokalid": "707275",
+        "rids": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/BygningPaaFremmedGrundFlade",
+        "septima_hash86": "ex0XUY1GbKgEPZX2aZIFWI62GMeyo8u35AK85q8+rpnkCHkfZrVK5/w/1CGYxtEh4vWpuN1RlMlMqhlMI6mTLw",
+        "septima_serial": "71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.637751443,
+                55.182997677,
+                0
+              ],
+              [
+                11.637816499,
+                55.18301218,
+                0
+              ],
+              [
+                11.637775983,
+                55.183071848,
+                0
+              ],
+              [
+                11.637708858,
+                55.18305694,
+                0
+              ],
+              [
+                11.637704562,
+                55.183063236,
+                0
+              ],
+              [
+                11.637640145,
+                55.183048899,
+                0
+              ],
+              [
+                11.637671789,
+                55.183002367,
+                0
+              ],
+              [
+                11.637651853,
+                55.182997855,
+                0
+              ],
+              [
+                11.637680922,
+                55.182955155,
+                0
+              ],
+              [
+                11.637767186,
+                55.182974413,
+                0
+              ],
+              [
+                11.637751443,
+                55.182997677,
+                0
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                11.637858478,
+                55.182943761,
+                0
+              ],
+              [
+                11.637816235,
+                55.182934517,
+                0
+              ],
+              [
+                11.637828383,
+                55.182916275,
+                0
+              ],
+              [
+                11.637870625,
+                55.182925519,
+                0
+              ],
+              [
+                11.637858478,
+                55.182943761,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Oprindelse for BPFG ændret til 'Matriklen - stedfæstet'",
+        "senestesaglokalid": "100208758",
+        "forretningsproces": "Bygning på fremmed grund fra landinspektør",
+        "id": "47",
+        "registreringfra": "2024-02-23T11:40:01.912000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2024-02-23T11:40:01.912000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "723487",
+        "opdeltiejerlejligheder": false,
+        "samletfastejendomlokalid": "7409366",
+        "oprindelse": "Matriklen - stedfæstet",
+        "paahavet": false,
+        "lokalid": "723487",
+        "rids": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/BygningPaaFremmedGrundFlade",
+        "septima_hash86": "OQKAxIRuYFM7hcKAm8o3a5yKq6TgCKvj0qYnOpD2XJ4IGWi/77gxw3f6Mn9MGQQClg/ekMNWkieCZ7QjY+N4Hg",
+        "septima_serial": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.595475636,
+                55.596047191,
+                0
+              ],
+              [
+                12.595521131,
+                55.595956116,
+                0
+              ],
+              [
+                12.59562154,
+                55.595972231,
+                0
+              ],
+              [
+                12.595576037,
+                55.596063217,
+                0
+              ],
+              [
+                12.595475636,
+                55.596047191,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Oprindelse for BPFG ændret til 'Matriklen - stedfæstet'",
+        "senestesaglokalid": "100209478",
+        "forretningsproces": "Bygning på fremmed grund fra landinspektør",
+        "id": "49",
+        "registreringfra": "2024-02-23T14:50:02.209000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2024-02-23T14:50:02.209000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "716465",
+        "opdeltiejerlejligheder": false,
+        "samletfastejendomlokalid": "1301100",
+        "oprindelse": "Matriklen - stedfæstet",
+        "paahavet": false,
+        "lokalid": "716465",
+        "rids": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/BygningPaaFremmedGrundFlade",
+        "septima_hash86": "Vcc3F0ACz+xlDlIlmFhADPs2t58btC7h5MquKzywte4zYd6XeS6vULGptqX2Li1AG5OEfFiPikZhERwEEvW1DQ",
+        "septima_serial": "81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.590631421,
+                56.493488695,
+                0
+              ],
+              [
+                8.59053743,
+                56.493273121,
+                0
+              ],
+              [
+                8.590832721,
+                56.493233575,
+                0
+              ],
+              [
+                8.590926728,
+                56.493449328,
+                0
+              ],
+              [
+                8.590631421,
+                56.493488695,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Oprindelse for BPFG ændret til 'Matriklen - stedfæstet'",
+        "senestesaglokalid": "100208246",
+        "forretningsproces": "Bygning på fremmed grund fra landinspektør",
+        "id": "51",
+        "registreringfra": "2024-02-26T14:10:02.794000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2024-02-26T14:10:02.794000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "741259",
+        "opdeltiejerlejligheder": false,
+        "samletfastejendomlokalid": "7520400",
+        "oprindelse": "Matriklen - stedfæstet",
+        "paahavet": false,
+        "lokalid": "741259",
+        "rids": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/BygningPaaFremmedGrundFlade",
+        "septima_hash86": "q9D55OnsYgMTwgVTdvlp0cxX0uVjymR38ZWUexYspda3y5ZIiP+sdiud2tiCK/CHIN6lzYXUASv7ki43rv/UYw",
+        "septima_serial": "112"
+      }
+    }
+  ]
+}

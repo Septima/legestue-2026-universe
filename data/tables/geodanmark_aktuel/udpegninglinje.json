@@ -1,0 +1,1095 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.083138109,
+            56.192810167,
+            -999
+          ],
+          [
+            10.08275193,
+            56.192476332,
+            -999
+          ],
+          [
+            10.082687275,
+            56.192412204,
+            -999
+          ],
+          [
+            10.082667554,
+            56.192375717,
+            -999
+          ],
+          [
+            10.082690711,
+            56.192322501,
+            -999
+          ],
+          [
+            10.082733387,
+            56.192281424,
+            -999
+          ],
+          [
+            10.082785888,
+            56.192251582,
+            -999
+          ],
+          [
+            10.082823094,
+            56.192245146,
+            -999
+          ],
+          [
+            10.082870654,
+            56.192245898,
+            -999
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1230759015",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Aarhus kommune",
+        "registreringfra": "2025-04-01T15:01:24.379Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Aarhus kommune",
+        "virkningfra": "2024-09-11T11:49:24.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "aar": "2024",
+        "nummer": "1",
+        "kilde": "0751",
+        "aktion": "Ændre geometri",
+        "objtype": "Vejkant",
+        "foretaget": "NEJ",
+        "septima_transaktion_id": "135857890",
+        "septima_serial": "115432",
+        "septima_hash86": "9YuOB3y5Df4t3NMrpRRJAY8e1tzY06Vjl2VfSLfU3ZH+m2Ei5vBK2y9xKmZQ8Hs3up2Rh0c0VgbkeRtYGuTTjg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.650881508,
+            55.685613797,
+            17.87
+          ],
+          [
+            11.651715904,
+            55.687912031,
+            15.59
+          ],
+          [
+            11.65183568,
+            55.688555206,
+            14.64
+          ],
+          [
+            11.652123344,
+            55.688954119,
+            14.79
+          ],
+          [
+            11.653033887,
+            55.689938497,
+            14.47
+          ],
+          [
+            11.65335535,
+            55.690476544,
+            17.38
+          ],
+          [
+            11.653577809,
+            55.691035249,
+            18.24
+          ],
+          [
+            11.653811996,
+            55.691475765,
+            17.34
+          ],
+          [
+            11.655068911,
+            55.6936754,
+            15.43
+          ],
+          [
+            11.655477891,
+            55.693890913,
+            15.61
+          ],
+          [
+            11.656171483,
+            55.694011006,
+            15.52
+          ],
+          [
+            11.656874859,
+            55.694045398,
+            15.51
+          ],
+          [
+            11.658586481,
+            55.693923473,
+            16.86
+          ],
+          [
+            11.660522619,
+            55.693726184,
+            16.63
+          ],
+          [
+            11.660868482,
+            55.693789967,
+            16.64
+          ],
+          [
+            11.661036583,
+            55.693956842,
+            17.02
+          ],
+          [
+            11.661184782,
+            55.694519211,
+            18.38
+          ],
+          [
+            11.661647254,
+            55.69623946,
+            20.22
+          ],
+          [
+            11.661981934,
+            55.696578455,
+            21.03
+          ],
+          [
+            11.663744659,
+            55.697255185,
+            27.17
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1216087285",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Holbæk kommune",
+        "registreringfra": "2025-06-11T10:07:11.340Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Holbæk kommune",
+        "virkningfra": "2021-06-30T11:08:48.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "aar": "2026",
+        "nummer": "316",
+        "kilde": "Kommune",
+        "aktion": "Ny",
+        "objtype": "Vejmidte",
+        "foretaget": "NY",
+        "septima_transaktion_id": "142312301",
+        "septima_serial": "117316",
+        "septima_hash86": "vNOSEnoCUBiurmjub0JuVjVVjwOiHNU2W7EqfKLOE2bWU7sNmdefgSuj4+KmgoHdWaFxzr4gYsCc/6sj4rrTRA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.460129966,
+            55.579273,
+            26.94
+          ],
+          [
+            11.460250217,
+            55.58002077,
+            26.94
+          ],
+          [
+            11.460382841,
+            55.580778539,
+            26.82
+          ],
+          [
+            11.460512932,
+            55.581508404,
+            27.03
+          ],
+          [
+            11.460587564,
+            55.581752652,
+            27.11
+          ],
+          [
+            11.460906005,
+            55.582456892,
+            27.43
+          ],
+          [
+            11.461603464,
+            55.583998442,
+            27.26
+          ],
+          [
+            11.462473482,
+            55.585973185,
+            30.96
+          ],
+          [
+            11.462781561,
+            55.586840232,
+            31.89
+          ],
+          [
+            11.4630646,
+            55.587679737,
+            32.66
+          ],
+          [
+            11.463322051,
+            55.588432387,
+            33.35
+          ],
+          [
+            11.463553511,
+            55.589127223,
+            33.89
+          ],
+          [
+            11.463857614,
+            55.590016099,
+            34.92
+          ],
+          [
+            11.464156051,
+            55.590877674,
+            36.38
+          ],
+          [
+            11.464351916,
+            55.591520731,
+            38.45
+          ],
+          [
+            11.464522638,
+            55.591851312,
+            38.89
+          ],
+          [
+            11.46470866,
+            55.592117048,
+            39.12
+          ],
+          [
+            11.46599969,
+            55.59343945,
+            42.21
+          ],
+          [
+            11.466664826,
+            55.594171216,
+            45.55
+          ],
+          [
+            11.466807051,
+            55.594363405,
+            46.19
+          ],
+          [
+            11.466865826,
+            55.594538578,
+            46.72
+          ],
+          [
+            11.467069879,
+            55.59520232,
+            46.63
+          ],
+          [
+            11.467190293,
+            55.595552696,
+            46.67
+          ],
+          [
+            11.467368913,
+            55.59581624,
+            46.64
+          ],
+          [
+            11.467915774,
+            55.596387508,
+            48.93
+          ],
+          [
+            11.468752544,
+            55.597110774,
+            48.73
+          ],
+          [
+            11.469569735,
+            55.597863012,
+            50.24
+          ],
+          [
+            11.470131791,
+            55.598336618,
+            52.47
+          ],
+          [
+            11.470988857,
+            55.598891554,
+            52.11
+          ],
+          [
+            11.471802813,
+            55.599389197,
+            51.42
+          ],
+          [
+            11.472626091,
+            55.59990849,
+            49.98
+          ],
+          [
+            11.473334364,
+            55.600464254,
+            51.32
+          ],
+          [
+            11.473803236,
+            55.600790424,
+            52.46
+          ],
+          [
+            11.47468987,
+            55.601369457,
+            53.46
+          ],
+          [
+            11.476963437,
+            55.602889251,
+            57.69
+          ],
+          [
+            11.477209069,
+            55.603095968,
+            57.77
+          ],
+          [
+            11.477367166,
+            55.603319465,
+            57.38
+          ],
+          [
+            11.477457682,
+            55.603538754,
+            57.21
+          ],
+          [
+            11.47747239,
+            55.603761912,
+            56.99
+          ],
+          [
+            11.477399179,
+            55.604325627,
+            57.5
+          ],
+          [
+            11.477321912,
+            55.604870367,
+            57.73
+          ],
+          [
+            11.477332537,
+            55.60507662,
+            57.54
+          ],
+          [
+            11.477395876,
+            55.60537349,
+            57.69
+          ],
+          [
+            11.477532664,
+            55.605757414,
+            57.49
+          ],
+          [
+            11.477655614,
+            55.606070427,
+            58.02
+          ],
+          [
+            11.477751428,
+            55.606230105,
+            57.93
+          ],
+          [
+            11.477991772,
+            55.60652124,
+            57.84
+          ],
+          [
+            11.478486889,
+            55.606982231,
+            57.54
+          ],
+          [
+            11.479444123,
+            55.60793175,
+            55.12
+          ],
+          [
+            11.479711407,
+            55.608287054,
+            55.26
+          ],
+          [
+            11.479986056,
+            55.608688501,
+            56.45
+          ],
+          [
+            11.480687614,
+            55.609661699,
+            62.86
+          ],
+          [
+            11.480966722,
+            55.6101284,
+            63.1
+          ],
+          [
+            11.481378222,
+            55.61087574,
+            61.77
+          ],
+          [
+            11.481607297,
+            55.611279184,
+            61.4
+          ],
+          [
+            11.481978302,
+            55.611943209,
+            61.85
+          ],
+          [
+            11.484028157,
+            55.614868007,
+            62.69
+          ],
+          [
+            11.484845459,
+            55.616088181,
+            62.74
+          ],
+          [
+            11.485471941,
+            55.617040495,
+            58.95
+          ],
+          [
+            11.485778976,
+            55.617361993,
+            58.42
+          ],
+          [
+            11.486190839,
+            55.617758666,
+            58.29
+          ],
+          [
+            11.486340719,
+            55.617943398,
+            58.49
+          ],
+          [
+            11.486434878,
+            55.618138608,
+            58.61
+          ],
+          [
+            11.48649385,
+            55.618380103,
+            59.11
+          ],
+          [
+            11.486608086,
+            55.618586321,
+            59.61
+          ],
+          [
+            11.487176923,
+            55.619595165,
+            64.14
+          ],
+          [
+            11.487402108,
+            55.620146,
+            65.59
+          ],
+          [
+            11.487508155,
+            55.620232835,
+            65.99
+          ],
+          [
+            11.48763517,
+            55.6202921,
+            66.18
+          ],
+          [
+            11.487786499,
+            55.620316444,
+            66.21
+          ],
+          [
+            11.487994016,
+            55.620327604,
+            66.17
+          ],
+          [
+            11.488457399,
+            55.620323323,
+            65.47
+          ],
+          [
+            11.489331709,
+            55.620361752,
+            62.41
+          ],
+          [
+            11.489792496,
+            55.620461787,
+            61.28
+          ],
+          [
+            11.49011277,
+            55.62063038,
+            60.19
+          ],
+          [
+            11.49088979,
+            55.621190674,
+            58.16
+          ],
+          [
+            11.492315972,
+            55.622215332,
+            57.02
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1223917131",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Holbæk kommune",
+        "registreringfra": "2025-06-11T10:07:11.340Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Holbæk kommune",
+        "virkningfra": "2021-06-30T11:11:57.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "aar": "2026",
+        "nummer": "316",
+        "kilde": "Kommune",
+        "aktion": "Ny",
+        "objtype": "Vejmidte",
+        "foretaget": "NY",
+        "septima_transaktion_id": "142312301",
+        "septima_serial": "117324",
+        "septima_hash86": "63fzrPgPOFWykk0c87CLEDgkRN/vmn4WwkAPm9RKwVa024Gw5Vb2uRp4IJI9WJUzTYnkcI9u7ZBUxNceokBGpQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.413640568,
+            56.576503789,
+            2.02
+          ],
+          [
+            9.413862927,
+            56.576400629,
+            2.9
+          ],
+          [
+            9.414217395,
+            56.576202605,
+            7.41
+          ],
+          [
+            9.414632765,
+            56.576141117,
+            9.68
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1230191621",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Viborg kommune",
+        "registreringfra": "2025-06-17T11:58:51.218Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Viborg kommune",
+        "virkningfra": "2024-06-28T00:00:58.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "genoprettelse af kirkesti - ikke synlig i 2023",
+        "aar": "2026",
+        "nummer": "1",
+        "kilde": "0791",
+        "aktion": "Ny",
+        "objtype": "Vejmidte",
+        "foretaget": "NEJ",
+        "septima_transaktion_id": "142469063",
+        "septima_serial": "117924",
+        "septima_hash86": "2Evkns1OliIJS69rlx6dNfsqRUuIJI08IBpEbSKkzvIK5q6MPDjPx3hgiGJsmfSf4293n2egyXm4hlOKZZIbTg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.26845489,
+            56.831192081,
+            -999
+          ],
+          [
+            10.267601966,
+            56.839975113,
+            -999
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1234153083",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Mariagerfjord kommune",
+        "registreringfra": "2025-06-27T07:19:24.366Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Mariagerfjord kommune",
+        "virkningfra": "2025-06-27T07:12:43.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Cykelsti",
+        "aar": "2027",
+        "nummer": "1",
+        "kilde": "0846",
+        "aktion": "Ny",
+        "objtype": "sti",
+        "foretaget": "NY",
+        "septima_transaktion_id": "142469063",
+        "septima_serial": "118039",
+        "septima_hash86": "KBO+g3/1jIoM9XFGF+dKwcpDJCaLSa6krHYRxUb3teATcVb5DfKLVdGDleP7aKtlUZqqSTsjkwiqJ++Bxf4WTA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.267601966,
+            56.839975113,
+            -999
+          ],
+          [
+            10.267336853,
+            56.842321887,
+            -999
+          ],
+          [
+            10.267300064,
+            56.847311765,
+            -999
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1234153097",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Mariagerfjord kommune",
+        "registreringfra": "2025-06-27T07:19:24.366Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Mariagerfjord kommune",
+        "virkningfra": "2025-06-27T07:15:24.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "aar": "2027",
+        "nummer": "1",
+        "kilde": "0846",
+        "aktion": "Ny",
+        "objtype": "sti",
+        "foretaget": "NY",
+        "septima_transaktion_id": "142469063",
+        "septima_serial": "118040",
+        "septima_hash86": "TXQZ1bhvkgTXH8hoel99r0uxrfhGlZJr+gnJs0jaydUpdiCuNxkq6cZ+ABO2jJmMGjkV+AdJ2LneZkkRLXQyug"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.267300064,
+            56.847311765,
+            -999
+          ],
+          [
+            10.267024625,
+            56.847991459,
+            -999
+          ],
+          [
+            10.266420007,
+            56.849246181,
+            -999
+          ],
+          [
+            10.265600376,
+            56.850928229,
+            -999
+          ],
+          [
+            10.26468543,
+            56.852805663,
+            -999
+          ],
+          [
+            10.264370753,
+            56.853856092,
+            -999
+          ],
+          [
+            10.264215672,
+            56.854922514,
+            -999
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1234153099",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Mariagerfjord kommune",
+        "registreringfra": "2025-06-27T07:19:24.366Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Mariagerfjord kommune",
+        "virkningfra": "2025-06-27T07:16:19.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "aar": "2027",
+        "nummer": "1",
+        "kilde": "0846",
+        "aktion": "Ny",
+        "objtype": "sti",
+        "foretaget": "NY",
+        "septima_transaktion_id": "142469063",
+        "septima_serial": "118041",
+        "septima_hash86": "mSyErQ4JhdTPN80FdoACtblrTd3T0XwfNEK49qBbBfNaqCUu1XHWku3CQkcUJqwDL/F8+fcahbQQ0bOhDHMOkQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.616766195,
+            56.479695362,
+            -999
+          ],
+          [
+            9.616835347,
+            56.479254152,
+            -999
+          ],
+          [
+            9.616799653,
+            56.479055413,
+            -999
+          ],
+          [
+            9.616592991,
+            56.478836231,
+            -999
+          ],
+          [
+            9.616297772,
+            56.4786625,
+            -999
+          ],
+          [
+            9.615254678,
+            56.478433986,
+            -999
+          ],
+          [
+            9.613891832,
+            56.478058981,
+            -999
+          ],
+          [
+            9.610425594,
+            56.47708715,
+            -999
+          ],
+          [
+            9.608078923,
+            56.476411352,
+            -999
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1234152058",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Viborg kommune",
+        "registreringfra": "2025-06-27T13:19:46.935Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Viborg kommune",
+        "virkningfra": "2025-06-26T12:59:21.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Nørreåstien - se i Teams: 2026 - nr. 006",
+        "aar": "2026",
+        "nummer": "1",
+        "kilde": "0791",
+        "aktion": "Ikke tildelt",
+        "objtype": "Vejmidte",
+        "foretaget": "NY",
+        "septima_transaktion_id": "142469063",
+        "septima_serial": "118046",
+        "septima_hash86": "4VgUdm5r85aWhHv+utPXBFkmjmX66D8fHzQRRDQbqaDLIcIaqx9oICcr0XCIGjDTcW7jdm6YZHz90umViCkfxQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.749827456,
+            56.448183919,
+            -999
+          ],
+          [
+            9.752748372,
+            56.447914223,
+            -999
+          ],
+          [
+            9.755617356,
+            56.447604702,
+            -999
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1234152620",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Viborg kommune",
+        "registreringfra": "2025-06-27T13:19:46.935Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Viborg kommune",
+        "virkningfra": "2025-06-26T14:52:05.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Sti - se plan i Teams: 2026 - nr. 017",
+        "aar": "2026",
+        "nummer": "1",
+        "kilde": "0791",
+        "aktion": "Ikke tildelt",
+        "objtype": "Vejmidte",
+        "foretaget": "NY",
+        "septima_transaktion_id": "142469063",
+        "septima_serial": "118047",
+        "septima_hash86": "ClkuNRyO6HNfgPvgQBgjAlaD4Mh4VptUo5Fw2uKJ2HireQAdil/9Eng982lx0v1AcJrtBZ64otw1kJZMeBdoMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.755804237,
+            56.447596467,
+            -999
+          ],
+          [
+            9.757194674,
+            56.448004878,
+            -999
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1234152629",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Viborg kommune",
+        "registreringfra": "2025-06-27T13:19:46.935Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Viborg kommune",
+        "virkningfra": "2025-06-26T14:53:44.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Spang  - se plan i Teams: 2026 - nr. 017",
+        "aar": "2026",
+        "nummer": "1",
+        "kilde": "0791",
+        "aktion": "Ikke tildelt",
+        "objtype": "Bygværk",
+        "foretaget": "NY",
+        "septima_transaktion_id": "142469063",
+        "septima_serial": "118048",
+        "septima_hash86": "9GlvgxvTEmDWSf4XH6vfaYmuUCwKeb0A2+AqYCr+UCw6ObHeKndcYEFC3tGL71gnjvwVbkxB1R5eSv0ZHBvYPg"
+      }
+    }
+  ]
+}

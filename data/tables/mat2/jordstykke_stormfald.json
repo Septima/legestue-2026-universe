@@ -1,0 +1,122 @@
+[
+  {
+    "datafordeleropdateringstid": "2023-06-02T04:49:48.339Z",
+    "objectid": "1425",
+    "betalingsdato": "2002-08-11T22:00:00.000Z",
+    "omfang": "Ukendt",
+    "ophoersdato": "2017-08-11T22:00:00.000Z",
+    "snsjournalnummer": "2001-076/ox-0072",
+    "tilskudstype": "1: Tilskud til oprydning",
+    "jordstykkeobjectid": "5047217",
+    "septima_hash86": "HN99BogS6JFIPJUvRmqHBgxuQ39xtwZ0CnoVHGClhIZAFWqxoFtXSUEELNfJ36IGEe+sYvNaijG6oeRrjWV+9Q",
+    "septima_serial": "5"
+  },
+  {
+    "datafordeleropdateringstid": "2023-06-02T04:49:48.340Z",
+    "objectid": "1344",
+    "betalingsdato": "2006-12-20T23:00:00.000Z",
+    "omfang": "Ukendt",
+    "ophoersdato": "2021-12-20T23:00:00.000Z",
+    "snsjournalnummer": "sns-095-01348",
+    "tilskudstype": "2: Tilskud til gentilplantning",
+    "jordstykkeobjectid": "5047219",
+    "septima_hash86": "Xt6hXQ+i0qBW8GvdK7qPhnKvQd0l5iVvmtxr+xmQJbtNZNGXfM9SNlWePrmGxq1pV0uvWEwJ+0sU79jprrRi1A",
+    "septima_serial": "6"
+  },
+  {
+    "datafordeleropdateringstid": "2023-06-02T04:49:48.340Z",
+    "objectid": "1419",
+    "betalingsdato": "2002-08-11T22:00:00.000Z",
+    "omfang": "Ukendt",
+    "ophoersdato": "2017-08-11T22:00:00.000Z",
+    "snsjournalnummer": "2001-076/ox-0072",
+    "tilskudstype": "1: Tilskud til oprydning",
+    "jordstykkeobjectid": "5047219",
+    "septima_hash86": "/hRYUGkp8WokgRWCy/d5i5+nbgJQhnV0RqsgYG/hNJI1zs7gJ3ovsC61h9mTqSQ5EBDyh9NYeQmKlrasmDUeVg",
+    "septima_serial": "7"
+  },
+  {
+    "datafordeleropdateringstid": "2023-06-02T04:49:49.440Z",
+    "objectid": "3641",
+    "betalingsdato": "2007-04-24T22:00:00.000Z",
+    "omfang": "Ukendt",
+    "ophoersdato": "2022-04-24T22:00:00.000Z",
+    "snsjournalnummer": "sns-095-01331",
+    "tilskudstype": "1: Tilskud til oprydning",
+    "jordstykkeobjectid": "5080985",
+    "septima_hash86": "xlySL4Ne3XZK1wk5co4bywqaxp5OPwfU/K+zByggFKwIw4zOM3H8K1jNCfgNfnaXDz8NqaEfR0ZPcwAHT2ln4w",
+    "septima_serial": "8"
+  },
+  {
+    "datafordeleropdateringstid": "2023-06-02T04:49:51.051Z",
+    "objectid": "12120",
+    "betalingsdato": "2007-12-08T23:00:00.000Z",
+    "omfang": "Ukendt",
+    "ophoersdato": "2022-12-08T23:00:00.000Z",
+    "snsjournalnummer": "sns-095-01430",
+    "tilskudstype": "2: Tilskud til gentilplantning",
+    "jordstykkeobjectid": "5135341",
+    "septima_hash86": "iXyqAGL+1FV+oiRoIiyEXcvDIDrSY/6YNN/PadetSVl79mLUGygXTPC4vnNRsSkGnLzLznuKX71+vSUfXflgSA",
+    "septima_serial": "9"
+  },
+  {
+    "datafordeleropdateringstid": "2023-06-02T04:49:51.082Z",
+    "objectid": "24182",
+    "betalingsdato": "2002-02-26T23:00:00.000Z",
+    "omfang": "Ukendt",
+    "ophoersdato": "2017-02-26T23:00:00.000Z",
+    "snsjournalnummer": "1996-076/ox-0044",
+    "tilskudstype": "1: Tilskud til oprydning",
+    "jordstykkeobjectid": "5147661",
+    "septima_hash86": "ppoJKd8N87gDqOsk7+C5YF42IvJM4bDdb37CxSUxcwvvGvCoosKM/T5a3jU4Z0g8zvOZNYCctcP1C0QgZzAncA",
+    "septima_serial": "10"
+  },
+  {
+    "datafordeleropdateringstid": "2023-06-02T04:49:51.140Z",
+    "objectid": "9095",
+    "betalingsdato": "2003-08-09T22:00:00.000Z",
+    "omfang": "Ukendt",
+    "ophoersdato": "2018-08-09T22:00:00.000Z",
+    "snsjournalnummer": "1996-076/fy-0040",
+    "tilskudstype": "2: Tilskud til gentilplantning",
+    "jordstykkeobjectid": "5176060",
+    "septima_hash86": "h5Yx6vqem+/SQeu3QxGkLHVc/xDxhN9E4KuGv5fOrlGUl/5uzewCkK8+HBQlz8Ltc2fGgo8MId/VxVMgUrD4IA",
+    "septima_serial": "11"
+  },
+  {
+    "datafordeleropdateringstid": "2023-06-02T04:49:51.140Z",
+    "objectid": "9099",
+    "betalingsdato": "2004-06-02T22:00:00.000Z",
+    "omfang": "Ukendt",
+    "ophoersdato": "2019-06-02T22:00:00.000Z",
+    "snsjournalnummer": "1996-076/fy-0039",
+    "tilskudstype": "2: Tilskud til gentilplantning",
+    "jordstykkeobjectid": "5176060",
+    "septima_hash86": "Fwaf4l0meLjs8ebfG/6N7o/2F8AUFwu+groqR3RQL3b8E1TXUfgoxapUsUHfsnRi7TIRYVSVOhHLGYfUCz5AhQ",
+    "septima_serial": "12"
+  },
+  {
+    "datafordeleropdateringstid": "2023-06-02T04:49:51.141Z",
+    "objectid": "3050",
+    "betalingsdato": "2015-09-12T22:00:00.000Z",
+    "omfang": "Ukendt",
+    "ophoersdato": "2030-09-12T22:00:00.000Z",
+    "snsjournalnummer": "nst-914-01818",
+    "tilskudstype": "1: Tilskud til oprydning",
+    "jordstykkeobjectid": "5177199",
+    "septima_hash86": "NrC4WaOOxsyE1Tz5IkOkY7N9pzU9xxvJ3YleCo3jC+viKjr3NawcR1f5rjfE0O29Hmo1cuL46Lp6uSPbwX45mQ",
+    "septima_serial": "13"
+  },
+  {
+    "datafordeleropdateringstid": "2023-06-02T04:49:51.141Z",
+    "objectid": "3044",
+    "betalingsdato": "2015-09-12T22:00:00.000Z",
+    "omfang": "Ukendt",
+    "ophoersdato": "2030-09-12T22:00:00.000Z",
+    "snsjournalnummer": "nst-914-01818",
+    "tilskudstype": "1: Tilskud til oprydning",
+    "jordstykkeobjectid": "5177203",
+    "septima_hash86": "gNLVQnF6gn1pA7AJs1Zh/zw1zg1LmXiHScIgQHyx3dpxnOP0GL0fzW4wmWZYa/1EXpy6IZgxAfyYnrV8J6FCyg",
+    "septima_serial": "14"
+  }
+]

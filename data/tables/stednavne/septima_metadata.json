@@ -1,0 +1,152 @@
+[
+  {
+    "tabelnavn": "andentopografiflade",
+    "beskrivelse": "Indeholder data fra Styrelsen for Dataforsyning og Effektivisering, Danske Stednavne",
+    "kilde": "DKStednavne via DAF",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data. Se URL for detaljer",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/sdfe-geografiske-data/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": null
+  },
+  {
+    "tabelnavn": "andentopografipunkt",
+    "beskrivelse": "Indeholder data fra Styrelsen for Dataforsyning og Effektivisering, Danske Stednavne",
+    "kilde": "DKStednavne via DAF",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data. Se URL for detaljer",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/sdfe-geografiske-data/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": null
+  },
+  {
+    "tabelnavn": "bebyggelse",
+    "beskrivelse": "Indeholder data fra Styrelsen for Dataforsyning og Effektivisering, Danske Stednavne",
+    "kilde": "DKStednavne via DAF",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data. Se URL for detaljer",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/sdfe-geografiske-data/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": null
+  },
+  {
+    "tabelnavn": "begravelsesplads",
+    "beskrivelse": "Indeholder data fra Styrelsen for Dataforsyning og Effektivisering, Danske Stednavne",
+    "kilde": "DKStednavne via DAF",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data. Se URL for detaljer",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/sdfe-geografiske-data/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": null
+  },
+  {
+    "tabelnavn": "bygning",
+    "beskrivelse": "Indeholder data fra Styrelsen for Dataforsyning og Effektivisering, Danske Stednavne",
+    "kilde": "DKStednavne via DAF",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data. Se URL for detaljer",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/sdfe-geografiske-data/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": null
+  },
+  {
+    "tabelnavn": "campingplads",
+    "beskrivelse": "Indeholder data fra Styrelsen for Dataforsyning og Effektivisering, Danske Stednavne",
+    "kilde": "DKStednavne via DAF",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data. Se URL for detaljer",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/sdfe-geografiske-data/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": null
+  },
+  {
+    "tabelnavn": "farvand",
+    "beskrivelse": "Indeholder data fra Styrelsen for Dataforsyning og Effektivisering, Danske Stednavne",
+    "kilde": "DKStednavne via DAF",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data. Se URL for detaljer",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/sdfe-geografiske-data/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": null
+  },
+  {
+    "tabelnavn": "fortidsminde",
+    "beskrivelse": "Indeholder data fra Styrelsen for Dataforsyning og Effektivisering, Danske Stednavne",
+    "kilde": "DKStednavne via DAF",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data. Se URL for detaljer",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/sdfe-geografiske-data/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": null
+  },
+  {
+    "tabelnavn": "friluftsbad",
+    "beskrivelse": "Indeholder data fra Styrelsen for Dataforsyning og Effektivisering, Danske Stednavne",
+    "kilde": "DKStednavne via DAF",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data. Se URL for detaljer",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/sdfe-geografiske-data/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": null
+  },
+  {
+    "tabelnavn": "havnebassin",
+    "beskrivelse": "Indeholder data fra Styrelsen for Dataforsyning og Effektivisering, Danske Stednavne",
+    "kilde": "DKStednavne via DAF",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data. Se URL for detaljer",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/sdfe-geografiske-data/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": null
+  }
+]

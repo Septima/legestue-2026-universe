@@ -1,0 +1,76 @@
+[
+  {
+    "id": "340",
+    "type_id": 2,
+    "tags": null,
+    "septima_serial": "5",
+    "septima_hash86": "4rihyWebQp2NfnLinbN06Eap3pyHWso3jPxFRt7sAzNE2sP6odLjsrtB8wjcMqmTTsVi+TqdKrZQwA0S9UgZqw"
+  },
+  {
+    "id": "2340",
+    "type_id": 4,
+    "tags": null,
+    "septima_serial": "8",
+    "septima_hash86": "XIMdum+65WVKBQFOV9qaSamtrFCY2ajmqoAA9ixYq/uSUek9F8RgPp/7+/xLxDTTjnMMFwVotPQNZywFut1hNA"
+  },
+  {
+    "id": "4586",
+    "type_id": 4,
+    "tags": null,
+    "septima_serial": "10",
+    "septima_hash86": "TFf3UhqQCV5khWK9NlUVlq3alK3i8FQi9cUd/bzlGn4ayAu/Z/8/S4YXnqH1ahuBv62tWKvkeOxNmG/Z7j2vCg"
+  },
+  {
+    "id": "8725",
+    "type_id": 2,
+    "tags": null,
+    "septima_serial": "15",
+    "septima_hash86": "TxgBptB+NOHpHBhZr+Ct1i6RBu9qUy3fX6Xr8uidkYCwIfSwiUl/qu6b6ALc1efT578qBCKD9JujFLW2DmRSCA"
+  },
+  {
+    "id": "8729",
+    "type_id": 2,
+    "tags": null,
+    "septima_serial": "17",
+    "septima_hash86": "UosFTStkuCRaVBJ2e7UEYxqNB3Av/cZ2ZrbPfpmsC1384sz6v9WgKMXBa9QlNy8nWGkC9QvmV3G/s27lg7r4YA"
+  },
+  {
+    "id": "8763",
+    "type_id": 2,
+    "tags": null,
+    "septima_serial": "21",
+    "septima_hash86": "gEOF5OFK3p0QbwebOGIA+K6a+us1xCcIziNGyjpJYwQUyTea4IxX48E2xZ+pHDf5IuKxpgQAcE5eoCTyDfAf4g"
+  },
+  {
+    "id": "8766",
+    "type_id": 2,
+    "tags": null,
+    "septima_serial": "24",
+    "septima_hash86": "wJtjWBvmJ3bIInd9AWeLwiis2N/zM1na1jTg52tNhBP6KeCZYGQI+kgh62fAfgVro3z8N4bPmExlFv5ruASQ2A"
+  },
+  {
+    "id": "8767",
+    "type_id": 2,
+    "tags": null,
+    "septima_serial": "25",
+    "septima_hash86": "s/Hn/tqe30pqaD67zh4kBQKl68URQWdHluqocivia7naTAfyq4SN9oOqMNh8rUNslq5tuKOJH2RyOhlnf0Kvzg"
+  },
+  {
+    "id": "9149",
+    "type_id": 2,
+    "tags": {
+      "water": "lake",
+      "wikidata": "Q891693",
+      "wikipedia": "de:Bolzer See"
+    },
+    "septima_serial": "29",
+    "septima_hash86": "Wji52poUjVnPvZsNuArrOBlbqmXLAQmBXkdD9UsVNGUWzjO8sG/Lzl8/F60AIi+kQWmHHlUhwJ/MVedEbe534Q"
+  },
+  {
+    "id": "9405",
+    "type_id": 4,
+    "tags": null,
+    "septima_serial": "33",
+    "septima_hash86": "oql+8+aYNKJ3fEku8Rp+9gWd7d2Uv1d+g8dh9BPnaWzCUpuVUq97H7ZpOTjBjHJg59Bh9NgXgCV3kI45O6w6Wg"
+  }
+]

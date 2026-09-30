@@ -1,0 +1,760 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.409521295,
+              56.094785717,
+              9.65
+            ],
+            [
+              12.409530031,
+              56.094802648,
+              8.98
+            ],
+            [
+              12.409388426,
+              56.094823735,
+              8.98
+            ],
+            [
+              12.40936686,
+              56.094778118,
+              9.66
+            ],
+            [
+              12.409460853,
+              56.094764282,
+              9.86
+            ],
+            [
+              12.409475786,
+              56.094793089,
+              9.3
+            ],
+            [
+              12.409521295,
+              56.094785717,
+              9.65
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1110310898",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2020-03-27T03:01:40.232Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Skatteforvaltningen",
+        "virkningfra": "2017-09-13T18:48:32.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "geokoderen.dk",
+        "kommentar": null,
+        "bbruuid": null,
+        "bygningstype": "Bygning",
+        "maalestedbygning": "Tag",
+        "metode3d": "Tag",
+        "underminimumbygning": false,
+        "bbraktion": null,
+        "synligbygning": true,
+        "overlapbygning": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "572385477",
+        "septima_hash86": "/WBjtxTrq+TlAN1IoYVy1E/gK9y9vU+gkpd3Rd8xiqSma7tRjq7zmUxQKhUY6p7EzCd/RCojnTGuAIhDMdtTKg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.071681125,
+              56.018950741,
+              7.57
+            ],
+            [
+              12.071686268,
+              56.018914474,
+              7.57
+            ],
+            [
+              12.071837525,
+              56.018921312,
+              7.04
+            ],
+            [
+              12.071832221,
+              56.018957583,
+              7.04
+            ],
+            [
+              12.071681125,
+              56.018950741,
+              7.57
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1011171007",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2020-03-27T03:01:52.966Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Skatteforvaltningen",
+        "virkningfra": "2015-05-22T12:34:40.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "geokoderen.dk",
+        "kommentar": null,
+        "bbruuid": "61839b23-eb4a-4249-9024-367da3210194",
+        "bygningstype": "Bygning",
+        "maalestedbygning": "Tag",
+        "metode3d": "Tag",
+        "underminimumbygning": false,
+        "bbraktion": null,
+        "synligbygning": true,
+        "overlapbygning": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "572385480",
+        "septima_hash86": "v5N32j3k88oF3fZmeXfh5+ezrHG2N9t4Y0gq5PuEiEgp+9YZRDpYf5YlEC3zxjG7Secbm+V+gTumiMW+Gcring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.072329914,
+              56.01912686,
+              7.47
+            ],
+            [
+              12.072368482,
+              56.019147654,
+              7.12
+            ],
+            [
+              12.072275202,
+              56.01920185,
+              7.12
+            ],
+            [
+              12.072236466,
+              56.019180971,
+              7.47
+            ],
+            [
+              12.072329914,
+              56.01912686,
+              7.47
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1011194653",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2020-03-27T03:01:52.966Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Skatteforvaltningen",
+        "virkningfra": "2017-09-13T18:48:32.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "geokoderen.dk",
+        "kommentar": null,
+        "bbruuid": null,
+        "bygningstype": "Bygning",
+        "maalestedbygning": "Tag",
+        "metode3d": "Tag",
+        "underminimumbygning": false,
+        "bbraktion": null,
+        "synligbygning": true,
+        "overlapbygning": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "572385481",
+        "septima_hash86": "lrgQd4+6FgqmrKx9vDV1AtQVcUOSREiW4NtZaFYMtRwqiya+9AzwxhvXfmf7G+oTUbhFqiQyCBvHN3ZpLYS2Gg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.983247685,
+              57.481994947,
+              36.83
+            ],
+            [
+              9.983247963,
+              57.481980482,
+              37.15
+            ],
+            [
+              9.983135514,
+              57.481979202,
+              37.08
+            ],
+            [
+              9.983136028,
+              57.481998333,
+              36.83
+            ],
+            [
+              9.983227776,
+              57.481998875,
+              36.83
+            ],
+            [
+              9.983227834,
+              57.481994832,
+              36.83
+            ],
+            [
+              9.983247685,
+              57.481994947,
+              36.83
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1223147705",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Hjørring",
+        "registreringfra": "2022-12-05T11:04:04.732Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Hjørring",
+        "virkningfra": "2017-10-18T11:15:26.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "geokoderen.dk",
+        "kommentar": null,
+        "bbruuid": null,
+        "bygningstype": "Bygning",
+        "maalestedbygning": "Tag",
+        "metode3d": "Tag",
+        "underminimumbygning": false,
+        "bbraktion": null,
+        "synligbygning": true,
+        "overlapbygning": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "572385482",
+        "septima_hash86": "/apIynqOtebtpgwBU9co6HiHQcR1WXqY2EBOgcI5hE0u56tgFdoXexpRN8C6x1KHbfSweq/Kcviemy9IOxMafA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.983171358,
+              57.481885496,
+              37.15
+            ],
+            [
+              9.983104132,
+              57.481885122,
+              37.09
+            ],
+            [
+              9.98310245,
+              57.481959068,
+              37.09
+            ],
+            [
+              9.983053574,
+              57.48195882,
+              37.09
+            ],
+            [
+              9.983053122,
+              57.481979216,
+              37.09
+            ],
+            [
+              9.983096494,
+              57.481979506,
+              37.1
+            ],
+            [
+              9.983135514,
+              57.481979202,
+              37.08
+            ],
+            [
+              9.983247963,
+              57.481980482,
+              37.15
+            ],
+            [
+              9.983263309,
+              57.481980542,
+              37.15
+            ],
+            [
+              9.983264147,
+              57.481943434,
+              37.15
+            ],
+            [
+              9.983170062,
+              57.48194282,
+              37.15
+            ],
+            [
+              9.983171358,
+              57.481885496,
+              37.15
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1017582749",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "BLOMINFO A/S",
+        "registreringfra": "2022-12-05T11:04:04.732Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Hjørring",
+        "virkningfra": "2017-10-18T11:15:26.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "geokoderen.dk",
+        "kommentar": null,
+        "bbruuid": "e5cbd0e4-5886-4876-a337-dde5d64952a6",
+        "bygningstype": "Bygning",
+        "maalestedbygning": "Tag",
+        "metode3d": "Tag",
+        "underminimumbygning": false,
+        "bbraktion": null,
+        "synligbygning": true,
+        "overlapbygning": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "572385483",
+        "septima_hash86": "2yq4QDP1OLCGK3c3XuDvt+UD3HOGS5vEKjpq82sfX2m7/PCipej+xqkbjvbNkn0ffpmqOZy5jp87bYGeI+AKww"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.48336135,
+              55.608473851,
+              14.03
+            ],
+            [
+              8.483342507,
+              55.608494439,
+              14.03
+            ],
+            [
+              8.483272296,
+              55.608473925,
+              14.03
+            ],
+            [
+              8.483290981,
+              55.608453337,
+              14.03
+            ],
+            [
+              8.48336135,
+              55.608473851,
+              14.03
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1039438443",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2012-01-06T13:16:28.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2012-01-06T13:16:28.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "bbruuid": null,
+        "bygningstype": "Bygning",
+        "maalestedbygning": "Tag",
+        "metode3d": "Tag",
+        "underminimumbygning": false,
+        "bbraktion": "Mangler afklaring",
+        "synligbygning": true,
+        "overlapbygning": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "572385484",
+        "septima_hash86": "ol8E5h/BRqft72fNUfrQVdRv6FR2Hf59cxt6sLUmt3UHb5GS6RDV6TsAVMznCA6pvd0EMBt2lvZsoe5KXsRVXA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.471234894,
+              55.611089746,
+              10.05
+            ],
+            [
+              8.471291772,
+              55.611110029,
+              10.05
+            ],
+            [
+              8.471234084,
+              55.611161718,
+              10.03
+            ],
+            [
+              8.471177208,
+              55.611141345,
+              10.03
+            ],
+            [
+              8.471234894,
+              55.611089746,
+              10.05
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1039438516",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2012-01-06T13:16:28.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2012-01-06T13:16:28.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "bbruuid": null,
+        "bygningstype": "Bygning",
+        "maalestedbygning": "Tag",
+        "metode3d": "Tag",
+        "underminimumbygning": false,
+        "bbraktion": "Mangler afklaring",
+        "synligbygning": true,
+        "overlapbygning": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "572385485",
+        "septima_hash86": "N/9eZpktjk7Rp7HXQAf1atAr2URnuzWN4jadJ3WC9/o7uEPWVJ2gBNxcc0LMnZGhmvTLLnDHXdlGLu72rCKi+g"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.487315916,
+              55.613862603,
+              11.35
+            ],
+            [
+              8.487291072,
+              55.61389287,
+              11.2
+            ],
+            [
+              8.487197723,
+              55.613868309,
+              11.2
+            ],
+            [
+              8.487222567,
+              55.613838041,
+              11.35
+            ],
+            [
+              8.487315916,
+              55.613862603,
+              11.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1039439720",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2012-01-06T13:16:28.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2012-01-06T13:16:28.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "bbruuid": null,
+        "bygningstype": "Bygning",
+        "maalestedbygning": "Tag",
+        "metode3d": "Tag",
+        "underminimumbygning": false,
+        "bbraktion": "Mangler afklaring",
+        "synligbygning": true,
+        "overlapbygning": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "572385486",
+        "septima_hash86": "kFaREN6G0C/mTTAb2MpAkGJj76BSI8Hz8fxcnTTs4jTK8ZOgnEStN30fe50jLg8cnmhvzqzTRFH18EAiEcNMwg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.471180259,
+              55.608531564,
+              13.65
+            ],
+            [
+              8.471246216,
+              55.60854919,
+              13.65
+            ],
+            [
+              8.471153284,
+              55.608660481,
+              13.65
+            ],
+            [
+              8.471087326,
+              55.608642855,
+              13.65
+            ],
+            [
+              8.471180259,
+              55.608531564,
+              13.65
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1039438539",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2012-01-06T13:16:28.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2012-01-06T13:16:28.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "bbruuid": null,
+        "bygningstype": "Bygning",
+        "maalestedbygning": "Tag",
+        "metode3d": "Tag",
+        "underminimumbygning": false,
+        "bbraktion": "Mangler afklaring",
+        "synligbygning": true,
+        "overlapbygning": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "572385487",
+        "septima_hash86": "DjR3TcQxth4eFpoIDoDNENsNg0g15HuAUrL7/GAwfnwSH21pkMd6dzdJjyKGLGkHcJpM6GwaUve73k6sy3ltmw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.471216899,
+              55.608616277,
+              13.65
+            ],
+            [
+              8.471250898,
+              55.608625948,
+              13.85
+            ],
+            [
+              8.471210604,
+              55.608671242,
+              13.65
+            ],
+            [
+              8.471176604,
+              55.60866157,
+              13.65
+            ],
+            [
+              8.471216899,
+              55.608616277,
+              13.65
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1039438540",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2012-01-06T13:16:28.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2012-01-06T13:16:28.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "bbruuid": null,
+        "bygningstype": "Bygning",
+        "maalestedbygning": "Tag",
+        "metode3d": "Tag",
+        "underminimumbygning": false,
+        "bbraktion": "Mangler afklaring",
+        "synligbygning": true,
+        "overlapbygning": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "572385488",
+        "septima_hash86": "TrntqNoVYcthvVG8elpxzCeE9OZihrtm5unpaZT1aOeQeixAkJb8kDFWT4I+6ptLeeFl4dhGWh+y4vjMWV8vwQ"
+      }
+    }
+  ]
+}

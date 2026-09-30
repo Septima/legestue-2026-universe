@@ -1,0 +1,387 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.0758887,
+            55.640643
+          ],
+          [
+            12.0757074,
+            55.6406338
+          ],
+          [
+            12.0751012,
+            55.6406029
+          ],
+          [
+            12.0750233,
+            55.6405989
+          ],
+          [
+            12.0746151,
+            55.6405688
+          ]
+        ]
+      },
+      "properties": {
+        "id": "2124",
+        "septima_serial": "602756759",
+        "septima_hash86": "dvFCN/8oQA6IBrNEaFAk4Y0WSzJbYHAuzKxmJ7hgK3Vgjrwx4HffLAWn+IiP4+i+lNHlqTo3XYB9rcD/Y/7aVg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.0722133,
+            55.6399719
+          ],
+          [
+            12.0723758,
+            55.6398783
+          ],
+          [
+            12.0727427,
+            55.6396669
+          ]
+        ]
+      },
+      "properties": {
+        "id": "2161",
+        "septima_serial": "602756760",
+        "septima_hash86": "zpecfFgBJO/3YdH/ztwarcYyxE1bQ86bv0XE/K4h1zRA1vHP4gs6jiPh/EwL8MUyOwKOF76NED6fKNADVQsIKg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5487296,
+            55.7164119
+          ],
+          [
+            12.5487912,
+            55.7163754
+          ],
+          [
+            12.5490367,
+            55.716234
+          ],
+          [
+            12.5499445,
+            55.715686
+          ],
+          [
+            12.5505685,
+            55.7153141
+          ],
+          [
+            12.5506871,
+            55.7152415
+          ],
+          [
+            12.5507581,
+            55.7152008
+          ]
+        ]
+      },
+      "properties": {
+        "id": "2796",
+        "septima_serial": "602756761",
+        "septima_hash86": "HMS310aNBjsxIJk2AXgZU3JjgyTlvjQQt18FIMbdRQPWOjadpK/lfja8IwyNAidq1Ix3qmNbPd1Zhc2j+efkeA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.521708,
+            55.7060615
+          ],
+          [
+            12.521739,
+            55.7061697
+          ],
+          [
+            12.5218237,
+            55.7064013
+          ],
+          [
+            12.5219532,
+            55.706761
+          ],
+          [
+            12.5220506,
+            55.7069394
+          ],
+          [
+            12.5221333,
+            55.7070502
+          ],
+          [
+            12.522248,
+            55.7071599
+          ],
+          [
+            12.5224824,
+            55.7073182
+          ],
+          [
+            12.5230922,
+            55.7076165
+          ]
+        ]
+      },
+      "properties": {
+        "id": "2861",
+        "septima_serial": "602756762",
+        "septima_hash86": "cqWTaMkbUtgBIegE1ZmKkLkCzY93c4lFLIaG+jRW4RPp5w4lstbCBn8cEOMkXqJHV2a1IuMi7PqE6fYVISj0sA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5762806,
+            55.7267568
+          ],
+          [
+            12.5760897,
+            55.7267434
+          ]
+        ]
+      },
+      "properties": {
+        "id": "2862",
+        "septima_serial": "602756763",
+        "septima_hash86": "AqPCv9ZFp1PaxV0WN9ZdXGw7V4qssZhTrOIGJGRJrF2shIT6wjkcMgdSqx6HC7tOiJvF5zxLANJTRGRIuysDpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5543909,
+            55.6776634
+          ],
+          [
+            12.5550831,
+            55.6775787
+          ],
+          [
+            12.5552785,
+            55.6775558
+          ],
+          [
+            12.5557559,
+            55.6775049
+          ],
+          [
+            12.5560327,
+            55.6774719
+          ]
+        ]
+      },
+      "properties": {
+        "id": "3735",
+        "septima_serial": "602756764",
+        "septima_hash86": "RLhNozvw78sbuT7xRVTLrdlpglXbOKa4eGzLlCMUyY5nddDK/LfFTXCu+cX1i7cc4ZQ2iazQAXoA8/XEHaJ7BQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5778601,
+            55.7413321
+          ],
+          [
+            12.5780439,
+            55.7415612
+          ],
+          [
+            12.5782607,
+            55.7417632
+          ],
+          [
+            12.5791781,
+            55.742426
+          ],
+          [
+            12.5795402,
+            55.7427137
+          ],
+          [
+            12.5795804,
+            55.742797
+          ],
+          [
+            12.5795717,
+            55.7428499
+          ],
+          [
+            12.5795589,
+            55.7428888
+          ],
+          [
+            12.5794959,
+            55.7429703
+          ],
+          [
+            12.5792451,
+            55.7431507
+          ],
+          [
+            12.5790926,
+            55.7432109
+          ],
+          [
+            12.579048,
+            55.7432285
+          ],
+          [
+            12.5789058,
+            55.743267
+          ],
+          [
+            12.5787764,
+            55.743284
+          ],
+          [
+            12.578645,
+            55.7432855
+          ],
+          [
+            12.5785363,
+            55.7432693
+          ],
+          [
+            12.5784291,
+            55.7432417
+          ],
+          [
+            12.5781387,
+            55.7430496
+          ],
+          [
+            12.5766244,
+            55.7420339
+          ]
+        ]
+      },
+      "properties": {
+        "id": "21457",
+        "septima_serial": "602756765",
+        "septima_hash86": "4GQMV7rq/X5Q3b+IGjiPjDUIBIxi6K6BTjnBzjD43uFZnuHAUzpCkYfAqalynPb10/chakwlb4jkJlOHVzifhQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5473002,
+            55.6784862
+          ],
+          [
+            12.5470785,
+            55.6785081
+          ]
+        ]
+      },
+      "properties": {
+        "id": "22070",
+        "septima_serial": "602756767",
+        "septima_hash86": "Qy1KAgL2Al+r1NXYgUSvfIbmCVQobaqN0RQKbmVTRlSSKYh6hmohxWAYQV4h7dA6m73B4z4/9jboIr9gMC7f6Q"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.546621,
+            55.6775006
+          ],
+          [
+            12.5452953,
+            55.6777964
+          ],
+          [
+            12.5450221,
+            55.6778539
+          ],
+          [
+            12.5439781,
+            55.6780989
+          ],
+          [
+            12.5434512,
+            55.6782127
+          ],
+          [
+            12.5423832,
+            55.6784538
+          ]
+        ]
+      },
+      "properties": {
+        "id": "24024",
+        "septima_serial": "602756768",
+        "septima_hash86": "BHEMAAlpYep5HdEUSCDxpY3S+A5koZ229OOjmy/giJT1uRwFT5jQaIc0agVe/LOixa8O5hJFs5Mf++NaGOCwsg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5441578,
+            55.6735598
+          ],
+          [
+            12.544015,
+            55.6736471
+          ],
+          [
+            12.5439921,
+            55.6736675
+          ],
+          [
+            12.5439801,
+            55.6736906
+          ],
+          [
+            12.5439788,
+            55.6737137
+          ]
+        ]
+      },
+      "properties": {
+        "id": "24029",
+        "septima_serial": "602756771",
+        "septima_hash86": "kc0ADmhgu9aTE1NO48cARegB6sOPWbTfH6UjHlIMLc5opUdiIaM8Yqzv7uenHij4e52K3L9P0g/PRgcnqzkvag"
+      }
+    }
+  ]
+}

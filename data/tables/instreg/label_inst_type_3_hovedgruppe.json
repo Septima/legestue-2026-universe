@@ -1,0 +1,65 @@
+[
+  {
+    "inst_type_3_hovedgruppe": "101",
+    "inst_type_3_hovedgruppe_tekst": "Grundskoler mv.",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "/d4PSyVNqSWqzJkaPxNGhDMmLorL+uG0hvToRcTxrUDIbOEG2T2bQHEgDKJXjU9WMvg7tKbCZyHsrFO0Zy2AfA",
+    "septima_serial": "2"
+  },
+  {
+    "inst_type_3_hovedgruppe": "102",
+    "inst_type_3_hovedgruppe_tekst": "Øvrige institutioner primært ikke kompetencegivende uddannelser",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "1ILEfVml88a0Ct4HdIOjbp714Iw5tBCzlNyFYlPY0dtX9N0J6ngn+XhyxakA/OFwp824RaExZ6kBa13Zu92Hdg",
+    "septima_serial": "3"
+  },
+  {
+    "inst_type_3_hovedgruppe": "105",
+    "inst_type_3_hovedgruppe_tekst": "Voksenuddannelsesinstitutionerne",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "SyyDM+VlT8HjE5e+0ODV6yM5jMk2cWerK4RtGKxLCCnuYLINSFphtomQ0x/IfBNY8B+iBErCGBajPicBlZQMTw",
+    "septima_serial": "4"
+  },
+  {
+    "inst_type_3_hovedgruppe": "106",
+    "inst_type_3_hovedgruppe_tekst": "Institutioner med almengymnasiale uddannelser",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "ZogvIPVWsPihGSucI69TpV0U6WRfxStLSLEdSyGHnjtgCCbnUKSal+bpDSMEJaMyWCndIiLYYH+3giDB5Ax1MQ",
+    "septima_serial": "5"
+  },
+  {
+    "inst_type_3_hovedgruppe": "107",
+    "inst_type_3_hovedgruppe_tekst": "Institutioner med erhvervsrettede uddannelser",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "7MAS4MbC3dp75HmVLgFJ4njePkNmLsApm9Iswkm7Cbwy2G3vSWWBNmBNP6ABuWcaE3XPVJsZuUUn/ryfUYK+uQ",
+    "septima_serial": "6"
+  },
+  {
+    "inst_type_3_hovedgruppe": "108",
+    "inst_type_3_hovedgruppe_tekst": "Institutioner med videregående uddannelser",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "0cuKf+07oklEePN4e98lsM8qYjTj4Q2wH6+RF+pRGCS2q80uhM0+mZnAeT4ovvgsJJQxNkkllA5ESGy4ZMLG/w",
+    "septima_serial": "7"
+  },
+  {
+    "inst_type_3_hovedgruppe": "201",
+    "inst_type_3_hovedgruppe_tekst": "Regioner og kommuner",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "BcKmxiQOV4j/S5V8o5oiAnTgV+xt37SbT+4FQWbBQs/PZs+yrkF2AJk7bwWPkLfg3UPj/I1nRJWgOIlEQPsTSQ",
+    "septima_serial": "8"
+  },
+  {
+    "inst_type_3_hovedgruppe": "202",
+    "inst_type_3_hovedgruppe_tekst": "Centre for rådgivning og vejledning",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "iGFmJBD6mZh5VRoXJxpQiN9Z1HqfLRIgJlzjAT7dNnLr3fPju5gz8LpxCzkeGG1gjyW4308vsjmCiTktfmVClA",
+    "septima_serial": "9"
+  },
+  {
+    "inst_type_3_hovedgruppe": "999",
+    "inst_type_3_hovedgruppe_tekst": "Uoplyst",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "37Xk3ufl4gcIAy3D8RWFCUSHNBwqmo1Rg5LFddCptU1MMoRJ+wCyyWdvTIQJvLYC29orEbtSen6oBamT+CWe9g",
+    "septima_serial": "10"
+  }
+]

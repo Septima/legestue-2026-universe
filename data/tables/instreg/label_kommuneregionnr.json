@@ -1,0 +1,72 @@
+[
+  {
+    "kommuneregionnr": "0",
+    "kommuneregionnr_tekst": "N/A (0)",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "rWODCR0z4ysewFUYI3w4HSSOy4ww2e49nAcLH3LzO5rtdUPDbdhLuDeTZtwd8hqBoYUVVeP61olJ/yjxxBw5wQ",
+    "septima_serial": "2"
+  },
+  {
+    "kommuneregionnr": "101",
+    "kommuneregionnr_tekst": "Københavns Kommune",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "7YiJ9L5B83d3zm2XaiQJBRBh8lgdgb0TLg7uUs8WPkuHk2TapwGScrM0P3jpPkseOvPoqh4SZnNPoIChA8xr6g",
+    "septima_serial": "3"
+  },
+  {
+    "kommuneregionnr": "147",
+    "kommuneregionnr_tekst": "Frederiksberg Kommune",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "QLJ8+62AEqJYJJkda60DXxNA0CmxWEWv8zCvIu5uC4CbBxnz1WdefOoJczE09KABuix0+YKrvtL94JJBXaSdsA",
+    "septima_serial": "4"
+  },
+  {
+    "kommuneregionnr": "150",
+    "kommuneregionnr_tekst": "N/A (150)",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "SvIYRoUxmJp4yMmyj4A7zVLS9QpA2RcuL384iQir8vyyqkkwVu4eWrYO4Vei9JqEkFMXMALFZ2M0Tk68rhHDWQ",
+    "septima_serial": "5"
+  },
+  {
+    "kommuneregionnr": "151",
+    "kommuneregionnr_tekst": "Ballerup Kommune",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "uptA20mSRSEI8A/h9x7r23UND17S9Ky2TAReQJpYio3j94Y/laaFjH8DTn8E4yy6vvtzY7vXIX4fVs8MMJc/PQ",
+    "septima_serial": "6"
+  },
+  {
+    "kommuneregionnr": "153",
+    "kommuneregionnr_tekst": "Brøndby Kommune",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "1aciR/P+knXLIJoA3MVo2Ru2mzdj3VFWy+bMuMa5gz7KkJkb5Up0wRCOFgN+Z9mEDMCshouUIEkeNKxABjJdyA",
+    "septima_serial": "7"
+  },
+  {
+    "kommuneregionnr": "155",
+    "kommuneregionnr_tekst": "Dragør Kommune",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "JOcshlwyhYFwZ5P59O/Wmznad+XwKsN4rpdypSRvMlxmQlDkMhOdkKhYV8C5i+Gg27e3ctJ0hVWu1k9WkIUBEg",
+    "septima_serial": "8"
+  },
+  {
+    "kommuneregionnr": "157",
+    "kommuneregionnr_tekst": "Gentofte Kommune",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "jppbI/jtY89O/uypIadYQlamgOA0RFNq80qG7Za2lKgIi/F+yEFP+CFmh540KZ7lMbFaB/l++e+H0FJKCb++UA",
+    "septima_serial": "9"
+  },
+  {
+    "kommuneregionnr": "159",
+    "kommuneregionnr_tekst": "Gladsaxe Kommune",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "y7/ypgQEJ5DDQOySLzdDnY0GNkdIaULHFo/sEVlcI+zOrFp478Px3NwAbNe2sptO+pU//6cW8eknQifAQMQhqw",
+    "septima_serial": "10"
+  },
+  {
+    "kommuneregionnr": "161",
+    "kommuneregionnr_tekst": "Glostrup Kommune",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "iBgOYJB+/1JeOH2Pw69VJKpbD8JRNkcUQSU5HLIFsb7C4vp2XTyIO0gdEWiZJYrDdDzp2lX+HMqbra4zecgN1Q",
+    "septima_serial": "11"
+  }
+]

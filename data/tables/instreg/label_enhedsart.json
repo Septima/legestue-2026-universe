@@ -1,0 +1,23 @@
+[
+  {
+    "enhedsart": "0",
+    "enhedsart_tekst": "Institution uden enheder",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "e4UHIy4lYZlMD5DLc1L6N54rZcP7+Vtuhg2HmIa7O6NPYYzgLakYyDeIk0MzKyqnxLNHIgHm+FNMVIBveQy5rw",
+    "septima_serial": "2"
+  },
+  {
+    "enhedsart": "1",
+    "enhedsart_tekst": "Hovedskole (institution med enheder)",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "P6605sWaTqGZYEaVBTBwtG3s0lnigpJy0hEYTN4XZyitAVhOA4Is9MjFM8QznP2ZY+siUfE3XryJ58RxfqWjVw",
+    "septima_serial": "3"
+  },
+  {
+    "enhedsart": "2",
+    "enhedsart_tekst": "Afdeling (underordnet enhed)",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "+IHio5qkViBflgf0UEdoraX5Ls3wpsYy5tNg7rXVY1tNUnM8tiHdyZAje4+jfNo9GmD/AxFQC2uQTPlguLixow",
+    "septima_serial": "4"
+  }
+]

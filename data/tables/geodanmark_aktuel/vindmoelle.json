@@ -1,0 +1,395 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.328553946,
+          54.729047228,
+          37.42
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1021462852",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Fotogrammetrisk ajourføring",
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2022-09-26T15:31:52.470Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Leica Geosystems Technology A/S",
+        "virkningfra": "2022-03-13T09:56:54.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "FME(R) 2019.2.3.2 (20200320 - Build 19825 - WIN64)",
+        "kommentar": "Totalajourføring 2022",
+        "bbruuid": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "698271",
+        "septima_hash86": "nm4A7kxewR4wOdkuz8TBm787mHAP81WaMA0DGRBSIqVdzjbhWb8WLUs3tkwO9tK+hMUa9GpgFMXV3DJ6rsfHmg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.285686174,
+          54.723686791,
+          91.85
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1103672132",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Fotogrammetrisk ajourføring",
+        "registreringsaktoer": "COWI",
+        "registreringfra": "2022-09-26T15:31:52.470Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Leica Geosystems Technology A/S",
+        "virkningfra": "2022-03-13T09:56:54.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "FME(R) 2019.2.3.2 (20200320 - Build 19825 - WIN64)",
+        "kommentar": "Totalajourføring 2022",
+        "bbruuid": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "698273",
+        "septima_hash86": "x0MTUgV0rrzSJxcMeEimBRP/YxyjQbKMUKaGUNwMQXGWLs19iTpPtF92B6rKaFd1kAXqJe9uiXaMy421m8CJdw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.104809964,
+          55.02643878,
+          104
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1222008289",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Maskinel fejlrettelse",
+        "registreringsaktoer": "SDFI",
+        "registreringfra": "2022-09-29T12:09:57.428Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFI",
+        "virkningfra": "2022-09-29T10:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Uspecificeret",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Uspecificeret",
+        "applikation": "FME2021.1",
+        "kommentar": "Ajourført fra ENS stamdataregister",
+        "bbruuid": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "698274",
+        "septima_hash86": "Yxp1k44hyKafHO32JZ0/sd9cL09CuUxVSIjVPROGxZq735zLpQwVStSSXbAXUTZCwHXW3xo3miXHxUjZR1L+3Q"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.737731744,
+          56.743704205,
+          80.74
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1012918515",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2021-07-01T12:41:00.406Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SKAT",
+        "virkningfra": "2010-08-09T13:23:42.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.20",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.30",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "geokoderen.dk",
+        "kommentar": null,
+        "bbruuid": "602b7a4a-f84d-4335-9da7-9afd0dc03bb1",
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "698275",
+        "septima_hash86": "x2JvsHo+M6fanzfdK1s+o4jSippk7hV9agszsi8Aqkn423aADsVpUeRJ+qexv1fMRqX8Se+7BkMEDjnDKw8spw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.019109561,
+          57.092367345,
+          48.34
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1016376371",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "BLOMINFO A/S",
+        "registreringfra": "2020-08-26T12:09:39.819Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Aalborg",
+        "virkningfra": "2010-09-06T13:08:08.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.75",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.75",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "geokoderen.dk",
+        "kommentar": null,
+        "bbruuid": "dd72cfc0-246e-4b4a-a7c3-2d87d07bcbf7",
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "698276",
+        "septima_hash86": "/1pdDJZkwrxX2S8NdTVjzZaQZVmZuvKLJROMpVVDRJ83rUO/jHGfpMmHu2TOjMVEfAbTNkaElt/sUKK6VsdIjA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.670060233,
+          56.995935931,
+          64.24
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1015379645",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Fotogrammetrisk ajourføring",
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2021-12-21T16:29:55.171Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Leica Geosystems Technology A/S",
+        "virkningfra": "2021-04-01T13:32:41.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "FME(R) 2018.1.2.0 (20190225 - Build 18590 - WIN64)",
+        "kommentar": "Totalajourføring 2021",
+        "bbruuid": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "698277",
+        "septima_hash86": "RPmujZ/LU2uF7E8gm7eTPZ3iN1bwsbHUc3I89h3nI4p53Z4/XY5GutxgkzeCA739Fh6mULmA6mnfNRQuE3xh9Q"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.357079796,
+          55.756225738,
+          130.06
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1056923643",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2012-12-19T12:32:40.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2012-12-19T12:32:40.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.20",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.30",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "bbruuid": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "698278",
+        "septima_hash86": "ImjK+Y9rPW9p5+DgkwWYND+49BM/lJtFxyEIjA9bOXtqTK2An8F4aVd25elzmeyZwRz+oophGUdWBnlsDIlklQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.357348501,
+          55.757696221,
+          130.99
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1056923644",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2012-12-19T12:32:40.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2012-12-19T12:32:40.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.20",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.30",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "bbruuid": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "698279",
+        "septima_hash86": "pe7m372HvCQ3m+xIegKbHAeqA+at3jQPUTiBxxWCJUh27aKNWxDsWiN3QH3lC/OsQYJMIlCFJGjPzNPPpIcHnQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.35313214,
+          55.756327357,
+          130.94
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1056923645",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2012-12-19T12:32:40.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2012-12-19T12:32:40.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.20",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.30",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "bbruuid": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "698280",
+        "septima_hash86": "vPvLWoWtuHKpBEBWN4K385iEc6cCA8KdIFlbj4+DHtqqx4MRef0u+W+wZFVmxMNQFXmnmBa9XK2nvgFNyv+mow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.353395594,
+          55.757797324,
+          131.91
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1056923646",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2012-12-19T12:32:40.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2012-12-19T12:32:40.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.20",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.30",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "bbruuid": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "698281",
+        "septima_hash86": "USGbDhFrvU4Metv/3XHiEowtwns/cQXvo1JmZky+QWt15itjAfydOHfg6QVrMP3o3ReUGgua00P5663zs3kycQ"
+      }
+    }
+  ]
+}

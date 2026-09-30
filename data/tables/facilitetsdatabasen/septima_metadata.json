@@ -1,0 +1,122 @@
+[
+  {
+    "tabelnavn": "commune",
+    "beskrivelse": "Idrættens Analyseinstitut og Lokale og Anlægsfonden samarbejder om databasen med Idrættens Analyseinstitut som daglig ansvarlig for indsamling af data, drift og vedligeholdelse. Facilitetsdatabasen er landsdækkende og omfatter pt. cirka 11.000 private, offentligt ejede og selvejende faciliteter inden for 19 facilitetstyper. Hertil kommer en registrering af en række underkategorier samt baner, bassiner, golfhuller, m.v.",
+    "kilde": "Hentes fra facilitetsdatabasen.dk",
+    "rettigheder": "1. Databasen er beskyttet i medfør af lov om ophavsret. Databasen er udviklet af Idrættens Analyseinstitut i samarbejde med Lokale og Anlægsfonden. \n    2. Alle må downloade, bearbejde og formidle data hentet gennem Excel-ark, herunder data på enkeltfaciliteter, på betingelse af, at disse vilkår bliver respekteret.\n    3. Facilitetsdatabasen.dk skal nævnes som direkte eller indirekte kilde ved anvendelse af data. Kildehenvisningen skal stå i direkte tilknytning til visningen af de pågældende data.\n    4. Det skal fremgå, hvornår data er hentet i databasen (dato og årstal).\n    5. Hvis data fra databasen viderebearbejdes, skal det fremgå, hvem der er ansvarlig for denne bearbejdning. Det kan fx ske gennem en formulering om, at viderebearbejdelsen bygger på data fra Facilitetsdatabasen, eller at der indgår data fra Facilitetsdatabasen.\n    6. Idrættens Analyseinstitut fralægger sig ethvert ansvar i forbindelse med brug af databasen og uddrag heraf. Brugeren kan derfor ikke gøre Idrættens Analyseinstitut ansvarlig for eventuelle fejl, mangler, forsinkede opdateringer m.v.\n    7. Ved systematisk spejling af data i eksterne sammenhænge (fx i andre kortvisninger), hvori der indgår data på enkeltfaciliteter, skal der på forhånd indgås en aftale med Idrættens Analyseinstitut. En sådan brug uden aftale er forbudt.",
+    "rettigheder_url": "https://facilitetsdatabasen.dk/kategorier/baggrund/brugervilkaar/",
+    "attributtering": "Facilitetsdatabasen",
+    "attributtering_url": "https://facilitetsdatabasen.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "coursesdata",
+    "beskrivelse": "Idrættens Analyseinstitut og Lokale og Anlægsfonden samarbejder om databasen med Idrættens Analyseinstitut som daglig ansvarlig for indsamling af data, drift og vedligeholdelse. Facilitetsdatabasen er landsdækkende og omfatter pt. cirka 11.000 private, offentligt ejede og selvejende faciliteter inden for 19 facilitetstyper. Hertil kommer en registrering af en række underkategorier samt baner, bassiner, golfhuller, m.v.",
+    "kilde": "Hentes fra facilitetsdatabasen.dk",
+    "rettigheder": "1. Databasen er beskyttet i medfør af lov om ophavsret. Databasen er udviklet af Idrættens Analyseinstitut i samarbejde med Lokale og Anlægsfonden. \n    2. Alle må downloade, bearbejde og formidle data hentet gennem Excel-ark, herunder data på enkeltfaciliteter, på betingelse af, at disse vilkår bliver respekteret.\n    3. Facilitetsdatabasen.dk skal nævnes som direkte eller indirekte kilde ved anvendelse af data. Kildehenvisningen skal stå i direkte tilknytning til visningen af de pågældende data.\n    4. Det skal fremgå, hvornår data er hentet i databasen (dato og årstal).\n    5. Hvis data fra databasen viderebearbejdes, skal det fremgå, hvem der er ansvarlig for denne bearbejdning. Det kan fx ske gennem en formulering om, at viderebearbejdelsen bygger på data fra Facilitetsdatabasen, eller at der indgår data fra Facilitetsdatabasen.\n    6. Idrættens Analyseinstitut fralægger sig ethvert ansvar i forbindelse med brug af databasen og uddrag heraf. Brugeren kan derfor ikke gøre Idrættens Analyseinstitut ansvarlig for eventuelle fejl, mangler, forsinkede opdateringer m.v.\n    7. Ved systematisk spejling af data i eksterne sammenhænge (fx i andre kortvisninger), hvori der indgår data på enkeltfaciliteter, skal der på forhånd indgås en aftale med Idrættens Analyseinstitut. En sådan brug uden aftale er forbudt.",
+    "rettigheder_url": "https://facilitetsdatabasen.dk/kategorier/baggrund/brugervilkaar/",
+    "attributtering": "Facilitetsdatabasen",
+    "attributtering_url": "https://facilitetsdatabasen.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "facility",
+    "beskrivelse": "Idrættens Analyseinstitut og Lokale og Anlægsfonden samarbejder om databasen med Idrættens Analyseinstitut som daglig ansvarlig for indsamling af data, drift og vedligeholdelse. Facilitetsdatabasen er landsdækkende og omfatter pt. cirka 11.000 private, offentligt ejede og selvejende faciliteter inden for 19 facilitetstyper. Hertil kommer en registrering af en række underkategorier samt baner, bassiner, golfhuller, m.v.",
+    "kilde": "Hentes fra facilitetsdatabasen.dk",
+    "rettigheder": "1. Databasen er beskyttet i medfør af lov om ophavsret. Databasen er udviklet af Idrættens Analyseinstitut i samarbejde med Lokale og Anlægsfonden. \n    2. Alle må downloade, bearbejde og formidle data hentet gennem Excel-ark, herunder data på enkeltfaciliteter, på betingelse af, at disse vilkår bliver respekteret.\n    3. Facilitetsdatabasen.dk skal nævnes som direkte eller indirekte kilde ved anvendelse af data. Kildehenvisningen skal stå i direkte tilknytning til visningen af de pågældende data.\n    4. Det skal fremgå, hvornår data er hentet i databasen (dato og årstal).\n    5. Hvis data fra databasen viderebearbejdes, skal det fremgå, hvem der er ansvarlig for denne bearbejdning. Det kan fx ske gennem en formulering om, at viderebearbejdelsen bygger på data fra Facilitetsdatabasen, eller at der indgår data fra Facilitetsdatabasen.\n    6. Idrættens Analyseinstitut fralægger sig ethvert ansvar i forbindelse med brug af databasen og uddrag heraf. Brugeren kan derfor ikke gøre Idrættens Analyseinstitut ansvarlig for eventuelle fejl, mangler, forsinkede opdateringer m.v.\n    7. Ved systematisk spejling af data i eksterne sammenhænge (fx i andre kortvisninger), hvori der indgår data på enkeltfaciliteter, skal der på forhånd indgås en aftale med Idrættens Analyseinstitut. En sådan brug uden aftale er forbudt.",
+    "rettigheder_url": "https://facilitetsdatabasen.dk/kategorier/baggrund/brugervilkaar/",
+    "attributtering": "Facilitetsdatabasen",
+    "attributtering_url": "https://facilitetsdatabasen.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "facilitytype",
+    "beskrivelse": "Idrættens Analyseinstitut og Lokale og Anlægsfonden samarbejder om databasen med Idrættens Analyseinstitut som daglig ansvarlig for indsamling af data, drift og vedligeholdelse. Facilitetsdatabasen er landsdækkende og omfatter pt. cirka 11.000 private, offentligt ejede og selvejende faciliteter inden for 19 facilitetstyper. Hertil kommer en registrering af en række underkategorier samt baner, bassiner, golfhuller, m.v.",
+    "kilde": "Hentes fra facilitetsdatabasen.dk",
+    "rettigheder": "1. Databasen er beskyttet i medfør af lov om ophavsret. Databasen er udviklet af Idrættens Analyseinstitut i samarbejde med Lokale og Anlægsfonden. \n    2. Alle må downloade, bearbejde og formidle data hentet gennem Excel-ark, herunder data på enkeltfaciliteter, på betingelse af, at disse vilkår bliver respekteret.\n    3. Facilitetsdatabasen.dk skal nævnes som direkte eller indirekte kilde ved anvendelse af data. Kildehenvisningen skal stå i direkte tilknytning til visningen af de pågældende data.\n    4. Det skal fremgå, hvornår data er hentet i databasen (dato og årstal).\n    5. Hvis data fra databasen viderebearbejdes, skal det fremgå, hvem der er ansvarlig for denne bearbejdning. Det kan fx ske gennem en formulering om, at viderebearbejdelsen bygger på data fra Facilitetsdatabasen, eller at der indgår data fra Facilitetsdatabasen.\n    6. Idrættens Analyseinstitut fralægger sig ethvert ansvar i forbindelse med brug af databasen og uddrag heraf. Brugeren kan derfor ikke gøre Idrættens Analyseinstitut ansvarlig for eventuelle fejl, mangler, forsinkede opdateringer m.v.\n    7. Ved systematisk spejling af data i eksterne sammenhænge (fx i andre kortvisninger), hvori der indgår data på enkeltfaciliteter, skal der på forhånd indgås en aftale med Idrættens Analyseinstitut. En sådan brug uden aftale er forbudt.",
+    "rettigheder_url": "https://facilitetsdatabasen.dk/kategorier/baggrund/brugervilkaar/",
+    "attributtering": "Facilitetsdatabasen",
+    "attributtering_url": "https://facilitetsdatabasen.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "gislocationdata",
+    "beskrivelse": "Idrættens Analyseinstitut og Lokale og Anlægsfonden samarbejder om databasen med Idrættens Analyseinstitut som daglig ansvarlig for indsamling af data, drift og vedligeholdelse. Facilitetsdatabasen er landsdækkende og omfatter pt. cirka 11.000 private, offentligt ejede og selvejende faciliteter inden for 19 facilitetstyper. Hertil kommer en registrering af en række underkategorier samt baner, bassiner, golfhuller, m.v.",
+    "kilde": "Hentes fra facilitetsdatabasen.dk",
+    "rettigheder": "1. Databasen er beskyttet i medfør af lov om ophavsret. Databasen er udviklet af Idrættens Analyseinstitut i samarbejde med Lokale og Anlægsfonden. \n    2. Alle må downloade, bearbejde og formidle data hentet gennem Excel-ark, herunder data på enkeltfaciliteter, på betingelse af, at disse vilkår bliver respekteret.\n    3. Facilitetsdatabasen.dk skal nævnes som direkte eller indirekte kilde ved anvendelse af data. Kildehenvisningen skal stå i direkte tilknytning til visningen af de pågældende data.\n    4. Det skal fremgå, hvornår data er hentet i databasen (dato og årstal).\n    5. Hvis data fra databasen viderebearbejdes, skal det fremgå, hvem der er ansvarlig for denne bearbejdning. Det kan fx ske gennem en formulering om, at viderebearbejdelsen bygger på data fra Facilitetsdatabasen, eller at der indgår data fra Facilitetsdatabasen.\n    6. Idrættens Analyseinstitut fralægger sig ethvert ansvar i forbindelse med brug af databasen og uddrag heraf. Brugeren kan derfor ikke gøre Idrættens Analyseinstitut ansvarlig for eventuelle fejl, mangler, forsinkede opdateringer m.v.\n    7. Ved systematisk spejling af data i eksterne sammenhænge (fx i andre kortvisninger), hvori der indgår data på enkeltfaciliteter, skal der på forhånd indgås en aftale med Idrættens Analyseinstitut. En sådan brug uden aftale er forbudt.",
+    "rettigheder_url": "https://facilitetsdatabasen.dk/kategorier/baggrund/brugervilkaar/",
+    "attributtering": "Facilitetsdatabasen",
+    "attributtering_url": "https://facilitetsdatabasen.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "operation",
+    "beskrivelse": "Idrættens Analyseinstitut og Lokale og Anlægsfonden samarbejder om databasen med Idrættens Analyseinstitut som daglig ansvarlig for indsamling af data, drift og vedligeholdelse. Facilitetsdatabasen er landsdækkende og omfatter pt. cirka 11.000 private, offentligt ejede og selvejende faciliteter inden for 19 facilitetstyper. Hertil kommer en registrering af en række underkategorier samt baner, bassiner, golfhuller, m.v.",
+    "kilde": "Hentes fra facilitetsdatabasen.dk",
+    "rettigheder": "1. Databasen er beskyttet i medfør af lov om ophavsret. Databasen er udviklet af Idrættens Analyseinstitut i samarbejde med Lokale og Anlægsfonden. \n    2. Alle må downloade, bearbejde og formidle data hentet gennem Excel-ark, herunder data på enkeltfaciliteter, på betingelse af, at disse vilkår bliver respekteret.\n    3. Facilitetsdatabasen.dk skal nævnes som direkte eller indirekte kilde ved anvendelse af data. Kildehenvisningen skal stå i direkte tilknytning til visningen af de pågældende data.\n    4. Det skal fremgå, hvornår data er hentet i databasen (dato og årstal).\n    5. Hvis data fra databasen viderebearbejdes, skal det fremgå, hvem der er ansvarlig for denne bearbejdning. Det kan fx ske gennem en formulering om, at viderebearbejdelsen bygger på data fra Facilitetsdatabasen, eller at der indgår data fra Facilitetsdatabasen.\n    6. Idrættens Analyseinstitut fralægger sig ethvert ansvar i forbindelse med brug af databasen og uddrag heraf. Brugeren kan derfor ikke gøre Idrættens Analyseinstitut ansvarlig for eventuelle fejl, mangler, forsinkede opdateringer m.v.\n    7. Ved systematisk spejling af data i eksterne sammenhænge (fx i andre kortvisninger), hvori der indgår data på enkeltfaciliteter, skal der på forhånd indgås en aftale med Idrættens Analyseinstitut. En sådan brug uden aftale er forbudt.",
+    "rettigheder_url": "https://facilitetsdatabasen.dk/kategorier/baggrund/brugervilkaar/",
+    "attributtering": "Facilitetsdatabasen",
+    "attributtering_url": "https://facilitetsdatabasen.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "ownership",
+    "beskrivelse": "Idrættens Analyseinstitut og Lokale og Anlægsfonden samarbejder om databasen med Idrættens Analyseinstitut som daglig ansvarlig for indsamling af data, drift og vedligeholdelse. Facilitetsdatabasen er landsdækkende og omfatter pt. cirka 11.000 private, offentligt ejede og selvejende faciliteter inden for 19 facilitetstyper. Hertil kommer en registrering af en række underkategorier samt baner, bassiner, golfhuller, m.v.",
+    "kilde": "Hentes fra facilitetsdatabasen.dk",
+    "rettigheder": "1. Databasen er beskyttet i medfør af lov om ophavsret. Databasen er udviklet af Idrættens Analyseinstitut i samarbejde med Lokale og Anlægsfonden. \n    2. Alle må downloade, bearbejde og formidle data hentet gennem Excel-ark, herunder data på enkeltfaciliteter, på betingelse af, at disse vilkår bliver respekteret.\n    3. Facilitetsdatabasen.dk skal nævnes som direkte eller indirekte kilde ved anvendelse af data. Kildehenvisningen skal stå i direkte tilknytning til visningen af de pågældende data.\n    4. Det skal fremgå, hvornår data er hentet i databasen (dato og årstal).\n    5. Hvis data fra databasen viderebearbejdes, skal det fremgå, hvem der er ansvarlig for denne bearbejdning. Det kan fx ske gennem en formulering om, at viderebearbejdelsen bygger på data fra Facilitetsdatabasen, eller at der indgår data fra Facilitetsdatabasen.\n    6. Idrættens Analyseinstitut fralægger sig ethvert ansvar i forbindelse med brug af databasen og uddrag heraf. Brugeren kan derfor ikke gøre Idrættens Analyseinstitut ansvarlig for eventuelle fejl, mangler, forsinkede opdateringer m.v.\n    7. Ved systematisk spejling af data i eksterne sammenhænge (fx i andre kortvisninger), hvori der indgår data på enkeltfaciliteter, skal der på forhånd indgås en aftale med Idrættens Analyseinstitut. En sådan brug uden aftale er forbudt.",
+    "rettigheder_url": "https://facilitetsdatabasen.dk/kategorier/baggrund/brugervilkaar/",
+    "attributtering": "Facilitetsdatabasen",
+    "attributtering_url": "https://facilitetsdatabasen.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "region",
+    "beskrivelse": "Idrættens Analyseinstitut og Lokale og Anlægsfonden samarbejder om databasen med Idrættens Analyseinstitut som daglig ansvarlig for indsamling af data, drift og vedligeholdelse. Facilitetsdatabasen er landsdækkende og omfatter pt. cirka 11.000 private, offentligt ejede og selvejende faciliteter inden for 19 facilitetstyper. Hertil kommer en registrering af en række underkategorier samt baner, bassiner, golfhuller, m.v.",
+    "kilde": "Hentes fra facilitetsdatabasen.dk",
+    "rettigheder": "1. Databasen er beskyttet i medfør af lov om ophavsret. Databasen er udviklet af Idrættens Analyseinstitut i samarbejde med Lokale og Anlægsfonden. \n    2. Alle må downloade, bearbejde og formidle data hentet gennem Excel-ark, herunder data på enkeltfaciliteter, på betingelse af, at disse vilkår bliver respekteret.\n    3. Facilitetsdatabasen.dk skal nævnes som direkte eller indirekte kilde ved anvendelse af data. Kildehenvisningen skal stå i direkte tilknytning til visningen af de pågældende data.\n    4. Det skal fremgå, hvornår data er hentet i databasen (dato og årstal).\n    5. Hvis data fra databasen viderebearbejdes, skal det fremgå, hvem der er ansvarlig for denne bearbejdning. Det kan fx ske gennem en formulering om, at viderebearbejdelsen bygger på data fra Facilitetsdatabasen, eller at der indgår data fra Facilitetsdatabasen.\n    6. Idrættens Analyseinstitut fralægger sig ethvert ansvar i forbindelse med brug af databasen og uddrag heraf. Brugeren kan derfor ikke gøre Idrættens Analyseinstitut ansvarlig for eventuelle fejl, mangler, forsinkede opdateringer m.v.\n    7. Ved systematisk spejling af data i eksterne sammenhænge (fx i andre kortvisninger), hvori der indgår data på enkeltfaciliteter, skal der på forhånd indgås en aftale med Idrættens Analyseinstitut. En sådan brug uden aftale er forbudt.",
+    "rettigheder_url": "https://facilitetsdatabasen.dk/kategorier/baggrund/brugervilkaar/",
+    "attributtering": "Facilitetsdatabasen",
+    "attributtering_url": "https://facilitetsdatabasen.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  }
+]

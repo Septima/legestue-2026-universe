@@ -1,0 +1,140 @@
+[
+  {
+    "id": 21945,
+    "name": "Dagsbillet",
+    "free": false,
+    "pricefrom": "50",
+    "periodids": null,
+    "priceto": null,
+    "pricelevel": null,
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392789",
+    "septima_serial": "4307786"
+  },
+  {
+    "id": 22811,
+    "name": "Pr. person",
+    "free": false,
+    "pricefrom": "445",
+    "periodids": [
+      "229282"
+    ],
+    "priceto": null,
+    "pricelevel": null,
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392922",
+    "septima_serial": "4307787"
+  },
+  {
+    "id": 23033,
+    "name": "0-17 årige",
+    "free": true,
+    "pricefrom": null,
+    "periodids": [
+      "231290",
+      "231291",
+      "231292"
+    ],
+    "priceto": null,
+    "pricelevel": null,
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47393085",
+    "septima_serial": "4307788"
+  },
+  {
+    "id": 23034,
+    "name": "Voksne",
+    "free": false,
+    "pricefrom": "110",
+    "periodids": [
+      "231290",
+      "231291",
+      "231292"
+    ],
+    "priceto": null,
+    "pricelevel": null,
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47393085",
+    "septima_serial": "4307789"
+  },
+  {
+    "id": 23035,
+    "name": "Pensionister",
+    "free": false,
+    "pricefrom": "90",
+    "periodids": [
+      "231290",
+      "231291",
+      "231292"
+    ],
+    "priceto": null,
+    "pricelevel": null,
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47393085",
+    "septima_serial": "4307790"
+  },
+  {
+    "id": 23036,
+    "name": "Studerende ",
+    "free": false,
+    "pricefrom": "65",
+    "periodids": [
+      "231290",
+      "231291",
+      "231292"
+    ],
+    "priceto": null,
+    "pricelevel": null,
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47393085",
+    "septima_serial": "4307791"
+  },
+  {
+    "id": 3543,
+    "name": "Pris",
+    "free": true,
+    "pricefrom": null,
+    "periodids": null,
+    "priceto": null,
+    "pricelevel": null,
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47393343",
+    "septima_serial": "4307792"
+  },
+  {
+    "id": 24590,
+    "name": "Voksen (+18 år): ",
+    "free": false,
+    "pricefrom": "110",
+    "periodids": null,
+    "priceto": null,
+    "pricelevel": null,
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47393370",
+    "septima_serial": "4307793"
+  },
+  {
+    "id": 24591,
+    "name": "Børn og unge (4-17 år): ",
+    "free": false,
+    "pricefrom": "70",
+    "periodids": null,
+    "priceto": null,
+    "pricelevel": null,
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47393370",
+    "septima_serial": "4307794"
+  },
+  {
+    "id": 24592,
+    "name": "Børn under 4 år: ",
+    "free": true,
+    "pricefrom": null,
+    "periodids": null,
+    "priceto": null,
+    "pricelevel": null,
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47393370",
+    "septima_serial": "4307795"
+  }
+]

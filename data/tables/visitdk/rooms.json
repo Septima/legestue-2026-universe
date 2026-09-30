@@ -1,0 +1,72 @@
+[
+  {
+    "id": 4674,
+    "name": "Caféen",
+    "septima_serial": "943430",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47395493"
+  },
+  {
+    "id": 4676,
+    "name": "Olympia",
+    "septima_serial": "943431",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47395493"
+  },
+  {
+    "id": 4439,
+    "name": "Teatersalen",
+    "septima_serial": "943432",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47395669"
+  },
+  {
+    "id": 4440,
+    "name": "Café Ørstedet",
+    "septima_serial": "943433",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47395669"
+  },
+  {
+    "id": 4441,
+    "name": "Borgerstuen med udv. balkon",
+    "septima_serial": "943434",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47395669"
+  },
+  {
+    "id": 4442,
+    "name": "Mads Lange Stuen",
+    "septima_serial": "943435",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47395669"
+  },
+  {
+    "id": 4678,
+    "name": "Big Bar",
+    "septima_serial": "943436",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47396149"
+  },
+  {
+    "id": 4679,
+    "name": "Outdoor Caféen",
+    "septima_serial": "943437",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47396149"
+  },
+  {
+    "id": 4680,
+    "name": "Pavillion",
+    "septima_serial": "943438",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47396149"
+  },
+  {
+    "id": 4681,
+    "name": "Stor Tipi",
+    "septima_serial": "943439",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47396149"
+  }
+]

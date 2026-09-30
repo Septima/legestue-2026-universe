@@ -1,0 +1,345 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.326852671,
+          56.243399556,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Anden ændring",
+        "senestesaglokalid": "100133175",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "44567",
+        "registreringfra": "2019-02-08T20:37:29.832000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2019-02-08T20:37:14.044000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "744566",
+        "opdeltiejerlejligheder": false,
+        "samletfastejendomlokalid": "4144715",
+        "oprindelse": "ESR",
+        "paahavet": false,
+        "lokalid": "744566",
+        "rids": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/BygningPaaFremmedGrundPunkt",
+        "septima_hash86": "lbPZU0Lp0Ula0v7wjxDhIbF91R4iMGT6ihJQFm4YTF5Xk/74rZ0buBK23H3SHpS1HIzvZ99KBriRXP9AMe5Ogw",
+        "septima_serial": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.326280279,
+          56.2430912,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Anden ændring",
+        "senestesaglokalid": "100133175",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "44568",
+        "registreringfra": "2019-02-08T20:37:29.832000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2019-02-08T20:37:14.080000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "744567",
+        "opdeltiejerlejligheder": false,
+        "samletfastejendomlokalid": "4144715",
+        "oprindelse": "ESR",
+        "paahavet": false,
+        "lokalid": "744567",
+        "rids": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/BygningPaaFremmedGrundPunkt",
+        "septima_hash86": "9ljdgxsDEjpn/qpmj7n0ePabGNJ7UbgV1tat+14/cMbDm+G4ogD0kcs3psBLzBV5oz418SAe8n17xk79+NJ0og",
+        "septima_serial": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.151716912,
+          56.171541177,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Anden ændring",
+        "senestesaglokalid": "100133175",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "44839",
+        "registreringfra": "2019-02-08T20:37:29.832000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2019-02-08T20:37:23.701000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "744838",
+        "opdeltiejerlejligheder": false,
+        "samletfastejendomlokalid": "4221511",
+        "oprindelse": "ESR",
+        "paahavet": false,
+        "lokalid": "744838",
+        "rids": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/BygningPaaFremmedGrundPunkt",
+        "septima_hash86": "LsZPoUF0YejURv+QQDlb7ADHxuGTLV7k4KPi+D3yo0K0pzVs6G6dCfyZq+0hMQ3y3r1jBKUzdA9MPc+HQiVedg",
+        "septima_serial": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.151642464,
+          56.171034197,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Anden ændring",
+        "senestesaglokalid": "100133175",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "44840",
+        "registreringfra": "2019-02-08T20:37:29.832000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2019-02-08T20:37:23.736000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "744839",
+        "opdeltiejerlejligheder": false,
+        "samletfastejendomlokalid": "4221511",
+        "oprindelse": "ESR",
+        "paahavet": false,
+        "lokalid": "744839",
+        "rids": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/BygningPaaFremmedGrundPunkt",
+        "septima_hash86": "p8bcqvZjWE5D8SacqjI74Bhp/GTYE5hWp0MopxoY5vDYiy2+GfnA3tUJRNHHCXd/XBaVSV1cfTtqRrOIsSUV4w",
+        "septima_serial": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.150015106,
+          56.171256011,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Anden ændring",
+        "senestesaglokalid": "100133175",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "44841",
+        "registreringfra": "2019-02-08T20:37:29.832000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2019-02-08T20:37:23.768000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "744840",
+        "opdeltiejerlejligheder": false,
+        "samletfastejendomlokalid": "4221511",
+        "oprindelse": "ESR",
+        "paahavet": false,
+        "lokalid": "744840",
+        "rids": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/BygningPaaFremmedGrundPunkt",
+        "septima_hash86": "0ghLXuZufgOx9r7fPlSvNOILzOB/OmCNv9uc2CgL/nexQUQKcPhled4NbATYmpHX69/BZ84iOs4DydzisOF8Ow",
+        "septima_serial": "6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.150250296,
+          56.172183809,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Anden ændring",
+        "senestesaglokalid": "100133175",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "44842",
+        "registreringfra": "2019-02-08T20:37:29.832000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2019-02-08T20:37:23.802000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "744841",
+        "opdeltiejerlejligheder": false,
+        "samletfastejendomlokalid": "4221511",
+        "oprindelse": "ESR",
+        "paahavet": false,
+        "lokalid": "744841",
+        "rids": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/BygningPaaFremmedGrundPunkt",
+        "septima_hash86": "Rq7xsnvxv5spheGM5Yw/08+tc0quC7wQ6+EBvJd6nOFPfBiFmqtzkp6hT74GZ2PE5f4P9nCeLn+Kwj63nC8i9Q",
+        "septima_serial": "7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.149841619,
+          56.172187611,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Anden ændring",
+        "senestesaglokalid": "100133175",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "44843",
+        "registreringfra": "2019-02-08T20:37:29.832000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2019-02-08T20:37:23.835000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "744842",
+        "opdeltiejerlejligheder": false,
+        "samletfastejendomlokalid": "4221511",
+        "oprindelse": "ESR",
+        "paahavet": false,
+        "lokalid": "744842",
+        "rids": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/BygningPaaFremmedGrundPunkt",
+        "septima_hash86": "g+MEAzmkDFzKDTQyOS1VqirhyYzDJwU54l/XKXhGFiRo4BwZiECSFOeqUegsg6n6eo/X1nrUHqSGnT3q7t0xZA",
+        "septima_serial": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.149228953,
+          56.171757518,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Anden ændring",
+        "senestesaglokalid": "100133175",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "44844",
+        "registreringfra": "2019-02-08T20:37:29.832000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2019-02-08T20:37:23.866000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "744843",
+        "opdeltiejerlejligheder": false,
+        "samletfastejendomlokalid": "4221511",
+        "oprindelse": "ESR",
+        "paahavet": false,
+        "lokalid": "744843",
+        "rids": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/BygningPaaFremmedGrundPunkt",
+        "septima_hash86": "p7D7CRuefZJukz9UieQ+S18Pn0HdryjDHarfxfV/8gHChbqpxf3MIpypNQc3HbLqz3UCQVInlbThpkU8KVOUOw",
+        "septima_serial": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.14915429,
+          56.172126612,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Anden ændring",
+        "senestesaglokalid": "100133175",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "44845",
+        "registreringfra": "2019-02-08T20:37:29.832000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2019-02-08T20:37:23.897000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "744844",
+        "opdeltiejerlejligheder": false,
+        "samletfastejendomlokalid": "4221511",
+        "oprindelse": "ESR",
+        "paahavet": false,
+        "lokalid": "744844",
+        "rids": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/BygningPaaFremmedGrundPunkt",
+        "septima_hash86": "6PuEpW+ZhiB2bQH2hP3GySR8ciCa02uZjnKvKn2vDqStV4iUq5CzUXJt9nMU2+oh5k5wPK94v0W6UEIqfqeqlA",
+        "septima_serial": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.14600247,
+          56.173714834,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Anden ændring",
+        "senestesaglokalid": "100133175",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "44846",
+        "registreringfra": "2019-02-08T20:37:29.832000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2019-02-08T20:37:23.936000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "744845",
+        "opdeltiejerlejligheder": false,
+        "samletfastejendomlokalid": "4221511",
+        "oprindelse": "ESR",
+        "paahavet": false,
+        "lokalid": "744845",
+        "rids": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/BygningPaaFremmedGrundPunkt",
+        "septima_hash86": "JHEvikSpW/HAxo2lhxfSyk//kY6SPSuRWAVHKpAhtyEnN28krOWyGWNjxNdk6UU7s9wNh2WVqbWwX9wxGf0A6g",
+        "septima_serial": "11"
+      }
+    }
+  ]
+}

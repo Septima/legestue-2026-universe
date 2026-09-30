@@ -1,0 +1,1790 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.182502946,
+              55.217780149,
+              0
+            ],
+            [
+              11.18250461,
+              55.217506629,
+              0
+            ],
+            [
+              11.182612649,
+              55.217428594,
+              0
+            ],
+            [
+              11.182662772,
+              55.217356352,
+              0
+            ],
+            [
+              11.182653275,
+              55.217182915,
+              0
+            ],
+            [
+              11.182644825,
+              55.217104586,
+              0
+            ],
+            [
+              11.185000942,
+              55.217136121,
+              0
+            ],
+            [
+              11.185035087,
+              55.217076054,
+              0
+            ],
+            [
+              11.185164823,
+              55.217090377,
+              0
+            ],
+            [
+              11.185104937,
+              55.217819173,
+              0
+            ],
+            [
+              11.182502946,
+              55.217780149,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "349066",
+        "gmlid": "sn.25e6ee21-a030-2773-e053-d380220a1355.20151202T095842",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "25e6ee21-a030-2773-e053-d380220a1355",
+        "registreringfra": "2015-12-02T08:58:42.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2015-12-02T08:58:42.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2015-12-02T08:58:42.000Z",
+        "navn_1_skrivemaade": "Agersø Campinggård",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "12343",
+        "campingpladstype": "campingsplads",
+        "campingraadsnummer": null,
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "ax3728k9nxta/s8bf6gL4VhnoE77tphippNBWs5UnD0DM5W8ENY/d60SoTs5B/iRgvebyxByV9fzqlcNCM/zAQ",
+        "septima_serial": "43263"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.295212125,
+              55.109217659,
+              0
+            ],
+            [
+              10.295529797,
+              55.109485354,
+              0
+            ],
+            [
+              10.295136968,
+              55.109587022,
+              0
+            ],
+            [
+              10.295123269,
+              55.109740537,
+              0
+            ],
+            [
+              10.295204669,
+              55.10988472,
+              0
+            ],
+            [
+              10.295693756,
+              55.109873575,
+              0
+            ],
+            [
+              10.295903383,
+              55.109878478,
+              0
+            ],
+            [
+              10.295935789,
+              55.109918556,
+              0
+            ],
+            [
+              10.296136528,
+              55.110225538,
+              0
+            ],
+            [
+              10.295768569,
+              55.110262743,
+              0
+            ],
+            [
+              10.294898042,
+              55.110343334,
+              0
+            ],
+            [
+              10.294450645,
+              55.110361166,
+              0
+            ],
+            [
+              10.294411856,
+              55.109931191,
+              0
+            ],
+            [
+              10.294381404,
+              55.109759122,
+              0
+            ],
+            [
+              10.294328106,
+              55.109393503,
+              0
+            ],
+            [
+              10.294253123,
+              55.109255196,
+              0
+            ],
+            [
+              10.29445844,
+              55.109062789,
+              0
+            ],
+            [
+              10.294465079,
+              55.109011595,
+              0
+            ],
+            [
+              10.294520437,
+              55.108863582,
+              0
+            ],
+            [
+              10.294554566,
+              55.108828741,
+              0
+            ],
+            [
+              10.294611502,
+              55.108793657,
+              0
+            ],
+            [
+              10.294652234,
+              55.108770634,
+              0
+            ],
+            [
+              10.294695616,
+              55.108765418,
+              0
+            ],
+            [
+              10.294754665,
+              55.108795702,
+              0
+            ],
+            [
+              10.295212125,
+              55.109217659,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "348956",
+        "gmlid": "sn.25d6979b-8477-c6d1-e053-d480220a6856.20151201T164058",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "25d6979b-8477-c6d1-e053-d480220a6856",
+        "registreringfra": "2015-12-01T15:40:58.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2015-12-01T15:40:58.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2015-12-01T15:40:58.000Z",
+        "navn_1_skrivemaade": "Diernæs Mini Camping",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "10805",
+        "campingpladstype": "campingsplads",
+        "campingraadsnummer": null,
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "XdlIlriR1X2YgUfhI185so15WRi5hH9nrzNr0NSA6a6JvNYeS9YIBD/cd9jHqJbGK6rQlAkjQNY1xkgFx81TPw",
+        "septima_serial": "43264"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.246139779,
+              55.76775346,
+              0
+            ],
+            [
+              8.245698121,
+              55.767912416,
+              0
+            ],
+            [
+              8.245318782,
+              55.767465032,
+              0
+            ],
+            [
+              8.244939019,
+              55.767563503,
+              0
+            ],
+            [
+              8.244754709,
+              55.767324628,
+              0
+            ],
+            [
+              8.244622488,
+              55.76735805,
+              0
+            ],
+            [
+              8.244265307,
+              55.766986876,
+              0
+            ],
+            [
+              8.244187205,
+              55.767013024,
+              0
+            ],
+            [
+              8.244132754,
+              55.767037413,
+              0
+            ],
+            [
+              8.244048018,
+              55.767057814,
+              0
+            ],
+            [
+              8.244090619,
+              55.767122742,
+              0
+            ],
+            [
+              8.243721089,
+              55.767215567,
+              0
+            ],
+            [
+              8.243519772,
+              55.766984192,
+              0
+            ],
+            [
+              8.243861518,
+              55.76675806,
+              0
+            ],
+            [
+              8.244213011,
+              55.766551008,
+              0
+            ],
+            [
+              8.244497337,
+              55.766851362,
+              0
+            ],
+            [
+              8.244861476,
+              55.766688129,
+              0
+            ],
+            [
+              8.24499013,
+              55.766839175,
+              0
+            ],
+            [
+              8.245268282,
+              55.766761,
+              0
+            ],
+            [
+              8.245826286,
+              55.767390167,
+              0
+            ],
+            [
+              8.246139779,
+              55.76775346,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "348949",
+        "gmlid": "sn.25d6979b-8470-c6d1-e053-d480220a6856.20151201T155331",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "25d6979b-8470-c6d1-e053-d480220a6856",
+        "registreringfra": "2015-12-01T14:53:31.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2015-12-01T14:53:31.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2015-12-01T14:53:31.000Z",
+        "navn_1_skrivemaade": "Farm Camping",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "9050",
+        "campingpladstype": "campingsplads",
+        "campingraadsnummer": null,
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "g/da/rt6boB2ka8QvFb3AIbQKYBgPtyGcqyVDT6MsOJnH9eWWtaJ8CbihUhiPUATcegI+gw3s17rr63AlwT7ww",
+        "septima_serial": "43265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.956275666,
+              55.573024903,
+              0
+            ],
+            [
+              8.956233664,
+              55.573060549,
+              0
+            ],
+            [
+              8.955558055,
+              55.574432144,
+              0
+            ],
+            [
+              8.952985716,
+              55.574031124,
+              0
+            ],
+            [
+              8.954702295,
+              55.572857911,
+              0
+            ],
+            [
+              8.956275666,
+              55.573024903,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "379479",
+        "gmlid": "sn.25d6979b-846e-c6d1-e053-d480220a6856.20171101T150933",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "25d6979b-846e-c6d1-e053-d480220a6856",
+        "registreringfra": "2017-11-01T14:09:33.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2017-11-01T14:09:33.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2015-12-01T14:30:23.000Z",
+        "navn_1_skrivemaade": "Corries-snorrie-storrie",
+        "navn_1_sprog": "English",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "21075",
+        "campingpladstype": "campingsplads",
+        "campingraadsnummer": null,
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "n5k4V2YXsXbgiBgU4xqAS/9PPvPNxJQawXCYfDnaMmmv2d+2tqndHVvqtBnibP6b3tONwTF00dBXu2m0g7MZfg",
+        "septima_serial": "43266"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.49930749,
+              56.305191503,
+              0
+            ],
+            [
+              8.498991071,
+              56.305321064,
+              0
+            ],
+            [
+              8.498755796,
+              56.305105594,
+              0
+            ],
+            [
+              8.499138748,
+              56.304910883,
+              0
+            ],
+            [
+              8.499438306,
+              56.304814724,
+              0
+            ],
+            [
+              8.499568526,
+              56.30490197,
+              0
+            ],
+            [
+              8.499588471,
+              56.305051148,
+              0
+            ],
+            [
+              8.49930749,
+              56.305191503,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "446578",
+        "gmlid": "sn.b231d3d8-858b-db1e-e053-d480220af71c.20201021T184339",
+        "dataansvarligmyndighed": "SDFE",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "b231d3d8-858b-db1e-e053-d480220af71c",
+        "registreringfra": "2020-10-21T16:43:39.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2020-10-21T16:43:39.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2020-10-21T16:43:40.000Z",
+        "navn_1_skrivemaade": "Ormstrup Lejrplads",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "1531",
+        "campingpladstype": "campingsplads",
+        "campingraadsnummer": null,
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "jHGiEIFoRCr7Um1zoTshTUUfrR27KE3LVgijN38+azcpr7Amn9W+1Z6KEAhZp38+7Z+6S6xI2vvj2CBpxPi10Q",
+        "septima_serial": "43267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.12654253,
+              56.528616338,
+              0
+            ],
+            [
+              8.12609193,
+              56.529546219,
+              0
+            ],
+            [
+              8.125734559,
+              56.530323836,
+              0
+            ],
+            [
+              8.122943763,
+              56.529892589,
+              0
+            ],
+            [
+              8.123051101,
+              56.529609523,
+              0
+            ],
+            [
+              8.122882195,
+              56.529517587,
+              0
+            ],
+            [
+              8.122996604,
+              56.529167726,
+              0
+            ],
+            [
+              8.123106756,
+              56.528678304,
+              0
+            ],
+            [
+              8.123167122,
+              56.528338305,
+              0
+            ],
+            [
+              8.124621731,
+              56.528398064,
+              0
+            ],
+            [
+              8.125314696,
+              56.528436725,
+              0
+            ],
+            [
+              8.125446191,
+              56.528176739,
+              0
+            ],
+            [
+              8.125576319,
+              56.528194815,
+              0
+            ],
+            [
+              8.125670139,
+              56.528201135,
+              0
+            ],
+            [
+              8.125714889,
+              56.528149878,
+              0
+            ],
+            [
+              8.125792557,
+              56.528158691,
+              0
+            ],
+            [
+              8.1259388,
+              56.527921718,
+              0
+            ],
+            [
+              8.126776997,
+              56.528155369,
+              0
+            ],
+            [
+              8.12654253,
+              56.528616338,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "129803",
+        "gmlid": "sn.12337669-66af-6b98-e053-d480220a5a3f.20150326T161821",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "systemetablering",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "systemetablering",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "12337669-66af-6b98-e053-d480220a5a3f",
+        "registreringfra": "2015-03-26T15:18:21.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "systemetablering",
+        "status": "iBrug",
+        "virkningfra": "2015-03-26T15:18:21.000Z",
+        "virkningsaktoer": "systemetablering",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2015-03-26T15:18:21.000Z",
+        "navn_1_skrivemaade": "Bovbjerg Camping",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "40927",
+        "campingpladstype": "campingsplads",
+        "campingraadsnummer": "637",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "Occ7I6CrcAu+cagqJMKkc4QElwssLsY4Rd/wg/ztTG1nZYmz78GSR3RViWFpj1Vx8zRcv7WVUWrYcEvgOasneg",
+        "septima_serial": "43269"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.893055476,
+              54.865291365,
+              0
+            ],
+            [
+              9.893575544,
+              54.865663376,
+              0
+            ],
+            [
+              9.893274368,
+              54.865783681,
+              0
+            ],
+            [
+              9.892903081,
+              54.865953659,
+              0
+            ],
+            [
+              9.892517492,
+              54.86572319,
+              0
+            ],
+            [
+              9.892200058,
+              54.865516665,
+              0
+            ],
+            [
+              9.891942632,
+              54.865360295,
+              0
+            ],
+            [
+              9.891730837,
+              54.865457022,
+              0
+            ],
+            [
+              9.891805861,
+              54.865615901,
+              0
+            ],
+            [
+              9.89151187,
+              54.865751336,
+              0
+            ],
+            [
+              9.892162423,
+              54.866197346,
+              0
+            ],
+            [
+              9.89244554,
+              54.866063337,
+              0
+            ],
+            [
+              9.892639939,
+              54.866265284,
+              0
+            ],
+            [
+              9.892796524,
+              54.866497526,
+              0
+            ],
+            [
+              9.892980694,
+              54.866779352,
+              0
+            ],
+            [
+              9.892691762,
+              54.866946477,
+              0
+            ],
+            [
+              9.892603538,
+              54.866980377,
+              0
+            ],
+            [
+              9.8923728,
+              54.86708749,
+              0
+            ],
+            [
+              9.892278719,
+              54.867117209,
+              0
+            ],
+            [
+              9.892186643,
+              54.867075467,
+              0
+            ],
+            [
+              9.891763528,
+              54.866761783,
+              0
+            ],
+            [
+              9.891447198,
+              54.866527747,
+              0
+            ],
+            [
+              9.891160859,
+              54.866325215,
+              0
+            ],
+            [
+              9.890989656,
+              54.866220963,
+              0
+            ],
+            [
+              9.890801803,
+              54.866131842,
+              0
+            ],
+            [
+              9.890525706,
+              54.866040223,
+              0
+            ],
+            [
+              9.890284116,
+              54.865951854,
+              0
+            ],
+            [
+              9.889851411,
+              54.865824085,
+              0
+            ],
+            [
+              9.890112161,
+              54.865530367,
+              0
+            ],
+            [
+              9.89020922,
+              54.865593463,
+              0
+            ],
+            [
+              9.890618695,
+              54.865409643,
+              0
+            ],
+            [
+              9.890990091,
+              54.865272653,
+              0
+            ],
+            [
+              9.89119018,
+              54.865401047,
+              0
+            ],
+            [
+              9.891323381,
+              54.865336622,
+              0
+            ],
+            [
+              9.891374563,
+              54.865311801,
+              0
+            ],
+            [
+              9.891572645,
+              54.865448028,
+              0
+            ],
+            [
+              9.891631525,
+              54.865404908,
+              0
+            ],
+            [
+              9.892216935,
+              54.86512372,
+              0
+            ],
+            [
+              9.892363297,
+              54.865069801,
+              0
+            ],
+            [
+              9.892523181,
+              54.865070783,
+              0
+            ],
+            [
+              9.892673118,
+              54.865002369,
+              0
+            ],
+            [
+              9.893055476,
+              54.865291365,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "129832",
+        "gmlid": "sn.12337669-66cc-6b98-e053-d480220a5a3f.20150326T161821",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "systemetablering",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "systemetablering",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "12337669-66cc-6b98-e053-d480220a5a3f",
+        "registreringfra": "2015-03-26T15:18:21.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "systemetablering",
+        "status": "iBrug",
+        "virkningfra": "2015-03-26T15:18:21.000Z",
+        "virkningsaktoer": "systemetablering",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2015-03-26T15:18:21.000Z",
+        "navn_1_skrivemaade": "Sønderby Strand Camping",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "22224",
+        "campingpladstype": "campingsplads",
+        "campingraadsnummer": "446",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "QkR7eq74Q7uvDyZM60h6oHQxb4Ev3enrCF12F7W/csgTbbVEN8+DZ9BQe3vlMN77UUCoiFE4Ghojv7Gj/RWuXw",
+        "septima_serial": "43270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.967174627,
+              56.431841496,
+              0
+            ],
+            [
+              8.967225613,
+              56.431948333,
+              0
+            ],
+            [
+              8.967463089,
+              56.432417556,
+              0
+            ],
+            [
+              8.967730786,
+              56.433015622,
+              0
+            ],
+            [
+              8.967586861,
+              56.433123216,
+              0
+            ],
+            [
+              8.966687596,
+              56.43286989,
+              0
+            ],
+            [
+              8.965336115,
+              56.432591635,
+              0
+            ],
+            [
+              8.96551049,
+              56.431990274,
+              0
+            ],
+            [
+              8.965630015,
+              56.431609552,
+              0
+            ],
+            [
+              8.96634954,
+              56.43172394,
+              0
+            ],
+            [
+              8.967174627,
+              56.431841496,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "129790",
+        "gmlid": "sn.12337669-66a2-6b98-e053-d480220a5a3f.20150326T161821",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "systemetablering",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "systemetablering",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "12337669-66a2-6b98-e053-d480220a5a3f",
+        "registreringfra": "2015-03-26T15:18:21.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "systemetablering",
+        "status": "iBrug",
+        "virkningfra": "2015-03-26T15:18:21.000Z",
+        "virkningsaktoer": "systemetablering",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2015-03-26T15:18:21.000Z",
+        "navn_1_skrivemaade": "Trandum Camping",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "15101",
+        "campingpladstype": "campingsplads",
+        "campingraadsnummer": "673",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "gqMF3EX/2v6GzOxJApgAotEShDq5crGm7+PktkFH+cRevg506PZXmp12i7Qb11rC8gDcbeHVO2JTCWVeK7GXZA",
+        "septima_serial": "43273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.126134675,
+              56.376977171,
+              0
+            ],
+            [
+              8.12557809,
+              56.376929671,
+              0
+            ],
+            [
+              8.125427614,
+              56.377369943,
+              0
+            ],
+            [
+              8.128160264,
+              56.377577418,
+              0
+            ],
+            [
+              8.128086292,
+              56.377739164,
+              0
+            ],
+            [
+              8.127840222,
+              56.377927821,
+              0
+            ],
+            [
+              8.127384909,
+              56.378060917,
+              0
+            ],
+            [
+              8.12704119,
+              56.37808662,
+              0
+            ],
+            [
+              8.126184112,
+              56.378050304,
+              0
+            ],
+            [
+              8.125193012,
+              56.37808231,
+              0
+            ],
+            [
+              8.125167661,
+              56.377895427,
+              0
+            ],
+            [
+              8.125052862,
+              56.377923279,
+              0
+            ],
+            [
+              8.124905948,
+              56.377939313,
+              0
+            ],
+            [
+              8.12363403,
+              56.37796564,
+              0
+            ],
+            [
+              8.123681896,
+              56.377679274,
+              0
+            ],
+            [
+              8.123803043,
+              56.377276084,
+              0
+            ],
+            [
+              8.123806278,
+              56.377233878,
+              0
+            ],
+            [
+              8.123816584,
+              56.377194058,
+              0
+            ],
+            [
+              8.123936986,
+              56.376787898,
+              0
+            ],
+            [
+              8.122288525,
+              56.376649734,
+              0
+            ],
+            [
+              8.122369008,
+              56.376367731,
+              0
+            ],
+            [
+              8.122927114,
+              56.376426039,
+              0
+            ],
+            [
+              8.122875019,
+              56.376388832,
+              0
+            ],
+            [
+              8.122829618,
+              56.376356346,
+              0
+            ],
+            [
+              8.122839103,
+              56.376324067,
+              0
+            ],
+            [
+              8.122957202,
+              56.376032627,
+              0
+            ],
+            [
+              8.123311901,
+              56.376049871,
+              0
+            ],
+            [
+              8.125157612,
+              56.376214121,
+              0
+            ],
+            [
+              8.126951989,
+              56.376372142,
+              0
+            ],
+            [
+              8.127268679,
+              56.376401865,
+              0
+            ],
+            [
+              8.128492072,
+              56.376505619,
+              0
+            ],
+            [
+              8.128590815,
+              56.37651404,
+              0
+            ],
+            [
+              8.130269228,
+              56.376667334,
+              0
+            ],
+            [
+              8.130408474,
+              56.376738841,
+              0
+            ],
+            [
+              8.130731056,
+              56.376830053,
+              0
+            ],
+            [
+              8.130761653,
+              56.376873035,
+              0
+            ],
+            [
+              8.130712183,
+              56.376919319,
+              0
+            ],
+            [
+              8.130556694,
+              56.376963782,
+              0
+            ],
+            [
+              8.130409605,
+              56.376973532,
+              0
+            ],
+            [
+              8.12990119,
+              56.376915248,
+              0
+            ],
+            [
+              8.129699371,
+              56.376910777,
+              0
+            ],
+            [
+              8.129585975,
+              56.376912856,
+              0
+            ],
+            [
+              8.129514141,
+              56.37693149,
+              0
+            ],
+            [
+              8.129273985,
+              56.377116957,
+              0
+            ],
+            [
+              8.12913454,
+              56.377160722,
+              0
+            ],
+            [
+              8.128915154,
+              56.377209316,
+              0
+            ],
+            [
+              8.127628751,
+              56.377105393,
+              0
+            ],
+            [
+              8.127026755,
+              56.377053806,
+              0
+            ],
+            [
+              8.126165379,
+              56.376979903,
+              0
+            ],
+            [
+              8.126134675,
+              56.376977171,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "129800",
+        "gmlid": "sn.12337669-66ac-6b98-e053-d480220a5a3f.20150326T161821",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "systemetablering",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "systemetablering",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "12337669-66ac-6b98-e053-d480220a5a3f",
+        "registreringfra": "2015-03-26T15:18:21.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "systemetablering",
+        "status": "iBrug",
+        "virkningfra": "2015-03-26T15:18:21.000Z",
+        "virkningsaktoer": "systemetablering",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2015-03-26T15:18:21.000Z",
+        "navn_1_skrivemaade": "Thorsminde Camping",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "56777",
+        "campingpladstype": "campingsplads",
+        "campingraadsnummer": "583",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "LpGahNWdKHpQeZ9RVoWMGUo676DQY83zzWfGjPazTgUu89spaauMdBovDMhkSMk+3G+P0P1l1u0X/0Nu0bkoTw",
+        "septima_serial": "43274"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.289625164,
+              56.569351524,
+              0
+            ],
+            [
+              8.289731218,
+              56.568720528,
+              0
+            ],
+            [
+              8.28983688,
+              56.568231932,
+              0
+            ],
+            [
+              8.289675964,
+              56.56809984,
+              0
+            ],
+            [
+              8.289268866,
+              56.56776608,
+              0
+            ],
+            [
+              8.289019291,
+              56.567198727,
+              0
+            ],
+            [
+              8.28937906,
+              56.56710528,
+              0
+            ],
+            [
+              8.290637731,
+              56.566796755,
+              0
+            ],
+            [
+              8.2917689,
+              56.566508964,
+              0
+            ],
+            [
+              8.294098264,
+              56.567277167,
+              0
+            ],
+            [
+              8.294282599,
+              56.567349459,
+              0
+            ],
+            [
+              8.294539502,
+              56.567125229,
+              0
+            ],
+            [
+              8.295467349,
+              56.567444044,
+              0
+            ],
+            [
+              8.295211037,
+              56.567715447,
+              0
+            ],
+            [
+              8.294687852,
+              56.567548426,
+              0
+            ],
+            [
+              8.294531439,
+              56.567663348,
+              0
+            ],
+            [
+              8.294317728,
+              56.567691514,
+              0
+            ],
+            [
+              8.293849339,
+              56.56804257,
+              0
+            ],
+            [
+              8.293512124,
+              56.567930147,
+              0
+            ],
+            [
+              8.293363161,
+              56.567907019,
+              0
+            ],
+            [
+              8.292804346,
+              56.568393941,
+              0
+            ],
+            [
+              8.292749082,
+              56.568442591,
+              0
+            ],
+            [
+              8.292450756,
+              56.568705305,
+              0
+            ],
+            [
+              8.291913371,
+              56.569167637,
+              0
+            ],
+            [
+              8.291385173,
+              56.569651402,
+              0
+            ],
+            [
+              8.291212672,
+              56.569842325,
+              0
+            ],
+            [
+              8.290410794,
+              56.569600295,
+              0
+            ],
+            [
+              8.289625164,
+              56.569351524,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "129804",
+        "gmlid": "sn.12337669-66b0-6b98-e053-d480220a5a3f.20150326T161821",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "systemetablering",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "systemetablering",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "12337669-66b0-6b98-e053-d480220a5a3f",
+        "registreringfra": "2015-03-26T15:18:21.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "systemetablering",
+        "status": "iBrug",
+        "virkningfra": "2015-03-26T15:18:21.000Z",
+        "virkningsaktoer": "systemetablering",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2015-03-26T15:18:21.000Z",
+        "navn_1_skrivemaade": "Lemvig Strand Camping",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "70327",
+        "campingpladstype": "campingsplads",
+        "campingraadsnummer": "638",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "udZxaMdda5AQ8QBuNR6t+jBwBxRVE7u1Sqwk0So6nmScENRLXduBmduZ4owQKzBrW4rWxyZ/e1bpKQ2G5S0Gwg",
+        "septima_serial": "43275"
+      }
+    }
+  ]
+}

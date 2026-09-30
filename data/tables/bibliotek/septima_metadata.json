@@ -1,0 +1,122 @@
+[
+  {
+    "tabelnavn": "branchname",
+    "beskrivelse": "Folkebiblioteker i Danmark",
+    "kilde": "Hentes fra Dansk Bibliotekscenter",
+    "rettigheder": "Oplysningerne stammer fra Bibliotek.dk som driftes og udvikles af Dansk BiblioteksCenter (DBC). Septima har fået adgang til oplysningerne via en aftale med DBC. Registerets oplysninger om biblioteker er i øvrigt frit tilgængelige",
+    "rettigheder_url": "-",
+    "attributtering": "Dansk Bibliotekscenter",
+    "attributtering_url": "https://www.dbc.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "months": 1
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "branchshortname",
+    "beskrivelse": "Folkebiblioteker i Danmark",
+    "kilde": "Hentes fra Dansk Bibliotekscenter",
+    "rettigheder": "Oplysningerne stammer fra Bibliotek.dk som driftes og udvikles af Dansk BiblioteksCenter (DBC). Septima har fået adgang til oplysningerne via en aftale med DBC. Registerets oplysninger om biblioteker er i øvrigt frit tilgængelige",
+    "rettigheder_url": "-",
+    "attributtering": "Dansk Bibliotekscenter",
+    "attributtering_url": "https://www.dbc.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "months": 1
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "geolocation",
+    "beskrivelse": "Folkebiblioteker i Danmark",
+    "kilde": "Hentes fra Dansk Bibliotekscenter",
+    "rettigheder": "Oplysningerne stammer fra Bibliotek.dk som driftes og udvikles af Dansk BiblioteksCenter (DBC). Septima har fået adgang til oplysningerne via en aftale med DBC. Registerets oplysninger om biblioteker er i øvrigt frit tilgængelige",
+    "rettigheder_url": "-",
+    "attributtering": "Dansk Bibliotekscenter",
+    "attributtering_url": "https://www.dbc.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "months": 1
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "illorderreceipttext",
+    "beskrivelse": "Folkebiblioteker i Danmark",
+    "kilde": "Hentes fra Dansk Bibliotekscenter",
+    "rettigheder": "Oplysningerne stammer fra Bibliotek.dk som driftes og udvikles af Dansk BiblioteksCenter (DBC). Septima har fået adgang til oplysningerne via en aftale med DBC. Registerets oplysninger om biblioteker er i øvrigt frit tilgængelige",
+    "rettigheder_url": "-",
+    "attributtering": "Dansk Bibliotekscenter",
+    "attributtering_url": "https://www.dbc.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "months": 1
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "library",
+    "beskrivelse": "Folkebiblioteker i Danmark",
+    "kilde": "Hentes fra Dansk Bibliotekscenter",
+    "rettigheder": "Oplysningerne stammer fra Bibliotek.dk som driftes og udvikles af Dansk BiblioteksCenter (DBC). Septima har fået adgang til oplysningerne via en aftale med DBC. Registerets oplysninger om biblioteker er i øvrigt frit tilgængelige",
+    "rettigheder_url": "-",
+    "attributtering": "Dansk Bibliotekscenter",
+    "attributtering_url": "https://www.dbc.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "months": 1
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "openinghours",
+    "beskrivelse": "Folkebiblioteker i Danmark",
+    "kilde": "Hentes fra Dansk Bibliotekscenter",
+    "rettigheder": "Oplysningerne stammer fra Bibliotek.dk som driftes og udvikles af Dansk BiblioteksCenter (DBC). Septima har fået adgang til oplysningerne via en aftale med DBC. Registerets oplysninger om biblioteker er i øvrigt frit tilgængelige",
+    "rettigheder_url": "-",
+    "attributtering": "Dansk Bibliotekscenter",
+    "attributtering_url": "https://www.dbc.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "months": 1
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "pickupagency",
+    "beskrivelse": "Folkebiblioteker i Danmark",
+    "kilde": "Hentes fra Dansk Bibliotekscenter",
+    "rettigheder": "Oplysningerne stammer fra Bibliotek.dk som driftes og udvikles af Dansk BiblioteksCenter (DBC). Septima har fået adgang til oplysningerne via en aftale med DBC. Registerets oplysninger om biblioteker er i øvrigt frit tilgængelige",
+    "rettigheder_url": "-",
+    "attributtering": "Dansk Bibliotekscenter",
+    "attributtering_url": "https://www.dbc.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "months": 1
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "temporarilyclosedreason",
+    "beskrivelse": "Folkebiblioteker i Danmark",
+    "kilde": "Hentes fra Dansk Bibliotekscenter",
+    "rettigheder": "Oplysningerne stammer fra Bibliotek.dk som driftes og udvikles af Dansk BiblioteksCenter (DBC). Septima har fået adgang til oplysningerne via en aftale med DBC. Registerets oplysninger om biblioteker er i øvrigt frit tilgængelige",
+    "rettigheder_url": "-",
+    "attributtering": "Dansk Bibliotekscenter",
+    "attributtering_url": "https://www.dbc.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "months": 1
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3,
+    "name": "maks. antal konferencedeltagere",
+    "value": "40",
+    "septima_parent_tab": "rooms",
+    "septima_parent_id": "943430",
+    "septima_serial": "5294858"
+  },
+  {
+    "id": 4,
+    "name": "maks. siddepladser i banketarrangement",
+    "value": "40",
+    "septima_parent_tab": "rooms",
+    "septima_parent_id": "943430",
+    "septima_serial": "5294859"
+  },
+  {
+    "id": 5,
+    "name": "maks. siddepladser i hesteskoformet bord",
+    "value": "30",
+    "septima_parent_tab": "rooms",
+    "septima_parent_id": "943430",
+    "septima_serial": "5294860"
+  },
+  {
+    "id": 7,
+    "name": "maks. pladser i receptionsarrangement",
+    "value": "50",
+    "septima_parent_tab": "rooms",
+    "septima_parent_id": "943430",
+    "septima_serial": "5294861"
+  },
+  {
+    "id": 3,
+    "name": "maks. antal konferencedeltagere",
+    "value": "75",
+    "septima_parent_tab": "rooms",
+    "septima_parent_id": "943431",
+    "septima_serial": "5294862"
+  },
+  {
+    "id": 4,
+    "name": "maks. siddepladser i banketarrangement",
+    "value": "75",
+    "septima_parent_tab": "rooms",
+    "septima_parent_id": "943431",
+    "septima_serial": "5294863"
+  },
+  {
+    "id": 5,
+    "name": "maks. siddepladser i hesteskoformet bord",
+    "value": "50",
+    "septima_parent_tab": "rooms",
+    "septima_parent_id": "943431",
+    "septima_serial": "5294864"
+  },
+  {
+    "id": 7,
+    "name": "maks. pladser i receptionsarrangement",
+    "value": "-",
+    "septima_parent_tab": "rooms",
+    "septima_parent_id": "943431",
+    "septima_serial": "5294865"
+  },
+  {
+    "id": 3,
+    "name": "maks. antal konferencedeltagere",
+    "value": "250",
+    "septima_parent_tab": "rooms",
+    "septima_parent_id": "943432",
+    "septima_serial": "5294866"
+  },
+  {
+    "id": 4,
+    "name": "maks. siddepladser i banketarrangement",
+    "value": "150",
+    "septima_parent_tab": "rooms",
+    "septima_parent_id": "943432",
+    "septima_serial": "5294867"
+  }
+]

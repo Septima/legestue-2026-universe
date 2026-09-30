@@ -1,0 +1,82 @@
+[
+  {
+    "id": 443,
+    "name": "Morsø Turistbureau - Destination Mors",
+    "email": "mt@visitmors.dk",
+    "septima_serial": "47392268",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392776"
+  },
+  {
+    "id": 443,
+    "name": "Morsø Turistbureau - Destination Mors",
+    "email": "mt@visitmors.dk",
+    "septima_serial": "47392269",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392777"
+  },
+  {
+    "id": 496,
+    "name": "Danmarks Smukkeste",
+    "email": "turist@skanderborg.dk",
+    "septima_serial": "47392270",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392778"
+  },
+  {
+    "id": 496,
+    "name": "Danmarks Smukkeste",
+    "email": "turist@skanderborg.dk",
+    "septima_serial": "47392271",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392779"
+  },
+  {
+    "id": 496,
+    "name": "Danmarks Smukkeste",
+    "email": "turist@skanderborg.dk",
+    "septima_serial": "47392272",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392780"
+  },
+  {
+    "id": 496,
+    "name": "Danmarks Smukkeste",
+    "email": "turist@skanderborg.dk",
+    "septima_serial": "47392273",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392781"
+  },
+  {
+    "id": 496,
+    "name": "Danmarks Smukkeste",
+    "email": "turist@skanderborg.dk",
+    "septima_serial": "47392274",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392782"
+  },
+  {
+    "id": 435,
+    "name": "VisitKerteminde",
+    "email": "smns@etkerteminde.dk",
+    "septima_serial": "47392275",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392783"
+  },
+  {
+    "id": 435,
+    "name": "VisitKerteminde",
+    "email": "smns@etkerteminde.dk",
+    "septima_serial": "47392276",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392784"
+  },
+  {
+    "id": 435,
+    "name": "VisitKerteminde",
+    "email": "smns@etkerteminde.dk",
+    "septima_serial": "47392277",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392785"
+  }
+]

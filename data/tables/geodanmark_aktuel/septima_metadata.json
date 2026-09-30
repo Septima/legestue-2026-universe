@@ -1,0 +1,152 @@
+[
+  {
+    "tabelnavn": "afvandingsgroeft",
+    "beskrivelse": "Midte af en åben, kunstig anlagt rende til vand.",
+    "kilde": "GeoDanmark60 – landsdækkende GML NOHIST",
+    "rettigheder": "GeoDanmarks data er frie offentlige grunddata og kan bruges af alle borgere og af den private sektor – også gerne i kommercielle sammenhænge.",
+    "rettigheder_url": "https://www.geodanmark.dk/home/vejledninger/vilkaar-for-data-anvendelse/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob - complete wipe",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "anlaegdiverse",
+    "beskrivelse": "Mindre betydende bygværker og anlæg.",
+    "kilde": "GeoDanmark60 – landsdækkende GML NOHIST",
+    "rettigheder": "GeoDanmarks data er frie offentlige grunddata og kan bruges af alle borgere og af den private sektor – også gerne i kommercielle sammenhænge.",
+    "rettigheder_url": "https://www.geodanmark.dk/home/vejledninger/vilkaar-for-data-anvendelse/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob - complete wipe",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "badebaadebro",
+    "beskrivelse": "Bygværk bygget på pæle i eller ud fra kanten af sø, vandløb eller hav.",
+    "kilde": "GeoDanmark60 – landsdækkende GML NOHIST",
+    "rettigheder": "GeoDanmarks data er frie offentlige grunddata og kan bruges af alle borgere og af den private sektor – også gerne i kommercielle sammenhænge.",
+    "rettigheder_url": "https://www.geodanmark.dk/home/vejledninger/vilkaar-for-data-anvendelse/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob - complete wipe",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "bassin",
+    "beskrivelse": "Åben beholder nedgravet i eller over jorden til opbevaring af væske.",
+    "kilde": "GeoDanmark60 – landsdækkende GML NOHIST",
+    "rettigheder": "GeoDanmarks data er frie offentlige grunddata og kan bruges af alle borgere og af den private sektor – også gerne i kommercielle sammenhænge.",
+    "rettigheder_url": "https://www.geodanmark.dk/home/vejledninger/vilkaar-for-data-anvendelse/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob - complete wipe",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "begravelsesomraade",
+    "beskrivelse": "Et område til brug for begravelser.",
+    "kilde": "GeoDanmark60 – landsdækkende GML NOHIST",
+    "rettigheder": "GeoDanmarks data er frie offentlige grunddata og kan bruges af alle borgere og af den private sektor – også gerne i kommercielle sammenhænge.",
+    "rettigheder_url": "https://www.geodanmark.dk/home/vejledninger/vilkaar-for-data-anvendelse/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob - complete wipe",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "broenddaeksel",
+    "beskrivelse": "Dæksel over nedgang til underjordisk installation.",
+    "kilde": "GeoDanmark60 – landsdækkende GML NOHIST",
+    "rettigheder": "GeoDanmarks data er frie offentlige grunddata og kan bruges af alle borgere og af den private sektor – også gerne i kommercielle sammenhænge.",
+    "rettigheder_url": "https://www.geodanmark.dk/home/vejledninger/vilkaar-for-data-anvendelse/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob - complete wipe",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "brugsgraense",
+    "beskrivelse": "Terrænlinje til afgrænsning af områdeanvendelse.",
+    "kilde": "GeoDanmark60 – landsdækkende GML NOHIST",
+    "rettigheder": "GeoDanmarks data er frie offentlige grunddata og kan bruges af alle borgere og af den private sektor – også gerne i kommercielle sammenhænge.",
+    "rettigheder_url": "https://www.geodanmark.dk/home/vejledninger/vilkaar-for-data-anvendelse/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob - complete wipe",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "bygning",
+    "beskrivelse": "Repræsentation af et bygningsobjekts bebyggede og overdækkede areal.",
+    "kilde": "GeoDanmark60 – landsdækkende GML NOHIST",
+    "rettigheder": "GeoDanmarks data er frie offentlige grunddata og kan bruges af alle borgere og af den private sektor – også gerne i kommercielle sammenhænge.",
+    "rettigheder_url": "https://www.geodanmark.dk/home/vejledninger/vilkaar-for-data-anvendelse/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob - complete wipe",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "bygvaerk",
+    "beskrivelse": "Større konstruktioner, der ikke kan karakteriseres som bygning og ikke er omfattet af en af de andre objekttyper.",
+    "kilde": "GeoDanmark60 – landsdækkende GML NOHIST",
+    "rettigheder": "GeoDanmarks data er frie offentlige grunddata og kan bruges af alle borgere og af den private sektor – også gerne i kommercielle sammenhænge.",
+    "rettigheder_url": "https://www.geodanmark.dk/home/vejledninger/vilkaar-for-data-anvendelse/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob - complete wipe",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "bykerne",
+    "beskrivelse": "Afgrænsning af et område med sammenhængende bebyggelse i den centrale del af en by.",
+    "kilde": "GeoDanmark60 – landsdækkende GML NOHIST",
+    "rettigheder": "GeoDanmarks data er frie offentlige grunddata og kan bruges af alle borgere og af den private sektor – også gerne i kommercielle sammenhænge.",
+    "rettigheder_url": "https://www.geodanmark.dk/home/vejledninger/vilkaar-for-data-anvendelse/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob - complete wipe",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "rel_id": "174",
+    "member_id": "4221694",
+    "member_type_id": 2,
+    "role": "outer",
+    "sequence_id": 0,
+    "septima_serial": "2",
+    "septima_hash86": "AcxvYp++8mJHEDyR1F9tJy8cP9uFpF3vw1bVJqwY6Dq1NsRD4xTfirrluQPcyf1lPu34/e1242zZ1j3ixhhtRQ"
+  },
+  {
+    "rel_id": "174",
+    "member_id": "4221423",
+    "member_type_id": 2,
+    "role": "inner",
+    "sequence_id": 1,
+    "septima_serial": "3",
+    "septima_hash86": "bhLMzW64k/5d6hyX/5QoIKfE3NNh1dkWpAVY1nmlmTM2PGjcZYG6q1hRQ8WDf9YExTdpMdfv5UvQsbYYiNPI5Q"
+  },
+  {
+    "rel_id": "174",
+    "member_id": "4218669",
+    "member_type_id": 2,
+    "role": "outer",
+    "sequence_id": 2,
+    "septima_serial": "4",
+    "septima_hash86": "61RSk4bF2tT84HZmRkWtp9W4u1+Txhze9Irsz8wK6R3JyVMXJ0HsSwdV/U8nN5WgrD1DqhZcu7a79sFY5XwFUw"
+  },
+  {
+    "rel_id": "213",
+    "member_id": "4238632",
+    "member_type_id": 2,
+    "role": "outer",
+    "sequence_id": 0,
+    "septima_serial": "5",
+    "septima_hash86": "4TkC5EwzebZzbDYH+BX3nUx6IynX5V022STvavP73nsUiR4N3Uu1ShbP8dWyQgLPIyYK5Q7VuhHUT49xHkvPQA"
+  },
+  {
+    "rel_id": "213",
+    "member_id": "8136311",
+    "member_type_id": 2,
+    "role": "inner",
+    "sequence_id": 1,
+    "septima_serial": "6",
+    "septima_hash86": "QCCYstJgxn0eWojUD08rOd4ZvmbvoG6x4qEceaj0G2BFU7FM6tWt7aYsW7UZCChNI9NKpzYUaaCgeWE4RRJtjg"
+  },
+  {
+    "rel_id": "339",
+    "member_id": "4303673",
+    "member_type_id": 2,
+    "role": "outer",
+    "sequence_id": 0,
+    "septima_serial": "7",
+    "septima_hash86": "Ce3F2/9Z/6g7L0ksqogp8HlpaJnZLWOrChyuYtniZrfP3jBxdIlAoLt2rOWO9rZXjvXKGOzSScUOc48Hnp5bHw"
+  },
+  {
+    "rel_id": "339",
+    "member_id": "8139382",
+    "member_type_id": 2,
+    "role": "inner",
+    "sequence_id": 1,
+    "septima_serial": "8",
+    "septima_hash86": "fHI3liHqqGoOSVGeyEwu3FVc8WEc3aCMEtsuy7vGBcP6uDgPLl+9XwqC2sy9powJb9zSWoCo18iB8P2zmpT1Fw"
+  },
+  {
+    "rel_id": "339",
+    "member_id": "589858108",
+    "member_type_id": 2,
+    "role": "inner",
+    "sequence_id": 2,
+    "septima_serial": "9",
+    "septima_hash86": "0hZJLi21mSRStroRBtDrSBwxo9wgOQ2sXb0YzM8nzGISXlXtSPLhphbbkAEJePsF9vFutB1dRFOs7fNJbDSMNw"
+  },
+  {
+    "rel_id": "340",
+    "member_id": "854918162",
+    "member_type_id": 2,
+    "role": "inner",
+    "sequence_id": 0,
+    "septima_serial": "10",
+    "septima_hash86": "ofHh08vonVcaew52etryfWTkVVmZMs8Zbjb/b7Zfp7ZqF75PAIx7zpJUKx6bE4JDUKBNvCePIx4YwyaIZMWDGw"
+  },
+  {
+    "rel_id": "340",
+    "member_id": "854918161",
+    "member_type_id": 2,
+    "role": "inner",
+    "sequence_id": 1,
+    "septima_serial": "11",
+    "septima_hash86": "1agOw2wYPMlxV0DVUP5JZj4DCswU4b3BHW4hIzd9Qy4JRiQv46/zT8oxa8zJRg9tXUN3y67VzwZJGgqOKPfEnw"
+  }
+]

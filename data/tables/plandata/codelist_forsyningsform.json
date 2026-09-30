@@ -1,0 +1,26 @@
+[
+  {
+    "code": "1",
+    "text": "Fjernvarme",
+    "septima_hash86": "symrBkdAJw7irIJv1QE7Nr77gHesXno0p2W4bRlvO7qLIn6jWQkweEoyCvJeoT0VUcS23G6zSQhTgSKa3rQK5A",
+    "septima_serial": "2"
+  },
+  {
+    "code": "2",
+    "text": "Individuel naturgasforsyning",
+    "septima_hash86": "sHbcumy2SlU0wmtCtBPRX6+mLGUb81T0hts1CLf+TYkyBPvUoFWY5iFr5oMSDZ41yd70vxDrq1HY++mUyUFl0A",
+    "septima_serial": "3"
+  },
+  {
+    "code": "3",
+    "text": "Anden",
+    "septima_hash86": "eMHmkHfjd3yj8MhvoDJCLUVMeqRg7zQaclMG1ZgPBIFwLVR3xgC7DDYSAZnWHp7OZXGLvLnM+ZmbYO8o98yqEg",
+    "septima_serial": "4"
+  },
+  {
+    "code": "4",
+    "text": "Fremtidigt uspecificeret forsyningsområde",
+    "septima_hash86": "FyHGt+MbTSk1Jjd8P4L4ekAaDeyTDgv48X2N7aJ3ZXZ4eAXCQq2tdJsKUT/v46h4MQk9qh1V07NQLFZDHIbiog",
+    "septima_serial": "5"
+  }
+]

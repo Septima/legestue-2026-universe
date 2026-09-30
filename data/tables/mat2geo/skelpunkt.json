@@ -1,0 +1,355 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.542278763,
+          55.870911493,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "7572327",
+        "forretningsproces": "Anden sagskategori",
+        "id": "25630201",
+        "registreringfra": "2018-06-03T02:41:17.917000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1996-10-30T08:41:17.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "oprindelsessagslokalid": "7572327",
+        "indlaegningstype": "Indlagt over fikspunkter - FP",
+        "oprindelsejournalnummer": "U1965/02717",
+        "produktionsmetode": "Indlagt med koordinaterne fra en skelmåling - MI",
+        "punktklasse": "Indmålt terrestrisk på anden vis - 2",
+        "transformationsid": "29",
+        "supplerendemaalingsagslokalid": null,
+        "lokalid": "13207793",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Skelpunkt",
+        "septima_hash86": "Ps8Jd6ksach7gyv8g80CCbhi4Bk7eNSB7Uqi6AAYHPqibaYPpbpdc2+2AJHN6/Wh4wFCxMyPJWQuc/19mmqdYg",
+        "septima_serial": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.341641037,
+          56.515223038,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "7641800",
+        "forretningsproces": "Anden sagskategori",
+        "id": "25630205",
+        "registreringfra": "2018-06-03T02:41:17.917000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1997-01-23T11:44:55.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "oprindelsessagslokalid": "7641800",
+        "indlaegningstype": "Indlagt over fikspunkter - FP",
+        "oprindelsejournalnummer": "U1969/12824",
+        "produktionsmetode": "Indlagt med koordinaterne fra en skelmåling - MI",
+        "punktklasse": "Indmålt terrestrisk på anden vis - 2",
+        "transformationsid": "0",
+        "supplerendemaalingsagslokalid": null,
+        "lokalid": "13926329",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Skelpunkt",
+        "septima_hash86": "k/E7zts689xS/E3dPlMAVE0i0GL2v3F7R2GPItmyj4lFon4vK+3We4a8ulsZ4GPpdiNoB93cJ0znbtIWouLmog",
+        "septima_serial": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5054944,
+          56.388955007,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "20048146",
+        "forretningsproces": "Matrikulær sag",
+        "id": "25630208",
+        "registreringfra": "2018-06-03T02:41:17.917000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1997-01-23T11:44:55.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "oprindelsessagslokalid": "20048146",
+        "indlaegningstype": "Indlagt over fikspunkter - FP",
+        "oprindelsejournalnummer": "U1995/03812",
+        "produktionsmetode": "Indlagt med koordinaterne fra en skelmåling - MI",
+        "punktklasse": "Indmålt terrestrisk på anden vis - 2",
+        "transformationsid": "0",
+        "supplerendemaalingsagslokalid": null,
+        "lokalid": "13927585",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Skelpunkt",
+        "septima_hash86": "JA8Z1WKZKTXad60qhdpoX2BlTPMiDwwBicyvFKZmUXNefrWPx5c4MjMDgxHhBWydsDW43c/kZaMpPRD0YNsluw",
+        "septima_serial": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.442962801,
+          56.380984244,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "7387183",
+        "forretningsproces": "Anden sagskategori",
+        "id": "25630211",
+        "registreringfra": "2018-06-03T02:41:17.918000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1997-01-23T11:44:55.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "oprindelsessagslokalid": "7387183",
+        "indlaegningstype": "Indlagt over fikspunkter - FP",
+        "oprindelsejournalnummer": "M1946/02665",
+        "produktionsmetode": "Indlagt med koordinaterne fra en skelmåling - MI",
+        "punktklasse": "Indmålt terrestrisk på anden vis - 2",
+        "transformationsid": "0",
+        "supplerendemaalingsagslokalid": null,
+        "lokalid": "13927591",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Skelpunkt",
+        "septima_hash86": "+CMB4Zz8/NLhui2wzMLpq/SMc8nFy0ggwa4XwXBpQGenULrk+aVDBnXRvfFZdyCcqtw125ouSXkJd+o/WqcG9g",
+        "septima_serial": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.458503988,
+          56.469648058,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "7787288",
+        "forretningsproces": "Anden sagskategori",
+        "id": "25630214",
+        "registreringfra": "2018-06-03T02:41:17.918000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1997-01-23T11:44:55.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "oprindelsessagslokalid": "7787288",
+        "indlaegningstype": "Indlagt over fikspunkter - FP",
+        "oprindelsejournalnummer": "U1978/02973",
+        "produktionsmetode": "Indlagt med koordinaterne fra en skelmåling - MI",
+        "punktklasse": "Indmålt terrestrisk på anden vis - 2",
+        "transformationsid": "0",
+        "supplerendemaalingsagslokalid": null,
+        "lokalid": "13960397",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Skelpunkt",
+        "septima_hash86": "ITqdRdm/4bhGnl2S54rlrpfUsUYrTtaP3mNura+4NGaYCv1uR7VRQwz8YEFOI96OVUDLOvVc2RuTkfsKCRbNnA",
+        "septima_serial": "6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.338358505,
+          56.515328798,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "7697953",
+        "forretningsproces": "Anden sagskategori",
+        "id": "25630218",
+        "registreringfra": "2018-06-03T02:41:17.918000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1997-01-23T11:44:55.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "oprindelsessagslokalid": "7697953",
+        "indlaegningstype": "Indlagt over fikspunkter - FP",
+        "oprindelsejournalnummer": "U1972/21140",
+        "produktionsmetode": "Indlagt med koordinaterne fra en skelmåling - MI",
+        "punktklasse": "Indmålt terrestrisk på anden vis - 2",
+        "transformationsid": "0",
+        "supplerendemaalingsagslokalid": null,
+        "lokalid": "13925439",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Skelpunkt",
+        "septima_hash86": "GL1+cPut2VBO2vScjuTCRZX2yBZVWsdO/8qcHW3kebBUUdkVovmAkv0jYHnQ0oKTSWnzfzLbL9DabItXt2gGCA",
+        "septima_serial": "7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.33817253,
+          56.515018601,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "7697953",
+        "forretningsproces": "Anden sagskategori",
+        "id": "25630221",
+        "registreringfra": "2018-06-03T02:41:17.918000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1997-01-23T11:44:55.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "oprindelsessagslokalid": "7697953",
+        "indlaegningstype": "Indlagt over fikspunkter - FP",
+        "oprindelsejournalnummer": "U1972/21140",
+        "produktionsmetode": "Indlagt med koordinaterne fra en skelmåling - MI",
+        "punktklasse": "Indmålt terrestrisk på anden vis - 2",
+        "transformationsid": "0",
+        "supplerendemaalingsagslokalid": null,
+        "lokalid": "13925442",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Skelpunkt",
+        "septima_hash86": "bpSo6UJy0U3EAgqBF8Yrlq4ilHR28bkVMiOw/1J6h1XEXZQo5jzrM0RgMVHLRLuo5q+A4t0qF+6QA6x87ic89Q",
+        "septima_serial": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.436093588,
+          56.468660481,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100058668",
+        "forretningsproces": "Matrikulær sag",
+        "id": "25630224",
+        "registreringfra": "2018-06-03T02:41:17.919000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2012-02-24T09:27:21.749000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "oprindelsessagslokalid": "100058668",
+        "indlaegningstype": "Indlagt over fikspunkter - FP",
+        "oprindelsejournalnummer": "U2012-52704",
+        "produktionsmetode": "Indlagt med koordinaterne fra en skelmåling - MI",
+        "punktklasse": "Indmålt ved hjælp af RTK GPS - 1",
+        "transformationsid": "0",
+        "supplerendemaalingsagslokalid": null,
+        "lokalid": "13961324",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Skelpunkt",
+        "septima_hash86": "M34/dToQzIdSikV8ltwK+3Ztmmn/1agAyc933iBntAaldFwiKIcpRFRFKNSOeZ75/32GAuoF00Gc8p3uD6HYtw",
+        "septima_serial": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.436745988,
+          56.471226089,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "7334793",
+        "forretningsproces": "Anden sagskategori",
+        "id": "25630228",
+        "registreringfra": "2018-06-03T02:41:17.920000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1997-01-23T11:44:55.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "oprindelsessagslokalid": "7334793",
+        "indlaegningstype": "Indlagt over fikspunkter - FP",
+        "oprindelsejournalnummer": "M1937/04130",
+        "produktionsmetode": "Indlagt med koordinaterne fra en skelmåling - MI",
+        "punktklasse": "Indmålt terrestrisk på anden vis - 2",
+        "transformationsid": "0",
+        "supplerendemaalingsagslokalid": null,
+        "lokalid": "13961325",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Skelpunkt",
+        "septima_hash86": "hL/IW2GDa6LTznjP3jWtyJ4CnSIGwEjQHV+NN1klEc7lCMjvMECFHql5SOPEmB5LV2J/uZ7tVH3YoDEEA3H++A",
+        "septima_serial": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.124182068,
+          56.15169214,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "7818493",
+        "forretningsproces": "Anden sagskategori",
+        "id": "26893043",
+        "registreringfra": "2018-06-03T06:07:45.700000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2006-05-29T14:28:12.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "oprindelsessagslokalid": "7818493",
+        "indlaegningstype": "Indlagt over fikspunkter - FP",
+        "oprindelsejournalnummer": "U1980/02867",
+        "produktionsmetode": "Indlagt med koordinaterne fra en skelmåling - MI",
+        "punktklasse": "Indmålt terrestrisk på anden vis - 2",
+        "transformationsid": "11600438",
+        "supplerendemaalingsagslokalid": null,
+        "lokalid": "2302834",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Skelpunkt",
+        "septima_hash86": "AUBpdu8idYmKQE79QOMZWha1ZcyykdvjAmfOjX8mPUAc2LZFRYNwIY2GUXKTz1mfb1dJ86K9gc79VRkYXs33aw",
+        "septima_serial": "11"
+      }
+    }
+  ]
+}

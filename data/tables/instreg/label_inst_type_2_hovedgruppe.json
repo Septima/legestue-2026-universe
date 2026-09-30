@@ -1,0 +1,37 @@
+[
+  {
+    "inst_type_2_hovedgruppe": "1",
+    "inst_type_2_hovedgruppe_tekst": "Almene skoler",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "x9HPtagVioOyfiC4BagC3mbCr4KGn7HYfLIkGCHfO3J6WZiuhyD1uF2dtNyFW86HA2E5v/QmR4QdvzE7roofBQ",
+    "septima_serial": "2"
+  },
+  {
+    "inst_type_2_hovedgruppe": "2",
+    "inst_type_2_hovedgruppe_tekst": "Erhvervsskoler mv.",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "HyHv1lW3tOaoH4Gq+6+b+QciRyL4jY11vVHek1RZRaYdKWNrjUvGnkXeOUYrlpvZTl4X6wUGz/6P08NBiowwag",
+    "septima_serial": "3"
+  },
+  {
+    "inst_type_2_hovedgruppe": "3",
+    "inst_type_2_hovedgruppe_tekst": "Videregående uddannelsesinstitutioner",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "HzKKi4ZAtK91QRnIEYh/kPBG20KbG/r51mM0hzrg7W16F+9Q+bxqo8HlZtUBFUiPYOwwupVFcRnIX1k542Og1Q",
+    "septima_serial": "4"
+  },
+  {
+    "inst_type_2_hovedgruppe": "9",
+    "inst_type_2_hovedgruppe_tekst": "Andre adresser",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "EFU7ExewPd/CnZ3lAUcqItolhN8WdUukUSGkxmsshPiSRCNgYV/k4yzuMg3TyjigMHxV0/4b0veHh6NGtD47DA",
+    "septima_serial": "5"
+  },
+  {
+    "inst_type_2_hovedgruppe": "4",
+    "inst_type_2_hovedgruppe_tekst": "Udenlandske institutioner",
+    "septima_transaktion_id": "147706840",
+    "septima_hash86": "iLcU0T9rElbRvvbQ36RMxdSibWHadUY67vmo9Oveu+Vwv8yhHO2X4MyDR2lg2yPRoap28xnGs71qvj2kGsu31w",
+    "septima_serial": "6405"
+  }
+]

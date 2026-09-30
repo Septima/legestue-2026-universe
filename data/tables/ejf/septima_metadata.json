@@ -1,0 +1,137 @@
+[
+  {
+    "tabelnavn": "alternativadresse",
+    "beskrivelse": "Ejerfortegnelsen er et autoritativt register over de faktiske ejere af al fast ejendom i Danmark baseret på den fællesoffentlige ejendomsnøgle ”BFE-nummer”. Ejerfortegnelsen indeholder oplysninger om de personer og virksomheder, som råder over en fast ejendom, og hvortil meddelelser vedrørende ejendommen kan sendes.",
+    "kilde": "EJFTotaludtraekFladCompleteXML",
+    "rettigheder": "Niveau 1 – Ejerfortegnelsen. Geodatastyrelsen, herefter Myndigheden, har de immaterielle rettigheder til persondata uden følsomme data (herefter data),  og giver på nedenstående vilkår brugsret til data.\n\nVilkårene accepteres ved enhver brug af data. Vilkårene reguleres af dansk ret.\n\nGeodatastyrelsen har ikke rettigheden til øvrige fortrolige data. Brugen heraf reguleres ift. persondatalovgivningen. Data må ikke bruges på en måde, så det kan fremstå som om, at myndigheden godkender, støtter, anbefaler eller markedsfører brugeren, brugerens produkter eller tjenester.\n\nDet skal sikres, at brug af data er i overensstemmelse med dansk ret. ",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejerfortegnelsen-ejf/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob - DeltaDaily",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "ejendomsadministrator",
+    "beskrivelse": "Ejerfortegnelsen er et autoritativt register over de faktiske ejere af al fast ejendom i Danmark baseret på den fællesoffentlige ejendomsnøgle ”BFE-nummer”. Ejerfortegnelsen indeholder oplysninger om de personer og virksomheder, som råder over en fast ejendom, og hvortil meddelelser vedrørende ejendommen kan sendes.",
+    "kilde": "EJFTotaludtraekFladCompleteXML",
+    "rettigheder": "Niveau 1 – Ejerfortegnelsen. Geodatastyrelsen, herefter Myndigheden, har de immaterielle rettigheder til persondata uden følsomme data (herefter data),  og giver på nedenstående vilkår brugsret til data.\n\nVilkårene accepteres ved enhver brug af data. Vilkårene reguleres af dansk ret.\n\nGeodatastyrelsen har ikke rettigheden til øvrige fortrolige data. Brugen heraf reguleres ift. persondatalovgivningen. Data må ikke bruges på en måde, så det kan fremstå som om, at myndigheden godkender, støtter, anbefaler eller markedsfører brugeren, brugerens produkter eller tjenester.\n\nDet skal sikres, at brug af data er i overensstemmelse med dansk ret. ",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejerfortegnelsen-ejf/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob - DeltaDaily",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "ejerskab",
+    "beskrivelse": "Ejerfortegnelsen er et autoritativt register over de faktiske ejere af al fast ejendom i Danmark baseret på den fællesoffentlige ejendomsnøgle ”BFE-nummer”. Ejerfortegnelsen indeholder oplysninger om de personer og virksomheder, som råder over en fast ejendom, og hvortil meddelelser vedrørende ejendommen kan sendes.",
+    "kilde": "EJFTotaludtraekFladCompleteXML",
+    "rettigheder": "Niveau 1 – Ejerfortegnelsen. Geodatastyrelsen, herefter Myndigheden, har de immaterielle rettigheder til persondata uden følsomme data (herefter data),  og giver på nedenstående vilkår brugsret til data.\n\nVilkårene accepteres ved enhver brug af data. Vilkårene reguleres af dansk ret.\n\nGeodatastyrelsen har ikke rettigheden til øvrige fortrolige data. Brugen heraf reguleres ift. persondatalovgivningen. Data må ikke bruges på en måde, så det kan fremstå som om, at myndigheden godkender, støtter, anbefaler eller markedsfører brugeren, brugerens produkter eller tjenester.\n\nDet skal sikres, at brug af data er i overensstemmelse med dansk ret. ",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejerfortegnelsen-ejf/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob - DeltaDaily",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "ejerskabsskifte",
+    "beskrivelse": "Ejerfortegnelsen er et autoritativt register over de faktiske ejere af al fast ejendom i Danmark baseret på den fællesoffentlige ejendomsnøgle ”BFE-nummer”. Ejerfortegnelsen indeholder oplysninger om de personer og virksomheder, som råder over en fast ejendom, og hvortil meddelelser vedrørende ejendommen kan sendes.",
+    "kilde": "EJFTotaludtraekFladCompleteXML",
+    "rettigheder": "Niveau 1 – Ejerfortegnelsen. Geodatastyrelsen, herefter Myndigheden, har de immaterielle rettigheder til persondata uden følsomme data (herefter data),  og giver på nedenstående vilkår brugsret til data.\n\nVilkårene accepteres ved enhver brug af data. Vilkårene reguleres af dansk ret.\n\nGeodatastyrelsen har ikke rettigheden til øvrige fortrolige data. Brugen heraf reguleres ift. persondatalovgivningen. Data må ikke bruges på en måde, så det kan fremstå som om, at myndigheden godkender, støtter, anbefaler eller markedsfører brugeren, brugerens produkter eller tjenester.\n\nDet skal sikres, at brug af data er i overensstemmelse med dansk ret. ",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejerfortegnelsen-ejf/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob - DeltaDaily",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "ejerskifte",
+    "beskrivelse": "Ejerfortegnelsen er et autoritativt register over de faktiske ejere af al fast ejendom i Danmark baseret på den fællesoffentlige ejendomsnøgle ”BFE-nummer”. Ejerfortegnelsen indeholder oplysninger om de personer og virksomheder, som råder over en fast ejendom, og hvortil meddelelser vedrørende ejendommen kan sendes.",
+    "kilde": "EJFTotaludtraekFladCompleteXML",
+    "rettigheder": "Niveau 1 – Ejerfortegnelsen. Geodatastyrelsen, herefter Myndigheden, har de immaterielle rettigheder til persondata uden følsomme data (herefter data),  og giver på nedenstående vilkår brugsret til data.\n\nVilkårene accepteres ved enhver brug af data. Vilkårene reguleres af dansk ret.\n\nGeodatastyrelsen har ikke rettigheden til øvrige fortrolige data. Brugen heraf reguleres ift. persondatalovgivningen. Data må ikke bruges på en måde, så det kan fremstå som om, at myndigheden godkender, støtter, anbefaler eller markedsfører brugeren, brugerens produkter eller tjenester.\n\nDet skal sikres, at brug af data er i overensstemmelse med dansk ret. ",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejerfortegnelsen-ejf/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob - DeltaDaily",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "ejerskifte_bilagsbankref",
+    "beskrivelse": "Ejerfortegnelsen er et autoritativt register over de faktiske ejere af al fast ejendom i Danmark baseret på den fællesoffentlige ejendomsnøgle ”BFE-nummer”. Ejerfortegnelsen indeholder oplysninger om de personer og virksomheder, som råder over en fast ejendom, og hvortil meddelelser vedrørende ejendommen kan sendes.",
+    "kilde": "EJFTotaludtraekFladCompleteXML",
+    "rettigheder": "Niveau 1 – Ejerfortegnelsen. Geodatastyrelsen, herefter Myndigheden, har de immaterielle rettigheder til persondata uden følsomme data (herefter data),  og giver på nedenstående vilkår brugsret til data.\n\nVilkårene accepteres ved enhver brug af data. Vilkårene reguleres af dansk ret.\n\nGeodatastyrelsen har ikke rettigheden til øvrige fortrolige data. Brugen heraf reguleres ift. persondatalovgivningen. Data må ikke bruges på en måde, så det kan fremstå som om, at myndigheden godkender, støtter, anbefaler eller markedsfører brugeren, brugerens produkter eller tjenester.\n\nDet skal sikres, at brug af data er i overensstemmelse med dansk ret. ",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejerfortegnelsen-ejf/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob - DeltaDaily",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "handelsoplysninger",
+    "beskrivelse": "Ejerfortegnelsen er et autoritativt register over de faktiske ejere af al fast ejendom i Danmark baseret på den fællesoffentlige ejendomsnøgle ”BFE-nummer”. Ejerfortegnelsen indeholder oplysninger om de personer og virksomheder, som råder over en fast ejendom, og hvortil meddelelser vedrørende ejendommen kan sendes.",
+    "kilde": "EJFTotaludtraekFladCompleteXML",
+    "rettigheder": "Niveau 1 – Ejerfortegnelsen. Geodatastyrelsen, herefter Myndigheden, har de immaterielle rettigheder til persondata uden følsomme data (herefter data),  og giver på nedenstående vilkår brugsret til data.\n\nVilkårene accepteres ved enhver brug af data. Vilkårene reguleres af dansk ret.\n\nGeodatastyrelsen har ikke rettigheden til øvrige fortrolige data. Brugen heraf reguleres ift. persondatalovgivningen. Data må ikke bruges på en måde, så det kan fremstå som om, at myndigheden godkender, støtter, anbefaler eller markedsfører brugeren, brugerens produkter eller tjenester.\n\nDet skal sikres, at brug af data er i overensstemmelse med dansk ret. ",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejerfortegnelsen-ejf/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob - DeltaDaily",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "personellervirksomhedsadmini",
+    "beskrivelse": "Ejerfortegnelsen er et autoritativt register over de faktiske ejere af al fast ejendom i Danmark baseret på den fællesoffentlige ejendomsnøgle ”BFE-nummer”. Ejerfortegnelsen indeholder oplysninger om de personer og virksomheder, som råder over en fast ejendom, og hvortil meddelelser vedrørende ejendommen kan sendes.",
+    "kilde": "EJFTotaludtraekFladCompleteXML",
+    "rettigheder": "Niveau 1 – Ejerfortegnelsen. Geodatastyrelsen, herefter Myndigheden, har de immaterielle rettigheder til persondata uden følsomme data (herefter data),  og giver på nedenstående vilkår brugsret til data.\n\nVilkårene accepteres ved enhver brug af data. Vilkårene reguleres af dansk ret.\n\nGeodatastyrelsen har ikke rettigheden til øvrige fortrolige data. Brugen heraf reguleres ift. persondatalovgivningen. Data må ikke bruges på en måde, så det kan fremstå som om, at myndigheden godkender, støtter, anbefaler eller markedsfører brugeren, brugerens produkter eller tjenester.\n\nDet skal sikres, at brug af data er i overensstemmelse med dansk ret. ",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejerfortegnelsen-ejf/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob - DeltaDaily",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "personvirksomhedsoplys",
+    "beskrivelse": "Ejerfortegnelsen er et autoritativt register over de faktiske ejere af al fast ejendom i Danmark baseret på den fællesoffentlige ejendomsnøgle ”BFE-nummer”. Ejerfortegnelsen indeholder oplysninger om de personer og virksomheder, som råder over en fast ejendom, og hvortil meddelelser vedrørende ejendommen kan sendes.",
+    "kilde": "EJFTotaludtraekFladCompleteXML",
+    "rettigheder": "Niveau 1 – Ejerfortegnelsen. Geodatastyrelsen, herefter Myndigheden, har de immaterielle rettigheder til persondata uden følsomme data (herefter data),  og giver på nedenstående vilkår brugsret til data.\n\nVilkårene accepteres ved enhver brug af data. Vilkårene reguleres af dansk ret.\n\nGeodatastyrelsen har ikke rettigheden til øvrige fortrolige data. Brugen heraf reguleres ift. persondatalovgivningen. Data må ikke bruges på en måde, så det kan fremstå som om, at myndigheden godkender, støtter, anbefaler eller markedsfører brugeren, brugerens produkter eller tjenester.\n\nDet skal sikres, at brug af data er i overensstemmelse med dansk ret. ",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejerfortegnelsen-ejf/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob - DeltaDaily",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  }
+]

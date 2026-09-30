@@ -1,0 +1,1413 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.760169212,
+                55.948368212,
+                0
+              ],
+              [
+                11.75916254,
+                55.947891325,
+                0
+              ],
+              [
+                11.760928235,
+                55.947063337,
+                0
+              ],
+              [
+                11.761921446,
+                55.947618997,
+                0
+              ],
+              [
+                11.760169212,
+                55.948368212,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "360052",
+        "gmlid": "sn.33be17c6-1089-616c-e053-d480220aa333.20160526T141312",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "33be17c6-1089-616c-e053-d480220aa333",
+        "registreringfra": "2016-05-26T12:13:12.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2016-05-26T12:13:12.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2016-05-26T12:09:42.000Z",
+        "navn_1_skrivemaade": "Højsandspladsen",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "11802",
+        "idraetsanlaegstype": "stadion",
+        "skyderetning": null,
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "OCxez1v7wXoLP9Y0ZHUaaTeBdYdvj8Fd0XbFSqC7m/NE9JqUgCzTvFO6YxGvzRJbLHveAko/bmXsBpwPbdTnPQ",
+        "septima_serial": "85375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.158385568,
+                55.705157637,
+                0
+              ],
+              [
+                12.15485817,
+                55.706472227,
+                0
+              ],
+              [
+                12.154745234,
+                55.706482268,
+                0
+              ],
+              [
+                12.154485237,
+                55.706392614,
+                0
+              ],
+              [
+                12.15371843,
+                55.706051953,
+                0
+              ],
+              [
+                12.153241713,
+                55.705703831,
+                0
+              ],
+              [
+                12.152597299,
+                55.705078141,
+                0
+              ],
+              [
+                12.152219166,
+                55.704227956,
+                0
+              ],
+              [
+                12.154791559,
+                55.70368729,
+                0
+              ],
+              [
+                12.155661753,
+                55.70374341,
+                0
+              ],
+              [
+                12.157247474,
+                55.704366274,
+                0
+              ],
+              [
+                12.157998252,
+                55.704821505,
+                0
+              ],
+              [
+                12.158385568,
+                55.705157637,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "356989",
+        "gmlid": "sn.2e14cab0-53f3-0c3b-e053-d480220ac5cf.20160315T112343",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "2e14cab0-53f3-0c3b-e053-d480220ac5cf",
+        "registreringfra": "2016-03-15T10:23:43.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2016-03-15T10:23:43.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2016-03-15T10:23:44.000Z",
+        "navn_1_skrivemaade": "Gundsølille Idrætsanlæg",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "73497",
+        "idraetsanlaegstype": "stadion",
+        "skyderetning": null,
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "lGPtEYZyXCA7OU0HmZRSqn6kGcjoRfkq7ERHiU5S7ri55ATWftit0NaJ6QJCoPhFj40OtXS5XkclZYBxNZfUAg",
+        "septima_serial": "85376"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.071815488,
+                55.637697163,
+                0
+              ],
+              [
+                12.069590115,
+                55.637218035,
+                0
+              ],
+              [
+                12.070181153,
+                55.635915844,
+                0
+              ],
+              [
+                12.070769209,
+                55.636037765,
+                0
+              ],
+              [
+                12.071314773,
+                55.634805031,
+                0
+              ],
+              [
+                12.072953133,
+                55.63462013,
+                0
+              ],
+              [
+                12.073299184,
+                55.635629142,
+                0
+              ],
+              [
+                12.073798575,
+                55.635674158,
+                0
+              ],
+              [
+                12.07458067,
+                55.635676122,
+                0
+              ],
+              [
+                12.074635498,
+                55.636537803,
+                0
+              ],
+              [
+                12.074592616,
+                55.636639569,
+                0
+              ],
+              [
+                12.07439833,
+                55.636594096,
+                0
+              ],
+              [
+                12.074227738,
+                55.636767203,
+                0
+              ],
+              [
+                12.074278489,
+                55.636803921,
+                0
+              ],
+              [
+                12.074360375,
+                55.636907772,
+                0
+              ],
+              [
+                12.074392291,
+                55.637014853,
+                0
+              ],
+              [
+                12.074369375,
+                55.637103711,
+                0
+              ],
+              [
+                12.074279928,
+                55.637282612,
+                0
+              ],
+              [
+                12.074144874,
+                55.637508235,
+                0
+              ],
+              [
+                12.074002757,
+                55.637676229,
+                0
+              ],
+              [
+                12.07385059,
+                55.637807256,
+                0
+              ],
+              [
+                12.073768268,
+                55.637914266,
+                0
+              ],
+              [
+                12.073656755,
+                55.638098829,
+                0
+              ],
+              [
+                12.073320317,
+                55.638047343,
+                0
+              ],
+              [
+                12.073301714,
+                55.638035321,
+                0
+              ],
+              [
+                12.072407506,
+                55.637882964,
+                0
+              ],
+              [
+                12.072453313,
+                55.637823539,
+                0
+              ],
+              [
+                12.071871191,
+                55.637708264,
+                0
+              ],
+              [
+                12.071815488,
+                55.637697163,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "355647",
+        "gmlid": "sn.12337669-9ec0-6b98-e053-d480220a5a3f.20160211T161743",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "12337669-9ec0-6b98-e053-d480220a5a3f",
+        "registreringfra": "2016-02-11T15:17:43.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2016-02-11T15:17:43.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2015-03-26T15:30:42.000Z",
+        "navn_1_skrivemaade": "Roskilde Idrætspark",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "76476",
+        "idraetsanlaegstype": "stadion",
+        "skyderetning": null,
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "fLRFi5v25LZrHfhzMX/xDQxweIfeDU0UVbdvpnzdX60ljAU64wRS0A5Dx5+yilAd46i/35bQLxsqps0+an/ckg",
+        "septima_serial": "85377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.387473299,
+                55.878195061,
+                0
+              ],
+              [
+                12.388392783,
+                55.875602776,
+                0
+              ],
+              [
+                12.388666213,
+                55.875589919,
+                0
+              ],
+              [
+                12.388685087,
+                55.875591592,
+                0
+              ],
+              [
+                12.388770926,
+                55.875724253,
+                0
+              ],
+              [
+                12.389020297,
+                55.876367909,
+                0
+              ],
+              [
+                12.389182106,
+                55.876785543,
+                0
+              ],
+              [
+                12.389222909,
+                55.876890853,
+                0
+              ],
+              [
+                12.389801692,
+                55.878384599,
+                0
+              ],
+              [
+                12.389008291,
+                55.878347234,
+                0
+              ],
+              [
+                12.387473299,
+                55.878195061,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "370469",
+        "gmlid": "sn.3fabdc03-f5b4-7e3e-e053-d380220a38ca.20161025T114324",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "3fabdc03-f5b4-7e3e-e053-d380220a38ca",
+        "registreringfra": "2016-10-25T09:43:24.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2016-10-25T09:43:24.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2016-10-25T09:43:24.000Z",
+        "navn_1_skrivemaade": "Blovstrød Stadion",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "25076",
+        "idraetsanlaegstype": "stadion",
+        "skyderetning": null,
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "ZLw05IL+VPl76uv6EtFJtfLI5ySKwMtJCS2dzAycujk5Yl+f2dU9FuiM2cxXoeyWLwo266yCT1jnZLnqjMV6eg",
+        "septima_serial": "85378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.323144419,
+                55.750580222,
+                0
+              ],
+              [
+                12.323862128,
+                55.750432917,
+                0
+              ],
+              [
+                12.323807644,
+                55.750341371,
+                0
+              ],
+              [
+                12.324787023,
+                55.750153504,
+                0
+              ],
+              [
+                12.325168481,
+                55.750054404,
+                0
+              ],
+              [
+                12.325157015,
+                55.749994054,
+                0
+              ],
+              [
+                12.327128818,
+                55.749598076,
+                0
+              ],
+              [
+                12.327739688,
+                55.750671749,
+                0
+              ],
+              [
+                12.325217539,
+                55.75114851,
+                0
+              ],
+              [
+                12.325356644,
+                55.751382686,
+                0
+              ],
+              [
+                12.323840708,
+                55.751669088,
+                0
+              ],
+              [
+                12.323144419,
+                55.750580222,
+                0
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                12.320546819,
+                55.750425711,
+                0
+              ],
+              [
+                12.320631961,
+                55.749394324,
+                0
+              ],
+              [
+                12.320704576,
+                55.749385224,
+                0
+              ],
+              [
+                12.321068957,
+                55.749325411,
+                0
+              ],
+              [
+                12.320989991,
+                55.749170544,
+                0
+              ],
+              [
+                12.322991255,
+                55.748868037,
+                0
+              ],
+              [
+                12.323506306,
+                55.749924571,
+                0
+              ],
+              [
+                12.322456227,
+                55.750113567,
+                0
+              ],
+              [
+                12.321685734,
+                55.750427014,
+                0
+              ],
+              [
+                12.320546819,
+                55.750425711,
+                0
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                12.32405318,
+                55.749624304,
+                0
+              ],
+              [
+                12.323622585,
+                55.748748067,
+                0
+              ],
+              [
+                12.324598911,
+                55.748603277,
+                0
+              ],
+              [
+                12.324959328,
+                55.749492716,
+                0
+              ],
+              [
+                12.32405318,
+                55.749624304,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "370485",
+        "gmlid": "sn.3fabdc03-f5b7-7e3e-e053-d380220a38ca.20161025T125010",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "3fabdc03-f5b7-7e3e-e053-d380220a38ca",
+        "registreringfra": "2016-10-25T10:50:10.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2016-10-25T10:50:10.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2016-10-25T10:50:10.000Z",
+        "navn_1_skrivemaade": "Måløv Idrætspark",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "63022",
+        "idraetsanlaegstype": "stadion",
+        "skyderetning": null,
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "tXm8KXFC6f4Bo/pYE4rf0HmwLRffnnkLYQEDZWloLBWaRK0gLDqMwUrG/cdNmB8B7vzBr2puabKbWpY9Lu2Nlg",
+        "septima_serial": "85379"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.258857965,
+                55.790526712,
+                0
+              ],
+              [
+                12.259457884,
+                55.789306543,
+                0
+              ],
+              [
+                12.260596841,
+                55.789484457,
+                0
+              ],
+              [
+                12.260079644,
+                55.790494294,
+                0
+              ],
+              [
+                12.259976141,
+                55.790708158,
+                0
+              ],
+              [
+                12.258857965,
+                55.790526712,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "370517",
+        "gmlid": "sn.3fabdc03-f5b9-7e3e-e053-d380220a38ca.20161025T133606",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "3fabdc03-f5b9-7e3e-e053-d380220a38ca",
+        "registreringfra": "2016-10-25T11:36:06.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2016-10-25T11:36:06.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2016-10-25T11:36:06.000Z",
+        "navn_1_skrivemaade": "Ganløse Stadion",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "10379",
+        "idraetsanlaegstype": "stadion",
+        "skyderetning": null,
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "0VlqKFJTgAEqP/JeB+diHB3q+2P2VB1wDB8Xxe624teJu2QU8BA7H7cRG67DOXOa/ZUuPITro+0n/+qM3PGlqw",
+        "septima_serial": "85380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.418233685,
+                55.97888166,
+                0
+              ],
+              [
+                12.417730105,
+                55.978379335,
+                0
+              ],
+              [
+                12.417542662,
+                55.978442819,
+                0
+              ],
+              [
+                12.416083332,
+                55.976948349,
+                0
+              ],
+              [
+                12.418123768,
+                55.976332696,
+                0
+              ],
+              [
+                12.419578544,
+                55.977818795,
+                0
+              ],
+              [
+                12.419060382,
+                55.977975915,
+                0
+              ],
+              [
+                12.419581318,
+                55.978469149,
+                0
+              ],
+              [
+                12.418233685,
+                55.97888166,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "370532",
+        "gmlid": "sn.3fabdc03-f5be-7e3e-e053-d380220a38ca.20161025T142936",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "3fabdc03-f5be-7e3e-e053-d380220a38ca",
+        "registreringfra": "2016-10-25T12:29:36.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2016-10-25T12:29:36.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2016-10-25T12:29:36.000Z",
+        "navn_1_skrivemaade": "Fredensborg Idrætsanlæg",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "33444",
+        "idraetsanlaegstype": "stadion",
+        "skyderetning": null,
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "cuRi8ay9P2gFHLJuFShClfCf7YzCVVStt1veU+i8ZPQWOIwUldo149vRA43dHyEhgl3t29Lbjm5cOgjsjnwHtQ",
+        "septima_serial": "85381"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.907295058,
+                55.760253531,
+                0
+              ],
+              [
+                11.907862972,
+                55.758941591,
+                0
+              ],
+              [
+                11.910352553,
+                55.759354191,
+                0
+              ],
+              [
+                11.911286007,
+                55.759505574,
+                0
+              ],
+              [
+                11.911502861,
+                55.759539178,
+                0
+              ],
+              [
+                11.911428784,
+                55.75958269,
+                0
+              ],
+              [
+                11.911408919,
+                55.759613052,
+                0
+              ],
+              [
+                11.911295023,
+                55.759720156,
+                0
+              ],
+              [
+                11.911216218,
+                55.759781517,
+                0
+              ],
+              [
+                11.911145968,
+                55.759839202,
+                0
+              ],
+              [
+                11.911045264,
+                55.759924593,
+                0
+              ],
+              [
+                11.91096919,
+                55.759996083,
+                0
+              ],
+              [
+                11.910932822,
+                55.760080737,
+                0
+              ],
+              [
+                11.910938266,
+                55.760113059,
+                0
+              ],
+              [
+                11.910956307,
+                55.760220184,
+                0
+              ],
+              [
+                11.910924087,
+                55.7602219,
+                0
+              ],
+              [
+                11.910869421,
+                55.760370562,
+                0
+              ],
+              [
+                11.910887632,
+                55.760549184,
+                0
+              ],
+              [
+                11.910934049,
+                55.760650205,
+                0
+              ],
+              [
+                11.910859184,
+                55.760654757,
+                0
+              ],
+              [
+                11.910592403,
+                55.760655974,
+                0
+              ],
+              [
+                11.910373025,
+                55.760653604,
+                0
+              ],
+              [
+                11.910226784,
+                55.760646399,
+                0
+              ],
+              [
+                11.910060657,
+                55.760630361,
+                0
+              ],
+              [
+                11.909183211,
+                55.760517358,
+                0
+              ],
+              [
+                11.907295058,
+                55.760253531,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "370565",
+        "gmlid": "sn.3fbf5a08-caaa-18e2-e053-d380220aa142.20161026T095812",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "3fbf5a08-caaa-18e2-e053-d380220aa142",
+        "registreringfra": "2016-10-26T07:58:12.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2016-10-26T07:58:12.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2016-10-26T07:58:12.000Z",
+        "navn_1_skrivemaade": "Ferslev Idrætsplads",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "32461",
+        "idraetsanlaegstype": "stadion",
+        "skyderetning": null,
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "P6j20Y0ukvoGB4Y8XPFFhYyKcZ2bPArpidRxPfu7xfUDIH1p405zS9E8w5HkgwDZp/J171lsT7ultlWdk8Zl7w",
+        "septima_serial": "85382"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.559278797,
+                55.717980336,
+                0
+              ],
+              [
+                12.561103114,
+                55.717157288,
+                0
+              ],
+              [
+                12.564930444,
+                55.71998476,
+                0
+              ],
+              [
+                12.56457992,
+                55.720066958,
+                0
+              ],
+              [
+                12.564698305,
+                55.720163439,
+                0
+              ],
+              [
+                12.563772293,
+                55.7205472,
+                0
+              ],
+              [
+                12.563291888,
+                55.720218057,
+                0
+              ],
+              [
+                12.562134833,
+                55.720606603,
+                0
+              ],
+              [
+                12.559278797,
+                55.717980336,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "366617",
+        "gmlid": "sn.3cdafec3-052c-5fc4-e053-d380220aefbb.20160919T134203",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "3cdafec3-052c-5fc4-e053-d380220aefbb",
+        "registreringfra": "2016-09-19T11:42:03.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2016-09-19T11:42:03.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2016-09-19T11:42:03.000Z",
+        "navn_1_skrivemaade": "Ryparkens Idrætsanlæg",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "62102",
+        "idraetsanlaegstype": "stadion",
+        "skyderetning": null,
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "+/k1eTF50PKet/1FwUFVSDDrr9NpxSpOF9TqJtvYFwT95y9lU85yfbSqYzWvXboILUU5B1t8h9/L02+BM4l2Rg",
+        "septima_serial": "85383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.526111647,
+                55.758328083,
+                0
+              ],
+              [
+                12.527273395,
+                55.757516293,
+                0
+              ],
+              [
+                12.528280365,
+                55.757956497,
+                0
+              ],
+              [
+                12.527118175,
+                55.758774972,
+                0
+              ],
+              [
+                12.526111647,
+                55.758328083,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "370609",
+        "gmlid": "sn.3fbf5a08-cabe-18e2-e053-d380220aa142.20161026T122003",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "3fbf5a08-cabe-18e2-e053-d380220aa142",
+        "registreringfra": "2016-10-26T10:20:03.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2016-10-26T10:20:03.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2016-10-26T10:20:03.000Z",
+        "navn_1_skrivemaade": "Gentofte Stadion",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "9342",
+        "idraetsanlaegstype": "stadion",
+        "skyderetning": null,
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "oNx2Nc1TSGmTowo2RmI+oW9YrrDlO6RoT4OZwVCMq9eNVyOlEI/Re5sGZ4pVLX20buA6WZNhT46uleH5G2SdoQ",
+        "septima_serial": "85384"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "code": 1,
+    "text": "Byzone",
+    "septima_transaktion_id": "109251558",
+    "septima_hash86": "CfzY+DSjsuT0/dFmkh895Oxc6rixgsYulWV13o1bp+E6cA1dDUIYSwathC9cNVXLLQL/7rNCMXhgFdb7MuzFww",
+    "septima_serial": "2"
+  },
+  {
+    "code": 2,
+    "text": "Landzone",
+    "septima_transaktion_id": "109251558",
+    "septima_hash86": "XbKYoio6LsdNY0AiU8tL1rMD7Y2+g5yKooogUNslKX7ZZZb0cr81y7STZ1ylYaltZ0xDd1h9nK2Ulq0foaV7lw",
+    "septima_serial": "3"
+  },
+  {
+    "code": 3,
+    "text": "Sommerhusområde",
+    "septima_transaktion_id": "109251558",
+    "septima_hash86": "PhxJs+R3skDyLu8COw/xJf6rnV6snPvXfLbzp262DL9Ab75sRMJx25VZ00YtTSfrQhN3WQYECfGg8fk87y7XHg",
+    "septima_serial": "4"
+  },
+  {
+    "code": 4,
+    "text": "Byzone og landzone",
+    "septima_transaktion_id": "109251558",
+    "septima_hash86": "CE3c53d9HjL8Z5KchQIwO63l6TxkZTqQUcX5U9hMwVYwFgZxkO/H/tnVaeWTJVNjhg3e2Jl6ALzwqzONqW/yXg",
+    "septima_serial": "5"
+  },
+  {
+    "code": 5,
+    "text": "Sommerhusområde og landzone",
+    "septima_transaktion_id": "109251558",
+    "septima_hash86": "IH+2m/jVXukk5gb6phffAGQH3HJ/+dyl/NnVFiUq6cPPjefbbiLiH1lE54m9eh9dMFZJon9TFJqc82FGHdOGrA",
+    "septima_serial": "6"
+  },
+  {
+    "code": 6,
+    "text": "By og sommerhusområde",
+    "septima_transaktion_id": "109251558",
+    "septima_hash86": "TUilWkLiW8iFvyDNTO8sHs4Wtx6vE4N4Ap+bPBYcqpFvZZ8qZ9YH/Va06/qx3y+MYc1qXHKTmhlwBjPKHp+Rcg",
+    "septima_serial": "7"
+  },
+  {
+    "code": 7,
+    "text": "Byzone, landzone og sommerhusområde",
+    "septima_transaktion_id": "109251558",
+    "septima_hash86": "kMizVtyGDavHM3sz6xdIPqNvYNvNUXzks/ZM3Xm00T5KkWnvA7xjVXCQjlNDAjS3ndhUky3yKVBjwtMNPAHsKA",
+    "septima_serial": "8"
+  }
+]

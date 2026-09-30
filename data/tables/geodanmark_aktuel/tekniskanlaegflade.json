@@ -1,0 +1,835 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.848382428,
+              54.998622004,
+              -999
+            ],
+            [
+              10.848547622,
+              54.998691937,
+              -999
+            ],
+            [
+              10.849191599,
+              54.998317504,
+              -999
+            ],
+            [
+              10.849036516,
+              54.998229443,
+              -999
+            ],
+            [
+              10.848382428,
+              54.998622004,
+              -999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1213251179",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Langeland",
+        "registreringfra": "2020-11-11T07:39:55.152Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Langeland",
+        "virkningfra": "2020-11-11T07:39:51.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "geokoderen.dk",
+        "kommentar": null,
+        "bbruuid": "c79aeb1e-e689-47bd-ab7b-0657715a3569",
+        "synligtanlaeg": false,
+        "underterraen": true,
+        "underminimumtanflade": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "1104277",
+        "septima_hash86": "QkB58i+ZLmXKpqyJz0bUUelqx+KJphA2IDkJyVn2szAslTiEMrekQJdghlDYAxK4bahLPN+4psSqxkZ3O8gmmw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.675602126,
+              56.320866863,
+              -999
+            ],
+            [
+              8.675302928,
+              56.320686389,
+              -999
+            ],
+            [
+              8.675906821,
+              56.320398668,
+              -999
+            ],
+            [
+              8.676273528,
+              56.320626037,
+              -999
+            ],
+            [
+              8.676188999,
+              56.320679723,
+              -999
+            ],
+            [
+              8.675925248,
+              56.320513718,
+              -999
+            ],
+            [
+              8.675496561,
+              56.320731819,
+              -999
+            ],
+            [
+              8.6756896,
+              56.320847326,
+              -999
+            ],
+            [
+              8.675602126,
+              56.320866863,
+              -999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1209883441",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Holstebro kommune",
+        "registreringfra": "2020-01-28T13:34:29.493Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Holstebro kommune",
+        "virkningfra": "2020-01-28T13:32:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Slanger til jordvarmen",
+        "bbruuid": null,
+        "synligtanlaeg": false,
+        "underterraen": true,
+        "underminimumtanflade": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "1104279",
+        "septima_hash86": "K7uqkVs6cyh4OMiEgYkFEpinM8ggwC+Rdw2usfJTc/JJIHkbYDX18Y8DNxUkzyC5rxKF/OjjXg6tgtSSU85VWg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.623023602,
+              56.632262236,
+              -999
+            ],
+            [
+              8.622960473,
+              56.632201222,
+              -999
+            ],
+            [
+              8.622777981,
+              56.632258527,
+              -999
+            ],
+            [
+              8.622742142,
+              56.632615536,
+              -999
+            ],
+            [
+              8.623097719,
+              56.632905362,
+              -999
+            ],
+            [
+              8.623192947,
+              56.632869894,
+              -999
+            ],
+            [
+              8.622835268,
+              56.632578265,
+              -999
+            ],
+            [
+              8.622841,
+              56.632281537,
+              -999
+            ],
+            [
+              8.622941122,
+              56.632229194,
+              -999
+            ],
+            [
+              8.623023602,
+              56.632262236,
+              -999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1220962273",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Struer",
+        "registreringfra": "2022-08-09T10:47:21.458Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Struer",
+        "virkningfra": "2022-08-09T10:47:18.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "geokoderen.dk",
+        "kommentar": null,
+        "bbruuid": "ad8493e7-a4a7-4479-9f91-54e342d38e2f",
+        "synligtanlaeg": false,
+        "underterraen": true,
+        "underminimumtanflade": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "1104286",
+        "septima_hash86": "AHNyNPwH79laTT0dY9hKVaYX0NiwA8+8EmB9mOIyS/s2CRNyXYpEctnoCnLkV7ifGCOEIyNyXGIeXhwo+FVusw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.595857739,
+              55.568551785,
+              -999
+            ],
+            [
+              12.595864233,
+              55.568553393,
+              -999
+            ],
+            [
+              12.595893971,
+              55.5685402,
+              -999
+            ],
+            [
+              12.595901708,
+              55.568546717,
+              -999
+            ],
+            [
+              12.595920823,
+              55.568547504,
+              -999
+            ],
+            [
+              12.595933988,
+              55.568543971,
+              -999
+            ],
+            [
+              12.595958601,
+              55.568544147,
+              -999
+            ],
+            [
+              12.59609503,
+              55.568578356,
+              -999
+            ],
+            [
+              12.596263055,
+              55.568324792,
+              -999
+            ],
+            [
+              12.5961093,
+              55.568291992,
+              -999
+            ],
+            [
+              12.5960722,
+              55.568346134,
+              -999
+            ],
+            [
+              12.596215463,
+              55.568376995,
+              -999
+            ],
+            [
+              12.596163497,
+              55.568459449,
+              -999
+            ],
+            [
+              12.596010193,
+              55.568431581,
+              -999
+            ],
+            [
+              12.595937547,
+              55.568530828,
+              -999
+            ],
+            [
+              12.59592434,
+              55.568533913,
+              -999
+            ],
+            [
+              12.59591835,
+              55.568529144,
+              -999
+            ],
+            [
+              12.596084605,
+              55.568290919,
+              -999
+            ],
+            [
+              12.59557414,
+              55.568175078,
+              -999
+            ],
+            [
+              12.595464462,
+              55.568337906,
+              -999
+            ],
+            [
+              12.595922521,
+              55.568435954,
+              -999
+            ],
+            [
+              12.595861428,
+              55.568522723,
+              -999
+            ],
+            [
+              12.595897107,
+              55.568531116,
+              -999
+            ],
+            [
+              12.595888895,
+              55.568536753,
+              -999
+            ],
+            [
+              12.595857739,
+              55.568551785,
+              -999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1202465734",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Dragør kommune",
+        "registreringfra": "2019-01-22T10:15:24.435Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Dragør kommune",
+        "virkningfra": "2019-01-22T10:08:16.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Jordvarmeanlæg",
+        "bbruuid": "cfa5a883-bbb5-44da-b38e-06c5211eadfc",
+        "synligtanlaeg": false,
+        "underterraen": true,
+        "underminimumtanflade": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "1104287",
+        "septima_hash86": "NgmpOsvtretvPvDLh8Fa5IntLWHRXk4haa7/eCXfqVsrhGURy60mUMdqSwQkimUCQaCaaWSMt/GHCGC67IwLHw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.043486546,
+              56.459550183,
+              40.96
+            ],
+            [
+              9.043504442,
+              56.459732917,
+              40.96
+            ],
+            [
+              9.043405136,
+              56.459735737,
+              40.96
+            ],
+            [
+              9.043307452,
+              56.459738017,
+              40.96
+            ],
+            [
+              9.043309156,
+              56.45981016,
+              40.65
+            ],
+            [
+              9.043135529,
+              56.459812736,
+              41.06
+            ],
+            [
+              9.043114739,
+              56.459508805,
+              40.73
+            ],
+            [
+              9.043290202,
+              56.459552588,
+              40.96
+            ],
+            [
+              9.043389348,
+              56.459551834,
+              40.96
+            ],
+            [
+              9.043486546,
+              56.459550183,
+              40.96
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1210048528",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "SDFE",
+        "registreringfra": "2020-07-09T12:19:21.502Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2020-02-10T11:31:32.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "bbruuid": "398521b6-0182-4d83-bf6b-02c5f509970c",
+        "synligtanlaeg": true,
+        "underterraen": false,
+        "underminimumtanflade": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "1104288",
+        "septima_hash86": "ZIa24VYQvQG9nYwI7wuyePOgwlps0M4+m/WNN6obx4k6cfZBE1mJzG4vpJvbW/HjXJQm06PfYqlmi9LS9SO7ZA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.888500492,
+              55.104711329,
+              -999
+            ],
+            [
+              10.889604695,
+              55.104587426,
+              -999
+            ],
+            [
+              10.889558674,
+              55.104452692,
+              -999
+            ],
+            [
+              10.888454475,
+              55.104576594,
+              -999
+            ],
+            [
+              10.888500492,
+              55.104711329,
+              -999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1213251222",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Langeland",
+        "registreringfra": "2020-11-11T07:43:32.823Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Langeland",
+        "virkningfra": "2020-11-11T07:43:28.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "geokoderen.dk",
+        "kommentar": null,
+        "bbruuid": "4e67a375-3e97-4bdb-b028-030333e540d9",
+        "synligtanlaeg": false,
+        "underterraen": true,
+        "underminimumtanflade": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "1104289",
+        "septima_hash86": "QqAO9zXnSYJPljFw3x9ChqVqFOPhQ0cKmREIrgSN8kRmNAJ9rjwmpWeMErcA2OMKEMrJzuZLyRDDHCbVMurEoQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.203605977,
+              56.437120721,
+              42.36
+            ],
+            [
+              9.203095509,
+              56.437344458,
+              42.36
+            ],
+            [
+              9.202973249,
+              56.437257061,
+              42.36
+            ],
+            [
+              9.203476429,
+              56.437035223,
+              42.36
+            ],
+            [
+              9.203605977,
+              56.437120721,
+              42.36
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1210048545",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "SDFE",
+        "registreringfra": "2020-07-09T12:19:21.502Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2020-02-10T11:34:02.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "bbruuid": "d590c745-58d1-49d3-83e9-dbb706943451",
+        "synligtanlaeg": true,
+        "underterraen": false,
+        "underminimumtanflade": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "1104299",
+        "septima_hash86": "tUuH/FLf6eZNMm1F8x/XuFrP7p2a7GhX9YzDeKWRH026zSTqaQUOfh9KJEOzpMac+FAw0jH8djoQ/BoffjIEng"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.776257314,
+              56.349599512,
+              -999
+            ],
+            [
+              8.776964591,
+              56.349565747,
+              -999
+            ],
+            [
+              8.776903618,
+              56.349200868,
+              -999
+            ],
+            [
+              8.776193122,
+              56.34923283,
+              -999
+            ],
+            [
+              8.776257314,
+              56.349599512,
+              -999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1203232228",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Holstebro kommune",
+        "registreringfra": "2019-02-28T12:58:32.067Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Holstebro kommune",
+        "virkningfra": "2019-02-28T12:57:34.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Jordvarmeslanger",
+        "bbruuid": null,
+        "synligtanlaeg": false,
+        "underterraen": true,
+        "underminimumtanflade": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "1104301",
+        "septima_hash86": "1FEzsMJG+BMb0c4BcSg20RNM+Mj/Vvjbq5G3yXSn4i+zDDZe+RKd0PYlkFQSwy6bByITTDOFYXcXiI08GHPirw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.608484716,
+              55.860228387,
+              6.43
+            ],
+            [
+              10.608377988,
+              55.86022475,
+              6.43
+            ],
+            [
+              10.608396644,
+              55.860049809,
+              6.43
+            ],
+            [
+              10.608503368,
+              55.860053357,
+              6.43
+            ],
+            [
+              10.608484716,
+              55.860228387,
+              6.43
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1202760884",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Fotogrammetrisk ajourføring",
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2019-02-09T15:05:08.660Z",
+        "registreringtil": null,
+        "virkningsaktoer": "DSM GEODATA (P) LTD",
+        "virkningfra": "2018-05-04T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": "Totalajourføring 2018",
+        "bbruuid": null,
+        "synligtanlaeg": true,
+        "underterraen": false,
+        "underminimumtanflade": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "1104302",
+        "septima_hash86": "lKXPHNQ7kgP5V00Mn1L/oEvpVcztO2d0iJb1CZMLberBvN8HnqCIfCVAAIlb5W1rL5ZN3Uz9ARWJ5xQDe1moUQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.594568383,
+              55.869992092,
+              10.08
+            ],
+            [
+              10.594747063,
+              55.869980251,
+              9.99
+            ],
+            [
+              10.594740974,
+              55.869952562,
+              8.25
+            ],
+            [
+              10.594562454,
+              55.869964401,
+              8.34
+            ],
+            [
+              10.594568383,
+              55.869992092,
+              10.08
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1202760885",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Fotogrammetrisk ajourføring",
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2019-02-09T15:05:08.660Z",
+        "registreringtil": null,
+        "virkningsaktoer": "DSM GEODATA (P) LTD",
+        "virkningfra": "2018-05-04T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": "Totalajourføring 2018",
+        "bbruuid": null,
+        "synligtanlaeg": true,
+        "underterraen": false,
+        "underminimumtanflade": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "1104303",
+        "septima_hash86": "B+BzTkGZh7ef2aXaKzGs9rw7nJNm61KEtcq/MBYisYD3Ym1jH78hQjFFEkeZD/EiDWZzMtQoVlboyBHUkM04Ng"
+      }
+    }
+  ]
+}

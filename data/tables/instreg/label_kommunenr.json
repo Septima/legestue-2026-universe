@@ -1,0 +1,72 @@
+[
+  {
+    "kommunenr": "101",
+    "kommunenr_tekst": "Københavns Kommune",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "k2UJwryCgokElzyguNi0uvIiJ42yPYL/OrCNy5XynNGfTEemONLjzElFd8z1YLrrERMz9Z+/5KAY7rvo31u+SQ",
+    "septima_serial": "2"
+  },
+  {
+    "kommunenr": "147",
+    "kommunenr_tekst": "Frederiksberg Kommune",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "KVkIEe+EZAm2kOkshDOyNVU/mkhqo5Owcpk1fgg3DOHcrUqNNPM42JBKHkJK2nVOJLeKFFVM8QcsziO4nPYq0Q",
+    "septima_serial": "3"
+  },
+  {
+    "kommunenr": "151",
+    "kommunenr_tekst": "Ballerup Kommune",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "lFnJ1OZ5x/WuEpmGxz2SAtlHpYtMgjJAtoG74VGrWWYxNLJkVI8OyzAsGnRb+nhMkR7+7Kc7keyvIwE8+WdSPw",
+    "septima_serial": "4"
+  },
+  {
+    "kommunenr": "153",
+    "kommunenr_tekst": "Brøndby Kommune",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "E/BnzeJS9Zpb6k8fWPRh2vctoLhtEGEJ1dGUougYj+S5JO7KkJ/uNFyKNlOcD9cUo7ioDL4JxghtQRYgXKyRNw",
+    "septima_serial": "5"
+  },
+  {
+    "kommunenr": "155",
+    "kommunenr_tekst": "Dragør Kommune",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "OUsgro/Ak1DmtLDXbEOr6L2yIiLCrbIgqz3auyHp9s3ziG99ouRNJRW6hIAunQUEBnNSrD6EzXRnqKtCuQ1Grg",
+    "septima_serial": "6"
+  },
+  {
+    "kommunenr": "157",
+    "kommunenr_tekst": "Gentofte Kommune",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "SVA1fAoICXGDQhU+DBUDAS845AkBvDg36VUa4kl5tlsFu6SU/K06JNWYa2AOXB3R+kuN4XjUxRFLXd3NJix3xg",
+    "septima_serial": "7"
+  },
+  {
+    "kommunenr": "159",
+    "kommunenr_tekst": "Gladsaxe Kommune",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "twGTxFl5Ow8noomGHMFzSdfStjJK26g27UTsXS7jdV4xEFDaP9Zq0Sd2B0MIM0eK5xvGmCHMR75NJCxkmr2+Jw",
+    "septima_serial": "8"
+  },
+  {
+    "kommunenr": "161",
+    "kommunenr_tekst": "Glostrup Kommune",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "SH40AZHy0bCxKyBQsnC8441z1UrT+kVJmHqPcFCz3DQPCQyDKJlIM5dLH0lSO6l54GWhT0Wik9cSxf+hZMmitw",
+    "septima_serial": "9"
+  },
+  {
+    "kommunenr": "163",
+    "kommunenr_tekst": "Herlev Kommune",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "EjxzMjLo0uVQxDcXsmGqvEkuf41VZQXM9X+Yuy8fIdBMeSem9QcBmPHCr1auuBy/xrjvaE9BgCwQ0pncH+tC7A",
+    "septima_serial": "10"
+  },
+  {
+    "kommunenr": "165",
+    "kommunenr_tekst": "Albertslund Kommune",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "0mVq4u4qjjYYccVTD/wUW+er67ryxz4F09DVwakNMoJ66B9bUqmSpQky16AjTaqZjwXcvjfYQ3iL2uSPBtjzqw",
+    "septima_serial": "11"
+  }
+]

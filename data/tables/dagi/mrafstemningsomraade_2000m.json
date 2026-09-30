@@ -1,0 +1,997 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.905492151,
+                56.796612998
+              ],
+              [
+                9.913327918,
+                56.783037561
+              ],
+              [
+                9.901758601,
+                56.777558136
+              ],
+              [
+                9.895447274,
+                56.746140145
+              ],
+              [
+                9.918315826,
+                56.752923986
+              ],
+              [
+                10.008157808,
+                56.748795516
+              ],
+              [
+                10.022198245,
+                56.744744137
+              ],
+              [
+                10.042031188,
+                56.746886804
+              ],
+              [
+                10.043962738,
+                56.760207417
+              ],
+              [
+                10.053149024,
+                56.761027903
+              ],
+              [
+                10.050794271,
+                56.774518927
+              ],
+              [
+                10.054573176,
+                56.789915875
+              ],
+              [
+                10.050656599,
+                56.79446142
+              ],
+              [
+                10.030595539,
+                56.794767899
+              ],
+              [
+                10.022448938,
+                56.79395095
+              ],
+              [
+                9.996485433,
+                56.790922332
+              ],
+              [
+                9.933047451,
+                56.803693711
+              ],
+              [
+                9.905492151,
+                56.796612998
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1910604",
+        "id_lokalid": "1700576143",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Astrup",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "mrafstemningsomraadenummer": "20",
+        "afstemningsstednavn": "Ukendt",
+        "mrafstemningsstedadrlokalid": "Ukendt",
+        "kommunekode": "0846",
+        "kommunelokalid": "1700389202",
+        "sognekode": "8311",
+        "sognlokalid": "1700079482",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700576143",
+        "septima_hash86": "qS/X0XvrHxjo0mQc3UUBxPMVDn4QuaLFJ2wH/WTS8a0QZ6ytTW1YBLX8IQB5ubClGCbv+3H88chpHjI78DUELA",
+        "septima_serial": "487158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.670713917,
+                55.566990621
+              ],
+              [
+                11.692690704,
+                55.578120629
+              ],
+              [
+                11.69363866,
+                55.580216915
+              ],
+              [
+                11.693859078,
+                55.588111728
+              ],
+              [
+                11.696792177,
+                55.605898106
+              ],
+              [
+                11.679563549,
+                55.609964731
+              ],
+              [
+                11.639519086,
+                55.609972713
+              ],
+              [
+                11.629505078,
+                55.607525957
+              ],
+              [
+                11.622912841,
+                55.596457999
+              ],
+              [
+                11.61989358,
+                55.571309029
+              ],
+              [
+                11.648091731,
+                55.566850064
+              ],
+              [
+                11.670713917,
+                55.566990621
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1910605",
+        "id_lokalid": "1700577673",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Ugerløse",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "mrafstemningsomraadenummer": "12",
+        "afstemningsstednavn": "Ukendt",
+        "mrafstemningsstedadrlokalid": "Ukendt",
+        "kommunekode": "0316",
+        "kommunelokalid": "1700389140",
+        "sognekode": "7289",
+        "sognlokalid": "1700096028",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700577673",
+        "septima_hash86": "f/Qq+a3Phpo7tH5qj42CY8UiOZSM1kQHtjiVYWwTJxwtVjOUpYeoK50uccsDJAN51Lpp5PDcuB2BJRqGYRmMdw",
+        "septima_serial": "487159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.730887436,
+                55.420922583
+              ],
+              [
+                8.773009181,
+                55.428920621
+              ],
+              [
+                8.775185681,
+                55.43843728
+              ],
+              [
+                8.768818393,
+                55.444634061
+              ],
+              [
+                8.719492418,
+                55.456758184
+              ],
+              [
+                8.711386775,
+                55.454716012
+              ],
+              [
+                8.69152301,
+                55.449628957
+              ],
+              [
+                8.688351269,
+                55.449519382
+              ],
+              [
+                8.69687283,
+                55.411427215
+              ],
+              [
+                8.699844279,
+                55.41074308
+              ],
+              [
+                8.712483234,
+                55.413828358
+              ],
+              [
+                8.717909673,
+                55.413677538
+              ],
+              [
+                8.730887436,
+                55.420922583
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1910606",
+        "id_lokalid": "1700576245",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Hunderup",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "mrafstemningsomraadenummer": "15",
+        "afstemningsstednavn": "Ukendt",
+        "mrafstemningsstedadrlokalid": "Ukendt",
+        "kommunekode": "0561",
+        "kommunelokalid": "1700389170",
+        "sognekode": "8902",
+        "sognlokalid": "1700005023",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700576245",
+        "septima_hash86": "nijDcDSKxBcwZsEHeBhQ+3VidrIyZVB5ZkU74I0pDCiodPCVuTVA3JgctUrq7vguqec2L17F1sBa0tW15w4UhQ",
+        "septima_serial": "487160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.244595812,
+                55.811571985
+              ],
+              [
+                8.232044929,
+                55.811741992
+              ],
+              [
+                8.226610461,
+                55.822339422
+              ],
+              [
+                8.218168514,
+                55.828404471
+              ],
+              [
+                8.178586978,
+                55.829988506
+              ],
+              [
+                8.181668849,
+                55.819035004
+              ],
+              [
+                8.170531975,
+                55.815409856
+              ],
+              [
+                8.173941086,
+                55.802456469
+              ],
+              [
+                8.176410515,
+                55.780830965
+              ],
+              [
+                8.175918622,
+                55.772649143
+              ],
+              [
+                8.183145818,
+                55.775827697
+              ],
+              [
+                8.211575484,
+                55.776884645
+              ],
+              [
+                8.266639821,
+                55.767707329
+              ],
+              [
+                8.253523935,
+                55.792706233
+              ],
+              [
+                8.242091304,
+                55.809662611
+              ],
+              [
+                8.244595812,
+                55.811571985
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1910607",
+        "id_lokalid": "1700578145",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Lønne",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "mrafstemningsomraadenummer": "18",
+        "afstemningsstednavn": "Ukendt",
+        "mrafstemningsstedadrlokalid": "Ukendt",
+        "kommunekode": "0573",
+        "kommunelokalid": "1700389173",
+        "sognekode": "8882",
+        "sognlokalid": "1700009935",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700578145",
+        "septima_hash86": "eGfrM+xzU8BvPDZ0zVzaHVkRKW+O0O/47Hvwl6ZTM+suqMhfRTdgvQ0yoBKUnxQfi5OMcskm4wdkTNP/xUOzfA",
+        "septima_serial": "487161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.218056201,
+                56.534888746
+              ],
+              [
+                10.185762869,
+                56.534983441
+              ],
+              [
+                10.17942449,
+                56.523107113
+              ],
+              [
+                10.187079591,
+                56.515248677
+              ],
+              [
+                10.224992904,
+                56.513970647
+              ],
+              [
+                10.22309092,
+                56.523591102
+              ],
+              [
+                10.218632623,
+                56.532893286
+              ],
+              [
+                10.218056201,
+                56.534888746
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1910608",
+        "id_lokalid": "1700577743",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Mellerup",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "mrafstemningsomraadenummer": "2",
+        "afstemningsstednavn": "Ukendt",
+        "mrafstemningsstedadrlokalid": "Ukendt",
+        "kommunekode": "0730",
+        "kommunelokalid": "1700389190",
+        "sognekode": "8134",
+        "sognlokalid": "1700077471",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700577743",
+        "septima_hash86": "47PScL1XGl9L5wNglLzb5/ySk9kpwqDuZ69F/agsSLx0ikqCPFL3Y6jy1+xx6c/E2iLzWD8NBfeJpcj5LXnk2Q",
+        "septima_serial": "487162"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.782486993,
+                55.299625757
+              ],
+              [
+                10.769868166,
+                55.305612878
+              ],
+              [
+                10.75711438,
+                55.321929686
+              ],
+              [
+                10.722244211,
+                55.327901505
+              ],
+              [
+                10.695627962,
+                55.298838955
+              ],
+              [
+                10.702703324,
+                55.295742856
+              ],
+              [
+                10.704014891,
+                55.282592728
+              ],
+              [
+                10.721561555,
+                55.275748531
+              ],
+              [
+                10.728629973,
+                55.273722635
+              ],
+              [
+                10.747902378,
+                55.260553581
+              ],
+              [
+                10.769686762,
+                55.262079946
+              ],
+              [
+                10.789691518,
+                55.255791739
+              ],
+              [
+                10.800842047,
+                55.252826457
+              ],
+              [
+                10.796764052,
+                55.260317323
+              ],
+              [
+                10.787864771,
+                55.272725196
+              ],
+              [
+                10.78711574,
+                55.277827789
+              ],
+              [
+                10.791984368,
+                55.287089354
+              ],
+              [
+                10.782068296,
+                55.295012649
+              ],
+              [
+                10.747641475,
+                55.295477971
+              ],
+              [
+                10.764755777,
+                55.298372409
+              ],
+              [
+                10.778110737,
+                55.297003825
+              ],
+              [
+                10.782486993,
+                55.299625757
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1910609",
+        "id_lokalid": "1700576215",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Vindinge",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "mrafstemningsomraadenummer": "10",
+        "afstemningsstednavn": "Ukendt",
+        "mrafstemningsstedadrlokalid": "Ukendt",
+        "kommunekode": "0450",
+        "kommunelokalid": "1700389160",
+        "sognekode": "7733",
+        "sognlokalid": "1700057265",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700576215",
+        "septima_hash86": "wbhDDvpixq+DD9/kpyfR+gyVutTQsOsbcB4r4nboCB2XZm5C1AJVqe3ey7/ULPajq4MfnpfCxbH8Rd5gNVerTg",
+        "septima_serial": "487163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.779540094,
+                55.220989904
+              ],
+              [
+                10.747629551,
+                55.227301324
+              ],
+              [
+                10.734954398,
+                55.230400217
+              ],
+              [
+                10.722193865,
+                55.212939251
+              ],
+              [
+                10.755192406,
+                55.201459711
+              ],
+              [
+                10.779278211,
+                55.213889199
+              ],
+              [
+                10.779540094,
+                55.220989904
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1910610",
+        "id_lokalid": "1700575227",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Øksendrup",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "mrafstemningsomraadenummer": "16",
+        "afstemningsstednavn": "Ukendt",
+        "mrafstemningsstedadrlokalid": "Ukendt",
+        "kommunekode": "0450",
+        "kommunelokalid": "1700389160",
+        "sognekode": "7771",
+        "sognlokalid": "1700058383",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700575227",
+        "septima_hash86": "5v2msZfy/7l0MfiV1l1gl4pLBzCzK+XICVz8ZVjqzE3jvYeY6HXlNOxPR4x9LqpENP+X7rw5uZM86LNTcio5mQ",
+        "septima_serial": "487164"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.088757236,
+                56.810023458
+              ],
+              [
+                10.070386866,
+                56.827281884
+              ],
+              [
+                10.054337344,
+                56.835663037
+              ],
+              [
+                10.044895866,
+                56.830262868
+              ],
+              [
+                10.038522351,
+                56.82566648
+              ],
+              [
+                10.030595539,
+                56.794767899
+              ],
+              [
+                10.050656599,
+                56.79446142
+              ],
+              [
+                10.058097007,
+                56.796558485
+              ],
+              [
+                10.09076048,
+                56.796846749
+              ],
+              [
+                10.088757236,
+                56.810023458
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1910611",
+        "id_lokalid": "1700577349",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Terndrup",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "mrafstemningsomraadenummer": "28",
+        "afstemningsstednavn": "Ukendt",
+        "mrafstemningsstedadrlokalid": "Ukendt",
+        "kommunekode": "0840",
+        "kommunelokalid": "1700389204",
+        "sognekode": "9217",
+        "sognlokalid": "1700412745",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700577349",
+        "septima_hash86": "jY98oPefnpXGv5ISZ53/HTebL/atjhZ7iRRksl7fUGQqoFmYd59H47Q7xIag6tuZv8+mp1bXgt8AAmZGRBHssQ",
+        "septima_serial": "487165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.634074935,
+                55.336019992
+              ],
+              [
+                10.653058105,
+                55.349661132
+              ],
+              [
+                10.646324886,
+                55.353979793
+              ],
+              [
+                10.602911525,
+                55.359735404
+              ],
+              [
+                10.566842347,
+                55.364749245
+              ],
+              [
+                10.555864964,
+                55.351404747
+              ],
+              [
+                10.576100089,
+                55.342639599
+              ],
+              [
+                10.60252446,
+                55.330573585
+              ],
+              [
+                10.605365692,
+                55.323382488
+              ],
+              [
+                10.615621388,
+                55.329129939
+              ],
+              [
+                10.634074935,
+                55.336019992
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1910612",
+        "id_lokalid": "1700576471",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Rønninge",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "mrafstemningsomraadenummer": "11",
+        "afstemningsstednavn": "Ukendt",
+        "mrafstemningsstedadrlokalid": "Ukendt",
+        "kommunekode": "0440",
+        "kommunelokalid": "1700389159",
+        "sognekode": "7882",
+        "sognlokalid": "1700057255",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700576471",
+        "septima_hash86": "EfImzI1kyiaU+X2RFxS9KnKHECZIgiq3TTe3nUGAY9TBRC5zWw5qawwsW1F6jQNVUcIFu+KfwZ25lXIbsP11XQ",
+        "septima_serial": "487166"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.720379491,
+                55.126054366
+              ],
+              [
+                11.718851368,
+                55.123999097
+              ],
+              [
+                11.719566521,
+                55.123830303
+              ],
+              [
+                11.720086777,
+                55.112826648
+              ],
+              [
+                11.729360159,
+                55.107232724
+              ],
+              [
+                11.74143672,
+                55.094288984
+              ],
+              [
+                11.749272221,
+                55.092421999
+              ],
+              [
+                11.750155856,
+                55.083519696
+              ],
+              [
+                11.760758699,
+                55.076689434
+              ],
+              [
+                11.773150169,
+                55.074639475
+              ],
+              [
+                11.778872073,
+                55.07597099
+              ],
+              [
+                11.769805197,
+                55.079849797
+              ],
+              [
+                11.768063822,
+                55.085303951
+              ],
+              [
+                11.774449474,
+                55.08503234
+              ],
+              [
+                11.786060941,
+                55.087063498
+              ],
+              [
+                11.79057769,
+                55.092289458
+              ],
+              [
+                11.795300024,
+                55.09871124
+              ],
+              [
+                11.795460184,
+                55.100445592
+              ],
+              [
+                11.791968547,
+                55.111848203
+              ],
+              [
+                11.780405212,
+                55.111877726
+              ],
+              [
+                11.759426272,
+                55.119914286
+              ],
+              [
+                11.748971999,
+                55.121173602
+              ],
+              [
+                11.728114684,
+                55.120002475
+              ],
+              [
+                11.730456037,
+                55.124941838
+              ],
+              [
+                11.726134703,
+                55.128669432
+              ],
+              [
+                11.720379491,
+                55.126054366
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1910613",
+        "id_lokalid": "1700576583",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Svinø",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "mrafstemningsomraadenummer": "27",
+        "afstemningsstednavn": "Ukendt",
+        "mrafstemningsstedadrlokalid": "Ukendt",
+        "kommunekode": "0390",
+        "kommunelokalid": "1700389149",
+        "sognekode": "9247",
+        "sognlokalid": "1700412742",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700576583",
+        "septima_hash86": "L9y9UB+NAsK+LIwSO8BCNzOuefq41dWrNZ5pe8stjI1Wd22zplnzwAE3H3zl+BPH/wYYgwkFa3LRwadXJArdJw",
+        "septima_serial": "487167"
+      }
+    }
+  ]
+}

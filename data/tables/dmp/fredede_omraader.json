@@ -1,0 +1,1393 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.342397361,
+              56.30035609
+            ],
+            [
+              8.344014154,
+              56.300213756
+            ],
+            [
+              8.343965058,
+              56.299897925
+            ],
+            [
+              8.344118745,
+              56.299879512
+            ],
+            [
+              8.343950106,
+              56.299246498
+            ],
+            [
+              8.343901038,
+              56.299062087
+            ],
+            [
+              8.344119887,
+              56.299050577
+            ],
+            [
+              8.344200466,
+              56.298935937
+            ],
+            [
+              8.344167594,
+              56.298817272
+            ],
+            [
+              8.344017869,
+              56.29874426
+            ],
+            [
+              8.343380825,
+              56.298953508
+            ],
+            [
+              8.343696455,
+              56.299064327
+            ],
+            [
+              8.343623321,
+              56.299156554
+            ],
+            [
+              8.343616195,
+              56.299284702
+            ],
+            [
+              8.343628257,
+              56.299505835
+            ],
+            [
+              8.343663152,
+              56.299872166
+            ],
+            [
+              8.343523722,
+              56.299875281
+            ],
+            [
+              8.343302743,
+              56.299886329
+            ],
+            [
+              8.342938372,
+              56.299913768
+            ],
+            [
+              8.342680189,
+              56.299948606
+            ],
+            [
+              8.342429243,
+              56.299990123
+            ],
+            [
+              8.342316855,
+              56.29999276
+            ],
+            [
+              8.3423332,
+              56.300142856
+            ],
+            [
+              8.342397361,
+              56.30035609
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2009,
+        "temanavn": "Fredede områder",
+        "objekt_id": "ccb6736b-53a3-11e2-91eb-00155d01e765",
+        "version_id": "bceb3d6a-7d2f-4959-8b70-c6146db8132f",
+        "systid_fra": "2023/02/27",
+        "systid_til": null,
+        "oprettet": "2006/12/31",
+        "oprindkode": 0,
+        "oprindelse": "Ikke udfyldt",
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "25798376",
+        "cvr_navn": "Miljøstyrelsen",
+        "bruger_id": "63fbed42-5055-49a0-b243-a48a8c72b7f9",
+        "link": "https://www2.blst.dk/nfr/01582.00.pdf",
+        "draftstatu": null,
+        "listtoappr": null,
+        "fred_tkode": 2,
+        "fred_tnavn": "Kirkefredning",
+        "reg_nr": "0158200",
+        "fred_navn": "Ulfborg Kirkeby Kirke",
+        "aendr_kode": 0,
+        "aendrbegr": "Ikke udfyldt",
+        "aar_fredn": "-1",
+        "gyldig_fra": "1800/01/01",
+        "gyldig_til": null,
+        "septima_hash86": "HcgE+IcUrnSFwCLiFt/cxg8pGrvq+H4RsgL0pHzRJ1JmIJBA+dXvfBbPDhHD21hgkZYbdoU3OUVl3aYT3l+pJA",
+        "septima_serial": "1043046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.796391597,
+                54.661811471
+              ],
+              [
+                11.796284681,
+                54.661424285
+              ],
+              [
+                11.795515793,
+                54.661384243
+              ],
+              [
+                11.795541256,
+                54.66165799
+              ],
+              [
+                11.794597281,
+                54.66172194
+              ],
+              [
+                11.794549003,
+                54.661311462
+              ],
+              [
+                11.793544738,
+                54.661318727
+              ],
+              [
+                11.793632528,
+                54.661740341
+              ],
+              [
+                11.793693078,
+                54.661858759
+              ],
+              [
+                11.793775545,
+                54.661960948
+              ],
+              [
+                11.793879553,
+                54.662047086
+              ],
+              [
+                11.794005332,
+                54.662116898
+              ],
+              [
+                11.794153007,
+                54.66217066
+              ],
+              [
+                11.794322351,
+                54.662208188
+              ],
+              [
+                11.794513589,
+                54.662229388
+              ],
+              [
+                11.794726476,
+                54.662234543
+              ],
+              [
+                11.795848439,
+                54.662203513
+              ],
+              [
+                11.795744392,
+                54.66194174
+              ],
+              [
+                11.796391597,
+                54.661811471
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                11.795386582,
+                54.660871731
+              ],
+              [
+                11.7947957,
+                54.660876023
+              ],
+              [
+                11.794800752,
+                54.66110422
+              ],
+              [
+                11.795371849,
+                54.661111433
+              ],
+              [
+                11.795386582,
+                54.660871731
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2009,
+        "temanavn": "Fredede områder",
+        "objekt_id": "4497ab99-9f91-4705-97b4-5c67c705b4df",
+        "version_id": "9219b337-4213-48f9-a4d7-c8c412bbc5e7",
+        "systid_fra": "2023/02/27",
+        "systid_til": null,
+        "oprettet": "2018/08/23",
+        "oprindkode": 0,
+        "oprindelse": "Ikke udfyldt",
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "25798376",
+        "cvr_navn": "Miljøstyrelsen",
+        "bruger_id": "63fbed42-5055-49a0-b243-a48a8c72b7f9",
+        "link": "https://www2.blst.dk/nfr/01932.00.pdf",
+        "draftstatu": null,
+        "listtoappr": null,
+        "fred_tkode": 2,
+        "fred_tnavn": "Kirkefredning",
+        "reg_nr": "0193200",
+        "fred_navn": "Vantore Kirke",
+        "aendr_kode": 0,
+        "aendrbegr": "Ikke udfyldt",
+        "aar_fredn": "-1",
+        "gyldig_fra": "1800/01/01",
+        "gyldig_til": null,
+        "septima_hash86": "B3LhTVDUyNOTzFuwiYNRIXy5Ue9nQWrwenN7/aFFYt6LmoYGA76Cx+JMhtGkw6Lc9vzuIGZdI2D3sj/zb7/jtQ",
+        "septima_serial": "1043047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.117655433,
+              55.8551223
+            ],
+            [
+              9.115789327,
+              55.85498878
+            ],
+            [
+              9.115909547,
+              55.854397749
+            ],
+            [
+              9.117673571,
+              55.854500995
+            ],
+            [
+              9.117704398,
+              55.854024491
+            ],
+            [
+              9.115430203,
+              55.853988736
+            ],
+            [
+              9.115154191,
+              55.855214589
+            ],
+            [
+              9.117135587,
+              55.855319625
+            ],
+            [
+              9.117139338,
+              55.855164834
+            ],
+            [
+              9.117654976,
+              55.855193185
+            ],
+            [
+              9.117655433,
+              55.8551223
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2009,
+        "temanavn": "Fredede områder",
+        "objekt_id": "d6c5ad48-53a3-11e2-b2d0-00155d01e765",
+        "version_id": "175507b4-49d8-4a39-ad71-d448babe7f4b",
+        "systid_fra": "2023/02/27",
+        "systid_til": null,
+        "oprettet": "2011/02/15",
+        "oprindkode": 0,
+        "oprindelse": "Ikke udfyldt",
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "25798376",
+        "cvr_navn": "Miljøstyrelsen",
+        "bruger_id": "63fbed42-5055-49a0-b243-a48a8c72b7f9",
+        "link": "https://www2.blst.dk/nfr/06680.00.pdf",
+        "draftstatu": null,
+        "listtoappr": null,
+        "fred_tkode": 2,
+        "fred_tnavn": "Kirkefredning",
+        "reg_nr": "0668000",
+        "fred_navn": "Vorslunde Kirke",
+        "aendr_kode": 0,
+        "aendrbegr": "Ikke udfyldt",
+        "aar_fredn": "0",
+        "gyldig_fra": "1800/01/01",
+        "gyldig_til": null,
+        "septima_hash86": "SstmLwkpzlj174ZLawLBwNjNo1Y4sHnJTeodMMiVbD+XYGiCbUSFUky7n9o1LBJzgxSKSXXer5mgrlbPcSUVyw",
+        "septima_serial": "1043048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.105143405,
+              56.005303643
+            ],
+            [
+              12.105499216,
+              56.005032225
+            ],
+            [
+              12.105513388,
+              56.005017484
+            ],
+            [
+              12.105737145,
+              56.004785614
+            ],
+            [
+              12.105930474,
+              56.004585067
+            ],
+            [
+              12.105894264,
+              56.004582303
+            ],
+            [
+              12.105762211,
+              56.004572236
+            ],
+            [
+              12.105414946,
+              56.004928466
+            ],
+            [
+              12.104501776,
+              56.005696585
+            ],
+            [
+              12.104366682,
+              56.006133301
+            ],
+            [
+              12.103196145,
+              56.00832468
+            ],
+            [
+              12.104833965,
+              56.008397667
+            ],
+            [
+              12.104773458,
+              56.00791096
+            ],
+            [
+              12.104771241,
+              56.007893126
+            ],
+            [
+              12.104724384,
+              56.007517082
+            ],
+            [
+              12.104677534,
+              56.007141119
+            ],
+            [
+              12.104675294,
+              56.007123205
+            ],
+            [
+              12.104628567,
+              56.006747149
+            ],
+            [
+              12.104572092,
+              56.006312203
+            ],
+            [
+              12.104567243,
+              56.006276374
+            ],
+            [
+              12.10451056,
+              56.005840625
+            ],
+            [
+              12.104535276,
+              56.005767732
+            ],
+            [
+              12.104813153,
+              56.005555537
+            ],
+            [
+              12.105120846,
+              56.005320834
+            ],
+            [
+              12.105143405,
+              56.005303643
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2009,
+        "temanavn": "Fredede områder",
+        "objekt_id": "d6bc1087-53a3-11e2-8fed-00155d01e765",
+        "version_id": "a9cf2de1-b3fb-4aa3-b7be-1a0d1dfd97b3",
+        "systid_fra": "2023/02/27",
+        "systid_til": null,
+        "oprettet": "2006/12/31",
+        "oprindkode": 0,
+        "oprindelse": "Ikke udfyldt",
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "25798376",
+        "cvr_navn": "Miljøstyrelsen",
+        "bruger_id": "63fbed42-5055-49a0-b243-a48a8c72b7f9",
+        "link": "https://www2.blst.dk/nfr/08127.00.pdf",
+        "draftstatu": null,
+        "listtoappr": null,
+        "fred_tkode": 1,
+        "fred_tnavn": "Arealfredning",
+        "reg_nr": "0812700",
+        "fred_navn": "Fællesareal, Ramløse",
+        "aendr_kode": 0,
+        "aendrbegr": "Ikke udfyldt",
+        "aar_fredn": "0",
+        "gyldig_fra": "1800/01/01",
+        "gyldig_til": null,
+        "septima_hash86": "uhx2gfaz11fl8WWW3eSoX9OiZdWMspIMYRT/8UCZhPYYYjEB64pebQ7Q9ljr4B16vE6PNmezJxfRimCgF4+QZQ",
+        "septima_serial": "1043049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.088622578,
+              55.774977549
+            ],
+            [
+              12.08863113,
+              55.774929426
+            ],
+            [
+              12.089541003,
+              55.774946269
+            ],
+            [
+              12.089595334,
+              55.774655664
+            ],
+            [
+              12.089672761,
+              55.77425329
+            ],
+            [
+              12.089746398,
+              55.773871139
+            ],
+            [
+              12.089795128,
+              55.773617795
+            ],
+            [
+              12.089856998,
+              55.773296345
+            ],
+            [
+              12.089942993,
+              55.772849352
+            ],
+            [
+              12.089962301,
+              55.772749373
+            ],
+            [
+              12.089272344,
+              55.772755582
+            ],
+            [
+              12.089010815,
+              55.772757845
+            ],
+            [
+              12.087195502,
+              55.77277401
+            ],
+            [
+              12.087190112,
+              55.772930267
+            ],
+            [
+              12.086969462,
+              55.773095261
+            ],
+            [
+              12.087015954,
+              55.773127715
+            ],
+            [
+              12.087123296,
+              55.773111442
+            ],
+            [
+              12.08723127,
+              55.773207781
+            ],
+            [
+              12.087103932,
+              55.773255563
+            ],
+            [
+              12.087297762,
+              55.773386594
+            ],
+            [
+              12.087445407,
+              55.773405978
+            ],
+            [
+              12.087434141,
+              55.773491379
+            ],
+            [
+              12.087229681,
+              55.773626578
+            ],
+            [
+              12.087440684,
+              55.773667204
+            ],
+            [
+              12.087470148,
+              55.773743679
+            ],
+            [
+              12.087271672,
+              55.773786598
+            ],
+            [
+              12.087260746,
+              55.773839806
+            ],
+            [
+              12.087451515,
+              55.773872229
+            ],
+            [
+              12.087452501,
+              55.773939522
+            ],
+            [
+              12.087413369,
+              55.773958576
+            ],
+            [
+              12.087411083,
+              55.774052652
+            ],
+            [
+              12.087336389,
+              55.774124184
+            ],
+            [
+              12.087347915,
+              55.774226723
+            ],
+            [
+              12.087519045,
+              55.774215319
+            ],
+            [
+              12.08761135,
+              55.774306477
+            ],
+            [
+              12.087710361,
+              55.774319532
+            ],
+            [
+              12.087762689,
+              55.774435789
+            ],
+            [
+              12.08773382,
+              55.774476511
+            ],
+            [
+              12.08779148,
+              55.774506967
+            ],
+            [
+              12.087744937,
+              55.774545437
+            ],
+            [
+              12.087651822,
+              55.77450895
+            ],
+            [
+              12.087547373,
+              55.77457171
+            ],
+            [
+              12.087662895,
+              55.774643855
+            ],
+            [
+              12.087554775,
+              55.774695291
+            ],
+            [
+              12.087563932,
+              55.774767682
+            ],
+            [
+              12.087768419,
+              55.77476398
+            ],
+            [
+              12.087783127,
+              55.774815204
+            ],
+            [
+              12.087654661,
+              55.774845575
+            ],
+            [
+              12.087709262,
+              55.774887346
+            ],
+            [
+              12.087979421,
+              55.774890982
+            ],
+            [
+              12.088054715,
+              55.774953179
+            ],
+            [
+              12.088622578,
+              55.774977549
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2009,
+        "temanavn": "Fredede områder",
+        "objekt_id": "7f829034-c8df-4092-96b6-78884591558f",
+        "version_id": "a9f1a157-85ff-4ad6-a781-0ceb4d8b5db7",
+        "systid_fra": "2023/02/27",
+        "systid_til": null,
+        "oprettet": "2017/06/01",
+        "oprindkode": 2,
+        "oprindelse": "Matrikelkort",
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "25798376",
+        "cvr_navn": "Miljøstyrelsen",
+        "bruger_id": "63fbed42-5055-49a0-b243-a48a8c72b7f9",
+        "link": "https://www2.blst.dk/nfr/05837.00.pdf",
+        "draftstatu": null,
+        "listtoappr": null,
+        "fred_tkode": 1,
+        "fred_tnavn": "Arealfredning",
+        "reg_nr": "0583700",
+        "fred_navn": "Jyllinge Nordmark",
+        "aendr_kode": 2,
+        "aendrbegr": "Teknisk rettelse",
+        "aar_fredn": "1975",
+        "gyldig_fra": "1975/07/01",
+        "gyldig_til": null,
+        "septima_hash86": "hwdHojw28IhxPk4EdjQHZHrnUC7w7l/OIFrBMrYHWDP1wlc1RV5Zw43rVgTaS7pStEs8Su9Pob1gifQhrSCjsg",
+        "septima_serial": "1043050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.756798594,
+                56.501300543
+              ],
+              [
+                9.756328172,
+                56.500138089
+              ],
+              [
+                9.756093697,
+                56.500121907
+              ],
+              [
+                9.755989644,
+                56.500607516
+              ],
+              [
+                9.755679725,
+                56.500583265
+              ],
+              [
+                9.755880784,
+                56.50109495
+              ],
+              [
+                9.756798594,
+                56.501300543
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                9.754974509,
+                56.500343579
+              ],
+              [
+                9.75481441,
+                56.500322099
+              ],
+              [
+                9.754711286,
+                56.500343291
+              ],
+              [
+                9.754695827,
+                56.500400877
+              ],
+              [
+                9.754659807,
+                56.500543743
+              ],
+              [
+                9.754764852,
+                56.500578315
+              ],
+              [
+                9.754839118,
+                56.500594387
+              ],
+              [
+                9.75485018,
+                56.500564859
+              ],
+              [
+                9.754973609,
+                56.500541118
+              ],
+              [
+                9.754974509,
+                56.500343579
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2009,
+        "temanavn": "Fredede områder",
+        "objekt_id": "99f57dbb-d600-4b4b-9de5-0d4728f92854",
+        "version_id": "dd2bb7a0-5752-4149-8006-35f547cd562b",
+        "systid_fra": "2023/02/27",
+        "systid_til": null,
+        "oprettet": "2018/10/08",
+        "oprindkode": 0,
+        "oprindelse": "Ikke udfyldt",
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "25798376",
+        "cvr_navn": "Miljøstyrelsen",
+        "bruger_id": "63fbed42-5055-49a0-b243-a48a8c72b7f9",
+        "link": "https://www2.blst.dk/nfr/01968.11.pdf",
+        "draftstatu": null,
+        "listtoappr": null,
+        "fred_tkode": 2,
+        "fred_tnavn": "Kirkefredning",
+        "reg_nr": "0196811",
+        "fred_navn": "Hammershøj Kirke",
+        "aendr_kode": 0,
+        "aendrbegr": "Ikke udfyldt",
+        "aar_fredn": "-1",
+        "gyldig_fra": "1800/01/01",
+        "gyldig_til": null,
+        "septima_hash86": "5Vi/YGAupV7mUrOXnZkKbjC1a39aaM+UnGzKAdkV52PGbzTT0a+Ys3bsxfBxXSRd1izdPOB2YSG6H1NKeL51Jg",
+        "septima_serial": "1043051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.242262938,
+              55.754906205
+            ],
+            [
+              12.24227295,
+              55.754904861
+            ],
+            [
+              12.242323522,
+              55.754891838
+            ],
+            [
+              12.242175156,
+              55.754366858
+            ],
+            [
+              12.242159484,
+              55.754312708
+            ],
+            [
+              12.242530929,
+              55.754270721
+            ],
+            [
+              12.242882801,
+              55.7542403
+            ],
+            [
+              12.242885146,
+              55.754271615
+            ],
+            [
+              12.242915819,
+              55.754672603
+            ],
+            [
+              12.242992973,
+              55.754636041
+            ],
+            [
+              12.242954822,
+              55.754143484
+            ],
+            [
+              12.242506727,
+              55.754182012
+            ],
+            [
+              12.24197731,
+              55.754241656
+            ],
+            [
+              12.241992107,
+              55.754291604
+            ],
+            [
+              12.242092284,
+              55.754304413
+            ],
+            [
+              12.242262938,
+              55.754906205
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2009,
+        "temanavn": "Fredede områder",
+        "objekt_id": "d7905030-53a3-11e2-9fa0-00155d01e765",
+        "version_id": "a4cdc608-3278-415e-9be8-2ef41caee1f3",
+        "systid_fra": "2023/02/27",
+        "systid_til": null,
+        "oprettet": "2006/12/31",
+        "oprindkode": 0,
+        "oprindelse": "Ikke udfyldt",
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "25798376",
+        "cvr_navn": "Miljøstyrelsen",
+        "bruger_id": "63fbed42-5055-49a0-b243-a48a8c72b7f9",
+        "link": "https://www2.blst.dk/nfr/01397.00.pdf",
+        "draftstatu": null,
+        "listtoappr": null,
+        "fred_tkode": 2,
+        "fred_tnavn": "Kirkefredning",
+        "reg_nr": "0139700",
+        "fred_navn": "Veksø Kirke",
+        "aendr_kode": 0,
+        "aendrbegr": "Ikke udfyldt",
+        "aar_fredn": "-1",
+        "gyldig_fra": "1800/01/01",
+        "gyldig_til": null,
+        "septima_hash86": "midTrghuQ0H1BhxLlhA3AT69Fbix7JQ7+fra7u1rbtsaJ0IEwMk3y8yPSCXPzeJmfe3tsfCz8VAV21+LLKQ2LQ",
+        "septima_serial": "1043052"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.818787254,
+              55.3206681
+            ],
+            [
+              8.818205274,
+              55.320660585
+            ],
+            [
+              8.817229733,
+              55.320418001
+            ],
+            [
+              8.816471783,
+              55.320331606
+            ],
+            [
+              8.815754553,
+              55.32034795
+            ],
+            [
+              8.814906073,
+              55.320285941
+            ],
+            [
+              8.814597805,
+              55.320154305
+            ],
+            [
+              8.813390318,
+              55.320113207
+            ],
+            [
+              8.812067742,
+              55.3205337
+            ],
+            [
+              8.810933871,
+              55.320886645
+            ],
+            [
+              8.809739743,
+              55.321227714
+            ],
+            [
+              8.808271084,
+              55.321579393
+            ],
+            [
+              8.808632978,
+              55.322605771
+            ],
+            [
+              8.809294681,
+              55.323932773
+            ],
+            [
+              8.810317565,
+              55.326407876
+            ],
+            [
+              8.808836363,
+              55.326491006
+            ],
+            [
+              8.808873534,
+              55.327573925
+            ],
+            [
+              8.810245588,
+              55.327816025
+            ],
+            [
+              8.815329604,
+              55.326786961
+            ],
+            [
+              8.816736794,
+              55.326630953
+            ],
+            [
+              8.817658698,
+              55.326583997
+            ],
+            [
+              8.818709814,
+              55.326331941
+            ],
+            [
+              8.820709043,
+              55.325404944
+            ],
+            [
+              8.8220469,
+              55.325044029
+            ],
+            [
+              8.823189994,
+              55.324577978
+            ],
+            [
+              8.823428954,
+              55.324147986
+            ],
+            [
+              8.823569646,
+              55.323952332
+            ],
+            [
+              8.824564044,
+              55.323425767
+            ],
+            [
+              8.825414266,
+              55.323024315
+            ],
+            [
+              8.82573718,
+              55.321755949
+            ],
+            [
+              8.824129119,
+              55.321393919
+            ],
+            [
+              8.822021601,
+              55.320886944
+            ],
+            [
+              8.820499988,
+              55.320677187
+            ],
+            [
+              8.819525717,
+              55.32069633
+            ],
+            [
+              8.818787254,
+              55.3206681
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2009,
+        "temanavn": "Fredede områder",
+        "objekt_id": "cd6948d5-53a3-11e2-bec9-00155d01e765",
+        "version_id": "72da3b29-d35e-42c2-bdbb-163c28aa0f18",
+        "systid_fra": "2023/02/27",
+        "systid_til": null,
+        "oprettet": "2008/12/16",
+        "oprindkode": 0,
+        "oprindelse": "Ikke udfyldt",
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "25798376",
+        "cvr_navn": "Miljøstyrelsen",
+        "bruger_id": "63fbed42-5055-49a0-b243-a48a8c72b7f9",
+        "link": "https://www2.blst.dk/nfr/00865.00.pdf",
+        "draftstatu": null,
+        "listtoappr": null,
+        "fred_tkode": 1,
+        "fred_tnavn": "Arealfredning",
+        "reg_nr": "0086500",
+        "fred_navn": "Tange Bakker",
+        "aendr_kode": 0,
+        "aendrbegr": "Ikke udfyldt",
+        "aar_fredn": "0",
+        "gyldig_fra": "1800/01/01",
+        "gyldig_til": null,
+        "septima_hash86": "2TJCY5v3duq4zkDkBIH+vuCGn1rv2LQOrGx9GSx1NZVc/1acBjgDpX4aX3l01vo5WddRm9bZZeLLB2x0LlPBJA",
+        "septima_serial": "1043053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.691201635,
+              56.156610485
+            ],
+            [
+              9.690370534,
+              56.156629587
+            ],
+            [
+              9.689703464,
+              56.15668245
+            ],
+            [
+              9.689676036,
+              56.156077951
+            ],
+            [
+              9.689672084,
+              56.155990387
+            ],
+            [
+              9.689653688,
+              56.155586247
+            ],
+            [
+              9.689415836,
+              56.155573468
+            ],
+            [
+              9.689434623,
+              56.156081364
+            ],
+            [
+              9.689462177,
+              56.156685862
+            ],
+            [
+              9.689463981,
+              56.156816287
+            ],
+            [
+              9.689699776,
+              56.156817218
+            ],
+            [
+              9.689737457,
+              56.156815839
+            ],
+            [
+              9.690404528,
+              56.156762886
+            ],
+            [
+              9.691230189,
+              56.156744624
+            ],
+            [
+              9.691215511,
+              56.156688379
+            ],
+            [
+              9.691201635,
+              56.156610485
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2009,
+        "temanavn": "Fredede områder",
+        "objekt_id": "cb3db61e-53a3-11e2-841d-00155d01e765",
+        "version_id": "7bcc6796-0024-4d2b-b976-1ff5ec2b3c9d",
+        "systid_fra": "2023/02/27",
+        "systid_til": null,
+        "oprettet": "2006/12/31",
+        "oprindkode": 0,
+        "oprindelse": "Ikke udfyldt",
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "25798376",
+        "cvr_navn": "Miljøstyrelsen",
+        "bruger_id": "63fbed42-5055-49a0-b243-a48a8c72b7f9",
+        "link": "https://www2.blst.dk/nfr/02198.01.pdf",
+        "draftstatu": null,
+        "listtoappr": null,
+        "fred_tkode": 2,
+        "fred_tnavn": "Kirkefredning",
+        "reg_nr": "0219801",
+        "fred_navn": "Linå Kirke",
+        "aendr_kode": 0,
+        "aendrbegr": "Ikke udfyldt",
+        "aar_fredn": "0",
+        "gyldig_fra": "1800/01/01",
+        "gyldig_til": null,
+        "septima_hash86": "PVm7ZhfM6fThYAVjIuBtNbN5DGv8q+2Vb9//0I3oJO9xiMUaC9ULWH4PA58rhun/bTag/Pz6uaMqcZiQ/opV6Q",
+        "septima_serial": "1043054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.853320645,
+              55.353026392
+            ],
+            [
+              8.848770861,
+              55.355383845
+            ],
+            [
+              8.845707013,
+              55.356979992
+            ],
+            [
+              8.844128331,
+              55.357840367
+            ],
+            [
+              8.845862133,
+              55.35866712
+            ],
+            [
+              8.842617506,
+              55.360361699
+            ],
+            [
+              8.84325124,
+              55.360785389
+            ],
+            [
+              8.844022209,
+              55.361045475
+            ],
+            [
+              8.844653097,
+              55.361304488
+            ],
+            [
+              8.845391156,
+              55.361404511
+            ],
+            [
+              8.851462205,
+              55.358838288
+            ],
+            [
+              8.85312119,
+              55.358180054
+            ],
+            [
+              8.85774171,
+              55.356276221
+            ],
+            [
+              8.85754982,
+              55.356113388
+            ],
+            [
+              8.856554822,
+              55.355474351
+            ],
+            [
+              8.855547813,
+              55.354789922
+            ],
+            [
+              8.854610801,
+              55.354037392
+            ],
+            [
+              8.854164609,
+              55.353678395
+            ],
+            [
+              8.853320645,
+              55.353026392
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2009,
+        "temanavn": "Fredede områder",
+        "objekt_id": "cd6948d6-53a3-11e2-a4b7-00155d01e765",
+        "version_id": "bc976c8c-aebb-419f-8f09-a5a277164747",
+        "systid_fra": "2023/02/27",
+        "systid_til": null,
+        "oprettet": "2008/12/16",
+        "oprindkode": 0,
+        "oprindelse": "Ikke udfyldt",
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "25798376",
+        "cvr_navn": "Miljøstyrelsen",
+        "bruger_id": "63fbed42-5055-49a0-b243-a48a8c72b7f9",
+        "link": "https://www2.blst.dk/nfr/00613.01.pdf",
+        "draftstatu": null,
+        "listtoappr": null,
+        "fred_tkode": 1,
+        "fred_tnavn": "Arealfredning",
+        "reg_nr": "0061301",
+        "fred_navn": "Fæsted Mose",
+        "aendr_kode": 0,
+        "aendrbegr": "Ikke udfyldt",
+        "aar_fredn": "0",
+        "gyldig_fra": "1800/01/01",
+        "gyldig_til": null,
+        "septima_hash86": "uR3hCayv2Mn12n3JhPmekdgqrW/Ao142dghUNEZ4Y7c+jYFLnaFNycVbz0THn4YzaTwQitQOm4fX1fYI1wMDkg",
+        "septima_serial": "1043055"
+      }
+    }
+  ]
+}

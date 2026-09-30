@@ -1,0 +1,930 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.078457057,
+                55.039343399,
+                0
+              ],
+              [
+                12.078311173,
+                55.038758696,
+                0
+              ],
+              [
+                12.078950206,
+                55.03848914,
+                0
+              ],
+              [
+                12.080054748,
+                55.038043728,
+                0
+              ],
+              [
+                12.080989686,
+                55.037665916,
+                0
+              ],
+              [
+                12.081993555,
+                55.038182637,
+                0
+              ],
+              [
+                12.083097678,
+                55.038531538,
+                0
+              ],
+              [
+                12.083026088,
+                55.039095765,
+                0
+              ],
+              [
+                12.078457057,
+                55.039343399,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "47653",
+        "lokalid": "542126_34965",
+        "registreringfra": "2018-06-04T02:57:56.948000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2002-01-30T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20135555",
+        "jordstykkelokalid": "542126",
+        "temafladeid": "34965",
+        "tematype": "Fredskov",
+        "status": "Gældende",
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "paataenkthandling": null,
+        "septima_hash86": "bpVze4sVbvap2dZkz++F60vPGO14vqt2LFJ63qSIvPDzrV6s6ccsOJZH50ZFH1X+ARS8fEPY51SxflPMB/f2+Q",
+        "septima_serial": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.081158772,
+                55.037106188,
+                0
+              ],
+              [
+                12.08063226,
+                55.036936707,
+                0
+              ],
+              [
+                12.081894052,
+                55.036224312,
+                0
+              ],
+              [
+                12.082393778,
+                55.036980975,
+                0
+              ],
+              [
+                12.082214031,
+                55.03705618,
+                0
+              ],
+              [
+                12.08213,
+                55.03708905,
+                0
+              ],
+              [
+                12.081771062,
+                55.03723308,
+                0
+              ],
+              [
+                12.081661975,
+                55.037278281,
+                0
+              ],
+              [
+                12.081158772,
+                55.037106188,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "47655",
+        "lokalid": "542122_34967",
+        "registreringfra": "2018-06-04T02:57:56.997000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2002-01-30T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20135555",
+        "jordstykkelokalid": "542122",
+        "temafladeid": "34967",
+        "tematype": "Fredskov",
+        "status": "Gældende",
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "paataenkthandling": null,
+        "septima_hash86": "VmTIX9fGC+kqTr2UXnHl6tUC8JGrTcn6uVeh9gZ6lZBb4CoHT2dzi2h5yZu76vFQWH5LLLhsy8BXNVZ75Sh+LQ",
+        "septima_serial": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.876297447,
+                56.296383509,
+                0
+              ],
+              [
+                9.876381956,
+                56.296223932,
+                0
+              ],
+              [
+                9.876485242,
+                56.296201254,
+                0
+              ],
+              [
+                9.876934764,
+                56.296297127,
+                0
+              ],
+              [
+                9.878503397,
+                56.296631669,
+                0
+              ],
+              [
+                9.878689979,
+                56.296593615,
+                0
+              ],
+              [
+                9.878813646,
+                56.296571291,
+                0
+              ],
+              [
+                9.878998995,
+                56.29654922,
+                0
+              ],
+              [
+                9.879183983,
+                56.296555715,
+                0
+              ],
+              [
+                9.879096358,
+                56.296938061,
+                0
+              ],
+              [
+                9.878982479,
+                56.296994702,
+                0
+              ],
+              [
+                9.876297447,
+                56.296383509,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "15025",
+        "lokalid": "1409545_48124",
+        "registreringfra": "2018-06-04T01:51:56.513000+02:00",
+        "registreringtil": null,
+        "virkningfra": "1999-02-12T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20095239",
+        "jordstykkelokalid": "1409545",
+        "temafladeid": "48124",
+        "tematype": "Fredskov",
+        "status": "Gældende",
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "paataenkthandling": null,
+        "septima_hash86": "5FrhE6lHAo1Lm88bOhzmSJyZ6YfVYfwBmiimojS1B57G7jccn1BhNicRVOCx4sCAdZewnE3gC3tOBl3S5scxog",
+        "septima_serial": "6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.511996403,
+                56.635400637,
+                0
+              ],
+              [
+                9.512519174,
+                56.635522617,
+                0
+              ],
+              [
+                9.513140373,
+                56.636732392,
+                0
+              ],
+              [
+                9.513463527,
+                56.636708985,
+                0
+              ],
+              [
+                9.512924352,
+                56.635617144,
+                0
+              ],
+              [
+                9.51288429,
+                56.63553735,
+                0
+              ],
+              [
+                9.517374866,
+                56.634591135,
+                0
+              ],
+              [
+                9.517393656,
+                56.63463357,
+                0
+              ],
+              [
+                9.517421556,
+                56.634688814,
+                0
+              ],
+              [
+                9.517474522,
+                56.634782856,
+                0
+              ],
+              [
+                9.51752523,
+                56.63485486,
+                0
+              ],
+              [
+                9.517536648,
+                56.634881522,
+                0
+              ],
+              [
+                9.517618396,
+                56.635005927,
+                0
+              ],
+              [
+                9.517674558,
+                56.635108329,
+                0
+              ],
+              [
+                9.517700444,
+                56.635187911,
+                0
+              ],
+              [
+                9.517718746,
+                56.635257741,
+                0
+              ],
+              [
+                9.517797099,
+                56.635460286,
+                0
+              ],
+              [
+                9.51784886,
+                56.635622154,
+                0
+              ],
+              [
+                9.517869927,
+                56.635706922,
+                0
+              ],
+              [
+                9.517893977,
+                56.635847576,
+                0
+              ],
+              [
+                9.517968697,
+                56.635900263,
+                0
+              ],
+              [
+                9.518018126,
+                56.636055987,
+                0
+              ],
+              [
+                9.518077103,
+                56.636272008,
+                0
+              ],
+              [
+                9.518123965,
+                56.636462807,
+                0
+              ],
+              [
+                9.518164518,
+                56.63665958,
+                0
+              ],
+              [
+                9.518182289,
+                56.636716735,
+                0
+              ],
+              [
+                9.51821997,
+                56.636868069,
+                0
+              ],
+              [
+                9.518231383,
+                56.636993,
+                0
+              ],
+              [
+                9.518266496,
+                56.637112766,
+                0
+              ],
+              [
+                9.518299182,
+                56.637296913,
+                0
+              ],
+              [
+                9.518326432,
+                56.637481729,
+                0
+              ],
+              [
+                9.518370642,
+                56.637664427,
+                0
+              ],
+              [
+                9.51839769,
+                56.637835696,
+                0
+              ],
+              [
+                9.518412747,
+                56.637983719,
+                0
+              ],
+              [
+                9.518415582,
+                56.638009725,
+                0
+              ],
+              [
+                9.517812992,
+                56.63805595,
+                0
+              ],
+              [
+                9.514752321,
+                56.638290067,
+                0
+              ],
+              [
+                9.514264443,
+                56.638330751,
+                0
+              ],
+              [
+                9.511996403,
+                56.635400637,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "206489",
+        "lokalid": "2323243_62620",
+        "registreringfra": "2020-05-06T08:00:39.707000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2020-05-06T08:00:02.790000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Matrikulær sag",
+        "senestesaglokalid": "100147431",
+        "jordstykkelokalid": "2323243",
+        "temafladeid": "62620",
+        "tematype": "Fredskov",
+        "status": "Gældende",
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "paataenkthandling": null,
+        "septima_hash86": "tTtsU2HNt2W77E560icK4zkxEj49bjiF9/uZjKYxqVdi48jRNOjAYi8JGo1JDeHjYpNZy/IBTg3KKJ7ppYweww",
+        "septima_serial": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.031285795,
+                55.365918771,
+                0
+              ],
+              [
+                12.030557903,
+                55.365421885,
+                0
+              ],
+              [
+                12.031287988,
+                55.365123135,
+                0
+              ],
+              [
+                12.031344708,
+                55.365167389,
+                0
+              ],
+              [
+                12.032721045,
+                55.364615209,
+                0
+              ],
+              [
+                12.03373058,
+                55.365016578,
+                0
+              ],
+              [
+                12.031988734,
+                55.365669742,
+                0
+              ],
+              [
+                12.031653583,
+                55.365790386,
+                0
+              ],
+              [
+                12.031285795,
+                55.365918771,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "14857",
+        "lokalid": "2091197_31234",
+        "registreringfra": "2018-06-04T01:51:23.038000+02:00",
+        "registreringtil": null,
+        "virkningfra": "1999-01-21T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20094810",
+        "jordstykkelokalid": "2091197",
+        "temafladeid": "31234",
+        "tematype": "Fredskov",
+        "status": "Gældende",
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "paataenkthandling": null,
+        "septima_hash86": "RImcBPK4al3Uqi63I+7pai8X8t+LMmZoKFRtz1SdqE/VbqSqq8g7P+ZQXdt1Hnu797ZxRscZ4xo74OE7SFs9nA",
+        "septima_serial": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.031344708,
+                55.365167389,
+                0
+              ],
+              [
+                12.031287988,
+                55.365123135,
+                0
+              ],
+              [
+                12.032578003,
+                55.364560234,
+                0
+              ],
+              [
+                12.032721045,
+                55.364615209,
+                0
+              ],
+              [
+                12.031344708,
+                55.365167389,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "14858",
+        "lokalid": "2091195_31235",
+        "registreringfra": "2018-06-04T01:51:23.070000+02:00",
+        "registreringtil": null,
+        "virkningfra": "1999-01-21T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20094810",
+        "jordstykkelokalid": "2091195",
+        "temafladeid": "31235",
+        "tematype": "Fredskov",
+        "status": "Gældende",
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "paataenkthandling": null,
+        "septima_hash86": "TaRSN8W6/HKrcqetx758lDusTooBUhPPT/HWdEowJnqJ6R+TSImtaaiUiiupcGgZTBkzHmK+DgYwqDSM26x06A",
+        "septima_serial": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.457170552,
+                55.062726892,
+                0
+              ],
+              [
+                10.457169925,
+                55.062726441,
+                0
+              ],
+              [
+                10.45843188,
+                55.062491096,
+                0
+              ],
+              [
+                10.458839506,
+                55.062583141,
+                0
+              ],
+              [
+                10.459171447,
+                55.062575897,
+                0
+              ],
+              [
+                10.459170689,
+                55.062576215,
+                0
+              ],
+              [
+                10.458791656,
+                55.062734324,
+                0
+              ],
+              [
+                10.458714006,
+                55.062998304,
+                0
+              ],
+              [
+                10.45892629,
+                55.063184126,
+                0
+              ],
+              [
+                10.45922786,
+                55.063387904,
+                0
+              ],
+              [
+                10.459434397,
+                55.063560285,
+                0
+              ],
+              [
+                10.459434931,
+                55.063560737,
+                0
+              ],
+              [
+                10.45840265,
+                55.063657327,
+                0
+              ],
+              [
+                10.458123426,
+                55.063400516,
+                0
+              ],
+              [
+                10.457810687,
+                55.063172756,
+                0
+              ],
+              [
+                10.457497962,
+                55.06296298,
+                0
+              ],
+              [
+                10.457170552,
+                55.062726892,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "14859",
+        "lokalid": "138680_31238",
+        "registreringfra": "2018-06-04T01:51:23.975000+02:00",
+        "registreringtil": null,
+        "virkningfra": "1999-01-21T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Matrikulær sag",
+        "senestesaglokalid": "20094561",
+        "jordstykkelokalid": "138680",
+        "temafladeid": "31238",
+        "tematype": "Fredskov",
+        "status": "Gældende",
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "paataenkthandling": null,
+        "septima_hash86": "xw2Gq9arphom5RcVNHfnI3iDogQAfMcb9r7WvTsf5NC2tQ49Ce8x5KJuNln/uvh8nF/nbIEsy7yguCdEl0vMdw",
+        "septima_serial": "12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.472215392,
+                55.04970714,
+                0
+              ],
+              [
+                10.472369044,
+                55.04948386,
+                0
+              ],
+              [
+                10.475429004,
+                55.049505991,
+                0
+              ],
+              [
+                10.474982591,
+                55.050074083,
+                0
+              ],
+              [
+                10.472215392,
+                55.04970714,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "14860",
+        "lokalid": "138627_31239",
+        "registreringfra": "2018-06-04T01:51:24.008000+02:00",
+        "registreringtil": null,
+        "virkningfra": "1999-01-21T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Matrikulær sag",
+        "senestesaglokalid": "20094561",
+        "jordstykkelokalid": "138627",
+        "temafladeid": "31239",
+        "tematype": "Fredskov",
+        "status": "Gældende",
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "paataenkthandling": null,
+        "septima_hash86": "nZdfQpb2erADwJG2yKIJ+5h+jzamyEK63n+2+ZEPPd0444mRtTllIocAu4bmtZkAgizYJ0S7sewEfTTdq10uDg",
+        "septima_serial": "13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.47049563,
+                55.049375605,
+                0
+              ],
+              [
+                10.470877352,
+                55.04876857,
+                0
+              ],
+              [
+                10.472683951,
+                55.048730262,
+                0
+              ],
+              [
+                10.472890808,
+                55.048725917,
+                0
+              ],
+              [
+                10.472628006,
+                55.049107734,
+                0
+              ],
+              [
+                10.472369044,
+                55.04948386,
+                0
+              ],
+              [
+                10.47049563,
+                55.049375605,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "14861",
+        "lokalid": "138640_31240",
+        "registreringfra": "2018-06-04T01:51:24.045000+02:00",
+        "registreringtil": null,
+        "virkningfra": "1999-01-21T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Matrikulær sag",
+        "senestesaglokalid": "20094561",
+        "jordstykkelokalid": "138640",
+        "temafladeid": "31240",
+        "tematype": "Fredskov",
+        "status": "Gældende",
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "paataenkthandling": null,
+        "septima_hash86": "A5alSca5yuANGkmJW7jmUGKLC6X1xtxiK21hsjxweoMfk/UFkMxnegncqDZngLOMOt5dfgptPRwC/Luo3TLTVg",
+        "septima_serial": "14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.886989255,
+                56.291955368,
+                0
+              ],
+              [
+                9.887053824,
+                56.291954295,
+                0
+              ],
+              [
+                9.888972845,
+                56.29192216,
+                0
+              ],
+              [
+                9.889074459,
+                56.292823653,
+                0
+              ],
+              [
+                9.888390176,
+                56.293492289,
+                0
+              ],
+              [
+                9.887679162,
+                56.293563615,
+                0
+              ],
+              [
+                9.887351139,
+                56.293593011,
+                0
+              ],
+              [
+                9.887136589,
+                56.292321617,
+                0
+              ],
+              [
+                9.886989255,
+                56.291955368,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "15024",
+        "lokalid": "1409503_48122",
+        "registreringfra": "2018-06-04T01:51:56.502000+02:00",
+        "registreringtil": null,
+        "virkningfra": "1999-02-12T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20095239",
+        "jordstykkelokalid": "1409503",
+        "temafladeid": "48122",
+        "tematype": "Fredskov",
+        "status": "Gældende",
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "paataenkthandling": null,
+        "septima_hash86": "UhmlSJFBYcjwFf32J0zWs47ywdh7UGACIkkBod/PxTokUo0mysSUZfSApsq66k81iLeSG8vCK3ioJBTGld5ePA",
+        "septima_serial": "15"
+      }
+    }
+  ]
+}

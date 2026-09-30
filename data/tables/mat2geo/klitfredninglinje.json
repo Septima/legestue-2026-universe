@@ -1,0 +1,395 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.572424336,
+            55.291747808,
+            0
+          ],
+          [
+            8.572664322,
+            55.291743714,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "39163870",
+        "lokalid": "45621183",
+        "registreringfra": "2018-06-03T03:45:43.919000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2008-05-14T13:38:32.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20235509",
+        "forloeb": "Skal ikke følge skelbillede",
+        "matrikelskellokalid": null,
+        "originaltemafladeid": "6578",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "tematype": "Klitfredning",
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "sLiM8dX0yEe7JvRiVg0VkrRe3HlIk9jvgKdppe0B5fI1PIqEFxNGcYPSTdMRSACpBUI4XTfywGhbdizpVKXHwg",
+        "septima_serial": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.546960061,
+            55.265976457,
+            0
+          ],
+          [
+            8.546960728,
+            55.266022927,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "39163873",
+        "lokalid": "45621203",
+        "registreringfra": "2018-06-03T03:45:43.925000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2008-05-14T13:38:32.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20235509",
+        "forloeb": "Skal følge skel",
+        "matrikelskellokalid": "21571645",
+        "originaltemafladeid": "6578",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "tematype": "Klitfredning",
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "U8yoCY+puls6AIgSwWQPw4tLhHKfHHmWfRRXQ/9gI5i62tExo53z73gK57EPG1vtx42+9YR0sPGetPUrC7Kg4A",
+        "septima_serial": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.546302401,
+            55.266980749,
+            0
+          ],
+          [
+            8.545293824,
+            55.268648398,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "39163876",
+        "lokalid": "45621206",
+        "registreringfra": "2018-06-03T03:45:43.927000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2008-05-14T13:38:32.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20235509",
+        "forloeb": "Skal følge skel",
+        "matrikelskellokalid": "21572815",
+        "originaltemafladeid": "6578",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "tematype": "Klitfredning",
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "Kv9MYc2uq1WHY0+YCqEKqt7zqEl0gnka+39PuzhIp0DT4rmagIZfdI5QXkmBRM2oatS69pL5dkydG+yG6T8kiw",
+        "septima_serial": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.48306535,
+            57.043350741,
+            0
+          ],
+          [
+            8.483975516,
+            57.04329672,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "39147546",
+        "lokalid": "45598886",
+        "registreringfra": "2018-06-03T06:57:48.103000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2008-07-17T08:03:55.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20238660",
+        "forloeb": "Skal ikke følge skelbillede",
+        "matrikelskellokalid": null,
+        "originaltemafladeid": "6242",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "tematype": "Klitfredning",
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "PvcEv2zzwO7rF35YD5ZS8vPTfLvjqP9m4FXFISZAVWKnlqop41g8Yqrq98zK/fJlfuaw0nmWLVa2kSHKs+XFjA",
+        "septima_serial": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.483975516,
+            57.04329672,
+            0
+          ],
+          [
+            8.484922486,
+            57.043169754,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "39147547",
+        "lokalid": "45598887",
+        "registreringfra": "2018-06-03T06:57:48.103000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2008-07-17T08:03:55.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20238660",
+        "forloeb": "Skal ikke følge skelbillede",
+        "matrikelskellokalid": null,
+        "originaltemafladeid": "6242",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "tematype": "Klitfredning",
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "ps05O6tCZYFyxdGIW2Ek7Sb32QszuiZ18ubLKLWERYGwhW5Fxk/CCtrPQSfN5C2vU7qH/gvq6DaK9p8h9POR+g",
+        "septima_serial": "6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.484922486,
+            57.043169754,
+            0
+          ],
+          [
+            8.486941525,
+            57.043061792,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "39147548",
+        "lokalid": "45598888",
+        "registreringfra": "2018-06-03T06:57:48.104000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2008-07-17T08:03:55.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20238660",
+        "forloeb": "Skal ikke følge skelbillede",
+        "matrikelskellokalid": null,
+        "originaltemafladeid": "6242",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "tematype": "Klitfredning",
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "0D3oRcNxgX0LPJi0zb1VBV4ITTYS4cQ0Oyg1W4nt6WS0aFtpS9hvy6WqUKNbIGQHvFsyWn4XJ3SA+A801klrmQ",
+        "septima_serial": "7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.488521599,
+            57.042987797,
+            0
+          ],
+          [
+            8.488690568,
+            57.042929653,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "39147550",
+        "lokalid": "45598890",
+        "registreringfra": "2018-06-03T06:57:48.105000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2008-07-17T08:03:55.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20238660",
+        "forloeb": "Skal ikke følge skelbillede",
+        "matrikelskellokalid": null,
+        "originaltemafladeid": "6242",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "tematype": "Klitfredning",
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "489wBt/jkJ2jCFKw4rUxwXvO4sFC4JK9hfGq2KxqiGq8U25RbQB5kuV7yWm/OW9mpVEfAah5SuglfjwfIufdrg",
+        "septima_serial": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.488690568,
+            57.042929653,
+            0
+          ],
+          [
+            8.488823198,
+            57.042925344,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "39147551",
+        "lokalid": "45598891",
+        "registreringfra": "2018-06-03T06:57:48.106000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2012-06-27T14:38:54.511000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Matrikulær sag",
+        "senestesaglokalid": "100062639",
+        "forloeb": "Skal følge skel",
+        "matrikelskellokalid": "27395135",
+        "originaltemafladeid": "6242",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "tematype": "Klitfredning",
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "ARDDpEcI44UC9YEEnK4p44ydIYn4gP4iWSj2Ka0dkY7kINWaO3KOp5CknHBmDJgsb4FP1rp4iyVB9jl25xKb3A",
+        "septima_serial": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.489073428,
+            57.042646598,
+            0
+          ],
+          [
+            8.489100395,
+            57.042604171,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "39147553",
+        "lokalid": "45598893",
+        "registreringfra": "2018-06-03T06:57:48.108000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2012-06-27T14:38:54.511000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Matrikulær sag",
+        "senestesaglokalid": "100062639",
+        "forloeb": "Skal følge skel",
+        "matrikelskellokalid": "27397280",
+        "originaltemafladeid": "6242",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "tematype": "Klitfredning",
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "L5xWHs7FNVH0FaQcFcGvduWGy2O48nmmUXA6dKyD5wq23AQCOMvfbmfUsDpv0J7IOpRLhFrmvEHMtFRe+I36JQ",
+        "septima_serial": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.489100395,
+            57.042604171,
+            0
+          ],
+          [
+            8.489340284,
+            57.042539488,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "39147554",
+        "lokalid": "45598894",
+        "registreringfra": "2018-06-03T06:57:48.111000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2012-06-27T14:38:54.511000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Matrikulær sag",
+        "senestesaglokalid": "100062639",
+        "forloeb": "Skal følge skel",
+        "matrikelskellokalid": "27397166",
+        "originaltemafladeid": "6242",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "tematype": "Klitfredning",
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "bITaQxaTb7nn1wA8+LU8J6sRV0DbMCd1v34IPYF8d70H99Dzjvj5kbeIIgLUm+Bj5f1bTEErk3LPjHXT5u/Ilw",
+        "septima_serial": "11"
+      }
+    }
+  ]
+}

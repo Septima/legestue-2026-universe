@@ -1,0 +1,3461 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.973658158,
+                54.966752528
+              ],
+              [
+                8.975617406,
+                54.967838475
+              ],
+              [
+                8.977071907,
+                54.969732035
+              ],
+              [
+                8.982208495,
+                54.967931558
+              ],
+              [
+                8.977798579,
+                54.965120009
+              ],
+              [
+                8.977657875,
+                54.965020709
+              ],
+              [
+                8.977486916,
+                54.965063184
+              ],
+              [
+                8.973658158,
+                54.966752528
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": 608699,
+        "id": 608699,
+        "planid": 2280690,
+        "objektkode": 10,
+        "komplan_id": 1361487,
+        "komtil_id": 2268646,
+        "plantype": "10.1",
+        "plannavn": "Teknisk anlæg ved Midtmosevej",
+        "plannr": "18-650",
+        "anvgen": 81,
+        "fzone": 2,
+        "zone": 2,
+        "datoforsl": 20130530,
+        "datovedt": 20130926,
+        "datoikraft": 20131008,
+        "datostart": 20130611,
+        "datoslut": 20130806,
+        "datooprt": "2013-06-11T07:02:13.596Z",
+        "datoopdt": "2013-10-08T08:15:07.206Z",
+        "planstatus": "V",
+        "komnr": 550,
+        "doklink": "https://dokument.plandata.dk/12_2268646_1381220107206.pdf",
+        "anvendelsegenerel": "Tekniske anlæg",
+        "zonestatus": "Landzone",
+        "fremtidigzonestatus": "Landzone",
+        "iomfangreg": true,
+        "iudstykreg": true,
+        "sforaktuel": false,
+        "vvmredeg": 2,
+        "geomfrakom": false,
+        "statsplan": "false",
+        "distrikt": null,
+        "anvspec1": null,
+        "maxbygnhjd": null,
+        "bebygpctar": null,
+        "datoattr": null,
+        "datogeom": null,
+        "m3_m2": null,
+        "m3_m2h": null,
+        "maxetager": null,
+        "notanvgen": null,
+        "notomranv": null,
+        "notbebygom": null,
+        "notophold": null,
+        "notmiljo": null,
+        "notinfras": null,
+        "notlokalp": null,
+        "dataprod": null,
+        "bebygpct": null,
+        "notat": null,
+        "minmiljo": null,
+        "maxmiljo": null,
+        "notzone": null,
+        "bebygpctaf": null,
+        "anvspec2": null,
+        "maxbhjd2": null,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "anvspec3": null,
+        "digigrundl": null,
+        "digigrundd": null,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "anvspec4": null,
+        "anvspec5": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "udstykforbud": null,
+        "minuds": null,
+        "anvspec6": null,
+        "minuds1": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "maxetage4": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "maxbhjd5": null,
+        "anvspec7": null,
+        "anvspec8": null,
+        "maxetage2": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "minuds2": null,
+        "minuds3": null,
+        "udstykfb1": null,
+        "udstykfb2": null,
+        "eareal": null,
+        "earealh": null,
+        "sforhold": null,
+        "eareal1": null,
+        "earealh1": null,
+        "udstykfb3": null,
+        "vindbeskriv": null,
+        "udstykfb4": null,
+        "udstykfb5": null,
+        "udstykfb6": null,
+        "udstykfb7": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "udstykfb9": null,
+        "minuds4": null,
+        "minuds5": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "eareal2": null,
+        "earealh2": null,
+        "eareal3": null,
+        "earealh3": null,
+        "anvspec10": null,
+        "udstykfb10": null,
+        "maxetage5": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "maxetage6": null,
+        "maxbhjd4": null,
+        "maxbhjd6": null,
+        "minuds6": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "minuds7": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "minuds8": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "minuds9": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "minuds10": null,
+        "bygpctar1": null,
+        "bygpctar2": null,
+        "bygpctar3": null,
+        "eareal4": null,
+        "earealh4": null,
+        "bygpctar4": null,
+        "bygpctar5": null,
+        "bygpctar6": null,
+        "eareal5": null,
+        "earealh5": null,
+        "eareal7": null,
+        "earealh7": null,
+        "maxuds": null,
+        "maxboligenhed1": null,
+        "maxboligenhed2": null,
+        "fuldtbyg": null,
+        "fuldtbyg1": null,
+        "fuldtbyg2": null,
+        "bygpctarh": null,
+        "fuldtbyg3": null,
+        "septima_hash86": "qEiR/8oj6TXK9U9PtuVvOZBVeMwWpO9UdYSAId5fC7Cm1Kj+n6FI9CsUalU4CYS95GrsYcv6p5pypeH6hgjIDw",
+        "septima_serial": "3020913"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.346802764,
+                56.454203674
+              ],
+              [
+                8.347085457,
+                56.454195866
+              ],
+              [
+                8.347367485,
+                56.454182598
+              ],
+              [
+                8.347648505,
+                56.454163888
+              ],
+              [
+                8.347928174,
+                56.454139758
+              ],
+              [
+                8.348206152,
+                56.454110237
+              ],
+              [
+                8.3484821,
+                56.454075361
+              ],
+              [
+                8.34875568,
+                56.454035173
+              ],
+              [
+                8.349026561,
+                56.453989723
+              ],
+              [
+                8.349294411,
+                56.453939064
+              ],
+              [
+                8.349558905,
+                56.45388326
+              ],
+              [
+                8.349819719,
+                56.453822377
+              ],
+              [
+                8.350076537,
+                56.453756491
+              ],
+              [
+                8.350329045,
+                56.453685681
+              ],
+              [
+                8.350576936,
+                56.453610034
+              ],
+              [
+                8.350819906,
+                56.453529642
+              ],
+              [
+                8.351057661,
+                56.453444603
+              ],
+              [
+                8.351289911,
+                56.453355021
+              ],
+              [
+                8.351516372,
+                56.453261004
+              ],
+              [
+                8.351736769,
+                56.453162668
+              ],
+              [
+                8.351950833,
+                56.453060132
+              ],
+              [
+                8.352158303,
+                56.452953521
+              ],
+              [
+                8.352358927,
+                56.452842965
+              ],
+              [
+                8.35255246,
+                56.452728599
+              ],
+              [
+                8.352738666,
+                56.452610562
+              ],
+              [
+                8.352917318,
+                56.452488998
+              ],
+              [
+                8.3530882,
+                56.452364056
+              ],
+              [
+                8.353251102,
+                56.452235886
+              ],
+              [
+                8.353405826,
+                56.452104647
+              ],
+              [
+                8.353552183,
+                56.451970497
+              ],
+              [
+                8.353689997,
+                56.4518336
+              ],
+              [
+                8.353819098,
+                56.451694122
+              ],
+              [
+                8.353939329,
+                56.451552235
+              ],
+              [
+                8.354050544,
+                56.45140811
+              ],
+              [
+                8.354152608,
+                56.451261923
+              ],
+              [
+                8.354245397,
+                56.451113853
+              ],
+              [
+                8.354328796,
+                56.45096408
+              ],
+              [
+                8.354402706,
+                56.450812786
+              ],
+              [
+                8.354467035,
+                56.450660156
+              ],
+              [
+                8.354521706,
+                56.450506375
+              ],
+              [
+                8.354566653,
+                56.450351632
+              ],
+              [
+                8.35460182,
+                56.450196114
+              ],
+              [
+                8.354627164,
+                56.450040011
+              ],
+              [
+                8.354642656,
+                56.449883513
+              ],
+              [
+                8.354648276,
+                56.449726811
+              ],
+              [
+                8.354644018,
+                56.449570096
+              ],
+              [
+                8.354629886,
+                56.449413559
+              ],
+              [
+                8.354605899,
+                56.449257391
+              ],
+              [
+                8.354572085,
+                56.449101781
+              ],
+              [
+                8.354528486,
+                56.448946919
+              ],
+              [
+                8.354475155,
+                56.448792994
+              ],
+              [
+                8.354412158,
+                56.448640194
+              ],
+              [
+                8.35433957,
+                56.448488705
+              ],
+              [
+                8.354220235,
+                56.448256697
+              ],
+              [
+                8.348106096,
+                56.436370921
+              ],
+              [
+                8.348024635,
+                56.43622198
+              ],
+              [
+                8.347933198,
+                56.436073658
+              ],
+              [
+                8.347832474,
+                56.435927195
+              ],
+              [
+                8.347722585,
+                56.435782769
+              ],
+              [
+                8.347603667,
+                56.435640555
+              ],
+              [
+                8.347475862,
+                56.435500727
+              ],
+              [
+                8.347339329,
+                56.435363455
+              ],
+              [
+                8.347194232,
+                56.435228906
+              ],
+              [
+                8.347040749,
+                56.435097245
+              ],
+              [
+                8.346879067,
+                56.434968631
+              ],
+              [
+                8.346709382,
+                56.434843221
+              ],
+              [
+                8.346531902,
+                56.434721169
+              ],
+              [
+                8.346346843,
+                56.434602622
+              ],
+              [
+                8.34615443,
+                56.434487725
+              ],
+              [
+                8.345954898,
+                56.434376618
+              ],
+              [
+                8.34574849,
+                56.434269436
+              ],
+              [
+                8.345535457,
+                56.434166311
+              ],
+              [
+                8.345316059,
+                56.434067366
+              ],
+              [
+                8.345090563,
+                56.433972724
+              ],
+              [
+                8.344859243,
+                56.4338825
+              ],
+              [
+                8.344622383,
+                56.433796802
+              ],
+              [
+                8.344380269,
+                56.433715736
+              ],
+              [
+                8.344133198,
+                56.4336394
+              ],
+              [
+                8.343881469,
+                56.433567888
+              ],
+              [
+                8.34362539,
+                56.433501286
+              ],
+              [
+                8.343365273,
+                56.433439675
+              ],
+              [
+                8.343101434,
+                56.433383131
+              ],
+              [
+                8.342834195,
+                56.433331723
+              ],
+              [
+                8.342563881,
+                56.433285512
+              ],
+              [
+                8.342290821,
+                56.433244556
+              ],
+              [
+                8.342015349,
+                56.433208904
+              ],
+              [
+                8.341737799,
+                56.4331786
+              ],
+              [
+                8.341458509,
+                56.43315368
+              ],
+              [
+                8.34117782,
+                56.433134175
+              ],
+              [
+                8.340896074,
+                56.433120108
+              ],
+              [
+                8.340613614,
+                56.433111498
+              ],
+              [
+                8.340330783,
+                56.433108353
+              ],
+              [
+                8.340047927,
+                56.433110679
+              ],
+              [
+                8.339765389,
+                56.433118472
+              ],
+              [
+                8.339483515,
+                56.433131722
+              ],
+              [
+                8.339202646,
+                56.433150415
+              ],
+              [
+                8.338923125,
+                56.433174526
+              ],
+              [
+                8.338645293,
+                56.433204026
+              ],
+              [
+                8.338369489,
+                56.433238881
+              ],
+              [
+                8.338096047,
+                56.433279046
+              ],
+              [
+                8.337825301,
+                56.433324473
+              ],
+              [
+                8.337557581,
+                56.433375107
+              ],
+              [
+                8.337293212,
+                56.433430887
+              ],
+              [
+                8.337032518,
+                56.433491744
+              ],
+              [
+                8.336775814,
+                56.433557603
+              ],
+              [
+                8.336523415,
+                56.433628386
+              ],
+              [
+                8.336275627,
+                56.433704005
+              ],
+              [
+                8.336032753,
+                56.433784369
+              ],
+              [
+                8.335795087,
+                56.43386938
+              ],
+              [
+                8.335562921,
+                56.433958934
+              ],
+              [
+                8.335336535,
+                56.434052922
+              ],
+              [
+                8.335116207,
+                56.43415123
+              ],
+              [
+                8.334902205,
+                56.434253737
+              ],
+              [
+                8.334694789,
+                56.43436032
+              ],
+              [
+                8.334494212,
+                56.434470847
+              ],
+              [
+                8.334300718,
+                56.434585186
+              ],
+              [
+                8.334114544,
+                56.434703195
+              ],
+              [
+                8.333935916,
+                56.434824732
+              ],
+              [
+                8.333765051,
+                56.434949649
+              ],
+              [
+                8.333602158,
+                56.435077793
+              ],
+              [
+                8.333447435,
+                56.435209008
+              ],
+              [
+                8.333301072,
+                56.435343135
+              ],
+              [
+                8.333163246,
+                56.43548001
+              ],
+              [
+                8.333034125,
+                56.435619466
+              ],
+              [
+                8.332913866,
+                56.435761334
+              ],
+              [
+                8.332802617,
+                56.43590544
+              ],
+              [
+                8.332700513,
+                56.436051609
+              ],
+              [
+                8.332607678,
+                56.436199663
+              ],
+              [
+                8.332524226,
+                56.436349422
+              ],
+              [
+                8.332450258,
+                56.436500703
+              ],
+              [
+                8.332385865,
+                56.436653322
+              ],
+              [
+                8.332331125,
+                56.436807093
+              ],
+              [
+                8.332286105,
+                56.436961829
+              ],
+              [
+                8.332250859,
+                56.437117341
+              ],
+              [
+                8.332225432,
+                56.437273439
+              ],
+              [
+                8.332209854,
+                56.437429934
+              ],
+              [
+                8.332204144,
+                56.437586635
+              ],
+              [
+                8.332208309,
+                56.437743351
+              ],
+              [
+                8.332222344,
+                56.437899891
+              ],
+              [
+                8.332246233,
+                56.438056064
+              ],
+              [
+                8.332279946,
+                56.43821168
+              ],
+              [
+                8.332323442,
+                56.438366549
+              ],
+              [
+                8.332376669,
+                56.438520483
+              ],
+              [
+                8.332439562,
+                56.438673295
+              ],
+              [
+                8.332512044,
+                56.438824797
+              ],
+              [
+                8.332720429,
+                56.439230444
+              ],
+              [
+                8.338740945,
+                56.450943348
+              ],
+              [
+                8.3388224,
+                56.451092295
+              ],
+              [
+                8.338913837,
+                56.451240623
+              ],
+              [
+                8.339014567,
+                56.451387093
+              ],
+              [
+                8.339124467,
+                56.451531526
+              ],
+              [
+                8.339243403,
+                56.451673748
+              ],
+              [
+                8.339371231,
+                56.451813584
+              ],
+              [
+                8.339507794,
+                56.451950865
+              ],
+              [
+                8.339652927,
+                56.452085422
+              ],
+              [
+                8.339806453,
+                56.452217093
+              ],
+              [
+                8.339968184,
+                56.452345716
+              ],
+              [
+                8.340137924,
+                56.452471134
+              ],
+              [
+                8.340315465,
+                56.452593196
+              ],
+              [
+                8.340500593,
+                56.452711752
+              ],
+              [
+                8.34069308,
+                56.452826657
+              ],
+              [
+                8.340892693,
+                56.452937773
+              ],
+              [
+                8.341099188,
+                56.453044962
+              ],
+              [
+                8.341312315,
+                56.453148095
+              ],
+              [
+                8.341531812,
+                56.453247046
+              ],
+              [
+                8.341757413,
+                56.453341695
+              ],
+              [
+                8.341988843,
+                56.453431925
+              ],
+              [
+                8.342225819,
+                56.453517628
+              ],
+              [
+                8.342468054,
+                56.453598698
+              ],
+              [
+                8.342715251,
+                56.453675037
+              ],
+              [
+                8.34296711,
+                56.453746552
+              ],
+              [
+                8.343223324,
+                56.453813156
+              ],
+              [
+                8.34348358,
+                56.453874767
+              ],
+              [
+                8.343747561,
+                56.45393131
+              ],
+              [
+                8.344014946,
+                56.453982717
+              ],
+              [
+                8.344285408,
+                56.454028924
+              ],
+              [
+                8.344558619,
+                56.454069876
+              ],
+              [
+                8.344834245,
+                56.454105523
+              ],
+              [
+                8.34511195,
+                56.454135821
+              ],
+              [
+                8.345391396,
+                56.454160733
+              ],
+              [
+                8.345672241,
+                56.454180228
+              ],
+              [
+                8.345954145,
+                56.454194284
+              ],
+              [
+                8.346236763,
+                56.454202883
+              ],
+              [
+                8.346519751,
+                56.454206014
+              ],
+              [
+                8.346802764,
+                56.454203674
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": 1219601,
+        "id": 1219601,
+        "planid": 9431908,
+        "objektkode": 10,
+        "komplan_id": 3553393,
+        "komtil_id": 3964798,
+        "plantype": "10.1",
+        "plannavn": "Lemvig Kommuneplan 2017-29",
+        "plannr": "6å 0.5",
+        "anvgen": 81,
+        "fzone": 2,
+        "zone": 2,
+        "datoforsl": 20151125,
+        "datovedt": 20170222,
+        "datoikraft": 20170228,
+        "datostart": 20151201,
+        "datoslut": 20160202,
+        "datooprt": "2017-04-03T07:37:03.355Z",
+        "datoopdt": "2017-12-15T08:30:17.807Z",
+        "planstatus": "V",
+        "komnr": 665,
+        "doklink": "https://dokument.plandata.dk/12_3964798_1515761843068.pdf",
+        "anvendelsegenerel": "Tekniske anlæg",
+        "zonestatus": "Landzone",
+        "fremtidigzonestatus": "Landzone",
+        "iomfangreg": false,
+        "iudstykreg": true,
+        "sforaktuel": false,
+        "vvmredeg": 2,
+        "geomfrakom": false,
+        "statsplan": "false",
+        "distrikt": null,
+        "anvspec1": 8111,
+        "maxbygnhjd": null,
+        "bebygpctar": null,
+        "datoattr": 20180622,
+        "datogeom": 20180622,
+        "m3_m2": null,
+        "m3_m2h": null,
+        "maxetager": null,
+        "notanvgen": null,
+        "notomranv": null,
+        "notbebygom": "Min/max. bygningshøjde: 140/149,9 m.",
+        "notophold": null,
+        "notmiljo": null,
+        "notinfras": null,
+        "notlokalp": "Lokalplan 184",
+        "dataprod": null,
+        "bebygpct": null,
+        "notat": "I området kan der rejses maksimalt 5 vindmøller. Møllerne\nskal stå på en ret linie. Der må ikke rejses vindmøller før de 3\neksisterende vindmøller i rammeområde 6Å 0.5 er nedtaget.",
+        "minmiljo": null,
+        "maxmiljo": null,
+        "notzone": null,
+        "bebygpctaf": null,
+        "anvspec2": null,
+        "maxbhjd2": null,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "anvspec3": null,
+        "digigrundl": null,
+        "digigrundd": null,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "anvspec4": null,
+        "anvspec5": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "udstykforbud": null,
+        "minuds": null,
+        "anvspec6": null,
+        "minuds1": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "maxetage4": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "maxbhjd5": null,
+        "anvspec7": null,
+        "anvspec8": null,
+        "maxetage2": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "minuds2": null,
+        "minuds3": null,
+        "udstykfb1": null,
+        "udstykfb2": null,
+        "eareal": null,
+        "earealh": null,
+        "sforhold": null,
+        "eareal1": null,
+        "earealh1": null,
+        "udstykfb3": null,
+        "vindbeskriv": null,
+        "udstykfb4": null,
+        "udstykfb5": null,
+        "udstykfb6": null,
+        "udstykfb7": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "udstykfb9": null,
+        "minuds4": null,
+        "minuds5": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "eareal2": null,
+        "earealh2": null,
+        "eareal3": null,
+        "earealh3": null,
+        "anvspec10": null,
+        "udstykfb10": null,
+        "maxetage5": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "maxetage6": null,
+        "maxbhjd4": null,
+        "maxbhjd6": null,
+        "minuds6": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "minuds7": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "minuds8": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "minuds9": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "minuds10": null,
+        "bygpctar1": null,
+        "bygpctar2": null,
+        "bygpctar3": null,
+        "eareal4": null,
+        "earealh4": null,
+        "bygpctar4": null,
+        "bygpctar5": null,
+        "bygpctar6": null,
+        "eareal5": null,
+        "earealh5": null,
+        "eareal7": null,
+        "earealh7": null,
+        "maxuds": null,
+        "maxboligenhed1": null,
+        "maxboligenhed2": null,
+        "fuldtbyg": null,
+        "fuldtbyg1": null,
+        "fuldtbyg2": null,
+        "bygpctarh": null,
+        "fuldtbyg3": null,
+        "septima_hash86": "FMXgipWKthi7zoGLv1yS2QmJuGtcfHlFVi7q/yqPubHO41iOy5YPrOgcnXRP8vpNvzF0NdDZmKpSsCieTdZh+A",
+        "septima_serial": "3020922"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.530423733,
+                57.330976545
+              ],
+              [
+                10.530411235,
+                57.331021879
+              ],
+              [
+                10.529797872,
+                57.331210246
+              ],
+              [
+                10.529389277,
+                57.331335759
+              ],
+              [
+                10.529016307,
+                57.33094066
+              ],
+              [
+                10.529895607,
+                57.330668221
+              ],
+              [
+                10.530022637,
+                57.330725511
+              ],
+              [
+                10.530089354,
+                57.330761977
+              ],
+              [
+                10.530225449,
+                57.330836314
+              ],
+              [
+                10.530371451,
+                57.330934783
+              ],
+              [
+                10.530423733,
+                57.330976545
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": 1247954,
+        "id": 1247954,
+        "planid": 4020832,
+        "objektkode": 10,
+        "komplan_id": 2673954,
+        "komtil_id": 3964752,
+        "plantype": "10.1",
+        "plannavn": "Tillæg nr. 15.42 - Boliger på Gasværksvej",
+        "plannr": "SAE.B.01.22",
+        "anvgen": 11,
+        "fzone": 1,
+        "zone": null,
+        "datoforsl": 20171129,
+        "datovedt": 20180321,
+        "datoikraft": 20180321,
+        "datostart": 20171211,
+        "datoslut": 20180205,
+        "datooprt": "2013-09-16T10:49:13.361Z",
+        "datoopdt": "2018-08-03T12:57:41.992Z",
+        "planstatus": "V",
+        "komnr": 813,
+        "doklink": "https://dokument.plandata.dk/12_3964752_1522775799906.pdf",
+        "anvendelsegenerel": "Boligområde",
+        "zonestatus": null,
+        "fremtidigzonestatus": "Byzone",
+        "iomfangreg": false,
+        "iudstykreg": true,
+        "sforaktuel": false,
+        "vvmredeg": 2,
+        "geomfrakom": false,
+        "statsplan": "false",
+        "distrikt": null,
+        "anvspec1": 1130,
+        "maxbygnhjd": "8.50",
+        "bebygpctar": null,
+        "datoattr": 20180803,
+        "datogeom": 20180114,
+        "m3_m2": null,
+        "m3_m2h": null,
+        "maxetager": "2.00",
+        "notanvgen": null,
+        "notomranv": null,
+        "notbebygom": null,
+        "notophold": null,
+        "notmiljo": null,
+        "notinfras": null,
+        "notlokalp": null,
+        "dataprod": null,
+        "bebygpct": "75",
+        "notat": null,
+        "minmiljo": null,
+        "maxmiljo": null,
+        "notzone": null,
+        "bebygpctaf": "1",
+        "anvspec2": null,
+        "maxbhjd2": null,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "anvspec3": null,
+        "digigrundl": null,
+        "digigrundd": null,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "anvspec4": null,
+        "anvspec5": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "udstykforbud": null,
+        "minuds": null,
+        "anvspec6": null,
+        "minuds1": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "maxetage4": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "maxbhjd5": null,
+        "anvspec7": null,
+        "anvspec8": null,
+        "maxetage2": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "minuds2": null,
+        "minuds3": null,
+        "udstykfb1": null,
+        "udstykfb2": null,
+        "eareal": null,
+        "earealh": null,
+        "sforhold": null,
+        "eareal1": null,
+        "earealh1": null,
+        "udstykfb3": null,
+        "vindbeskriv": null,
+        "udstykfb4": null,
+        "udstykfb5": null,
+        "udstykfb6": null,
+        "udstykfb7": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "udstykfb9": null,
+        "minuds4": null,
+        "minuds5": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "eareal2": null,
+        "earealh2": null,
+        "eareal3": null,
+        "earealh3": null,
+        "anvspec10": null,
+        "udstykfb10": null,
+        "maxetage5": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "maxetage6": null,
+        "maxbhjd4": null,
+        "maxbhjd6": null,
+        "minuds6": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "minuds7": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "minuds8": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "minuds9": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "minuds10": null,
+        "bygpctar1": null,
+        "bygpctar2": null,
+        "bygpctar3": null,
+        "eareal4": null,
+        "earealh4": null,
+        "bygpctar4": null,
+        "bygpctar5": null,
+        "bygpctar6": null,
+        "eareal5": null,
+        "earealh5": null,
+        "eareal7": null,
+        "earealh7": null,
+        "maxuds": null,
+        "maxboligenhed1": null,
+        "maxboligenhed2": null,
+        "fuldtbyg": null,
+        "fuldtbyg1": null,
+        "fuldtbyg2": null,
+        "bygpctarh": null,
+        "fuldtbyg3": null,
+        "septima_hash86": "Z1i+mH82uDtrGuO4MdDfmnSgViajtQuOIyQyfvz9rVn+gp1lxUCPr/fMAhPIQdad0u+/H06fu3zOSqRmUDApFA",
+        "septima_serial": "3020923"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.918366588,
+                56.426529291
+              ],
+              [
+                10.918619487,
+                56.426439758
+              ],
+              [
+                10.919125999,
+                56.426274965
+              ],
+              [
+                10.919671978,
+                56.426123934
+              ],
+              [
+                10.920272849,
+                56.426043297
+              ],
+              [
+                10.920852377,
+                56.42604861
+              ],
+              [
+                10.921457917,
+                56.426060615
+              ],
+              [
+                10.922034928,
+                56.426016008
+              ],
+              [
+                10.922597178,
+                56.425935959
+              ],
+              [
+                10.923169866,
+                56.425805791
+              ],
+              [
+                10.924252176,
+                56.425498989
+              ],
+              [
+                10.924196,
+                56.425363656
+              ],
+              [
+                10.923912115,
+                56.424680389
+              ],
+              [
+                10.923545461,
+                56.42379823
+              ],
+              [
+                10.923574714,
+                56.42359904
+              ],
+              [
+                10.92346236,
+                56.423598267
+              ],
+              [
+                10.918224975,
+                56.423645317
+              ],
+              [
+                10.917828666,
+                56.425560371
+              ],
+              [
+                10.917793731,
+                56.425889023
+              ],
+              [
+                10.917860959,
+                56.42620181
+              ],
+              [
+                10.918056502,
+                56.426505516
+              ],
+              [
+                10.918366588,
+                56.426529291
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": 1250019,
+        "id": 1250019,
+        "planid": 3766499,
+        "objektkode": 10,
+        "komplan_id": 3127586,
+        "komtil_id": 3766496,
+        "plantype": "10.1",
+        "plannavn": "Grenaa Havn",
+        "plannr": "3H2.9",
+        "anvgen": 31,
+        "fzone": 1,
+        "zone": null,
+        "datoforsl": 20170516,
+        "datovedt": 20171107,
+        "datoikraft": 20171113,
+        "datostart": 20170518,
+        "datoslut": 20170731,
+        "datooprt": "2017-06-30T10:20:33.161Z",
+        "datoopdt": "2018-08-22T06:55:46.731Z",
+        "planstatus": "V",
+        "komnr": 707,
+        "doklink": "https://dokument.plandata.dk/12_3766496_1510247639521.pdf",
+        "anvendelsegenerel": "Erhvervsområde",
+        "zonestatus": null,
+        "fremtidigzonestatus": "Byzone",
+        "iomfangreg": true,
+        "iudstykreg": true,
+        "sforaktuel": false,
+        "vvmredeg": 2,
+        "geomfrakom": false,
+        "statsplan": "false",
+        "distrikt": "Grenaa",
+        "anvspec1": 3140,
+        "maxbygnhjd": null,
+        "bebygpctar": null,
+        "datoattr": 20180822,
+        "datogeom": 20170630,
+        "m3_m2": null,
+        "m3_m2h": null,
+        "maxetager": null,
+        "notanvgen": "Industrivirksomheder med særlige beliggenhedskrav.",
+        "notomranv": null,
+        "notbebygom": null,
+        "notophold": null,
+        "notmiljo": null,
+        "notinfras": null,
+        "notlokalp": "Bygningsregulerende bestemmelser for delområdet skal fastlægges i en ny lokalplan",
+        "dataprod": "Norddjurs Kommune",
+        "bebygpct": null,
+        "notat": null,
+        "minmiljo": null,
+        "maxmiljo": null,
+        "notzone": null,
+        "bebygpctaf": null,
+        "anvspec2": 3150,
+        "maxbhjd2": null,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "anvspec3": null,
+        "digigrundl": "Matrikelkortet",
+        "digigrundd": 20170630,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "anvspec4": null,
+        "anvspec5": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "udstykforbud": null,
+        "minuds": null,
+        "anvspec6": null,
+        "minuds1": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "maxetage4": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "maxbhjd5": null,
+        "anvspec7": null,
+        "anvspec8": null,
+        "maxetage2": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "minuds2": null,
+        "minuds3": null,
+        "udstykfb1": null,
+        "udstykfb2": null,
+        "eareal": null,
+        "earealh": null,
+        "sforhold": null,
+        "eareal1": null,
+        "earealh1": null,
+        "udstykfb3": null,
+        "vindbeskriv": null,
+        "udstykfb4": null,
+        "udstykfb5": null,
+        "udstykfb6": null,
+        "udstykfb7": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "udstykfb9": null,
+        "minuds4": null,
+        "minuds5": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "eareal2": null,
+        "earealh2": null,
+        "eareal3": null,
+        "earealh3": null,
+        "anvspec10": null,
+        "udstykfb10": null,
+        "maxetage5": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "maxetage6": null,
+        "maxbhjd4": null,
+        "maxbhjd6": null,
+        "minuds6": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "minuds7": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "minuds8": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "minuds9": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "minuds10": null,
+        "bygpctar1": null,
+        "bygpctar2": null,
+        "bygpctar3": null,
+        "eareal4": null,
+        "earealh4": null,
+        "bygpctar4": null,
+        "bygpctar5": null,
+        "bygpctar6": null,
+        "eareal5": null,
+        "earealh5": null,
+        "eareal7": null,
+        "earealh7": null,
+        "maxuds": null,
+        "maxboligenhed1": null,
+        "maxboligenhed2": null,
+        "fuldtbyg": null,
+        "fuldtbyg1": null,
+        "fuldtbyg2": null,
+        "bygpctarh": null,
+        "fuldtbyg3": null,
+        "septima_hash86": "O6EHGFWz1IgTTQ99qnCvoeKgkWMv1Jnx0mbuuGsjtdG86ggUalGatiAeVTUYqRL2NFp6/6JQEppFyje5JNn5Ig",
+        "septima_serial": "3020924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.935724193,
+                56.415542233
+              ],
+              [
+                10.936289462,
+                56.414920038
+              ],
+              [
+                10.935312353,
+                56.413660658
+              ],
+              [
+                10.933463805,
+                56.414106459
+              ],
+              [
+                10.934309789,
+                56.415140591
+              ],
+              [
+                10.935724193,
+                56.415542233
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": 1250020,
+        "id": 1250020,
+        "planid": 3766500,
+        "objektkode": 10,
+        "komplan_id": 3127586,
+        "komtil_id": 3766496,
+        "plantype": "10.1",
+        "plannavn": "Grenaa Havn",
+        "plannr": "3H2.15",
+        "anvgen": 31,
+        "fzone": 1,
+        "zone": null,
+        "datoforsl": 20170516,
+        "datovedt": 20171107,
+        "datoikraft": 20171113,
+        "datostart": 20170518,
+        "datoslut": 20170731,
+        "datooprt": "2017-06-30T10:36:03.147Z",
+        "datoopdt": "2018-08-22T06:56:21.041Z",
+        "planstatus": "V",
+        "komnr": 707,
+        "doklink": "https://dokument.plandata.dk/12_3766496_1510247639521.pdf",
+        "anvendelsegenerel": "Erhvervsområde",
+        "zonestatus": null,
+        "fremtidigzonestatus": "Byzone",
+        "iomfangreg": false,
+        "iudstykreg": true,
+        "sforaktuel": false,
+        "vvmredeg": 2,
+        "geomfrakom": false,
+        "statsplan": "false",
+        "distrikt": "Grenaa",
+        "anvspec1": 3150,
+        "maxbygnhjd": "60.00",
+        "bebygpctar": null,
+        "datoattr": 20180822,
+        "datogeom": 20170630,
+        "m3_m2": null,
+        "m3_m2h": null,
+        "maxetager": null,
+        "notanvgen": "Havnerelaterede erhverv i form af afstandskrævende industri.",
+        "notomranv": null,
+        "notbebygom": null,
+        "notophold": null,
+        "notmiljo": null,
+        "notinfras": null,
+        "notlokalp": null,
+        "dataprod": "Norddjurs Kommune",
+        "bebygpct": null,
+        "notat": null,
+        "minmiljo": 6,
+        "maxmiljo": 7,
+        "notzone": null,
+        "bebygpctaf": null,
+        "anvspec2": null,
+        "maxbhjd2": null,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "anvspec3": null,
+        "digigrundl": "Marikelkortet",
+        "digigrundd": 20170630,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "anvspec4": null,
+        "anvspec5": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "udstykforbud": null,
+        "minuds": null,
+        "anvspec6": null,
+        "minuds1": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "maxetage4": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "maxbhjd5": null,
+        "anvspec7": null,
+        "anvspec8": null,
+        "maxetage2": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "minuds2": null,
+        "minuds3": null,
+        "udstykfb1": null,
+        "udstykfb2": null,
+        "eareal": null,
+        "earealh": null,
+        "sforhold": null,
+        "eareal1": null,
+        "earealh1": null,
+        "udstykfb3": null,
+        "vindbeskriv": null,
+        "udstykfb4": null,
+        "udstykfb5": null,
+        "udstykfb6": null,
+        "udstykfb7": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "udstykfb9": null,
+        "minuds4": null,
+        "minuds5": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "eareal2": null,
+        "earealh2": null,
+        "eareal3": null,
+        "earealh3": null,
+        "anvspec10": null,
+        "udstykfb10": null,
+        "maxetage5": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "maxetage6": null,
+        "maxbhjd4": null,
+        "maxbhjd6": null,
+        "minuds6": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "minuds7": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "minuds8": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "minuds9": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "minuds10": null,
+        "bygpctar1": null,
+        "bygpctar2": null,
+        "bygpctar3": null,
+        "eareal4": null,
+        "earealh4": null,
+        "bygpctar4": null,
+        "bygpctar5": null,
+        "bygpctar6": null,
+        "eareal5": null,
+        "earealh5": null,
+        "eareal7": null,
+        "earealh7": null,
+        "maxuds": null,
+        "maxboligenhed1": null,
+        "maxboligenhed2": null,
+        "fuldtbyg": null,
+        "fuldtbyg1": null,
+        "fuldtbyg2": null,
+        "bygpctarh": null,
+        "fuldtbyg3": null,
+        "septima_hash86": "1QzVi9W0Uv6yRksVdA50OKl10VCmDf2lYvmdmboHGusrlYpRrxolZcQLy3LpGn3MvQnhCxwAetWEFM36th+MrQ",
+        "septima_serial": "3020925"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.923061714,
+                56.421663476
+              ],
+              [
+                10.922927807,
+                56.421826284
+              ],
+              [
+                10.922781154,
+                56.421990906
+              ],
+              [
+                10.922509108,
+                56.422312275
+              ],
+              [
+                10.922238527,
+                56.42263892
+              ],
+              [
+                10.922064713,
+                56.422800638
+              ],
+              [
+                10.92189547,
+                56.422917813
+              ],
+              [
+                10.921844312,
+                56.422953285
+              ],
+              [
+                10.921618841,
+                56.423090287
+              ],
+              [
+                10.921383347,
+                56.423203546
+              ],
+              [
+                10.921101713,
+                56.423311319
+              ],
+              [
+                10.920811595,
+                56.423409969
+              ],
+              [
+                10.920504812,
+                56.423488391
+              ],
+              [
+                10.920310232,
+                56.423524826
+              ],
+              [
+                10.92019629,
+                56.423542941
+              ],
+              [
+                10.919867725,
+                56.423584504
+              ],
+              [
+                10.919530732,
+                56.423602118
+              ],
+              [
+                10.918224975,
+                56.423645317
+              ],
+              [
+                10.92346236,
+                56.423598267
+              ],
+              [
+                10.92316663,
+                56.421479914
+              ],
+              [
+                10.923061714,
+                56.421663476
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": 1250021,
+        "id": 1250021,
+        "planid": 3766501,
+        "objektkode": 10,
+        "komplan_id": 3127586,
+        "komtil_id": 3766496,
+        "plantype": "10.1",
+        "plannavn": "Grenaa Havn",
+        "plannr": "3H2.10",
+        "anvgen": 31,
+        "fzone": 1,
+        "zone": null,
+        "datoforsl": 20170516,
+        "datovedt": 20171107,
+        "datoikraft": 20171113,
+        "datostart": 20170518,
+        "datoslut": 20170731,
+        "datooprt": "2017-06-30T10:45:51.037Z",
+        "datoopdt": "2018-08-22T06:56:53.591Z",
+        "planstatus": "V",
+        "komnr": 707,
+        "doklink": "https://dokument.plandata.dk/12_3766496_1510247639521.pdf",
+        "anvendelsegenerel": "Erhvervsområde",
+        "zonestatus": null,
+        "fremtidigzonestatus": "Byzone",
+        "iomfangreg": true,
+        "iudstykreg": true,
+        "sforaktuel": false,
+        "vvmredeg": 2,
+        "geomfrakom": false,
+        "statsplan": "false",
+        "distrikt": "Grenaa",
+        "anvspec1": 3150,
+        "maxbygnhjd": null,
+        "bebygpctar": null,
+        "datoattr": 20180822,
+        "datogeom": 20170630,
+        "m3_m2": null,
+        "m3_m2h": null,
+        "maxetager": null,
+        "notanvgen": "Erhverv i form af afstandskrævende industri.",
+        "notomranv": null,
+        "notbebygom": null,
+        "notophold": null,
+        "notmiljo": null,
+        "notinfras": null,
+        "notlokalp": "Bygningsregulerende bestemmelser for delområdet skal fastlægges i en ny lokalplan",
+        "dataprod": "Norddjurs Kommune",
+        "bebygpct": null,
+        "notat": null,
+        "minmiljo": 6,
+        "maxmiljo": 7,
+        "notzone": null,
+        "bebygpctaf": null,
+        "anvspec2": null,
+        "maxbhjd2": null,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "anvspec3": null,
+        "digigrundl": "Matrikelkortet",
+        "digigrundd": 20170630,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "anvspec4": null,
+        "anvspec5": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "udstykforbud": null,
+        "minuds": null,
+        "anvspec6": null,
+        "minuds1": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "maxetage4": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "maxbhjd5": null,
+        "anvspec7": null,
+        "anvspec8": null,
+        "maxetage2": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "minuds2": null,
+        "minuds3": null,
+        "udstykfb1": null,
+        "udstykfb2": null,
+        "eareal": null,
+        "earealh": null,
+        "sforhold": null,
+        "eareal1": null,
+        "earealh1": null,
+        "udstykfb3": null,
+        "vindbeskriv": null,
+        "udstykfb4": null,
+        "udstykfb5": null,
+        "udstykfb6": null,
+        "udstykfb7": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "udstykfb9": null,
+        "minuds4": null,
+        "minuds5": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "eareal2": null,
+        "earealh2": null,
+        "eareal3": null,
+        "earealh3": null,
+        "anvspec10": null,
+        "udstykfb10": null,
+        "maxetage5": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "maxetage6": null,
+        "maxbhjd4": null,
+        "maxbhjd6": null,
+        "minuds6": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "minuds7": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "minuds8": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "minuds9": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "minuds10": null,
+        "bygpctar1": null,
+        "bygpctar2": null,
+        "bygpctar3": null,
+        "eareal4": null,
+        "earealh4": null,
+        "bygpctar4": null,
+        "bygpctar5": null,
+        "bygpctar6": null,
+        "eareal5": null,
+        "earealh5": null,
+        "eareal7": null,
+        "earealh7": null,
+        "maxuds": null,
+        "maxboligenhed1": null,
+        "maxboligenhed2": null,
+        "fuldtbyg": null,
+        "fuldtbyg1": null,
+        "fuldtbyg2": null,
+        "bygpctarh": null,
+        "fuldtbyg3": null,
+        "septima_hash86": "bfZ82A8jBB14JncTmC5vStfdhFabR6H01+cRCc3FvI/hgsbKvqoSvyo8vASk7OmeFlEJk9JJGmPtqqGZ+25SXw",
+        "septima_serial": "3020926"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.937206953,
+                56.424043391
+              ],
+              [
+                10.938787973,
+                56.424177985
+              ],
+              [
+                10.939893288,
+                56.421587455
+              ],
+              [
+                10.938332561,
+                56.421384546
+              ],
+              [
+                10.937206953,
+                56.424043391
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": 1250022,
+        "id": 1250022,
+        "planid": 3766502,
+        "objektkode": 10,
+        "komplan_id": 3127586,
+        "komtil_id": 3766496,
+        "plantype": "10.1",
+        "plannavn": "Grenaa Havn",
+        "plannr": "3H2.12",
+        "anvgen": 31,
+        "fzone": 1,
+        "zone": null,
+        "datoforsl": 20170516,
+        "datovedt": 20171107,
+        "datoikraft": 20171113,
+        "datostart": 20170518,
+        "datoslut": 20170731,
+        "datooprt": "2017-06-30T10:53:51.319Z",
+        "datoopdt": "2018-08-22T06:57:22.782Z",
+        "planstatus": "V",
+        "komnr": 707,
+        "doklink": "https://dokument.plandata.dk/12_3766496_1510247639521.pdf",
+        "anvendelsegenerel": "Erhvervsområde",
+        "zonestatus": null,
+        "fremtidigzonestatus": "Byzone",
+        "iomfangreg": false,
+        "iudstykreg": true,
+        "sforaktuel": false,
+        "vvmredeg": 2,
+        "geomfrakom": false,
+        "statsplan": "false",
+        "distrikt": "Grenaa",
+        "anvspec1": 3150,
+        "maxbygnhjd": "30.00",
+        "bebygpctar": null,
+        "datoattr": 20180822,
+        "datogeom": 20170630,
+        "m3_m2": null,
+        "m3_m2h": null,
+        "maxetager": null,
+        "notanvgen": "Havnerelaterede erhverv i form af afstandskrævende industri.",
+        "notomranv": null,
+        "notbebygom": null,
+        "notophold": null,
+        "notmiljo": null,
+        "notinfras": null,
+        "notlokalp": null,
+        "dataprod": "Norddjurs Kommune",
+        "bebygpct": null,
+        "notat": null,
+        "minmiljo": 6,
+        "maxmiljo": 7,
+        "notzone": null,
+        "bebygpctaf": null,
+        "anvspec2": null,
+        "maxbhjd2": null,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "anvspec3": null,
+        "digigrundl": "Matrikelkortet",
+        "digigrundd": 20170630,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "anvspec4": null,
+        "anvspec5": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "udstykforbud": null,
+        "minuds": null,
+        "anvspec6": null,
+        "minuds1": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "maxetage4": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "maxbhjd5": null,
+        "anvspec7": null,
+        "anvspec8": null,
+        "maxetage2": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "minuds2": null,
+        "minuds3": null,
+        "udstykfb1": null,
+        "udstykfb2": null,
+        "eareal": null,
+        "earealh": null,
+        "sforhold": null,
+        "eareal1": null,
+        "earealh1": null,
+        "udstykfb3": null,
+        "vindbeskriv": null,
+        "udstykfb4": null,
+        "udstykfb5": null,
+        "udstykfb6": null,
+        "udstykfb7": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "udstykfb9": null,
+        "minuds4": null,
+        "minuds5": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "eareal2": null,
+        "earealh2": null,
+        "eareal3": null,
+        "earealh3": null,
+        "anvspec10": null,
+        "udstykfb10": null,
+        "maxetage5": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "maxetage6": null,
+        "maxbhjd4": null,
+        "maxbhjd6": null,
+        "minuds6": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "minuds7": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "minuds8": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "minuds9": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "minuds10": null,
+        "bygpctar1": null,
+        "bygpctar2": null,
+        "bygpctar3": null,
+        "eareal4": null,
+        "earealh4": null,
+        "bygpctar4": null,
+        "bygpctar5": null,
+        "bygpctar6": null,
+        "eareal5": null,
+        "earealh5": null,
+        "eareal7": null,
+        "earealh7": null,
+        "maxuds": null,
+        "maxboligenhed1": null,
+        "maxboligenhed2": null,
+        "fuldtbyg": null,
+        "fuldtbyg1": null,
+        "fuldtbyg2": null,
+        "bygpctarh": null,
+        "fuldtbyg3": null,
+        "septima_hash86": "ZoAcFaFqPMEE8vj2a9uQqzs9w44ZsA+z5BamdPw9QBEv4bB8wtM71Crl0DRVpHkgIyNSqNGg6C1MDXW+GnfIFQ",
+        "septima_serial": "3020927"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.938901336,
+                56.420990671
+              ],
+              [
+                10.937114501,
+                56.420757769
+              ],
+              [
+                10.937323441,
+                56.421017482
+              ],
+              [
+                10.937353905,
+                56.421056538
+              ],
+              [
+                10.937795798,
+                56.421622037
+              ],
+              [
+                10.937939079,
+                56.421841895
+              ],
+              [
+                10.937981571,
+                56.422006995
+              ],
+              [
+                10.937887136,
+                56.42226381
+              ],
+              [
+                10.937739862,
+                56.422436008
+              ],
+              [
+                10.937434888,
+                56.422601773
+              ],
+              [
+                10.937199166,
+                56.422680655
+              ],
+              [
+                10.936241317,
+                56.422912496
+              ],
+              [
+                10.93528359,
+                56.423144327
+              ],
+              [
+                10.934203069,
+                56.423406996
+              ],
+              [
+                10.933122395,
+                56.423669568
+              ],
+              [
+                10.932095642,
+                56.423919969
+              ],
+              [
+                10.931874414,
+                56.423973908
+              ],
+              [
+                10.945760464,
+                56.425209573
+              ],
+              [
+                10.945789166,
+                56.42521128
+              ],
+              [
+                10.945817933,
+                56.425211637
+              ],
+              [
+                10.94584676,
+                56.425210556
+              ],
+              [
+                10.945875108,
+                56.425207955
+              ],
+              [
+                10.945903125,
+                56.425204101
+              ],
+              [
+                10.945930267,
+                56.425198824
+              ],
+              [
+                10.945956538,
+                56.425192212
+              ],
+              [
+                10.945981543,
+                56.425184363
+              ],
+              [
+                10.946005281,
+                56.425175276
+              ],
+              [
+                10.946027495,
+                56.425165134
+              ],
+              [
+                10.946047912,
+                56.425153853
+              ],
+              [
+                10.946066546,
+                56.425141701
+              ],
+              [
+                10.946083125,
+                56.425128593
+              ],
+              [
+                10.94609753,
+                56.4251148
+              ],
+              [
+                10.946109627,
+                56.425100325
+              ],
+              [
+                10.946119287,
+                56.425085259
+              ],
+              [
+                10.946126658,
+                56.42506987
+              ],
+              [
+                10.947597999,
+                56.421524939
+              ],
+              [
+                10.947598382,
+                56.421501035
+              ],
+              [
+                10.947592439,
+                56.421478936
+              ],
+              [
+                10.947575182,
+                56.421457824
+              ],
+              [
+                10.947551646,
+                56.42143681
+              ],
+              [
+                10.947523759,
+                56.42142485
+              ],
+              [
+                10.947495868,
+                56.421412799
+              ],
+              [
+                10.947455336,
+                56.421404541
+              ],
+              [
+                10.947419796,
+                56.421399798
+              ],
+              [
+                10.947381275,
+                56.421399504
+              ],
+              [
+                10.947341242,
+                56.421403637
+              ],
+              [
+                10.947304646,
+                56.421409602
+              ],
+              [
+                10.947271613,
+                56.421422519
+              ],
+              [
+                10.947246601,
+                56.4214354
+              ],
+              [
+                10.947226531,
+                56.421450809
+              ],
+              [
+                10.947211275,
+                56.421466233
+              ],
+              [
+                10.947199312,
+                56.421483311
+              ],
+              [
+                10.946961181,
+                56.4220378
+              ],
+              [
+                10.941029489,
+                56.421267352
+              ],
+              [
+                10.938901336,
+                56.420990671
+              ]
+            ],
+            [
+              [
+                10.937206953,
+                56.424043391
+              ],
+              [
+                10.938787973,
+                56.424177985
+              ],
+              [
+                10.939893288,
+                56.421587455
+              ],
+              [
+                10.938332561,
+                56.421384546
+              ],
+              [
+                10.937206953,
+                56.424043391
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": 1250025,
+        "id": 1250025,
+        "planid": 3766505,
+        "objektkode": 10,
+        "komplan_id": 3127586,
+        "komtil_id": 3766496,
+        "plantype": "10.1",
+        "plannavn": "Grenaa Havn",
+        "plannr": "3H2.13",
+        "anvgen": 31,
+        "fzone": 1,
+        "zone": null,
+        "datoforsl": 20170516,
+        "datovedt": 20171107,
+        "datoikraft": 20171113,
+        "datostart": 20170518,
+        "datoslut": 20170731,
+        "datooprt": "2017-06-30T11:45:24.763Z",
+        "datoopdt": "2018-08-22T06:59:14.679Z",
+        "planstatus": "V",
+        "komnr": 707,
+        "doklink": "https://dokument.plandata.dk/12_3766496_1510247639521.pdf",
+        "anvendelsegenerel": "Erhvervsområde",
+        "zonestatus": null,
+        "fremtidigzonestatus": "Byzone",
+        "iomfangreg": false,
+        "iudstykreg": true,
+        "sforaktuel": false,
+        "vvmredeg": 2,
+        "geomfrakom": false,
+        "statsplan": "false",
+        "distrikt": "Grenaa",
+        "anvspec1": 3150,
+        "maxbygnhjd": "30.00",
+        "bebygpctar": null,
+        "datoattr": 20180822,
+        "datogeom": 20170630,
+        "m3_m2": null,
+        "m3_m2h": null,
+        "maxetager": null,
+        "notanvgen": "Havnerelaterede erhverv i form af afstandskrævende industri.",
+        "notomranv": null,
+        "notbebygom": null,
+        "notophold": null,
+        "notmiljo": null,
+        "notinfras": null,
+        "notlokalp": null,
+        "dataprod": "Norddjurs Kommune",
+        "bebygpct": null,
+        "notat": null,
+        "minmiljo": 6,
+        "maxmiljo": 7,
+        "notzone": null,
+        "bebygpctaf": null,
+        "anvspec2": null,
+        "maxbhjd2": null,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "anvspec3": null,
+        "digigrundl": "Matrikelkortet",
+        "digigrundd": 20170630,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "anvspec4": null,
+        "anvspec5": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "udstykforbud": null,
+        "minuds": null,
+        "anvspec6": null,
+        "minuds1": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "maxetage4": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "maxbhjd5": null,
+        "anvspec7": null,
+        "anvspec8": null,
+        "maxetage2": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "minuds2": null,
+        "minuds3": null,
+        "udstykfb1": null,
+        "udstykfb2": null,
+        "eareal": null,
+        "earealh": null,
+        "sforhold": null,
+        "eareal1": null,
+        "earealh1": null,
+        "udstykfb3": null,
+        "vindbeskriv": null,
+        "udstykfb4": null,
+        "udstykfb5": null,
+        "udstykfb6": null,
+        "udstykfb7": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "udstykfb9": null,
+        "minuds4": null,
+        "minuds5": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "eareal2": null,
+        "earealh2": null,
+        "eareal3": null,
+        "earealh3": null,
+        "anvspec10": null,
+        "udstykfb10": null,
+        "maxetage5": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "maxetage6": null,
+        "maxbhjd4": null,
+        "maxbhjd6": null,
+        "minuds6": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "minuds7": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "minuds8": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "minuds9": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "minuds10": null,
+        "bygpctar1": null,
+        "bygpctar2": null,
+        "bygpctar3": null,
+        "eareal4": null,
+        "earealh4": null,
+        "bygpctar4": null,
+        "bygpctar5": null,
+        "bygpctar6": null,
+        "eareal5": null,
+        "earealh5": null,
+        "eareal7": null,
+        "earealh7": null,
+        "maxuds": null,
+        "maxboligenhed1": null,
+        "maxboligenhed2": null,
+        "fuldtbyg": null,
+        "fuldtbyg1": null,
+        "fuldtbyg2": null,
+        "bygpctarh": null,
+        "fuldtbyg3": null,
+        "septima_hash86": "1yhyFRigM1DD+SGTBIvoqFIwTCnz+iAOfaqN2Mmh3U0J/HR+dXL48rjvH6Fixqcei6uIhll8OHQhDhTMqVF7Og",
+        "septima_serial": "3020928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.933652115,
+                56.41547833
+              ],
+              [
+                10.932718456,
+                56.414286176
+              ],
+              [
+                10.933463805,
+                56.414106459
+              ],
+              [
+                10.934309789,
+                56.415140591
+              ],
+              [
+                10.935724193,
+                56.415542233
+              ],
+              [
+                10.936289462,
+                56.414920038
+              ],
+              [
+                10.935312353,
+                56.413660658
+              ],
+              [
+                10.935870555,
+                56.413526073
+              ],
+              [
+                10.93684232,
+                56.414724708
+              ],
+              [
+                10.947322286,
+                56.417898805
+              ],
+              [
+                10.947358465,
+                56.417910906
+              ],
+              [
+                10.94739259,
+                56.417924655
+              ],
+              [
+                10.947424393,
+                56.417940058
+              ],
+              [
+                10.947453732,
+                56.417956938
+              ],
+              [
+                10.947480329,
+                56.417975118
+              ],
+              [
+                10.947503914,
+                56.417994514
+              ],
+              [
+                10.947524348,
+                56.418015037
+              ],
+              [
+                10.947541617,
+                56.418036419
+              ],
+              [
+                10.947555445,
+                56.418058483
+              ],
+              [
+                10.947565699,
+                56.418081233
+              ],
+              [
+                10.947572364,
+                56.418104398
+              ],
+              [
+                10.947575427,
+                56.41812771
+              ],
+              [
+                10.9476559,
+                56.419715178
+              ],
+              [
+                10.947653809,
+                56.419807662
+              ],
+              [
+                10.94767287,
+                56.419811765
+              ],
+              [
+                10.947693109,
+                56.419818006
+              ],
+              [
+                10.947713303,
+                56.419825954
+              ],
+              [
+                10.947730663,
+                56.419833408
+              ],
+              [
+                10.947745121,
+                56.419844232
+              ],
+              [
+                10.947759606,
+                56.419855595
+              ],
+              [
+                10.947769231,
+                56.419868651
+              ],
+              [
+                10.947778884,
+                56.419882246
+              ],
+              [
+                10.947784698,
+                56.419899225
+              ],
+              [
+                10.947786083,
+                56.419908008
+              ],
+              [
+                10.947784896,
+                56.419924019
+              ],
+              [
+                10.947781669,
+                56.419936738
+              ],
+              [
+                10.94777619,
+                56.419947246
+              ],
+              [
+                10.947768794,
+                56.419959491
+              ],
+              [
+                10.947751844,
+                56.41997575
+              ],
+              [
+                10.947735465,
+                56.419987507
+              ],
+              [
+                10.947719055,
+                56.419996031
+              ],
+              [
+                10.947699573,
+                56.420004602
+              ],
+              [
+                10.947679045,
+                56.420011034
+              ],
+              [
+                10.947657522,
+                56.420016314
+              ],
+              [
+                10.94763688,
+                56.420020501
+              ],
+              [
+                10.94761217,
+                56.420023584
+              ],
+              [
+                10.947582412,
+                56.420024681
+              ],
+              [
+                10.9475555,
+                56.420023935
+              ],
+              [
+                10.947528585,
+                56.420020494
+              ],
+              [
+                10.947505489,
+                56.420015915
+              ],
+              [
+                10.947482283,
+                56.420009182
+              ],
+              [
+                10.947463107,
+                56.420002835
+              ],
+              [
+                10.947447751,
+                56.419995349
+              ],
+              [
+                10.947429451,
+                56.419985214
+              ],
+              [
+                10.947409747,
+                56.419971148
+              ],
+              [
+                10.947396198,
+                56.41995456
+              ],
+              [
+                10.94738301,
+                56.419931947
+              ],
+              [
+                10.94738142,
+                56.419911307
+              ],
+              [
+                10.947434859,
+                56.419646323
+              ],
+              [
+                10.938272095,
+                56.416795042
+              ],
+              [
+                10.933652115,
+                56.41547833
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": 1250026,
+        "id": 1250026,
+        "planid": 3766506,
+        "objektkode": 10,
+        "komplan_id": 3127586,
+        "komtil_id": 3766496,
+        "plantype": "10.1",
+        "plannavn": "Grenaa Havn",
+        "plannr": "3H2.16",
+        "anvgen": 31,
+        "fzone": 1,
+        "zone": null,
+        "datoforsl": 20170516,
+        "datovedt": 20171107,
+        "datoikraft": 20171113,
+        "datostart": 20170518,
+        "datoslut": 20170731,
+        "datooprt": "2017-06-30T11:56:42.530Z",
+        "datoopdt": "2018-08-22T06:59:40.035Z",
+        "planstatus": "V",
+        "komnr": 707,
+        "doklink": "https://dokument.plandata.dk/12_3766496_1510247639521.pdf",
+        "anvendelsegenerel": "Erhvervsområde",
+        "zonestatus": null,
+        "fremtidigzonestatus": "Byzone",
+        "iomfangreg": false,
+        "iudstykreg": true,
+        "sforaktuel": false,
+        "vvmredeg": 2,
+        "geomfrakom": false,
+        "statsplan": "false",
+        "distrikt": "Grenaa",
+        "anvspec1": 3150,
+        "maxbygnhjd": "30.00",
+        "bebygpctar": null,
+        "datoattr": 20180822,
+        "datogeom": 20170630,
+        "m3_m2": null,
+        "m3_m2h": null,
+        "maxetager": null,
+        "notanvgen": "Havnerelaterede erhverv i form af afstandskrævende industri.",
+        "notomranv": null,
+        "notbebygom": null,
+        "notophold": null,
+        "notmiljo": null,
+        "notinfras": null,
+        "notlokalp": null,
+        "dataprod": "Norddjurs Kommune",
+        "bebygpct": null,
+        "notat": null,
+        "minmiljo": 6,
+        "maxmiljo": 7,
+        "notzone": null,
+        "bebygpctaf": null,
+        "anvspec2": null,
+        "maxbhjd2": null,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "anvspec3": null,
+        "digigrundl": "Matrikelkortet",
+        "digigrundd": 20170630,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "anvspec4": null,
+        "anvspec5": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "udstykforbud": null,
+        "minuds": null,
+        "anvspec6": null,
+        "minuds1": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "maxetage4": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "maxbhjd5": null,
+        "anvspec7": null,
+        "anvspec8": null,
+        "maxetage2": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "minuds2": null,
+        "minuds3": null,
+        "udstykfb1": null,
+        "udstykfb2": null,
+        "eareal": null,
+        "earealh": null,
+        "sforhold": null,
+        "eareal1": null,
+        "earealh1": null,
+        "udstykfb3": null,
+        "vindbeskriv": null,
+        "udstykfb4": null,
+        "udstykfb5": null,
+        "udstykfb6": null,
+        "udstykfb7": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "udstykfb9": null,
+        "minuds4": null,
+        "minuds5": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "eareal2": null,
+        "earealh2": null,
+        "eareal3": null,
+        "earealh3": null,
+        "anvspec10": null,
+        "udstykfb10": null,
+        "maxetage5": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "maxetage6": null,
+        "maxbhjd4": null,
+        "maxbhjd6": null,
+        "minuds6": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "minuds7": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "minuds8": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "minuds9": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "minuds10": null,
+        "bygpctar1": null,
+        "bygpctar2": null,
+        "bygpctar3": null,
+        "eareal4": null,
+        "earealh4": null,
+        "bygpctar4": null,
+        "bygpctar5": null,
+        "bygpctar6": null,
+        "eareal5": null,
+        "earealh5": null,
+        "eareal7": null,
+        "earealh7": null,
+        "maxuds": null,
+        "maxboligenhed1": null,
+        "maxboligenhed2": null,
+        "fuldtbyg": null,
+        "fuldtbyg1": null,
+        "fuldtbyg2": null,
+        "bygpctarh": null,
+        "fuldtbyg3": null,
+        "septima_hash86": "Kk5glHLiqVAheUgJUew5lDXK0fgjdZtyaTUsom7untA+k89Yb+/n6nkzcTJdUZlVU9lvVzHC9TD/C5Di0Pi+uQ",
+        "septima_serial": "3020929"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.934082923,
+                56.411241892
+              ],
+              [
+                10.933975467,
+                56.411144649
+              ],
+              [
+                10.93387651,
+                56.411054191
+              ],
+              [
+                10.933758766,
+                56.410951717
+              ],
+              [
+                10.933672262,
+                56.410895924
+              ],
+              [
+                10.933584093,
+                56.410852107
+              ],
+              [
+                10.933485235,
+                56.410808366
+              ],
+              [
+                10.933391391,
+                56.410776496
+              ],
+              [
+                10.933295276,
+                56.410744662
+              ],
+              [
+                10.933195311,
+                56.410721244
+              ],
+              [
+                10.933073795,
+                56.410694567
+              ],
+              [
+                10.932976508,
+                56.410681798
+              ],
+              [
+                10.932879528,
+                56.410675044
+              ],
+              [
+                10.93274644,
+                56.41067586
+              ],
+              [
+                10.932592289,
+                56.410683024
+              ],
+              [
+                10.932438186,
+                56.410693781
+              ],
+              [
+                10.932255008,
+                56.410721612
+              ],
+              [
+                10.932078719,
+                56.410758769
+              ],
+              [
+                10.930700274,
+                56.411089122
+              ],
+              [
+                10.929762234,
+                56.411313869
+              ],
+              [
+                10.92570092,
+                56.412286854
+              ],
+              [
+                10.923465344,
+                56.413044975
+              ],
+              [
+                10.923265847,
+                56.413112667
+              ],
+              [
+                10.923264745,
+                56.413130564
+              ],
+              [
+                10.923258416,
+                56.4132356
+              ],
+              [
+                10.922048961,
+                56.413532598
+              ],
+              [
+                10.921674137,
+                56.413625286
+              ],
+              [
+                10.921779929,
+                56.413758953
+              ],
+              [
+                10.920835235,
+                56.41399191
+              ],
+              [
+                10.920226583,
+                56.414057578
+              ],
+              [
+                10.920234639,
+                56.41411136
+              ],
+              [
+                10.920252491,
+                56.414322398
+              ],
+              [
+                10.920261826,
+                56.414534197
+              ],
+              [
+                10.920259147,
+                56.414653462
+              ],
+              [
+                10.920308166,
+                56.414689809
+              ],
+              [
+                10.920391082,
+                56.414669299
+              ],
+              [
+                10.920715508,
+                56.414687725
+              ],
+              [
+                10.920991541,
+                56.414623883
+              ],
+              [
+                10.922224949,
+                56.414321223
+              ],
+              [
+                10.922606762,
+                56.414231839
+              ],
+              [
+                10.922434524,
+                56.414015917
+              ],
+              [
+                10.934082923,
+                56.411241892
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": 1250027,
+        "id": 1250027,
+        "planid": 3766507,
+        "objektkode": 10,
+        "komplan_id": 3127586,
+        "komtil_id": 3766496,
+        "plantype": "10.1",
+        "plannavn": "Grenaa Havn",
+        "plannr": "3H2.17",
+        "anvgen": 31,
+        "fzone": 1,
+        "zone": null,
+        "datoforsl": 20170516,
+        "datovedt": 20171107,
+        "datoikraft": 20171113,
+        "datostart": 20170518,
+        "datoslut": 20170731,
+        "datooprt": "2017-06-30T12:06:43.078Z",
+        "datoopdt": "2018-08-22T07:02:15.465Z",
+        "planstatus": "V",
+        "komnr": 707,
+        "doklink": "https://dokument.plandata.dk/12_3766496_1510247639521.pdf",
+        "anvendelsegenerel": "Erhvervsområde",
+        "zonestatus": null,
+        "fremtidigzonestatus": "Byzone",
+        "iomfangreg": false,
+        "iudstykreg": true,
+        "sforaktuel": false,
+        "vvmredeg": 2,
+        "geomfrakom": false,
+        "statsplan": "false",
+        "distrikt": "Grenaa",
+        "anvspec1": 3150,
+        "maxbygnhjd": "15.00",
+        "bebygpctar": null,
+        "datoattr": 20180822,
+        "datogeom": 20170630,
+        "m3_m2": null,
+        "m3_m2h": null,
+        "maxetager": null,
+        "notanvgen": "Havnerelaterede og ikke-havnerelaterede erhverv i form af produktion, håndværk og kontorerhverv",
+        "notomranv": null,
+        "notbebygom": null,
+        "notophold": null,
+        "notmiljo": null,
+        "notinfras": null,
+        "notlokalp": null,
+        "dataprod": "Norddjurs Kommune",
+        "bebygpct": null,
+        "notat": null,
+        "minmiljo": 1,
+        "maxmiljo": 3,
+        "notzone": null,
+        "bebygpctaf": null,
+        "anvspec2": null,
+        "maxbhjd2": null,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "anvspec3": null,
+        "digigrundl": "Matrikelkortet",
+        "digigrundd": 20170630,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "anvspec4": null,
+        "anvspec5": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "udstykforbud": null,
+        "minuds": null,
+        "anvspec6": null,
+        "minuds1": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "maxetage4": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "maxbhjd5": null,
+        "anvspec7": null,
+        "anvspec8": null,
+        "maxetage2": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "minuds2": null,
+        "minuds3": null,
+        "udstykfb1": null,
+        "udstykfb2": null,
+        "eareal": null,
+        "earealh": null,
+        "sforhold": null,
+        "eareal1": null,
+        "earealh1": null,
+        "udstykfb3": null,
+        "vindbeskriv": null,
+        "udstykfb4": null,
+        "udstykfb5": null,
+        "udstykfb6": null,
+        "udstykfb7": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "udstykfb9": null,
+        "minuds4": null,
+        "minuds5": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "eareal2": null,
+        "earealh2": null,
+        "eareal3": null,
+        "earealh3": null,
+        "anvspec10": null,
+        "udstykfb10": null,
+        "maxetage5": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "maxetage6": null,
+        "maxbhjd4": null,
+        "maxbhjd6": null,
+        "minuds6": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "minuds7": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "minuds8": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "minuds9": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "minuds10": null,
+        "bygpctar1": null,
+        "bygpctar2": null,
+        "bygpctar3": null,
+        "eareal4": null,
+        "earealh4": null,
+        "bygpctar4": null,
+        "bygpctar5": null,
+        "bygpctar6": null,
+        "eareal5": null,
+        "earealh5": null,
+        "eareal7": null,
+        "earealh7": null,
+        "maxuds": null,
+        "maxboligenhed1": null,
+        "maxboligenhed2": null,
+        "fuldtbyg": null,
+        "fuldtbyg1": null,
+        "fuldtbyg2": null,
+        "bygpctarh": null,
+        "fuldtbyg3": null,
+        "septima_hash86": "FE2DxwCWYwNHjWbAWoeWdWSzaDmwhth3Pf0GU/oqlyIe7EapzB+zY0GaGYYD0c/CDdeRoXk20TbeCLTUWtFUOQ",
+        "septima_serial": "3020930"
+      }
+    }
+  ]
+}

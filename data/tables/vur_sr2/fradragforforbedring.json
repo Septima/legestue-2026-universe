@@ -1,0 +1,112 @@
+[
+  {
+    "fradragforforbedringid": "655246417379721",
+    "loebenummer": "1",
+    "tekst": null,
+    "vaerdi": "42500",
+    "aar": 1999,
+    "fradragforforbedringoverordnetid": "655246417376710",
+    "datafordeleropdateringstid": "2024-06-05T08:00:24.666Z",
+    "septima_hash86": "XacpGu2TzU4yfqsE6JG203znibo9dIa/xCoD4Es6e+2m+vZ9ZpESh+ps6jtAHKaByEnWvY1AZ8CcqnTY/OdhSw",
+    "septima_serial": "2"
+  },
+  {
+    "fradragforforbedringid": "655246417379727",
+    "loebenummer": "2",
+    "tekst": null,
+    "vaerdi": "324700",
+    "aar": 2001,
+    "fradragforforbedringoverordnetid": "655246417376710",
+    "datafordeleropdateringstid": "2024-06-05T08:00:24.737Z",
+    "septima_hash86": "b6AUC7vnkzRdSrtoyEwl8IPxa/MjCCqX9wQHyc8rqrND/ye5DMzEd3U29vPhLqMA7WX/TtrqBMZBIhcwzMmc7w",
+    "septima_serial": "3"
+  },
+  {
+    "fradragforforbedringid": "655246417379730",
+    "loebenummer": "3",
+    "tekst": null,
+    "vaerdi": "25500",
+    "aar": 2002,
+    "fradragforforbedringoverordnetid": "655246417376710",
+    "datafordeleropdateringstid": "2024-06-05T08:00:24.737Z",
+    "septima_hash86": "EFhQs6XfrehixB2YLKx1jHIcPI9zvDV7GyMRqXe7SOZSAx3P5mcJwCu97vYwILEVSf1+umPz7hMWlg0eFmmIjg",
+    "septima_serial": "4"
+  },
+  {
+    "fradragforforbedringid": "655246417379735",
+    "loebenummer": "4",
+    "tekst": null,
+    "vaerdi": "37300",
+    "aar": 2003,
+    "fradragforforbedringoverordnetid": "655246417376710",
+    "datafordeleropdateringstid": "2024-06-05T08:00:24.737Z",
+    "septima_hash86": "gcaEubD81dvVGVZuaeNruwfC/1nXLxBaErruXIcS788hnfY6doAiRl7CBtwbOQ6AfYeNQ0RrR9SOX82YHnbEBQ",
+    "septima_serial": "5"
+  },
+  {
+    "fradragforforbedringid": "655246417379738",
+    "loebenummer": "5",
+    "tekst": null,
+    "vaerdi": "481500",
+    "aar": 2004,
+    "fradragforforbedringoverordnetid": "655246417376710",
+    "datafordeleropdateringstid": "2024-06-05T08:00:24.737Z",
+    "septima_hash86": "u7o3XhpT4vp9eMs/5nUHxoyr/rDjcsz3j+jaHqdFFSSyL00ATv6331cRkYhvXlMHQHj1Hhv7OB1F0T6PEgFqsA",
+    "septima_serial": "6"
+  },
+  {
+    "fradragforforbedringid": "655246417379741",
+    "loebenummer": "6",
+    "tekst": null,
+    "vaerdi": "14000",
+    "aar": 2005,
+    "fradragforforbedringoverordnetid": "655246417376710",
+    "datafordeleropdateringstid": "2024-06-05T08:00:24.737Z",
+    "septima_hash86": "dIDY/wWGRELTo58NOn/hm6CyRuHRJNoEuX6+kaiiJP8W88sXYBfT9XLxwy0VsIRmYjfQlZDurtixb3/vt1c+Gw",
+    "septima_serial": "7"
+  },
+  {
+    "fradragforforbedringid": "655246417380757",
+    "loebenummer": "7",
+    "tekst": null,
+    "vaerdi": "129900",
+    "aar": 2008,
+    "fradragforforbedringoverordnetid": "655246417376710",
+    "datafordeleropdateringstid": "2024-06-05T08:00:24.737Z",
+    "septima_hash86": "rS4HPlN6OTU5RbmarPsTw1vM3pwfWxqnrrra92jl33ekc82mm7Gw53mDBNbxLNf8kftutMoIBsjqb1v7ot22pg",
+    "septima_serial": "8"
+  },
+  {
+    "fradragforforbedringid": "655246417380762",
+    "loebenummer": "8",
+    "tekst": null,
+    "vaerdi": "36100",
+    "aar": 2009,
+    "fradragforforbedringoverordnetid": "655246417376710",
+    "datafordeleropdateringstid": "2024-06-05T08:00:24.738Z",
+    "septima_hash86": "M2w8n+h/E41WceRG8CuqWwoHYtxyhAB3HtQ4n6uROWTOeSWhjDGJ9wIxYLr8bKHJncd5mRR1f3zjR8ogQqK5Hg",
+    "septima_serial": "9"
+  },
+  {
+    "fradragforforbedringid": "655246417380766",
+    "loebenummer": "9",
+    "tekst": null,
+    "vaerdi": "50500",
+    "aar": 2010,
+    "fradragforforbedringoverordnetid": "655246417376710",
+    "datafordeleropdateringstid": "2024-06-05T08:00:24.738Z",
+    "septima_hash86": "LR+HzxOZDZ2mjV2M0qtXc3zFQrv0lJXM+Q1+AGS4UHFoIDkwpOiQl+Qm5/9SOp7BC7gW4m2uOcob4p4IYXzMyQ",
+    "septima_serial": "10"
+  },
+  {
+    "fradragforforbedringid": "655246417380809",
+    "loebenummer": "10",
+    "tekst": null,
+    "vaerdi": "7200",
+    "aar": 2011,
+    "fradragforforbedringoverordnetid": "655246417376710",
+    "datafordeleropdateringstid": "2024-06-05T08:00:24.738Z",
+    "septima_hash86": "LbUYbis5vKFbFtW03vi20uaOXvo85NaOvn5/IB3knK3SAja5oOGZsA0s5jYLR3wqtg5EGcvSa6cEat/TlRPpmA",
+    "septima_serial": "11"
+  }
+]

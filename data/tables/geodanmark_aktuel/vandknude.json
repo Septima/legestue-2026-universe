@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.444019496,
+          55.261231434,
+          0
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1200185714",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "SDFE",
+        "registreringfra": "2017-10-06T11:51:04.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2017-10-05T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Uspecificeret",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Uspecificeret",
+        "applikation": "SDFE",
+        "kommentar": "Prøvedata lavet til prøvereplikering.",
+        "vanduuid": "a588f922-60e9-47be-b568-b190ecf2aa7f",
+        "station": null,
+        "knudetype": "Forgrening",
+        "link": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "373",
+        "septima_hash86": "PFiUTWn5zr8+N8IHhrTmu6IKiqAbEHqALbLyc6Cd3OJwTgbedJt4epoO17Q3qaKidK1K1+nvVKEfCLBtkoQWcQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.543636002,
+          55.331067388,
+          0
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1200185715",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "SDFE",
+        "registreringfra": "2017-10-06T11:51:06.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2017-10-05T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Uspecificeret",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Uspecificeret",
+        "applikation": "SDFE",
+        "kommentar": "Prøvedata lavet til prøvereplikering.",
+        "vanduuid": "bbbb2086-550c-4677-b298-c150c4da5733",
+        "station": null,
+        "knudetype": "Start",
+        "link": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "374",
+        "septima_hash86": "RtLs4Ze8yDxAU7KBdMZgIWCxDYtAyZefuWLZpiA6nEbMmR5T4xq+tMAbryv2eFwYHpQ8ig89apRtegR0+0DOSg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.577141054,
+          55.319436815,
+          0
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1200185716",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "SDFE",
+        "registreringfra": "2017-10-06T11:51:06.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2017-10-05T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Uspecificeret",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Uspecificeret",
+        "applikation": "SDFE",
+        "kommentar": "Prøvedata lavet til prøvereplikering.",
+        "vanduuid": "06d27457-074f-4910-a004-d0f839c1ccd9",
+        "station": null,
+        "knudetype": "Grænse",
+        "link": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "375",
+        "septima_hash86": "fJea/Fo58G499aeBQZgilmjEpdzNLjXr4BqKaPQsMXq4JJwIQU4UBO9gRcxPhwoms4/qBN//iTT3s+TuzGfQuA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.750916608,
+          55.233886456,
+          0
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1200185717",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "SDFE",
+        "registreringfra": "2017-10-06T11:51:06.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2017-10-05T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Uspecificeret",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Uspecificeret",
+        "applikation": "SDFE",
+        "kommentar": "Prøvedata lavet til prøvereplikering.",
+        "vanduuid": "2f9b308b-b813-4898-935d-9c4f4bcebd61",
+        "station": null,
+        "knudetype": "Flowregulering",
+        "link": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "376",
+        "septima_hash86": "wIR68w00XGOvUXXvYgMu6UfabqKwcmWsjVQp1JMPegIdNIFxxZFNJ40wGQ5a0DzppSVo2dLqPHBAGU2jwdgqzw"
+      }
+    }
+  ]
+}

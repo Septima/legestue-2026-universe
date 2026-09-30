@@ -1,0 +1,675 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.566162032,
+            55.709094149,
+            3.21
+          ],
+          [
+            9.566182904,
+            55.709084798,
+            3.21
+          ],
+          [
+            9.566224966,
+            55.709066004,
+            3.22
+          ],
+          [
+            9.566273669,
+            55.709044214,
+            3.22
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1215703025",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri",
+        "forretningsomraade": "1",
+        "forretningsproces": "Fotogrammetrisk ajourføring",
+        "registreringsaktoer": "Leica Geosystems Technology A/S",
+        "registreringfra": "2022-02-25T15:49:24.144Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Leica Geosystems Technology A/S",
+        "virkningfra": "2020-03-25T11:05:05.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "FME(R) 2018.1.2.0 (20190225 - Build 18590 - WIN64)",
+        "kommentar": "Totalajourføring 2020",
+        "sportype": "Hovedspor",
+        "togtype": "Øvrige tog",
+        "ejerjernbane": "Banedanmark",
+        "niveaujernbane": null,
+        "synligjernbane": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "1317552",
+        "septima_hash86": "+XJWsp8hD7kSrU029bWl7rCG1DybU7bub8q14psZgIDhEUJnKCTNlKCJnXUOz1VTYl8u/xNA3wIOQMPMmdGtiA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.451029997,
+            55.64816916,
+            8.82
+          ],
+          [
+            12.451811617,
+            55.648266198,
+            8.82
+          ],
+          [
+            12.452188591,
+            55.648312857,
+            8.82
+          ],
+          [
+            12.452642408,
+            55.648369039,
+            9.07
+          ],
+          [
+            12.453693049,
+            55.648507311,
+            8.82
+          ],
+          [
+            12.454324805,
+            55.648597856,
+            8.82
+          ],
+          [
+            12.455196609,
+            55.648732882,
+            8.57
+          ],
+          [
+            12.456186449,
+            55.6489009,
+            8.32
+          ],
+          [
+            12.457016794,
+            55.649050659,
+            7.82
+          ],
+          [
+            12.457610042,
+            55.649160526,
+            7.32
+          ],
+          [
+            12.458340022,
+            55.649295394,
+            6.82
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1216103435",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri",
+        "forretningsomraade": "1",
+        "forretningsproces": "Maskinel fejlrettelse",
+        "registreringsaktoer": "SDFE",
+        "registreringfra": "2022-11-22T14:20:49.061Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2019-04-09T14:01:13.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "FME(R) 2018.1.2.0 (20190225 - Build 18590 - WIN64)",
+        "kommentar": "Totalajourføring 2019",
+        "sportype": "Hovedspor",
+        "togtype": "Øvrige tog",
+        "ejerjernbane": "Banedanmark",
+        "niveaujernbane": null,
+        "synligjernbane": true,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "1317553",
+        "septima_hash86": "P8DYaAoJtPoID/ZSx4LMY+fNL/WsEvTEuzFrK3GPeLYRYW/qtWpdgnXeVuT2EQ2E/N9MGkII08zNBrCdDJfLXg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.458364527,
+            55.649257748,
+            6.94
+          ],
+          [
+            12.458237554,
+            55.649235166,
+            6.94
+          ],
+          [
+            12.457559725,
+            55.649111054,
+            7.56
+          ],
+          [
+            12.457061465,
+            55.649019908,
+            7.56
+          ],
+          [
+            12.45633354,
+            55.64888839,
+            8.19
+          ],
+          [
+            12.455720115,
+            55.648780435,
+            8.19
+          ],
+          [
+            12.45477935,
+            55.648627935,
+            8.81
+          ],
+          [
+            12.454052392,
+            55.648519844,
+            8.81
+          ],
+          [
+            12.453310542,
+            55.648417744,
+            8.81
+          ],
+          [
+            12.45275418,
+            55.648345481,
+            8.81
+          ],
+          [
+            12.45220475,
+            55.648276077,
+            8.81
+          ],
+          [
+            12.45179344,
+            55.648224091,
+            8.81
+          ],
+          [
+            12.451041327,
+            55.648133505,
+            8.81
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1216103436",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri",
+        "forretningsomraade": "1",
+        "forretningsproces": "Maskinel fejlrettelse",
+        "registreringsaktoer": "SDFE",
+        "registreringfra": "2022-11-22T14:20:49.061Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2019-04-09T14:01:13.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "FME(R) 2018.1.2.0 (20190225 - Build 18590 - WIN64)",
+        "kommentar": "Totalajourføring 2019",
+        "sportype": "Hovedspor",
+        "togtype": "Øvrige tog",
+        "ejerjernbane": "Banedanmark",
+        "niveaujernbane": null,
+        "synligjernbane": true,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "1317554",
+        "septima_hash86": "6cdXM9KTOTgMtm0CR11VPr1IWHCcKStzqAoJFdMd9PU1scHAZjucSRbP7w16CPZP2SB/3lzI4JjKQS6eqEVn6Q"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.13822233,
+            54.833577791,
+            3.66
+          ],
+          [
+            11.138398174,
+            54.833554918,
+            3.66
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1215580597",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "GST",
+        "registreringfra": "2021-02-25T12:06:14.703Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2016-11-16T14:38:59.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "sportype": "Sidespor",
+        "togtype": "Øvrige tog",
+        "ejerjernbane": "Privatbane",
+        "niveaujernbane": null,
+        "synligjernbane": true,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "1317555",
+        "septima_hash86": "89JRUYE37LGutlPBsCQu/uBeqaZEwgPgLDmn2IHjheczIBiPs5BG5TMX7iFDgYqDbOuzkls7hXzZqZqbmT9jOw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.30738094,
+            56.312452129,
+            39.78
+          ],
+          [
+            10.307419687,
+            56.312502667,
+            39.78
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1205005132",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Fotogrammetrisk ajourføring",
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2020-08-20T12:29:27.438Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Syddjurs kommune",
+        "virkningfra": "2018-05-09T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Totalajourføring 2018",
+        "sportype": "Hovedspor",
+        "togtype": "Letbane",
+        "ejerjernbane": "Banedanmark",
+        "niveaujernbane": null,
+        "synligjernbane": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "1317556",
+        "septima_hash86": "a3e18o2xEq5H/xEM9qhh3rSImgQjUxcdlksuz2dynTqqMe/52g6HcNPaJwHtgHbCd0TDJ1sWEFQg61xJ97pbDQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.348834744,
+            55.606521121,
+            2.16
+          ],
+          [
+            12.349519455,
+            55.606992147,
+            2.18
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1114577831",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "GST",
+        "registreringfra": "2020-06-18T09:47:46.060Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2018-02-21T15:07:05.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "sportype": "Sidespor",
+        "togtype": "S-tog",
+        "ejerjernbane": "DSB",
+        "niveaujernbane": null,
+        "synligjernbane": true,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "1317557",
+        "septima_hash86": "ISr+usIkM2RpD3sAI+fl+XitzH2gEk/YwuFs5cPA9Ghia5dN1NVjvhjhkepJRFuUAhHpYraXsWqUbPv+76QzUA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.27380234,
+            55.593304108,
+            6.33
+          ],
+          [
+            12.273692897,
+            55.593215865,
+            6.33
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1219843244",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Fotogrammetrisk ajourføring",
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2022-01-28T11:45:07.483Z",
+        "registreringtil": null,
+        "virkningsaktoer": "DSM GEODATA (P) LTD",
+        "virkningfra": "2021-05-04T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": "Udpeget ajourføring 2021",
+        "sportype": "Hovedspor",
+        "togtype": "Øvrige tog",
+        "ejerjernbane": "Banedanmark",
+        "niveaujernbane": null,
+        "synligjernbane": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "1317558",
+        "septima_hash86": "g2/WjR+4M13k2JkaNAw9MknMuysymd+dC8f+WO2ytigaVRZQhl6yhU9Wk07LwjPUkPptiWLyXdsPYdjpQ14UNw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.941700863,
+            57.271968179,
+            16.93
+          ],
+          [
+            9.941259931,
+            57.272482648,
+            17.71
+          ],
+          [
+            9.941009187,
+            57.272775325,
+            17.42
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1220191831",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "SDFE",
+        "registreringfra": "2022-04-07T09:19:36.937Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2022-04-07T09:18:07.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "sportype": "Sidespor",
+        "togtype": "Øvrige tog",
+        "ejerjernbane": "Banedanmark",
+        "niveaujernbane": null,
+        "synligjernbane": true,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "1317559",
+        "septima_hash86": "juKU3R2D0w9Pru6e2878TljXhwLn+OOeWgTwoooX6n5AawCNU4OIn98YG2zoLi0zkaAgBNaVbOdGW7pXKPijyg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.990294572,
+            56.130822816,
+            50
+          ],
+          [
+            8.990036665,
+            56.130870055,
+            50.2
+          ],
+          [
+            8.989742394,
+            56.130926275,
+            50.67
+          ],
+          [
+            8.9895667,
+            56.13096193,
+            50.27
+          ],
+          [
+            8.989522132,
+            56.130971989,
+            50.33
+          ],
+          [
+            8.989230109,
+            56.131042405,
+            50.36
+          ],
+          [
+            8.988975894,
+            56.131106084,
+            50.73
+          ],
+          [
+            8.9889014,
+            56.131123059,
+            50.72
+          ],
+          [
+            8.98883849,
+            56.13113644,
+            50.71
+          ],
+          [
+            8.988632224,
+            56.131178919,
+            50.68
+          ],
+          [
+            8.98793861,
+            56.131309222,
+            50.84
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1045249198",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Fotogrammetrisk ajourføring",
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2021-10-29T14:19:10.438Z",
+        "registreringtil": null,
+        "virkningsaktoer": "DSM GEODATA (P) LTD",
+        "virkningfra": "2021-05-27T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": "Udpeget ajourføring 2021",
+        "sportype": "Sidespor",
+        "togtype": "Øvrige tog",
+        "ejerjernbane": "Banedanmark",
+        "niveaujernbane": null,
+        "synligjernbane": true,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "1317560",
+        "septima_hash86": "6GpShe2VNcjhdRent3zCitR/OzE5sCMR24hD2Rpfkw2Fkaw5T0jxpNuFqFadd+3dEtzb71LdF4lL2JwBJetteA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.504535712,
+            55.9917266,
+            40.74
+          ],
+          [
+            12.50432424,
+            55.991584442,
+            40.9
+          ],
+          [
+            12.503634213,
+            55.991121243,
+            41.19
+          ],
+          [
+            12.502775278,
+            55.990544519,
+            41.27
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1078313707",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "MLS",
+        "registreringfra": "2015-09-14T16:25:08.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "MLS",
+        "virkningfra": "2015-09-14T16:25:08.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.20",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.30",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "sportype": "Hovedspor",
+        "togtype": "Øvrige tog",
+        "ejerjernbane": "Privatbane",
+        "niveaujernbane": null,
+        "synligjernbane": true,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "1317561",
+        "septima_hash86": "CDzdAtMysdtF/nCpdVTIqq0lux2McK5AJlEnBlAyM6BE+x+09vyxyryTraRQJKOJrcNylDchOxwjSVK1EsPqSA"
+      }
+    }
+  ]
+}

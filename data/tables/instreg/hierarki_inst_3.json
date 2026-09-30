@@ -1,0 +1,72 @@
+[
+  {
+    "inst_type_3_hovedgruppe": 101,
+    "inst_type_3": 1010,
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "4CIEUb32Mg/iOkT50VEKq6bqHMi6MytWvOWoPJHvF0o0kuJWd4eBnnNFKMcP3IltvdbppWJkXTmV+5L2eNxQsw",
+    "septima_serial": "2"
+  },
+  {
+    "inst_type_3_hovedgruppe": 101,
+    "inst_type_3": 1011,
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "2ED6RnbGkDFb4mvrQELACKEk2Qq0EUnlR8nshrl6xMt8kFGh3ZeS7UTT9Ju3CljE6JTFakuDLNXjqNTyJ2xmPw",
+    "septima_serial": "3"
+  },
+  {
+    "inst_type_3_hovedgruppe": 101,
+    "inst_type_3": 1012,
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "hxJE5OQ7tJ4h0l+TueNnEhce1b9dlTsZReqrV/hTVxZX8G+ezFMi1MwEJUXdCpO8yVAiquSYnFqeRxFODtthCg",
+    "septima_serial": "4"
+  },
+  {
+    "inst_type_3_hovedgruppe": 101,
+    "inst_type_3": 1013,
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "JrlB4gBx2p+TnKOoEW6gy7zGPFRa91SfsLzEMTGOMLZywX2l6QDgSozmzL/Zysk/xyWhItObKnDLOAP3zGIWHw",
+    "septima_serial": "5"
+  },
+  {
+    "inst_type_3_hovedgruppe": 101,
+    "inst_type_3": 1014,
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "/Q2BXybsbz436A7MRWugGKRFGXYQsIOYkZbb1ckl9suh61sTjqzLryIFK4FRrOs7zuqUBFye8ECagoPBdFFjow",
+    "septima_serial": "6"
+  },
+  {
+    "inst_type_3_hovedgruppe": 101,
+    "inst_type_3": 1015,
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "btwXMlaBe2xesLmT0AmAl1T8nx9cCTOSABNCOyo5vWOCe6tPN+2CLSCQjBq3syI1ubrNdQNDfKA3v6v3jHUDHg",
+    "septima_serial": "7"
+  },
+  {
+    "inst_type_3_hovedgruppe": 101,
+    "inst_type_3": 1016,
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "UUMqTjUj7TzGirKguEnqIrXuknqvgorKVtS7uC6cyOuplkSnm8qfsJxT6B02kpX+BHW1SNDuD7YbWe92Rh8R8Q",
+    "septima_serial": "8"
+  },
+  {
+    "inst_type_3_hovedgruppe": 101,
+    "inst_type_3": 1017,
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "osBkONq36qd/wse3zJwGfI+9mUr8kIN5Fsv8zQfbk6h4i5uSc5yfxo/BWbeYaF1lgPIlaaskLn73mbuVCHHySA",
+    "septima_serial": "9"
+  },
+  {
+    "inst_type_3_hovedgruppe": 101,
+    "inst_type_3": 1018,
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "fyiOzxV2Wii1enRe1et+TlbA7jIzVzIO2HShaKXaBlUtYsksRJb7y8ntkHl6thjqS8MSZM8hRuAGV7qM3Gel0A",
+    "septima_serial": "10"
+  },
+  {
+    "inst_type_3_hovedgruppe": 101,
+    "inst_type_3": 1019,
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "GbGuhPTQOR8ljLhdRg9tXxqS4aTcrohWQL03uMsuJzPp2R5BYx4JiCtjhgpUhkL7nNlpAAEMGo0EgsUu29qPIw",
+    "septima_serial": "11"
+  }
+]

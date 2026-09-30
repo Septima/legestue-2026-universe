@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.311463139,
+            56.552162354,
+            1.53
+          ],
+          [
+            8.311466162,
+            56.552166054,
+            1.23
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1002641407",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2014-09-05T07:25:27.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2014-09-05T07:25:27.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "type": "Internvej",
+        "synligvejkant": true,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "165502821",
+        "septima_hash86": "cj6HpHTsiVSzob9mfJRCVpMDzjNbE3rJETKBVtwOm/fnNmPzpmqDbdVEoB1AMUmH5XVI4wmtmx2yDHkK7nuSKw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.928942644,
+            56.153788018,
+            56.74
+          ],
+          [
+            9.928642777,
+            56.153796831,
+            57.2
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1110326978",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "COWI",
+        "registreringfra": "2017-09-14T12:04:12.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "COWI",
+        "virkningfra": "2017-09-14T12:04:12.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.20",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.30",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "type": "Sti, diverse",
+        "synligvejkant": true,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "165502822",
+        "septima_hash86": "ZIbJ49MCJ4/D5DGuzPVEgEAhJIW6XLkY8Z/NlnfEQNpJqe8traQVwIaJRaKt0PNPxiRE/hwas5MdtDR/Tb+DuQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.01910187,
+            55.709773552,
+            40.82
+          ],
+          [
+            11.019079024,
+            55.709781207,
+            40.85
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1108940411",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2017-08-09T14:24:54.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2017-08-09T14:24:54.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "type": "Kørevej",
+        "synligvejkant": true,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "165502823",
+        "septima_hash86": "BqN8h6ld7I3HnB3DpU4tNH/4LanmxzMOLYTKw+sHjuifEI9E7aTHP1tsRXmAZSjuQiVNyE5Jeg4WINKAgBZvQg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.217252562,
+            56.701715937,
+            2.04
+          ],
+          [
+            8.217258756,
+            56.701692887,
+            1.77
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1002639963",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2014-09-05T07:25:27.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2014-09-05T07:25:27.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "type": "Internvej",
+        "synligvejkant": true,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "165502824",
+        "septima_hash86": "MmxW/NEydk8lR2xGp3hwap2tDNC1ghjrndJaVW1bC9Kp4o6dbTDll87w/PV63ula0asWyhWkLij0fy+HbSj9Hw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.351185435,
+            56.407494364,
+            17.43
+          ],
+          [
+            8.351105091,
+            56.407549469,
+            17.36
+          ],
+          [
+            8.351014085,
+            56.407612154,
+            17.28
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1002638776",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2014-09-05T07:25:27.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2014-09-05T07:25:27.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.50",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.50",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "type": "Kørevej",
+        "synligvejkant": true,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "165502825",
+        "septima_hash86": "xaHsYvGyKiLFEqv/T0n9HV6yU2k6klOoItr4zH2hJ/midYdY7DsvSLDJLuRbbMNtPLm87Ay6Gehj/Ds6e0IfaA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.293763504,
+            56.547258027,
+            30.08
+          ],
+          [
+            8.293777523,
+            56.547247595,
+            29.89
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1002641621",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2014-09-05T07:25:27.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2014-09-05T07:25:27.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "type": "Kørevej",
+        "synligvejkant": true,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "165502826",
+        "septima_hash86": "rAaLFBEOo0pnR22mOkrrkinEUvjbA8Wwf6gngsRe5wzPD2J9uZPRWrjWYds6XkOM8QVQRvT8vsPKcospedAc1w"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.379680271,
+            56.421226454,
+            15
+          ],
+          [
+            8.379726547,
+            56.421281671,
+            15.04
+          ],
+          [
+            8.379779479,
+            56.421346265,
+            15.08
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1002638793",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2014-09-05T07:25:27.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2014-09-05T07:25:27.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.50",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.50",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "type": "Kørevej",
+        "synligvejkant": true,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "165502827",
+        "septima_hash86": "H794muEdzsFq+T6AS2XyD8wORcxu+F1ih1x/h6K+ixa9846NxIxRB8YRiRJXcbE+qI3wFjQ6aJ4nYXlyDOIfsA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.343932234,
+            56.392425902,
+            14.62
+          ],
+          [
+            8.34400764,
+            56.3923741,
+            14.9
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1002638794",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2014-09-05T07:25:27.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2014-09-05T07:25:27.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.50",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.50",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "type": "Kørevej",
+        "synligvejkant": true,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "165502828",
+        "septima_hash86": "92GHyCOLtxR77tz4RKnl9hNtmT30US+zqkTB5mNgi/0uR+YVWhZtWZDUGcjz3Osr0t5LkWzJg4+Bm4+W3jzIsw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.34400764,
+            56.3923741,
+            14.9
+          ],
+          [
+            8.344088518,
+            56.392324304,
+            14.86
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1002638795",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2014-09-05T07:25:27.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2014-09-05T07:25:27.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.50",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.50",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "type": "Kørevej",
+        "synligvejkant": true,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "165502829",
+        "septima_hash86": "YQ1AtiqZUkutLF8ge9gTDINJesMLKqvmzrx7u/eWLx0/7hCTGGB9bjo/M9EdkhE3DAZ46ABfx4mGjmrTP2YWwA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.306428198,
+            56.544528263,
+            36.67
+          ],
+          [
+            8.306413897,
+            56.544554328,
+            36.62
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1002641699",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2014-09-05T07:25:27.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2014-09-05T07:25:27.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "type": "Sti, diverse",
+        "synligvejkant": true,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "165502830",
+        "septima_hash86": "udomIuVZw1RlxJxKZ2z5gU6vUPQZ9xxd4yRiAOgm8bTEa1oQvIm123KhR+WYA0XlVwJnro+QLieaGkDt1HkVaw"
+      }
+    }
+  ]
+}

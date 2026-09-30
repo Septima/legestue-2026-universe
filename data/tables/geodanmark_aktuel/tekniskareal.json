@@ -1,0 +1,1380 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.856312601,
+              55.836367508,
+              36.02
+            ],
+            [
+              9.856672537,
+              55.836347391,
+              35.9
+            ],
+            [
+              9.856785414,
+              55.836303294,
+              35.9
+            ],
+            [
+              9.857480565,
+              55.836257118,
+              35.65
+            ],
+            [
+              9.857587481,
+              55.836225193,
+              34.98
+            ],
+            [
+              9.857772797,
+              55.836215095,
+              34.15
+            ],
+            [
+              9.85779954,
+              55.836211405,
+              33.96
+            ],
+            [
+              9.857824889,
+              55.836224167,
+              33.87
+            ],
+            [
+              9.857990591,
+              55.836440013,
+              33.33
+            ],
+            [
+              9.858157721,
+              55.836611909,
+              33.08
+            ],
+            [
+              9.858163619,
+              55.836618697,
+              33.21
+            ],
+            [
+              9.858214998,
+              55.836660571,
+              32.91
+            ],
+            [
+              9.858250784,
+              55.836697701,
+              33.24
+            ],
+            [
+              9.858460964,
+              55.836859412,
+              33.21
+            ],
+            [
+              9.858477369,
+              55.836872057,
+              33.28
+            ],
+            [
+              9.858527891,
+              55.836911241,
+              33.12
+            ],
+            [
+              9.858146954,
+              55.836935015,
+              33.51
+            ],
+            [
+              9.857953694,
+              55.836947055,
+              33.71
+            ],
+            [
+              9.857440893,
+              55.836979384,
+              34.27
+            ],
+            [
+              9.857005423,
+              55.837006679,
+              35.67
+            ],
+            [
+              9.856512311,
+              55.837041292,
+              35.87
+            ],
+            [
+              9.856032999,
+              55.837071765,
+              36.02
+            ],
+            [
+              9.85567346,
+              55.837095741,
+              35.99
+            ],
+            [
+              9.855087614,
+              55.837132162,
+              35.9
+            ],
+            [
+              9.855033316,
+              55.836855245,
+              36.02
+            ],
+            [
+              9.854953614,
+              55.836461153,
+              36.02
+            ],
+            [
+              9.85548182,
+              55.836425314,
+              36.12
+            ],
+            [
+              9.85591885,
+              55.836396575,
+              35.99
+            ],
+            [
+              9.856166703,
+              55.8363767,
+              35.99
+            ],
+            [
+              9.856312601,
+              55.836367508,
+              36.02
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1037898099",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Fotogrammetrisk ajourføring",
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2019-06-26T08:06:43.466Z",
+        "registreringtil": null,
+        "virkningsaktoer": "DSM GEODATA (P) LTD",
+        "virkningfra": "2018-05-09T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": "Totalajourføring 2018",
+        "arealtype": "Sportsanlæg",
+        "underminimumteka": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "912980",
+        "septima_hash86": "oskk0v9aZVO9DXVoyqdHsQ+0zMiDD1Gmc96QH08ai8U0UsOCAm2X88W+sUQ95wUe5s2g9YF0J5WWn4X1IO039w"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.626608655,
+              56.482832517,
+              53.88
+            ],
+            [
+              9.626599718,
+              56.482832112,
+              53.84
+            ],
+            [
+              9.6265894,
+              56.482895685,
+              53.53
+            ],
+            [
+              9.626577856,
+              56.482894754,
+              53.59
+            ],
+            [
+              9.62655849,
+              56.482990626,
+              53.36
+            ],
+            [
+              9.626544391,
+              56.483061315,
+              53.19
+            ],
+            [
+              9.626546521,
+              56.483082148,
+              52.11
+            ],
+            [
+              9.626328423,
+              56.483109932,
+              52.31
+            ],
+            [
+              9.625889858,
+              56.483100553,
+              53.18
+            ],
+            [
+              9.625963885,
+              56.482754369,
+              52.27
+            ],
+            [
+              9.625971525,
+              56.482754869,
+              53.86
+            ],
+            [
+              9.626248501,
+              56.4827727,
+              53.93
+            ],
+            [
+              9.626257441,
+              56.482773284,
+              53.96
+            ],
+            [
+              9.62651054,
+              56.482790515,
+              54.02
+            ],
+            [
+              9.626522569,
+              56.482791353,
+              53.99
+            ],
+            [
+              9.626616857,
+              56.482798155,
+              53.95
+            ],
+            [
+              9.626611231,
+              56.482821273,
+              53.94
+            ],
+            [
+              9.626608655,
+              56.482832517,
+              53.88
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1059691310",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "NIRASTA/S",
+        "registreringfra": "2019-07-15T17:14:46.394Z",
+        "registreringtil": null,
+        "virkningsaktoer": "NIRASTA/S",
+        "virkningfra": "2015-11-03T09:21:19.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "arealtype": "Energiforsyningsanlæg",
+        "underminimumteka": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "912982",
+        "septima_hash86": "52poFKmtPBcluFB7XXau+HjRhr868KaKKIo+fExa8iwOS0pDX5A9p8XI8U6FesArKWAEoMsQtAUHm0nSpLkZ0g"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.957722089,
+              55.319826644,
+              42.21
+            ],
+            [
+              11.957694157,
+              55.319673949,
+              41.95
+            ],
+            [
+              11.958081054,
+              55.319676171,
+              42.1
+            ],
+            [
+              11.958692677,
+              55.319672947,
+              42.25
+            ],
+            [
+              11.959466115,
+              55.319676854,
+              43.15
+            ],
+            [
+              11.959480898,
+              55.320209253,
+              44.8
+            ],
+            [
+              11.958448844,
+              55.320219525,
+              44.65
+            ],
+            [
+              11.95816707,
+              55.32022959,
+              44.55
+            ],
+            [
+              11.958077695,
+              55.320231935,
+              44.62
+            ],
+            [
+              11.957859229,
+              55.320238937,
+              44.65
+            ],
+            [
+              11.957759523,
+              55.320248635,
+              43.43
+            ],
+            [
+              11.957781034,
+              55.320482307,
+              44.5
+            ],
+            [
+              11.957825856,
+              55.320810891,
+              45.8
+            ],
+            [
+              11.95773568,
+              55.320813076,
+              45.65
+            ],
+            [
+              11.957675083,
+              55.320814454,
+              45.55
+            ],
+            [
+              11.956742277,
+              55.320836601,
+              43.98
+            ],
+            [
+              11.956731674,
+              55.320948246,
+              44.04
+            ],
+            [
+              11.956728385,
+              55.320982398,
+              44.02
+            ],
+            [
+              11.956705937,
+              55.320981593,
+              45.29
+            ],
+            [
+              11.956508865,
+              55.320975308,
+              44.04
+            ],
+            [
+              11.955512745,
+              55.32094333,
+              43.48
+            ],
+            [
+              11.95551873,
+              55.320833146,
+              45.27
+            ],
+            [
+              11.955508345,
+              55.32060262,
+              43.53
+            ],
+            [
+              11.955514689,
+              55.320372318,
+              43.32
+            ],
+            [
+              11.955512165,
+              55.320169021,
+              43.02
+            ],
+            [
+              11.955502162,
+              55.319920326,
+              42.72
+            ],
+            [
+              11.955505891,
+              55.319885714,
+              42.35
+            ],
+            [
+              11.95552814,
+              55.319866925,
+              42.05
+            ],
+            [
+              11.956150199,
+              55.319857706,
+              42.2
+            ],
+            [
+              11.956803607,
+              55.3198524,
+              42.72
+            ],
+            [
+              11.957330575,
+              55.319838647,
+              42.65
+            ],
+            [
+              11.957722089,
+              55.319826644,
+              42.21
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1025435972",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2021-08-05T16:37:03.079Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2017-10-25T06:29:36.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "arealtype": "Sportsanlæg",
+        "underminimumteka": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "912984",
+        "septima_hash86": "hU3ma+qGcmy+kCNlw/3+NGWeg2KuY2DLywSD3wx6n0mzyUuFTMmJQ6sNVrYg8fPZ3nleUlq002y/VN0+SzzLnQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.43366149,
+              55.369980894,
+              22.34
+            ],
+            [
+              10.433643745,
+              55.370214581,
+              22.34
+            ],
+            [
+              10.432932541,
+              55.370214652,
+              22.34
+            ],
+            [
+              10.432954656,
+              55.369975162,
+              22.34
+            ],
+            [
+              10.43366149,
+              55.369980894,
+              22.34
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1095520727",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "COWI",
+        "registreringfra": "2016-04-14T16:11:15.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "COWI",
+        "virkningfra": "2016-04-14T16:11:15.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "arealtype": "Sportsanlæg",
+        "underminimumteka": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "912988",
+        "septima_hash86": "9aN7H+XhIPelGSp3EeGF5KXzpjg4ahMh3MFBsWgKkg3Q38DxL/CZZpIBzb6S88pI6LUv8TvB5xtfCV7BpA96pw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.294179999,
+              56.525012433,
+              41.48
+            ],
+            [
+              8.294239768,
+              56.524945209,
+              40.51
+            ],
+            [
+              8.29464052,
+              56.52486348,
+              40.84
+            ],
+            [
+              8.295046623,
+              56.524782319,
+              41.64
+            ],
+            [
+              8.295072405,
+              56.524812024,
+              41.49
+            ],
+            [
+              8.295153704,
+              56.524837103,
+              41.49
+            ],
+            [
+              8.29523923,
+              56.524897155,
+              41.49
+            ],
+            [
+              8.295291095,
+              56.524975434,
+              41.5
+            ],
+            [
+              8.295286063,
+              56.525045124,
+              41.47
+            ],
+            [
+              8.295253055,
+              56.52508941,
+              41.43
+            ],
+            [
+              8.295184275,
+              56.525134212,
+              41.44
+            ],
+            [
+              8.295069725,
+              56.525166445,
+              41.2
+            ],
+            [
+              8.294529478,
+              56.52526679,
+              41.42
+            ],
+            [
+              8.294422901,
+              56.525272385,
+              41.43
+            ],
+            [
+              8.29433786,
+              56.525256179,
+              41.14
+            ],
+            [
+              8.294282579,
+              56.525230619,
+              41.14
+            ],
+            [
+              8.294230183,
+              56.525180997,
+              41.1
+            ],
+            [
+              8.294181852,
+              56.525122593,
+              41.1
+            ],
+            [
+              8.294161599,
+              56.525075309,
+              41.35
+            ],
+            [
+              8.294179999,
+              56.525012433,
+              41.48
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1040839607",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Fugro Aerial Mapping A/S",
+        "registreringfra": "2014-09-05T07:25:27.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Fugro Aerial Mapping A/S",
+        "virkningfra": "2014-09-05T07:25:27.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.20",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.30",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "arealtype": "Sportsanlæg",
+        "underminimumteka": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "912989",
+        "septima_hash86": "hEG2H1ulR6xxzo8DCwukHa16eVFKSViRcyBrdnxiLdO1m9EQAcj4g36zpvuukWbtmnlOsgj7cnKo8a82c8oKoQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.294236465,
+              56.557704814,
+              9.5
+            ],
+            [
+              8.294177946,
+              56.557719575,
+              10.28
+            ],
+            [
+              8.294136295,
+              56.557737128,
+              10.54
+            ],
+            [
+              8.294122283,
+              56.557755646,
+              10.73
+            ],
+            [
+              8.294113522,
+              56.557780573,
+              11.22
+            ],
+            [
+              8.29412388,
+              56.557792222,
+              11.52
+            ],
+            [
+              8.29414869,
+              56.557796675,
+              11.97
+            ],
+            [
+              8.294165813,
+              56.557794526,
+              12.27
+            ],
+            [
+              8.294172107,
+              56.557771023,
+              12.38
+            ],
+            [
+              8.294422024,
+              56.557787535,
+              12.42
+            ],
+            [
+              8.294416014,
+              56.557839521,
+              12.44
+            ],
+            [
+              8.294409637,
+              56.55789366,
+              12.45
+            ],
+            [
+              8.294402202,
+              56.55799595,
+              12.56
+            ],
+            [
+              8.294396278,
+              56.558078214,
+              12.64
+            ],
+            [
+              8.294291293,
+              56.558071958,
+              12.3
+            ],
+            [
+              8.29384318,
+              56.5580483,
+              12.3
+            ],
+            [
+              8.293414003,
+              56.558030049,
+              12.34
+            ],
+            [
+              8.293069454,
+              56.558010392,
+              12.34
+            ],
+            [
+              8.293124276,
+              56.557696609,
+              12.3
+            ],
+            [
+              8.293292274,
+              56.557700079,
+              12.27
+            ],
+            [
+              8.293481301,
+              56.557710138,
+              12.23
+            ],
+            [
+              8.293473649,
+              56.557745313,
+              12.27
+            ],
+            [
+              8.293515073,
+              56.557748693,
+              12.04
+            ],
+            [
+              8.293519984,
+              56.557712155,
+              12.08
+            ],
+            [
+              8.293955749,
+              56.557734665,
+              11.74
+            ],
+            [
+              8.293955452,
+              56.557768086,
+              11.78
+            ],
+            [
+              8.293977164,
+              56.557764166,
+              11.82
+            ],
+            [
+              8.293997023,
+              56.55774613,
+              11.37
+            ],
+            [
+              8.294022412,
+              56.557701981,
+              11.07
+            ],
+            [
+              8.294236465,
+              56.557704814,
+              9.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1040841453",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Fugro Aerial Mapping A/S",
+        "registreringfra": "2014-09-05T07:25:27.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Fugro Aerial Mapping A/S",
+        "virkningfra": "2014-09-05T07:25:27.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.20",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.30",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "arealtype": "Parkeringsanlæg",
+        "underminimumteka": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "912991",
+        "septima_hash86": "ACWGa1cvQizl+7yj90EVwFIUSM3t9VzIjhBub8KnzKEyJNuARZY52giTEAzeOUxnHjCdKrCg7emAifX10fepCg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.327602248,
+              55.781275187,
+              24.49
+            ],
+            [
+              12.328034958,
+              55.781816039,
+              24.49
+            ],
+            [
+              12.328442722,
+              55.782322412,
+              24.42
+            ],
+            [
+              12.326933879,
+              55.782725895,
+              24.18
+            ],
+            [
+              12.326293926,
+              55.782897781,
+              23.81
+            ],
+            [
+              12.326214961,
+              55.782834287,
+              20.94
+            ],
+            [
+              12.325505057,
+              55.782271894,
+              19.65
+            ],
+            [
+              12.325044992,
+              55.781905746,
+              18.91
+            ],
+            [
+              12.325147685,
+              55.781877072,
+              18.83
+            ],
+            [
+              12.325190216,
+              55.78186693,
+              18.74
+            ],
+            [
+              12.326868857,
+              55.78142866,
+              19.91
+            ],
+            [
+              12.327444306,
+              55.781280815,
+              20.4
+            ],
+            [
+              12.327567379,
+              55.781234864,
+              21.24
+            ],
+            [
+              12.327602248,
+              55.781275187,
+              24.49
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1000436424",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "BLOMINFO A/S",
+        "registreringfra": "2015-11-27T13:27:31.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "BLOMINFO A/S",
+        "virkningfra": "2015-11-27T13:27:31.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "1.00",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.30",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "arealtype": "Sportsanlæg",
+        "underminimumteka": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "912994",
+        "septima_hash86": "nzZ+s6hEJ+Eo2T0QPBiEtPBdSFCwh+hgxGFFgYCLmRLeIM6r++XD13tRaJpFhOkCIPDIvet1k8mAIuKbMwIfBA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.339361082,
+              55.759402966,
+              18.47
+            ],
+            [
+              12.339088155,
+              55.759411018,
+              18.41
+            ],
+            [
+              12.338991763,
+              55.758548805,
+              19.12
+            ],
+            [
+              12.338984337,
+              55.758469437,
+              19.28
+            ],
+            [
+              12.338978783,
+              55.758419419,
+              19.43
+            ],
+            [
+              12.339065988,
+              55.758417407,
+              19.35
+            ],
+            [
+              12.340145355,
+              55.758388497,
+              20.15
+            ],
+            [
+              12.340150204,
+              55.758450762,
+              20.08
+            ],
+            [
+              12.340162713,
+              55.758684544,
+              19.75
+            ],
+            [
+              12.340230392,
+              55.759386062,
+              18.61
+            ],
+            [
+              12.339416252,
+              55.759401106,
+              18.54
+            ],
+            [
+              12.339361082,
+              55.759402966,
+              18.47
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1000436426",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "BLOMINFO A/S",
+        "registreringfra": "2015-11-27T13:27:31.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "BLOMINFO A/S",
+        "virkningfra": "2015-11-27T13:27:31.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "1.00",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.30",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "arealtype": "Sportsanlæg",
+        "underminimumteka": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "912995",
+        "septima_hash86": "lweF7PpXhsOTSZ4cG20y5Jh8B0Cyoyfj9Lo3rKgAtE35cL2LyX0wG/DTisKbbjYFI5oMz7DrP7EjAXYZSH+S9A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.158047924,
+              55.221599861,
+              10.57
+            ],
+            [
+              12.158363243,
+              55.221272247,
+              9.52
+            ],
+            [
+              12.158448444,
+              55.221315353,
+              9.12
+            ],
+            [
+              12.158514902,
+              55.221338266,
+              9.32
+            ],
+            [
+              12.158717529,
+              55.221432185,
+              9.38
+            ],
+            [
+              12.158997504,
+              55.221575257,
+              9.16
+            ],
+            [
+              12.159086188,
+              55.221622589,
+              9.12
+            ],
+            [
+              12.159369488,
+              55.221773846,
+              9.06
+            ],
+            [
+              12.159838046,
+              55.222014075,
+              9.18
+            ],
+            [
+              12.159981718,
+              55.222086413,
+              9.28
+            ],
+            [
+              12.160059242,
+              55.222042596,
+              9.36
+            ],
+            [
+              12.160723107,
+              55.222391313,
+              9.67
+            ],
+            [
+              12.160926092,
+              55.222499515,
+              9.85
+            ],
+            [
+              12.160802496,
+              55.222575186,
+              9.42
+            ],
+            [
+              12.160514084,
+              55.222750164,
+              9.8
+            ],
+            [
+              12.160244226,
+              55.222919176,
+              10.4
+            ],
+            [
+              12.159913344,
+              55.223125912,
+              10.06
+            ],
+            [
+              12.159820141,
+              55.223186229,
+              10.1
+            ],
+            [
+              12.159377855,
+              55.223463822,
+              10.36
+            ],
+            [
+              12.15861388,
+              55.223941344,
+              10.56
+            ],
+            [
+              12.158519946,
+              55.223996464,
+              10.7
+            ],
+            [
+              12.15749735,
+              55.223443943,
+              10.56
+            ],
+            [
+              12.157233868,
+              55.22336023,
+              10.56
+            ],
+            [
+              12.156492129,
+              55.22303293,
+              10.07
+            ],
+            [
+              12.157201894,
+              55.222409106,
+              10.21
+            ],
+            [
+              12.157418325,
+              55.222208848,
+              10.63
+            ],
+            [
+              12.157871023,
+              55.221770955,
+              10.63
+            ],
+            [
+              12.158047924,
+              55.221599861,
+              10.57
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1025318737",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2017-10-25T06:29:36.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2017-10-25T06:29:36.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "arealtype": "Sportsanlæg",
+        "underminimumteka": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "912996",
+        "septima_hash86": "AfzGSH2JKGSI6FIkdYqLjIpEv+91W2Mmy7ZTPD9FoTdlp+5yObEYOvfCyUwtkBnk0yhdERXRRUD0VQ7gEHEAlA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.666690833,
+              55.663703253,
+              12.11
+            ],
+            [
+              8.666523322,
+              55.664016931,
+              12.7
+            ],
+            [
+              8.666363633,
+              55.663990079,
+              12.75
+            ],
+            [
+              8.665832667,
+              55.663900038,
+              12.55
+            ],
+            [
+              8.665860284,
+              55.663849076,
+              12.35
+            ],
+            [
+              8.666007636,
+              55.663588538,
+              12.35
+            ],
+            [
+              8.666500209,
+              55.663669219,
+              12.15
+            ],
+            [
+              8.666690833,
+              55.663703253,
+              12.11
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1040101424",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2016-05-19T00:11:26.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2016-05-19T00:11:26.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.20",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.30",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "arealtype": "Energiforsyningsanlæg",
+        "underminimumteka": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "912997",
+        "septima_hash86": "T21V5jCcKh365EvA9BcKtKeCN4rIOXnoL4JvsGdCCwyobuiHaJrv9C+GTv0QhaYQ8lmYrwO/fWP6vDqj5/7mNw"
+      }
+    }
+  ]
+}

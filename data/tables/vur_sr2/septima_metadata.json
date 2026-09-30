@@ -1,0 +1,152 @@
+[
+  {
+    "tabelnavn": "bfenummer",
+    "beskrivelse": "ejendomsvurdering",
+    "kilde": "Ejendomsvurderingsdata (VUR) 1.1.0",
+    "rettigheder": "Vurderingsstyrelsen giver en verdensomspaendende, gratis, ikke-eksklusiv, og i oevrigt ubegraenset brugsret til data",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsvurdering-vur/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "Opdateres ugentligt",
+    "note": "Laes gerne rettighederne, der kraeves bl.a kildeangivelse med link til vilkaar"
+  },
+  {
+    "tabelnavn": "ejendomsvurdering",
+    "beskrivelse": "ejendomsvurdering",
+    "kilde": "Ejendomsvurderingsdata (VUR) 1.1.0",
+    "rettigheder": "Vurderingsstyrelsen giver en verdensomspaendende, gratis, ikke-eksklusiv, og i oevrigt ubegraenset brugsret til data",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsvurdering-vur/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "Opdateres ugentligt",
+    "note": "Laes gerne rettighederne, der kraeves bl.a kildeangivelse med link til vilkaar"
+  },
+  {
+    "tabelnavn": "fordeling",
+    "beskrivelse": "ejendomsvurdering",
+    "kilde": "Ejendomsvurderingsdata (VUR) 1.1.0",
+    "rettigheder": "Vurderingsstyrelsen giver en verdensomspaendende, gratis, ikke-eksklusiv, og i oevrigt ubegraenset brugsret til data",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsvurdering-vur/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "Opdateres ugentligt",
+    "note": "Laes gerne rettighederne, der kraeves bl.a kildeangivelse med link til vilkaar"
+  },
+  {
+    "tabelnavn": "fradragforforbedring",
+    "beskrivelse": "ejendomsvurdering",
+    "kilde": "Ejendomsvurderingsdata (VUR) 1.1.0",
+    "rettigheder": "Vurderingsstyrelsen giver en verdensomspaendende, gratis, ikke-eksklusiv, og i oevrigt ubegraenset brugsret til data",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsvurdering-vur/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "Opdateres ugentligt",
+    "note": "Laes gerne rettighederne, der kraeves bl.a kildeangivelse med link til vilkaar"
+  },
+  {
+    "tabelnavn": "fradragforforbedringoverordnet",
+    "beskrivelse": "ejendomsvurdering",
+    "kilde": "Ejendomsvurderingsdata (VUR) 1.1.0",
+    "rettigheder": "Vurderingsstyrelsen giver en verdensomspaendende, gratis, ikke-eksklusiv, og i oevrigt ubegraenset brugsret til data",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsvurdering-vur/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "Opdateres ugentligt",
+    "note": "Laes gerne rettighederne, der kraeves bl.a kildeangivelse med link til vilkaar"
+  },
+  {
+    "tabelnavn": "fritagelse",
+    "beskrivelse": "ejendomsvurdering",
+    "kilde": "Ejendomsvurderingsdata (VUR) 1.1.0",
+    "rettigheder": "Vurderingsstyrelsen giver en verdensomspaendende, gratis, ikke-eksklusiv, og i oevrigt ubegraenset brugsret til data",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsvurdering-vur/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "Opdateres ugentligt",
+    "note": "Laes gerne rettighederne, der kraeves bl.a kildeangivelse med link til vilkaar"
+  },
+  {
+    "tabelnavn": "grundvaerdispecifikation",
+    "beskrivelse": "ejendomsvurdering",
+    "kilde": "Ejendomsvurderingsdata (VUR) 1.1.0",
+    "rettigheder": "Vurderingsstyrelsen giver en verdensomspaendende, gratis, ikke-eksklusiv, og i oevrigt ubegraenset brugsret til data",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsvurdering-vur/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "Opdateres ugentligt",
+    "note": "Laes gerne rettighederne, der kraeves bl.a kildeangivelse med link til vilkaar"
+  },
+  {
+    "tabelnavn": "loftansaettelse",
+    "beskrivelse": "ejendomsvurdering",
+    "kilde": "Ejendomsvurderingsdata (VUR) 1.1.0",
+    "rettigheder": "Vurderingsstyrelsen giver en verdensomspaendende, gratis, ikke-eksklusiv, og i oevrigt ubegraenset brugsret til data",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsvurdering-vur/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "Opdateres ugentligt",
+    "note": "Laes gerne rettighederne, der kraeves bl.a kildeangivelse med link til vilkaar"
+  },
+  {
+    "tabelnavn": "loftfradragforforbedring",
+    "beskrivelse": "ejendomsvurdering",
+    "kilde": "Ejendomsvurderingsdata (VUR) 1.1.0",
+    "rettigheder": "Vurderingsstyrelsen giver en verdensomspaendende, gratis, ikke-eksklusiv, og i oevrigt ubegraenset brugsret til data",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsvurdering-vur/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "Opdateres ugentligt",
+    "note": "Laes gerne rettighederne, der kraeves bl.a kildeangivelse med link til vilkaar"
+  },
+  {
+    "tabelnavn": "loftfradragforforbedringoverordnet",
+    "beskrivelse": "ejendomsvurdering",
+    "kilde": "Ejendomsvurderingsdata (VUR) 1.1.0",
+    "rettigheder": "Vurderingsstyrelsen giver en verdensomspaendende, gratis, ikke-eksklusiv, og i oevrigt ubegraenset brugsret til data",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsvurdering-vur/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "Opdateres ugentligt",
+    "note": "Laes gerne rettighederne, der kraeves bl.a kildeangivelse med link til vilkaar"
+  }
+]

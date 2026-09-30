@@ -1,0 +1,395 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.587030431,
+            55.198333437,
+            0
+          ],
+          [
+            9.58715349,
+            55.198587526,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "41671015",
+        "lokalid": "48478705",
+        "registreringfra": "2018-06-03T00:54:23.114000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2002-11-20T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20147739",
+        "forloeb": "Skal følge skel",
+        "matrikelskellokalid": "9490272",
+        "originaltemafladeid": "18454",
+        "tematype": "Fredskov",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "fZgBbxQQr5PrUG4f444krAaSIhPI7GkxgyJH/SB0zPPYzEONE0F47yYfBZoGBc5KSmtwgMppLrj9H7E5v3V8SA",
+        "septima_serial": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.58715349,
+            55.198587526,
+            0
+          ],
+          [
+            9.587134853,
+            55.198601095,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "41671016",
+        "lokalid": "48478706",
+        "registreringfra": "2018-06-03T00:54:23.116000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2002-11-20T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20147739",
+        "forloeb": "Skal følge skel",
+        "matrikelskellokalid": "9490271",
+        "originaltemafladeid": "18454",
+        "tematype": "Fredskov",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "zHONQcWqrET1cCZ9JM4NW2Af8Apb0tp7BC1YZbjjAYnJxLBNdqJi2r31ms2+EfR1nk+v7MV4rN4QxzOrHJx5sg",
+        "septima_serial": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.587134853,
+            55.198601095,
+            0
+          ],
+          [
+            9.587183194,
+            55.198703575,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "41671017",
+        "lokalid": "48478707",
+        "registreringfra": "2018-06-03T00:54:23.117000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2002-11-20T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20147739",
+        "forloeb": "Skal følge skel",
+        "matrikelskellokalid": "9490270",
+        "originaltemafladeid": "18454",
+        "tematype": "Fredskov",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "23T+R49iEZ/ENdKQDzWF4GKmlv3l+eOqen3cSdIfdJ3QyvB8g3iSZJfqhPJWuMlqjKW/Kyad5VopTlowep+qvQ",
+        "septima_serial": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.587183194,
+            55.198703575,
+            0
+          ],
+          [
+            9.58726773,
+            55.198890146,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "41671018",
+        "lokalid": "48478708",
+        "registreringfra": "2018-06-03T00:54:23.118000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2002-11-20T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20147739",
+        "forloeb": "Skal følge skel",
+        "matrikelskellokalid": "9490269",
+        "originaltemafladeid": "18454",
+        "tematype": "Fredskov",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "AreB+uqT0jSaKYetRLbDh+q3J4qUMxZNe/XzKOVNXA6g8zGWbW1t5dlnjZJtoxvkczv1pZurDmq73zHi0MBCBQ",
+        "septima_serial": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.8583705,
+            55.012661218,
+            0
+          ],
+          [
+            9.858423791,
+            55.012650085,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "41826898",
+        "lokalid": "48642103",
+        "registreringfra": "2018-06-03T04:37:38.104000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2006-05-29T00:00:00.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20203279",
+        "forloeb": "Skal følge skelbillede",
+        "matrikelskellokalid": null,
+        "originaltemafladeid": "24590",
+        "tematype": "Fredskov",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "W58Al48uaDPyNEi3sBkyL2l2ENzDm+a7BeXLVFpJD0UPcTbsbUhj/3trvseCpQo3MOhDVDNbbaH5m5VFRZCVIA",
+        "septima_serial": "6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.858764274,
+            55.012517249,
+            0
+          ],
+          [
+            9.85880364,
+            55.01243698,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "41826901",
+        "lokalid": "48642106",
+        "registreringfra": "2018-06-03T04:37:38.105000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2006-05-29T00:00:00.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20203279",
+        "forloeb": "Skal følge skelbillede",
+        "matrikelskellokalid": null,
+        "originaltemafladeid": "24590",
+        "tematype": "Fredskov",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "VQBSwgeE78R09AwhwkSv1xF/s4Qja0tGPpepnrSLLgZwMN1BMt45r50aE9dPtS2bk/Z66zxISQ4OICz6ElIj7w",
+        "septima_serial": "7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.859717011,
+            55.011902379,
+            0
+          ],
+          [
+            9.859770479,
+            55.01186228,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "41826904",
+        "lokalid": "48642109",
+        "registreringfra": "2018-06-03T04:37:38.105000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2006-05-29T00:00:00.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20203279",
+        "forloeb": "Skal følge skelbillede",
+        "matrikelskellokalid": null,
+        "originaltemafladeid": "24590",
+        "tematype": "Fredskov",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "YJlTOW8cdFY+h36HMTa9cmdXbG/e3u3hACa3Y7/m1bBCjUcmNqkCBbVehzKrh94NnNpTH1Dm4g6AT7E+2w6Tsg",
+        "septima_serial": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.859904166,
+            55.011902441,
+            0
+          ],
+          [
+            9.859922539,
+            55.012034641,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "41826908",
+        "lokalid": "48642113",
+        "registreringfra": "2018-06-03T04:37:38.109000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2006-05-29T00:00:00.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20203279",
+        "forloeb": "Skal følge skel",
+        "matrikelskellokalid": "8764580",
+        "originaltemafladeid": "24590",
+        "tematype": "Fredskov",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "ALT6Dor+jIj9GIZO1SIR2h7LtFR3EtZkC7i8N61tJeu+dzIQuk2OCkL6nZ9xqZsVQZ8Pf7MZIBpJCigShx0kOQ",
+        "septima_serial": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.53765577,
+            54.927214503,
+            0
+          ],
+          [
+            9.537410819,
+            54.927259792,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "41826911",
+        "lokalid": "48642116",
+        "registreringfra": "2018-06-03T04:37:38.117000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2006-05-29T00:00:00.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20203593",
+        "forloeb": "Skal følge skel",
+        "matrikelskellokalid": "10343606",
+        "originaltemafladeid": "24591",
+        "tematype": "Fredskov",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "DZe4LH7qk4mSfIL5weDfr4p+hAZHR/uUPUFI6ZLVHO7CfwraeMZYUTh2XDLvjInG8D8lCL0Yc0tqh+yT2gGD9w",
+        "septima_serial": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.536971925,
+            54.927173429,
+            0
+          ],
+          [
+            9.536840455,
+            54.926956586,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "41826914",
+        "lokalid": "48642119",
+        "registreringfra": "2018-06-03T04:37:38.120000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2006-05-29T00:00:00.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20203593",
+        "forloeb": "Skal følge skel",
+        "matrikelskellokalid": "10341061",
+        "originaltemafladeid": "24591",
+        "tematype": "Fredskov",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "uSbT1fPPcaBnA/O5IHGptJvHKKMoi2Y65aikABm8RlOy71dRHsdqGlTX/bq4ntstt5JeUtlxKBS+Y3c0MC/a3Q",
+        "septima_serial": "11"
+      }
+    }
+  ]
+}

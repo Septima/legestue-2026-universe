@@ -1,0 +1,82 @@
+[
+  {
+    "id": 393,
+    "name": "Restaurant/Cafe",
+    "comment": null,
+    "septima_serial": "126603032",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392777"
+  },
+  {
+    "id": 3103,
+    "name": "Børnebassin",
+    "comment": null,
+    "septima_serial": "126603033",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392777"
+  },
+  {
+    "id": 3104,
+    "name": "Sauna",
+    "comment": null,
+    "septima_serial": "126603034",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392777"
+  },
+  {
+    "id": 3105,
+    "name": "Vandrutsjebane",
+    "comment": null,
+    "septima_serial": "126603035",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392777"
+  },
+  {
+    "id": 384,
+    "name": "Badeland/vandland",
+    "comment": null,
+    "septima_serial": "126603036",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392777"
+  },
+  {
+    "id": 386,
+    "name": "Svømmehal",
+    "comment": null,
+    "septima_serial": "126603037",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392777"
+  },
+  {
+    "id": 1084,
+    "name": "Bålplads",
+    "comment": null,
+    "septima_serial": "126603038",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392778"
+  },
+  {
+    "id": 1087,
+    "name": "Egen hest tilladt",
+    "comment": null,
+    "septima_serial": "126603039",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392778"
+  },
+  {
+    "id": 1083,
+    "name": "Shelters",
+    "comment": null,
+    "septima_serial": "126603040",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392779"
+  },
+  {
+    "id": 1084,
+    "name": "Bålplads",
+    "comment": null,
+    "septima_serial": "126603041",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392779"
+  }
+]

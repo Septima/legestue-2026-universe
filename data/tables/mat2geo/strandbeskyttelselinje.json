@@ -1,0 +1,395 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.839712029,
+            56.886014167,
+            0
+          ],
+          [
+            8.83986226,
+            56.886309239,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "39145017",
+        "lokalid": "45595570",
+        "registreringfra": "2018-06-03T06:57:46.995000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2003-02-26T10:00:03.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20137000",
+        "forloeb": "Skal følge skel",
+        "status": "Gældende",
+        "matrikelskellokalid": "30309999",
+        "originaltemafladeid": "6206",
+        "paataenkthandling": null,
+        "tematype": "Strandbeskyttelse",
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "RXGe6CyIlaACqVZNqEl+PYV/MJP/CXWnj8cL2Yhc8L6qD4qr0E7gCx4xnX2TTwEyKNEEQNJMr3hZtudM0bQKlw",
+        "septima_serial": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.824161291,
+            56.862832885,
+            0
+          ],
+          [
+            8.82420837,
+            56.862792758,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "39145418",
+        "lokalid": "45595977",
+        "registreringfra": "2018-06-03T06:57:47.228000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2008-05-27T08:37:26.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20230291",
+        "forloeb": "Skal følge skel",
+        "status": "Gældende",
+        "matrikelskellokalid": "38795399",
+        "originaltemafladeid": "6208",
+        "paataenkthandling": null,
+        "tematype": "Strandbeskyttelse",
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "HFHzI4441fBUK/ayuc58x02f2ueqtpV8TAM8k/qvVVnhJd9uzbEXt+0CjWOxzI+epZC9Je4f0FnJkjxex8eYlw",
+        "septima_serial": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.82420837,
+            56.862792758,
+            0
+          ],
+          [
+            8.824457094,
+            56.862813914,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "39145419",
+        "lokalid": "45595978",
+        "registreringfra": "2018-06-03T06:57:47.228000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2008-05-27T08:37:26.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20230291",
+        "forloeb": "Skal ikke følge skelbillede",
+        "status": "Gældende",
+        "matrikelskellokalid": null,
+        "originaltemafladeid": "6208",
+        "paataenkthandling": null,
+        "tematype": "Strandbeskyttelse",
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "2aLLc6avq7BOVI+pU9hoDloiZEXyIjR/V/JbNuJgDRbpqMBgrGfu5NLAMdOqg2HDManuuTb0Lg841486GezbWw",
+        "septima_serial": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.82544824,
+            56.862654485,
+            0
+          ],
+          [
+            8.825885592,
+            56.862562869,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "39145421",
+        "lokalid": "45595980",
+        "registreringfra": "2018-06-03T06:57:47.230000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2008-05-27T08:37:26.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20230291",
+        "forloeb": "Skal følge skel",
+        "status": "Gældende",
+        "matrikelskellokalid": "36034533",
+        "originaltemafladeid": "6208",
+        "paataenkthandling": null,
+        "tematype": "Strandbeskyttelse",
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "eM0n0Hn8iaMAyV3FCCn1QOA/IJmY4dH0txOakBKjc0+kq3ztrgg9RJBw0qFhULVd96PXikMKj5VuaPMNddeSCA",
+        "septima_serial": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.825885592,
+            56.862562869,
+            0
+          ],
+          [
+            8.826081411,
+            56.862508422,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "39145422",
+        "lokalid": "45595981",
+        "registreringfra": "2018-06-03T06:57:47.232000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2008-05-27T08:37:26.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20230291",
+        "forloeb": "Skal følge skel",
+        "status": "Gældende",
+        "matrikelskellokalid": "36034531",
+        "originaltemafladeid": "6208",
+        "paataenkthandling": null,
+        "tematype": "Strandbeskyttelse",
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "EsyStoRzEHBEAQtYl21tpB4JJOM+Zf1lDtUPTobyLukS4sxdPBWx7Q+G/siwsGcYrmNfn+tZbWC8X9G2jeCMIg",
+        "septima_serial": "6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.826387739,
+            56.862422407,
+            0
+          ],
+          [
+            8.826838,
+            56.862318722,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "39145424",
+        "lokalid": "45595983",
+        "registreringfra": "2018-06-03T06:57:47.233000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2008-05-27T08:37:26.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20230291",
+        "forloeb": "Skal følge skel",
+        "status": "Gældende",
+        "matrikelskellokalid": "26808065",
+        "originaltemafladeid": "6208",
+        "paataenkthandling": null,
+        "tematype": "Strandbeskyttelse",
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "gf/ZVdwwMIp/MEPrPwa5tkHzl0+3soVknFKzs6Yg9vZHJiI2sBHTCJfRWP5SETfuteWW5eK2/x0TrPgkSJp+Dg",
+        "septima_serial": "7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.826838,
+            56.862318722,
+            0
+          ],
+          [
+            8.826836223,
+            56.862298587,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "39145425",
+        "lokalid": "45595984",
+        "registreringfra": "2018-06-03T06:57:47.234000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2008-05-27T08:37:26.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20230291",
+        "forloeb": "Skal følge skel",
+        "status": "Gældende",
+        "matrikelskellokalid": "26807702",
+        "originaltemafladeid": "6208",
+        "paataenkthandling": null,
+        "tematype": "Strandbeskyttelse",
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "aJ1X6dtpeMN3/RTdby9JJ2Cf3CW2keviy43ZdyuzGGEJXTzU+2vSgpMOXyEvVHbDgez2vLHBj9csIKptrXt5Wg",
+        "septima_serial": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.826836223,
+            56.862298587,
+            0
+          ],
+          [
+            8.827144986,
+            56.862057183,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "39145426",
+        "lokalid": "45595985",
+        "registreringfra": "2018-06-03T06:57:47.235000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2008-05-27T08:37:26.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20230291",
+        "forloeb": "Skal ikke følge skelbillede",
+        "status": "Gældende",
+        "matrikelskellokalid": null,
+        "originaltemafladeid": "6208",
+        "paataenkthandling": null,
+        "tematype": "Strandbeskyttelse",
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "x+iIbg0DU6mU+evxqTUlqYN4KupNKiWERDolr2gIS0N6zJPmRsUBdvOD4XbMBLC8cYgRXMBnV1sj4INe01f2sw",
+        "septima_serial": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.827576431,
+            56.861988748,
+            0
+          ],
+          [
+            8.827563074,
+            56.861722695,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "39145428",
+        "lokalid": "45595987",
+        "registreringfra": "2018-06-03T06:57:47.236000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2008-05-27T08:37:26.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20230291",
+        "forloeb": "Skal følge skel",
+        "status": "Gældende",
+        "matrikelskellokalid": "26808064",
+        "originaltemafladeid": "6208",
+        "paataenkthandling": null,
+        "tematype": "Strandbeskyttelse",
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "aiTJPRp0u3nggOPzU5qghviJySWJ8D47/byD5JAbUWxi1KqgG6NqZ818Ej2TDiqLJ20ATnIaFGBPqXTIMNXgpw",
+        "septima_serial": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.827563074,
+            56.861722695,
+            0
+          ],
+          [
+            8.827599345,
+            56.861581854,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id": "39145429",
+        "lokalid": "45595988",
+        "registreringfra": "2018-06-03T06:57:47.238000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2008-05-27T08:37:26.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "20230291",
+        "forloeb": "Skal ikke følge skelbillede",
+        "status": "Gældende",
+        "matrikelskellokalid": null,
+        "originaltemafladeid": "6208",
+        "paataenkthandling": null,
+        "tematype": "Strandbeskyttelse",
+        "id_namespace": "http://data.gov.dk/Matriklen/Temalinje",
+        "septima_hash86": "VkVsZnOnZopTouyEUelC27+mSBruZVJt1kYla9WOSeRYpyXxepYb5VbO334fesHKbUAkM9WJXXeeZtrdv6IPJg",
+        "septima_serial": "11"
+      }
+    }
+  ]
+}

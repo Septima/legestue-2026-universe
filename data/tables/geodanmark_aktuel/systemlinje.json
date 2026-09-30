@@ -1,0 +1,560 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.522028476,
+            55.759900756,
+            28.47
+          ],
+          [
+            12.521952573,
+            55.759798272,
+            28.7
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1213555007",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "GST",
+        "registreringfra": "2020-11-23T16:00:50.327Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2018-05-17T08:53:41.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Vejdirektoratet",
+        "vejmyndighedsystem": "Ukendt",
+        "cvfadmnr": "0",
+        "kommunekode": "0157",
+        "vejkode": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "2090402",
+        "septima_hash86": "cuimI3QskGJfcWn0EMzeNhYefioXcPxcVOVZ1E8S5CXgePv5kCUYin1Twp1XK7O2uSH1ibvWCvYACvYtXj01hw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.981084092,
+            56.142804073,
+            -999
+          ],
+          [
+            8.981337382,
+            56.142842567,
+            -999
+          ],
+          [
+            8.982040767,
+            56.142956957,
+            -999
+          ],
+          [
+            8.982609618,
+            56.143068089,
+            -999
+          ],
+          [
+            8.98277456,
+            56.143102973,
+            -999
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1100631533",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "657",
+        "registreringfra": "2017-02-06T15:00:49.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "657",
+        "virkningfra": "2017-02-06T15:00:49.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Uspecificeret",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Uspecificeret",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "vejmyndighedsystem": "Ukendt",
+        "cvfadmnr": "6579184",
+        "kommunekode": "0657",
+        "vejkode": "9184",
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "2090403",
+        "septima_hash86": "reUfCHlGfFxHf3jUVZGym7jvnldRJ7KPashgATHzGJZAlQ0goG/vmcK+3zTTiwwf0F2PuWUOdpaAkKDclK4ZLg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.847800819,
+            55.858020394,
+            -999
+          ],
+          [
+            9.847615545,
+            55.857919864,
+            -999
+          ],
+          [
+            9.84758117,
+            55.857889281,
+            -999
+          ],
+          [
+            9.847552888,
+            55.857852365,
+            -999
+          ],
+          [
+            9.847541961,
+            55.857805446,
+            -999
+          ],
+          [
+            9.847526451,
+            55.857665379,
+            -999
+          ],
+          [
+            9.84748613,
+            55.8572295,
+            -999
+          ],
+          [
+            9.847415981,
+            55.856494788,
+            -999
+          ],
+          [
+            9.847415154,
+            55.856456784,
+            -999
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1216095060",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Horsens kommune",
+        "registreringfra": "2021-07-01T13:37:31.284Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Horsens kommune",
+        "virkningfra": "2021-07-01T09:23:23.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "vejmyndighedsystem": "Kommune",
+        "cvfadmnr": null,
+        "kommunekode": "0615",
+        "vejkode": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "2090404",
+        "septima_hash86": "RqdhKlQ1SnhzVv3rugGDtfRokdDVKjHz6eqQC40jcQ8+uXhmDHy60meiOzRhIy+QUnJzNjirhlo7lhSNtOOeaA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.675931323,
+            54.927456175,
+            20
+          ],
+          [
+            9.675967929,
+            54.927638402,
+            -999
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1210812548",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ukendt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Maskinel fejlrettelse",
+        "registreringsaktoer": "SDFE",
+        "registreringfra": "2020-06-29T08:05:10.373Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2018-06-28T10:35:03.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Beregnet",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "vejmyndighedsystem": "Ukendt",
+        "cvfadmnr": null,
+        "kommunekode": "0540",
+        "vejkode": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "2090405",
+        "septima_hash86": "lxIoS8xR01t575+4V7P0gu86WptX4xbfEAKr/G7v9qgqGhuyLLB0YiKdrD0U9ZVkxy/M3vZdG5nvz73yYVf0VQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.522028476,
+            55.759900756,
+            28.47
+          ],
+          [
+            12.522094802,
+            55.759787538,
+            28.7
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1213555008",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "GST",
+        "registreringfra": "2020-11-23T16:00:50.327Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2018-05-17T08:53:41.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Vejdirektoratet",
+        "vejmyndighedsystem": "Ukendt",
+        "cvfadmnr": "0",
+        "kommunekode": "0157",
+        "vejkode": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "2090406",
+        "septima_hash86": "3x8RS1jw7v2ZmdtyqRSQKh6vrlIkcGTOGzR62EGcwjN15tVHGHu3ItzqVoJtXWF+K57EL1PSukGJDeC0rRHmAw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.489275944,
+            55.960288146,
+            6.59
+          ],
+          [
+            8.489558548,
+            55.960211236,
+            9.22
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1219403574",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Ringkøbing-skjern kommune",
+        "registreringfra": "2022-01-07T09:08:39.007Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2021-12-02T12:26:29.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "vejmyndighedsystem": "Ringkøbing-Skjern",
+        "cvfadmnr": null,
+        "kommunekode": "0760",
+        "vejkode": "1614",
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "2090407",
+        "septima_hash86": "q9DQV9y2VtxOf3HUayOsmjZ2egIRapXsU5bTWc2ZQnbCWuf6lD8a+E4NqnrZlyDhLa5ltgN1+5EMHgBCLmACuQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.766279223,
+            55.388474016,
+            -999
+          ],
+          [
+            11.766167173,
+            55.388343957,
+            -999
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1201322514",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ukendt",
+        "forretningshaendelse": "Ændret geometri",
+        "forretningsomraade": "1",
+        "forretningsproces": "Maskinel fejlrettelse",
+        "registreringsaktoer": "SDFE",
+        "registreringfra": "2019-01-22T14:57:48.171Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2018-06-28T10:35:02.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Beregnet",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "vejmyndighedsystem": "Ukendt",
+        "cvfadmnr": null,
+        "kommunekode": "0329",
+        "vejkode": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "2090408",
+        "septima_hash86": "241MSndxgZLjhh5E696skj4IAhW1bZNj17MS60e95Bax7IuysF2G1jRCp2BlljRLPJSaNy0WyBKiiPFMm/HAhA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.238760676,
+            56.2311524,
+            -999
+          ],
+          [
+            10.238577234,
+            56.231541598,
+            -999
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1114797348",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "SDFE",
+        "registreringfra": "2018-12-18T11:45:33.993Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2018-05-16T10:52:23.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Beregnet",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Uspecificeret",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "vejmyndighedsystem": "Ukendt",
+        "cvfadmnr": "0",
+        "kommunekode": "0751",
+        "vejkode": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "2090410",
+        "septima_hash86": "OiF4bM4G8kFZSUXawxfH8zo2B1vigVs8aG5BdlMbSjEkXFxMj07zhFNm+GFYGGYa9Q3mk8w0PESfdMhF5uv04A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.239700604,
+            56.231255124,
+            -999
+          ],
+          [
+            10.239743707,
+            56.231321004,
+            -999
+          ],
+          [
+            10.239675373,
+            56.231577773,
+            -999
+          ],
+          [
+            10.239658074,
+            56.231601578,
+            -999
+          ],
+          [
+            10.239615951,
+            56.231610986,
+            -999
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1114797349",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "SDFE",
+        "registreringfra": "2018-12-18T11:45:57.777Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2018-05-16T10:52:23.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Beregnet",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Uspecificeret",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "vejmyndighedsystem": "Ukendt",
+        "cvfadmnr": "0",
+        "kommunekode": "0751",
+        "vejkode": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "2090411",
+        "septima_hash86": "WzhzrLCroISlSHP6twofG03zb5TVXF+HgCBsn+ODtfuLkWVL+rEbFK+Q2dpV+jtVKkMBnwJBZAQmYtPbFP16rQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.2848614,
+            56.231572777,
+            -999
+          ],
+          [
+            10.284686276,
+            56.231386889,
+            -999
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1114797351",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "SDFE",
+        "registreringfra": "2018-12-18T11:47:40.163Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2018-05-16T10:52:23.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Beregnet",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Uspecificeret",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "vejmyndighedsystem": "Ukendt",
+        "cvfadmnr": "0",
+        "kommunekode": "0751",
+        "vejkode": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "2090412",
+        "septima_hash86": "5Jla2OyMkBuWfQO1lSt7WIqA9QRyjpBgrFrRmfFxBBAfC+PUwXbpWFWpd0SIznsn5+UYsY5hp7mME8LWF5R2xA"
+      }
+    }
+  ]
+}

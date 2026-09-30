@@ -1,0 +1,491 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.04399532,
+            54.993997972
+          ],
+          [
+            15.044004074,
+            54.993959044
+          ],
+          [
+            15.04418756,
+            54.993914052
+          ],
+          [
+            15.044463632,
+            54.993904688
+          ],
+          [
+            15.044525998,
+            54.993882833
+          ],
+          [
+            15.044466866,
+            54.99379543
+          ],
+          [
+            15.044436091,
+            54.993709458
+          ],
+          [
+            15.044394912,
+            54.993665809
+          ],
+          [
+            15.044382218,
+            54.993608755
+          ],
+          [
+            15.044467287,
+            54.993495515
+          ],
+          [
+            15.044503514,
+            54.993390292
+          ],
+          [
+            15.044578322,
+            54.993326651
+          ],
+          [
+            15.044691689,
+            54.993286712
+          ],
+          [
+            15.044712297,
+            54.993272593
+          ],
+          [
+            15.044745979,
+            54.993198461
+          ],
+          [
+            15.044769239,
+            54.993140047
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2014,
+        "temanavn": "Beskyttede vandløb",
+        "objekt_id": "8f63cb91-5374-11e2-9c73-00155d01e765",
+        "version_id": "1303d04e-c593-4a07-9eaa-5f092da897ef",
+        "systid_fra": "2006/12/31",
+        "systid_til": null,
+        "oprettet": "2006/12/31",
+        "oprindkode": 0,
+        "oprindelse": "Ikke udfyldt",
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "26696348",
+        "cvr_navn": "Bornholms Regionskommune",
+        "bruger_id": "00000000-0000-0000-0000-000000000000",
+        "link": null,
+        "draftstatu": null,
+        "listtoappr": null,
+        "aendr_kode": 0,
+        "aendrbegr": "Ikke udfyldt",
+        "septima_hash86": "OeZ3ellj+UiwEvX6VpIy9+SQm1EJWA5FOD3cw66pURNL/Ey3FfTl4D6VIVyrD6CMXAlPTZZ+s1nkm0z1YvcQkg",
+        "septima_serial": "2680873"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.038222889,
+            54.994577394
+          ],
+          [
+            15.038099532,
+            54.994698461
+          ],
+          [
+            15.037986813,
+            54.994764175
+          ],
+          [
+            15.037580066,
+            54.994818667
+          ],
+          [
+            15.037460089,
+            54.99483497
+          ],
+          [
+            15.037361138,
+            54.994873275
+          ],
+          [
+            15.037324705,
+            54.99492551
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2014,
+        "temanavn": "Beskyttede vandløb",
+        "objekt_id": "8f63cb93-5374-11e2-a135-00155d01e765",
+        "version_id": "55871e8a-3edb-4f3f-9a32-7a0d741e5756",
+        "systid_fra": "2006/12/31",
+        "systid_til": null,
+        "oprettet": "2006/12/31",
+        "oprindkode": 0,
+        "oprindelse": "Ikke udfyldt",
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "26696348",
+        "cvr_navn": "Bornholms Regionskommune",
+        "bruger_id": "00000000-0000-0000-0000-000000000000",
+        "link": null,
+        "draftstatu": null,
+        "listtoappr": null,
+        "aendr_kode": 0,
+        "aendrbegr": "Ikke udfyldt",
+        "septima_hash86": "4yYVL+Nf+2gnbRLDxW8PvUxYVxs4gTV0lkd0m0m0V+Kvrw4HeUBi2vV07Cc/mZxMx1VW6IJdpgz4+E83ayB2yA",
+        "septima_serial": "2680875"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.932030943,
+            55.015588429
+          ],
+          [
+            14.932162556,
+            55.015654132
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2014,
+        "temanavn": "Beskyttede vandløb",
+        "objekt_id": "8f63cb95-5374-11e2-8d60-00155d01e765",
+        "version_id": "4678c89f-61ae-4899-9759-becbc14c5e05",
+        "systid_fra": "2006/12/31",
+        "systid_til": null,
+        "oprettet": "2006/12/31",
+        "oprindkode": 0,
+        "oprindelse": "Ikke udfyldt",
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "26696348",
+        "cvr_navn": "Bornholms Regionskommune",
+        "bruger_id": "00000000-0000-0000-0000-000000000000",
+        "link": null,
+        "draftstatu": null,
+        "listtoappr": null,
+        "aendr_kode": 0,
+        "aendrbegr": "Ikke udfyldt",
+        "septima_hash86": "hgI6TbZQwT/E5C/++4aP67Bct6OG0ynhE/B7RzTcXWHQWf/nAeeuOXInGNmL2wlyjk6JWIK9OoC2xF7iVadJhA",
+        "septima_serial": "2680877"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.729857948,
+            55.075088686
+          ],
+          [
+            14.729701291,
+            55.075107387
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2014,
+        "temanavn": "Beskyttede vandløb",
+        "objekt_id": "8f63cb98-5374-11e2-baf5-00155d01e765",
+        "version_id": "5da319fb-95ef-4969-91ab-da0d1fab9496",
+        "systid_fra": "2006/12/31",
+        "systid_til": null,
+        "oprettet": "2006/12/31",
+        "oprindkode": 0,
+        "oprindelse": "Ikke udfyldt",
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "26696348",
+        "cvr_navn": "Bornholms Regionskommune",
+        "bruger_id": "00000000-0000-0000-0000-000000000000",
+        "link": null,
+        "draftstatu": null,
+        "listtoappr": null,
+        "aendr_kode": 0,
+        "aendrbegr": "Ikke udfyldt",
+        "septima_hash86": "rBW/GMBr7UiI5mD0Kkrxj6WT+3vz9I8igTZYzG1yuzifKTNZ+TE4RByO2mVSHc+Zb2QZ8bQb1SGNiSxLmwEkZg",
+        "septima_serial": "2680880"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.040784018,
+            55.977038011
+          ],
+          [
+            12.04062173,
+            55.97698691
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2014,
+        "temanavn": "Beskyttede vandløb",
+        "objekt_id": "b320f712-5374-11e2-8761-00155d01e765",
+        "version_id": "f210798e-9a19-481d-b142-788e808fe84e",
+        "systid_fra": "2006/12/31",
+        "systid_til": null,
+        "oprettet": "2006/12/31",
+        "oprindkode": 0,
+        "oprindelse": "Ikke udfyldt",
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "29188416",
+        "cvr_navn": "Halsnæs kommune",
+        "bruger_id": "00000000-0000-0000-0000-000000000000",
+        "link": null,
+        "draftstatu": null,
+        "listtoappr": null,
+        "aendr_kode": 0,
+        "aendrbegr": "Ikke udfyldt",
+        "septima_hash86": "/ixfNtu8C+xqWpOfnHmLVG18CIQ/vlLBaGPlNVt7qz6uItcWvvSiPse/Ep6lfxlkYopZULghw4kNG5lZ2Mz2dA",
+        "septima_serial": "2680891"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.700013344,
+            55.498314848
+          ],
+          [
+            9.700037287,
+            55.498315295
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2014,
+        "temanavn": "Beskyttede vandløb",
+        "objekt_id": "b320f716-5374-11e2-9a0a-00155d01e765",
+        "version_id": "c005c2dc-d374-4672-af51-1e92c0a178cf",
+        "systid_fra": "2006/12/31",
+        "systid_til": null,
+        "oprettet": "2006/12/31",
+        "oprindkode": 0,
+        "oprindelse": "Ikke udfyldt",
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "29189684",
+        "cvr_navn": "Middelfart kommune",
+        "bruger_id": "00000000-0000-0000-0000-000000000000",
+        "link": null,
+        "draftstatu": null,
+        "listtoappr": null,
+        "aendr_kode": 0,
+        "aendrbegr": "Ikke udfyldt",
+        "septima_hash86": "oVTbjITBwuKL7dyuZ2RWHSVgWUs85EAZbdmQ8p3ZNfyx3kyGKa8mN1JljM+JYT1SjrqHau900txNGaiF4Hlnkw",
+        "septima_serial": "2680894"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.730104595,
+            55.492048515
+          ],
+          [
+            9.730085554,
+            55.492039949
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2014,
+        "temanavn": "Beskyttede vandløb",
+        "objekt_id": "b320f717-5374-11e2-b876-00155d01e765",
+        "version_id": "33f0b1f6-9e70-413a-9168-83949c7d9cde",
+        "systid_fra": "2006/12/31",
+        "systid_til": null,
+        "oprettet": "2006/12/31",
+        "oprindkode": 0,
+        "oprindelse": "Ikke udfyldt",
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "29189684",
+        "cvr_navn": "Middelfart kommune",
+        "bruger_id": "00000000-0000-0000-0000-000000000000",
+        "link": null,
+        "draftstatu": null,
+        "listtoappr": null,
+        "aendr_kode": 0,
+        "aendrbegr": "Ikke udfyldt",
+        "septima_hash86": "g/EQfdpu7KYye1b7HYDnm9I0n01DzFJX/Lr73CsJGh4Ajdl1et4GA+UP4v30TDww9z0bjOUjeagAkPrl9Xns3w",
+        "septima_serial": "2680895"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.850923429,
+            55.537628812
+          ],
+          [
+            9.850772087,
+            55.537659005
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2014,
+        "temanavn": "Beskyttede vandløb",
+        "objekt_id": "b320f71d-5374-11e2-aaa5-00155d01e765",
+        "version_id": "9cc25cb8-af11-4aa7-bd20-fded67f3f69b",
+        "systid_fra": "2006/12/31",
+        "systid_til": null,
+        "oprettet": "2006/12/31",
+        "oprindkode": 0,
+        "oprindelse": "Ikke udfyldt",
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "29189684",
+        "cvr_navn": "Middelfart kommune",
+        "bruger_id": "00000000-0000-0000-0000-000000000000",
+        "link": null,
+        "draftstatu": null,
+        "listtoappr": null,
+        "aendr_kode": 0,
+        "aendrbegr": "Ikke udfyldt",
+        "septima_hash86": "S9w916rj3KEn2M6vh+OqG7hCdyMjk5WoDTbGwj4DhH4H9asv7ooFxywcBMREae3OjUEVZSCBMjkmf0nsapKgLQ",
+        "septima_serial": "2680901"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.897548976,
+            55.336723518
+          ],
+          [
+            9.897743621,
+            55.336649686
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2014,
+        "temanavn": "Beskyttede vandløb",
+        "objekt_id": "b320f71f-5374-11e2-917e-00155d01e765",
+        "version_id": "e4605e64-68c9-4804-bdd6-168d996f6a5a",
+        "systid_fra": "2006/12/31",
+        "systid_til": null,
+        "oprettet": "2006/12/31",
+        "oprindkode": 0,
+        "oprindelse": "Ikke udfyldt",
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "29189692",
+        "cvr_navn": "Assens kommune",
+        "bruger_id": "00000000-0000-0000-0000-000000000000",
+        "link": null,
+        "draftstatu": null,
+        "listtoappr": null,
+        "aendr_kode": 0,
+        "aendrbegr": "Ikke udfyldt",
+        "septima_hash86": "BVusy8MQ4ABMtgQtEQ7g3JV7vZ2J1m8C/hpuOpsivkoTKoyFfVcqWaK2+bLbouJjmb9E2N5qaByGDfDhHO+Yxg",
+        "septima_serial": "2680903"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.10654883,
+            55.190075136
+          ],
+          [
+            10.106286337,
+            55.190214142
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2014,
+        "temanavn": "Beskyttede vandløb",
+        "objekt_id": "8f63cba3-5374-11e2-8390-00155d01e765",
+        "version_id": "7fe52271-7005-45be-ab85-0a09b0e61b5b",
+        "systid_fra": "2006/12/31",
+        "systid_til": null,
+        "oprettet": "2006/12/31",
+        "oprindkode": 0,
+        "oprindelse": "Ikke udfyldt",
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "29189692",
+        "cvr_navn": "Assens kommune",
+        "bruger_id": "00000000-0000-0000-0000-000000000000",
+        "link": null,
+        "draftstatu": null,
+        "listtoappr": null,
+        "aendr_kode": 0,
+        "aendrbegr": "Ikke udfyldt",
+        "septima_hash86": "0A/EbBa3ImvlsMzajNKOlRBXQ/hUUxNaQPUbAMArQZLwIoj4t/6L15QAy91tTC/XayqzsKw9dY6BIXTL66wsHQ",
+        "septima_serial": "2680908"
+      }
+    }
+  ]
+}

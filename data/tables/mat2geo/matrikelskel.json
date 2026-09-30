@@ -1,0 +1,465 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.498365947,
+            56.810580531,
+            0
+          ],
+          [
+            9.498366046,
+            56.810576865,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100185684",
+        "forretningsproces": "Matrikulær sag",
+        "id": "29886458",
+        "registreringfra": "2022-04-28T15:20:02.815000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2022-04-28T15:20:02.815000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "administrativgraensekode": "Ingen administrativ grænse",
+        "hoejrejordstykkelokalid": "100491936",
+        "oprindelsessagslokalid": "100185684",
+        "skelpunktlokalid_1": "100076029",
+        "skelpunktlokalid_2": "100076030",
+        "venstrejordstykkelokalid": "2076410",
+        "oprindelsejournalnummer": "U2022-54764",
+        "produktionsmetode": "Indlagt med koordinaterne fra en skelmåling - MI",
+        "skeltype": "VejogGade",
+        "transformationsid": null,
+        "skelforretningssagslokalid": null,
+        "lokalid": "100103882",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Matrikelskel",
+        "septima_hash86": "qI/hF9SovIUzVi4EfEyKoaENpw4ktEhSB3htPFVnWfMRDcBZgtOaVPQ6nvR3DrO+XJwuAVu2iGYeHnI4CDiTig",
+        "septima_serial": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.498013797,
+            56.810573635,
+            0
+          ],
+          [
+            9.497899199,
+            56.810572583,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100185684",
+        "forretningsproces": "Matrikulær sag",
+        "id": "29886476",
+        "registreringfra": "2022-04-28T15:20:02.815000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2022-04-28T15:20:02.815000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "administrativgraensekode": "Ingen administrativ grænse",
+        "hoejrejordstykkelokalid": "100375094",
+        "oprindelsessagslokalid": "100185684",
+        "skelpunktlokalid_1": "103877749",
+        "skelpunktlokalid_2": "103877752",
+        "venstrejordstykkelokalid": "2076410",
+        "oprindelsejournalnummer": "U2022-54764",
+        "produktionsmetode": "Indlagt med koordinaterne fra en skelmåling - MI",
+        "skeltype": "VejogGade",
+        "transformationsid": null,
+        "skelforretningssagslokalid": null,
+        "lokalid": "104888155",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Matrikelskel",
+        "septima_hash86": "KMOb39Q8ml9rtr+K0U63RwL1zJR0EvvbFuEslXDdUnyaJsektvkZh5sWHyR5H7tsYvD34e1trPOBCu/sdodfJw",
+        "septima_serial": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.497899199,
+            56.810572583,
+            0
+          ],
+          [
+            9.497891709,
+            56.810842777,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100185684",
+        "forretningsproces": "Matrikulær sag",
+        "id": "29886450",
+        "registreringfra": "2022-04-28T15:20:02.815000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2022-04-28T15:20:02.815000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "administrativgraensekode": "Ingen administrativ grænse",
+        "hoejrejordstykkelokalid": "100375094",
+        "oprindelsessagslokalid": "100185684",
+        "skelpunktlokalid_1": "103877752",
+        "skelpunktlokalid_2": "103877753",
+        "venstrejordstykkelokalid": "100491935",
+        "oprindelsejournalnummer": "U2022-54764",
+        "produktionsmetode": "Indlagt med koordinaterne fra en skelmåling - MI",
+        "skeltype": "Almindeligt",
+        "transformationsid": null,
+        "skelforretningssagslokalid": null,
+        "lokalid": "104888162",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Matrikelskel",
+        "septima_hash86": "iqhyQ2wYwW9Q8myNx6/RmXQvnSo2sL3eVpU9OaSlX3LFRJbrjafFC59irxkygh2Lj33iEya9KB4FEcXGSa79Jw",
+        "septima_serial": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.497899199,
+            56.810572583,
+            0
+          ],
+          [
+            9.49782488,
+            56.8105719,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100185684",
+        "forretningsproces": "Matrikulær sag",
+        "id": "29886452",
+        "registreringfra": "2022-04-28T15:20:02.815000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2022-04-28T15:20:02.815000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "administrativgraensekode": "Ingen administrativ grænse",
+        "hoejrejordstykkelokalid": "100491935",
+        "oprindelsessagslokalid": "100185684",
+        "skelpunktlokalid_1": "103877752",
+        "skelpunktlokalid_2": "103026226",
+        "venstrejordstykkelokalid": "2076410",
+        "oprindelsejournalnummer": "U2022-54764",
+        "produktionsmetode": "Indlagt med koordinaterne fra en skelmåling - MI",
+        "skeltype": "VejogGade",
+        "transformationsid": null,
+        "skelforretningssagslokalid": null,
+        "lokalid": "104888156",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Matrikelskel",
+        "septima_hash86": "T+r3VjAiA4lpIG+HuK27gkFnTtDx5acuixLvtVDANpup03SqaT4cKoYB64rtA3cWYW5G10nP52RL8xM3XoS/Ng",
+        "septima_serial": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.497793615,
+            56.81169892,
+            0
+          ],
+          [
+            9.497802891,
+            56.811364458,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100185684",
+        "forretningsproces": "Matrikulær sag",
+        "id": "29886437",
+        "registreringfra": "2022-04-28T15:20:02.815000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2022-04-28T15:20:02.815000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "administrativgraensekode": "Ingen administrativ grænse",
+        "hoejrejordstykkelokalid": "100057193",
+        "oprindelsessagslokalid": "100185684",
+        "skelpunktlokalid_1": "103026224",
+        "skelpunktlokalid_2": "103877746",
+        "venstrejordstykkelokalid": "100491934",
+        "oprindelsejournalnummer": "U2022-54764",
+        "produktionsmetode": "Indlagt med koordinaterne fra en skelmåling - MI",
+        "skeltype": "Almindeligt",
+        "transformationsid": null,
+        "skelforretningssagslokalid": null,
+        "lokalid": "104888151",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Matrikelskel",
+        "septima_hash86": "EC4BGPyr/j5x/Zt8GlRbYybrCdh6UNx1FWI/6a16OcPqVBEpjHxax/PfCXo+azi97XXgNSiw7U+HoKW3RViWMw",
+        "septima_serial": "6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.497802891,
+            56.811364458,
+            0
+          ],
+          [
+            9.498343311,
+            56.811369111,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100185684",
+        "forretningsproces": "Matrikulær sag",
+        "id": "29886439",
+        "registreringfra": "2022-04-28T15:20:02.815000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2022-04-28T15:20:02.815000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "administrativgraensekode": "Ingen administrativ grænse",
+        "hoejrejordstykkelokalid": "100375094",
+        "oprindelsessagslokalid": "100185684",
+        "skelpunktlokalid_1": "103877746",
+        "skelpunktlokalid_2": "103877747",
+        "venstrejordstykkelokalid": "100491934",
+        "oprindelsejournalnummer": "U2022-54764",
+        "produktionsmetode": "Indlagt med koordinaterne fra en skelmåling - MI",
+        "skeltype": "Almindeligt",
+        "transformationsid": null,
+        "skelforretningssagslokalid": null,
+        "lokalid": "104888157",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Matrikelskel",
+        "septima_hash86": "xQh1nAvPVzSVRY94bf/m1PdvL1sszZun2NCB+lG7/ab0jfPkJ1CClfmq0RNxqJVk5nXjQ8PFI8WWLWeb44Uz1Q",
+        "septima_serial": "7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.497793615,
+            56.81169892,
+            0
+          ],
+          [
+            9.498333733,
+            56.811703871,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100185684",
+        "forretningsproces": "Matrikulær sag",
+        "id": "29886442",
+        "registreringfra": "2022-04-28T15:20:02.815000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2022-04-28T15:20:02.815000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "administrativgraensekode": "Ingen administrativ grænse",
+        "hoejrejordstykkelokalid": "100491934",
+        "oprindelsessagslokalid": "100185684",
+        "skelpunktlokalid_1": "103026224",
+        "skelpunktlokalid_2": "103026225",
+        "venstrejordstykkelokalid": "2296411",
+        "oprindelsejournalnummer": "U2022-54764",
+        "produktionsmetode": "Indlagt med koordinaterne fra en skelmåling - MI",
+        "skeltype": "Almindeligt",
+        "transformationsid": null,
+        "skelforretningssagslokalid": null,
+        "lokalid": "103816555",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Matrikelskel",
+        "septima_hash86": "F58+pggaENeEk1jwXB2qzw+B8N8ciN+gh7iHo+pRLZNfkig7T3HhL/FIuLerRP3587tc55SCO/NaOpjIVKueXA",
+        "septima_serial": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.498333733,
+            56.811703871,
+            0
+          ],
+          [
+            9.498343311,
+            56.811369111,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100185684",
+        "forretningsproces": "Matrikulær sag",
+        "id": "29886444",
+        "registreringfra": "2022-04-28T15:20:02.815000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2022-04-28T15:20:02.815000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "administrativgraensekode": "Ingen administrativ grænse",
+        "hoejrejordstykkelokalid": "100491934",
+        "oprindelsessagslokalid": "100185684",
+        "skelpunktlokalid_1": "103026225",
+        "skelpunktlokalid_2": "103877747",
+        "venstrejordstykkelokalid": "2296411",
+        "oprindelsejournalnummer": "U2022-54764",
+        "produktionsmetode": "Indlagt med koordinaterne fra en skelmåling - MI",
+        "skeltype": "Almindeligt",
+        "transformationsid": null,
+        "skelforretningssagslokalid": null,
+        "lokalid": "104888148",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Matrikelskel",
+        "septima_hash86": "4TP94Gpi0SJ7PfQ7owrq7f+BptwsmZpbuVx+3n9N1te9DqgnpvT5+wg6XZqR4Sa5VuXaluHX/livbjs1xKYhrQ",
+        "septima_serial": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.497817374,
+            56.810842166,
+            0
+          ],
+          [
+            9.49782488,
+            56.8105719,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100185684",
+        "forretningsproces": "Matrikulær sag",
+        "id": "29886446",
+        "registreringfra": "2022-04-28T15:20:02.815000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2022-04-28T15:20:02.815000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "administrativgraensekode": "Ingen administrativ grænse",
+        "hoejrejordstykkelokalid": "100057193",
+        "oprindelsessagslokalid": "100185684",
+        "skelpunktlokalid_1": "103877745",
+        "skelpunktlokalid_2": "103026226",
+        "venstrejordstykkelokalid": "100491935",
+        "oprindelsejournalnummer": "U2022-54764",
+        "produktionsmetode": "Indlagt med koordinaterne fra en skelmåling - MI",
+        "skeltype": "Almindeligt",
+        "transformationsid": null,
+        "skelforretningssagslokalid": null,
+        "lokalid": "104888153",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Matrikelskel",
+        "septima_hash86": "sXDhjgBqRF5HoLSq3H7c0XEJ40HRrRpboKxRHLxwcGYr9azILkQMvGfNgOnfurF2wE6DD9OM8XY2fbKNuviUnA",
+        "septima_serial": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.569503672,
+            55.710254553,
+            0
+          ],
+          [
+            12.569504551,
+            55.710243944,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100156811",
+        "forretningsproces": "Matrikulær sag",
+        "id": "29787113",
+        "registreringfra": "2022-04-04T14:50:02.427000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2022-04-04T14:50:02.427000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "administrativgraensekode": "Ingen administrativ grænse",
+        "hoejrejordstykkelokalid": "10426209",
+        "oprindelsessagslokalid": null,
+        "skelpunktlokalid_1": "90206271",
+        "skelpunktlokalid_2": "90206272",
+        "venstrejordstykkelokalid": "100065936",
+        "oprindelsejournalnummer": "UK",
+        "produktionsmetode": "Ukendt - UK",
+        "skeltype": "VejogGade",
+        "transformationsid": null,
+        "skelforretningssagslokalid": null,
+        "lokalid": "90258517",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Matrikelskel",
+        "septima_hash86": "OkoY3RiUcT0dxaeoxrgblHb9FQnFGpWG5Ba7Pk5/2j3oouoLUIW3ClgvMLof7iseHZuVWv6h9ZoSJj7IOzEddg",
+        "septima_serial": "11"
+      }
+    }
+  ]
+}

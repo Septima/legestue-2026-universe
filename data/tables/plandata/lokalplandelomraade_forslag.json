@@ -1,0 +1,3053 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.506493852,
+                56.186583995
+              ],
+              [
+                9.506496863,
+                56.186583382
+              ],
+              [
+                9.508553892,
+                56.186171049
+              ],
+              [
+                9.508483007,
+                56.186137205
+              ],
+              [
+                9.508097704,
+                56.18593292
+              ],
+              [
+                9.508084034,
+                56.185934795
+              ],
+              [
+                9.508070364,
+                56.185936671
+              ],
+              [
+                9.507908193,
+                56.185847022
+              ],
+              [
+                9.507325176,
+                56.185521856
+              ],
+              [
+                9.50732715,
+                56.185490715
+              ],
+              [
+                9.507304075,
+                56.18547824
+              ],
+              [
+                9.507153142,
+                56.185660146
+              ],
+              [
+                9.507257035,
+                56.18580354
+              ],
+              [
+                9.507199453,
+                56.185891494
+              ],
+              [
+                9.507168703,
+                56.185914029
+              ],
+              [
+                9.506847783,
+                56.185978121
+              ],
+              [
+                9.506605821,
+                56.18599294
+              ],
+              [
+                9.506621441,
+                56.186074288
+              ],
+              [
+                9.506493852,
+                56.186583995
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": null,
+        "id": 57963,
+        "planid": 2702882,
+        "lokplan_id": 2702878,
+        "delnr": "V",
+        "objektkode": 30,
+        "plantype": 30.1,
+        "komnr": 740,
+        "lp_plannr": "12-006",
+        "lp_plannavn": "Centerområde ved Østre Bordingvej og Nordre Højmarksvej",
+        "anvgen": 41,
+        "zone": 1,
+        "datoforsl": 20131028,
+        "datovedt": null,
+        "datoaflyst": null,
+        "datoikraft": null,
+        "datostart": 20131105,
+        "datoslut": 20140102,
+        "saflysdato": null,
+        "datoattr": null,
+        "datogeom": null,
+        "bebygpct": 40,
+        "bebygpctaf": 2,
+        "bebygpctar": null,
+        "m3_m2": null,
+        "maxetager": 2,
+        "maxbygnhjd": 8.5,
+        "minmiljo": null,
+        "maxmiljo": null,
+        "bevarbest": null,
+        "bebyggrad": null,
+        "mingrund": null,
+        "dataprod": null,
+        "digigrundl": null,
+        "digigrundd": null,
+        "datooprt": "2013-11-05T13:37:40.503Z",
+        "datoopdt": "2013-11-05T13:45:42.422Z",
+        "planstatus": null,
+        "anvendelsegenerel": "Centerområde",
+        "kommunenavn": "Silkeborg",
+        "zonestatus": "Byzone",
+        "doklink": "https://dokument.plandata.dk/20_2702878_1383657013405.pdf",
+        "lp_distrikt": "12 Balle/ Hvinningdal",
+        "sforhold": null,
+        "minuds": null,
+        "eareal": null,
+        "earealh": null,
+        "m3_m2h": null,
+        "ianvreg": null,
+        "izonereg": null,
+        "iomfangreg": null,
+        "iudstykreg": null,
+        "kompleks": null,
+        "kbeskriv": null,
+        "vindbeskriv": null,
+        "byggefelttype": null,
+        "udstykforbud": null,
+        "sforaktuel": false,
+        "anvspec1": 4120,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "eareal1": null,
+        "earealh1": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "bygpctar1": null,
+        "minuds1": null,
+        "udstykfb1": null,
+        "anvspec2": null,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "eareal2": null,
+        "earealh2": null,
+        "m3_m22": null,
+        "m3_m2h2": null,
+        "maxbhjd2": null,
+        "maxetage2": null,
+        "bygpctar2": null,
+        "minuds2": null,
+        "udstykfb2": null,
+        "anvspec3": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "eareal3": null,
+        "earealh3": null,
+        "m3_m23": null,
+        "m3_m2h3": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "bygpctar3": null,
+        "minuds3": null,
+        "udstykfb3": null,
+        "anvspec4": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "eareal4": null,
+        "earealh4": null,
+        "m3_m24": null,
+        "m3_m2h4": null,
+        "maxbhjd4": null,
+        "maxetage4": null,
+        "bygpctar4": null,
+        "minuds4": null,
+        "udstykfb4": null,
+        "anvspec5": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "eareal5": null,
+        "earealh5": null,
+        "m3_m25": null,
+        "m3_m2h5": null,
+        "maxbhjd5": null,
+        "maxetage5": null,
+        "bygpctar5": null,
+        "minuds5": null,
+        "udstykfb5": null,
+        "anvspec6": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m26": null,
+        "m3_m2h6": null,
+        "maxbhjd6": null,
+        "maxetage6": null,
+        "bygpctar6": null,
+        "minuds6": null,
+        "udstykfb6": null,
+        "anvspec7": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "eareal7": null,
+        "earealh7": null,
+        "m3_m27": null,
+        "m3_m2h7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "bygpctar7": null,
+        "minuds7": null,
+        "udstykfb7": null,
+        "anvspec8": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "eareal8": null,
+        "earealh8": null,
+        "m3_m28": null,
+        "m3_m2h8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "bygpctar8": null,
+        "minuds8": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "eareal9": null,
+        "earealh9": null,
+        "m3_m29": null,
+        "m3_m2h9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "bygpctar9": null,
+        "minuds9": null,
+        "udstykfb9": null,
+        "anvspec10": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "eareal10": null,
+        "earealh10": null,
+        "m3_m210": null,
+        "m3_m2h10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "bygpctar10": null,
+        "minuds10": null,
+        "udstykfb10": null,
+        "abestem1": null,
+        "abestem2": null,
+        "abestem3": null,
+        "septima_transaktion_id": "145154910",
+        "septima_hash86": "RRzJg9DYULj/ILfaNk4LpVlpGE0eWkxkqwKo8udnXFb2/tPbJmh9cuIt/kvhz3mQ11xvB8RRviDNdGMr7nUbCQ",
+        "septima_serial": "1160430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.535179383,
+                55.703228539
+              ],
+              [
+                12.535315937,
+                55.703207888
+              ],
+              [
+                12.535217851,
+                55.702935715
+              ],
+              [
+                12.535067301,
+                55.702717628
+              ],
+              [
+                12.534543695,
+                55.702831553
+              ],
+              [
+                12.534471818,
+                55.702847579
+              ],
+              [
+                12.534313267,
+                55.702881721
+              ],
+              [
+                12.534208338,
+                55.702904319
+              ],
+              [
+                12.534137853,
+                55.703050135
+              ],
+              [
+                12.534754999,
+                55.703144883
+              ],
+              [
+                12.534742255,
+                55.703125432
+              ],
+              [
+                12.535182338,
+                55.703196228
+              ],
+              [
+                12.535179383,
+                55.703228539
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": null,
+        "id": 775522,
+        "planid": 10073793,
+        "lokplan_id": 10050457,
+        "delnr": "DEL I",
+        "objektkode": 30,
+        "plantype": 30.1,
+        "komnr": 101,
+        "lp_plannr": "10050457",
+        "lp_plannavn": "Drejervej",
+        "anvgen": null,
+        "zone": null,
+        "datoforsl": 20200624,
+        "datovedt": null,
+        "datoaflyst": null,
+        "datoikraft": null,
+        "datostart": 20200629,
+        "datoslut": 20200928,
+        "saflysdato": null,
+        "datoattr": 20200629,
+        "datogeom": 20200626,
+        "bebygpct": null,
+        "bebygpctaf": null,
+        "bebygpctar": null,
+        "m3_m2": null,
+        "maxetager": null,
+        "maxbygnhjd": null,
+        "minmiljo": null,
+        "maxmiljo": null,
+        "bevarbest": null,
+        "bebyggrad": null,
+        "mingrund": null,
+        "dataprod": null,
+        "digigrundl": null,
+        "digigrundd": null,
+        "datooprt": "2020-06-18T21:01:47.938Z",
+        "datoopdt": "2020-06-29T12:21:39.880Z",
+        "planstatus": null,
+        "anvendelsegenerel": null,
+        "kommunenavn": "København",
+        "zonestatus": null,
+        "doklink": "https://dokument.plandata.dk/20_10050457_1593433024602.pdf",
+        "lp_distrikt": null,
+        "sforhold": null,
+        "minuds": null,
+        "eareal": null,
+        "earealh": null,
+        "m3_m2h": null,
+        "ianvreg": true,
+        "izonereg": true,
+        "iomfangreg": true,
+        "iudstykreg": true,
+        "kompleks": false,
+        "kbeskriv": null,
+        "vindbeskriv": null,
+        "byggefelttype": null,
+        "udstykforbud": null,
+        "sforaktuel": false,
+        "anvspec1": null,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "eareal1": null,
+        "earealh1": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "bygpctar1": null,
+        "minuds1": null,
+        "udstykfb1": null,
+        "anvspec2": null,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "eareal2": null,
+        "earealh2": null,
+        "m3_m22": null,
+        "m3_m2h2": null,
+        "maxbhjd2": null,
+        "maxetage2": null,
+        "bygpctar2": null,
+        "minuds2": null,
+        "udstykfb2": null,
+        "anvspec3": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "eareal3": null,
+        "earealh3": null,
+        "m3_m23": null,
+        "m3_m2h3": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "bygpctar3": null,
+        "minuds3": null,
+        "udstykfb3": null,
+        "anvspec4": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "eareal4": null,
+        "earealh4": null,
+        "m3_m24": null,
+        "m3_m2h4": null,
+        "maxbhjd4": null,
+        "maxetage4": null,
+        "bygpctar4": null,
+        "minuds4": null,
+        "udstykfb4": null,
+        "anvspec5": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "eareal5": null,
+        "earealh5": null,
+        "m3_m25": null,
+        "m3_m2h5": null,
+        "maxbhjd5": null,
+        "maxetage5": null,
+        "bygpctar5": null,
+        "minuds5": null,
+        "udstykfb5": null,
+        "anvspec6": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m26": null,
+        "m3_m2h6": null,
+        "maxbhjd6": null,
+        "maxetage6": null,
+        "bygpctar6": null,
+        "minuds6": null,
+        "udstykfb6": null,
+        "anvspec7": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "eareal7": null,
+        "earealh7": null,
+        "m3_m27": null,
+        "m3_m2h7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "bygpctar7": null,
+        "minuds7": null,
+        "udstykfb7": null,
+        "anvspec8": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "eareal8": null,
+        "earealh8": null,
+        "m3_m28": null,
+        "m3_m2h8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "bygpctar8": null,
+        "minuds8": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "eareal9": null,
+        "earealh9": null,
+        "m3_m29": null,
+        "m3_m2h9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "bygpctar9": null,
+        "minuds9": null,
+        "udstykfb9": null,
+        "anvspec10": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "eareal10": null,
+        "earealh10": null,
+        "m3_m210": null,
+        "m3_m2h10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "bygpctar10": null,
+        "minuds10": null,
+        "udstykfb10": null,
+        "abestem1": null,
+        "abestem2": null,
+        "abestem3": null,
+        "septima_transaktion_id": "145154910",
+        "septima_hash86": "dudD7+Md3JF6bQ0UK79hflXxUoKoeRehNXGuv6yXLuz65LGX6Fm3CTdY7B2X+0pCc04Quy/R2YcFtlCN7Ur2aQ",
+        "septima_serial": "1160467"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.537288102,
+                55.702265958
+              ],
+              [
+                12.537024432,
+                55.702300266
+              ],
+              [
+                12.53663848,
+                55.702350482
+              ],
+              [
+                12.536636717,
+                55.702376069
+              ],
+              [
+                12.536614288,
+                55.702635189
+              ],
+              [
+                12.536654323,
+                55.70263648
+              ],
+              [
+                12.536652113,
+                55.702660282
+              ],
+              [
+                12.536651657,
+                55.702671274
+              ],
+              [
+                12.536648209,
+                55.702702871
+              ],
+              [
+                12.536608519,
+                55.702701714
+              ],
+              [
+                12.536585135,
+                55.702958901
+              ],
+              [
+                12.53696848,
+                55.702973816
+              ],
+              [
+                12.536989681,
+                55.702715226
+              ],
+              [
+                12.536992752,
+                55.702682623
+              ],
+              [
+                12.536995935,
+                55.702637169
+              ],
+              [
+                12.537258019,
+                55.702645347
+              ],
+              [
+                12.537411379,
+                55.702636077
+              ],
+              [
+                12.537365398,
+                55.702387867
+              ],
+              [
+                12.537356189,
+                55.702338688
+              ],
+              [
+                12.537341279,
+                55.702259029
+              ],
+              [
+                12.537288102,
+                55.702265958
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": null,
+        "id": 775523,
+        "planid": 10073795,
+        "lokplan_id": 10050457,
+        "delnr": "DEL III",
+        "objektkode": 30,
+        "plantype": 30.1,
+        "komnr": 101,
+        "lp_plannr": "10050457",
+        "lp_plannavn": "Drejervej",
+        "anvgen": null,
+        "zone": null,
+        "datoforsl": 20200624,
+        "datovedt": null,
+        "datoaflyst": null,
+        "datoikraft": null,
+        "datostart": 20200629,
+        "datoslut": 20200928,
+        "saflysdato": null,
+        "datoattr": 20200629,
+        "datogeom": 20200626,
+        "bebygpct": null,
+        "bebygpctaf": null,
+        "bebygpctar": null,
+        "m3_m2": null,
+        "maxetager": null,
+        "maxbygnhjd": null,
+        "minmiljo": null,
+        "maxmiljo": null,
+        "bevarbest": null,
+        "bebyggrad": null,
+        "mingrund": null,
+        "dataprod": null,
+        "digigrundl": null,
+        "digigrundd": null,
+        "datooprt": "2020-06-18T21:01:47.938Z",
+        "datoopdt": "2020-06-29T12:21:39.916Z",
+        "planstatus": null,
+        "anvendelsegenerel": null,
+        "kommunenavn": "København",
+        "zonestatus": null,
+        "doklink": "https://dokument.plandata.dk/20_10050457_1593433024602.pdf",
+        "lp_distrikt": null,
+        "sforhold": null,
+        "minuds": null,
+        "eareal": null,
+        "earealh": null,
+        "m3_m2h": null,
+        "ianvreg": true,
+        "izonereg": true,
+        "iomfangreg": true,
+        "iudstykreg": true,
+        "kompleks": false,
+        "kbeskriv": null,
+        "vindbeskriv": null,
+        "byggefelttype": null,
+        "udstykforbud": null,
+        "sforaktuel": false,
+        "anvspec1": null,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "eareal1": null,
+        "earealh1": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "bygpctar1": null,
+        "minuds1": null,
+        "udstykfb1": null,
+        "anvspec2": null,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "eareal2": null,
+        "earealh2": null,
+        "m3_m22": null,
+        "m3_m2h2": null,
+        "maxbhjd2": null,
+        "maxetage2": null,
+        "bygpctar2": null,
+        "minuds2": null,
+        "udstykfb2": null,
+        "anvspec3": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "eareal3": null,
+        "earealh3": null,
+        "m3_m23": null,
+        "m3_m2h3": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "bygpctar3": null,
+        "minuds3": null,
+        "udstykfb3": null,
+        "anvspec4": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "eareal4": null,
+        "earealh4": null,
+        "m3_m24": null,
+        "m3_m2h4": null,
+        "maxbhjd4": null,
+        "maxetage4": null,
+        "bygpctar4": null,
+        "minuds4": null,
+        "udstykfb4": null,
+        "anvspec5": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "eareal5": null,
+        "earealh5": null,
+        "m3_m25": null,
+        "m3_m2h5": null,
+        "maxbhjd5": null,
+        "maxetage5": null,
+        "bygpctar5": null,
+        "minuds5": null,
+        "udstykfb5": null,
+        "anvspec6": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m26": null,
+        "m3_m2h6": null,
+        "maxbhjd6": null,
+        "maxetage6": null,
+        "bygpctar6": null,
+        "minuds6": null,
+        "udstykfb6": null,
+        "anvspec7": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "eareal7": null,
+        "earealh7": null,
+        "m3_m27": null,
+        "m3_m2h7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "bygpctar7": null,
+        "minuds7": null,
+        "udstykfb7": null,
+        "anvspec8": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "eareal8": null,
+        "earealh8": null,
+        "m3_m28": null,
+        "m3_m2h8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "bygpctar8": null,
+        "minuds8": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "eareal9": null,
+        "earealh9": null,
+        "m3_m29": null,
+        "m3_m2h9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "bygpctar9": null,
+        "minuds9": null,
+        "udstykfb9": null,
+        "anvspec10": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "eareal10": null,
+        "earealh10": null,
+        "m3_m210": null,
+        "m3_m2h10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "bygpctar10": null,
+        "minuds10": null,
+        "udstykfb10": null,
+        "abestem1": null,
+        "abestem2": null,
+        "abestem3": null,
+        "septima_transaktion_id": "145154910",
+        "septima_hash86": "AD1zvfYTNE4iHfTbt1fb8xjCUZILWbWH8yQaTWVRO2R4ibzTybdAkG8O70ODPR6YzuNv8kZMBa21GULeIfJKHQ",
+        "septima_serial": "1160468"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.535315937,
+                55.703207888
+              ],
+              [
+                12.535792815,
+                55.70313576
+              ],
+              [
+                12.535776326,
+                55.703090046
+              ],
+              [
+                12.53568429,
+                55.702835151
+              ],
+              [
+                12.535612023,
+                55.702832954
+              ],
+              [
+                12.535633121,
+                55.702594616
+              ],
+              [
+                12.53521008,
+                55.702686772
+              ],
+              [
+                12.535067301,
+                55.702717628
+              ],
+              [
+                12.535217851,
+                55.702935715
+              ],
+              [
+                12.535315937,
+                55.703207888
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": null,
+        "id": 775524,
+        "planid": 10073797,
+        "lokplan_id": 10050457,
+        "delnr": "DEL V",
+        "objektkode": 30,
+        "plantype": 30.1,
+        "komnr": 101,
+        "lp_plannr": "10050457",
+        "lp_plannavn": "Drejervej",
+        "anvgen": null,
+        "zone": null,
+        "datoforsl": 20200624,
+        "datovedt": null,
+        "datoaflyst": null,
+        "datoikraft": null,
+        "datostart": 20200629,
+        "datoslut": 20200928,
+        "saflysdato": null,
+        "datoattr": 20200629,
+        "datogeom": 20200626,
+        "bebygpct": null,
+        "bebygpctaf": null,
+        "bebygpctar": null,
+        "m3_m2": null,
+        "maxetager": null,
+        "maxbygnhjd": null,
+        "minmiljo": null,
+        "maxmiljo": null,
+        "bevarbest": null,
+        "bebyggrad": null,
+        "mingrund": null,
+        "dataprod": null,
+        "digigrundl": null,
+        "digigrundd": null,
+        "datooprt": "2020-06-18T21:01:47.938Z",
+        "datoopdt": "2020-06-29T12:21:39.949Z",
+        "planstatus": null,
+        "anvendelsegenerel": null,
+        "kommunenavn": "København",
+        "zonestatus": null,
+        "doklink": "https://dokument.plandata.dk/20_10050457_1593433024602.pdf",
+        "lp_distrikt": null,
+        "sforhold": null,
+        "minuds": null,
+        "eareal": null,
+        "earealh": null,
+        "m3_m2h": null,
+        "ianvreg": true,
+        "izonereg": true,
+        "iomfangreg": true,
+        "iudstykreg": true,
+        "kompleks": false,
+        "kbeskriv": null,
+        "vindbeskriv": null,
+        "byggefelttype": null,
+        "udstykforbud": null,
+        "sforaktuel": false,
+        "anvspec1": null,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "eareal1": null,
+        "earealh1": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "bygpctar1": null,
+        "minuds1": null,
+        "udstykfb1": null,
+        "anvspec2": null,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "eareal2": null,
+        "earealh2": null,
+        "m3_m22": null,
+        "m3_m2h2": null,
+        "maxbhjd2": null,
+        "maxetage2": null,
+        "bygpctar2": null,
+        "minuds2": null,
+        "udstykfb2": null,
+        "anvspec3": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "eareal3": null,
+        "earealh3": null,
+        "m3_m23": null,
+        "m3_m2h3": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "bygpctar3": null,
+        "minuds3": null,
+        "udstykfb3": null,
+        "anvspec4": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "eareal4": null,
+        "earealh4": null,
+        "m3_m24": null,
+        "m3_m2h4": null,
+        "maxbhjd4": null,
+        "maxetage4": null,
+        "bygpctar4": null,
+        "minuds4": null,
+        "udstykfb4": null,
+        "anvspec5": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "eareal5": null,
+        "earealh5": null,
+        "m3_m25": null,
+        "m3_m2h5": null,
+        "maxbhjd5": null,
+        "maxetage5": null,
+        "bygpctar5": null,
+        "minuds5": null,
+        "udstykfb5": null,
+        "anvspec6": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m26": null,
+        "m3_m2h6": null,
+        "maxbhjd6": null,
+        "maxetage6": null,
+        "bygpctar6": null,
+        "minuds6": null,
+        "udstykfb6": null,
+        "anvspec7": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "eareal7": null,
+        "earealh7": null,
+        "m3_m27": null,
+        "m3_m2h7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "bygpctar7": null,
+        "minuds7": null,
+        "udstykfb7": null,
+        "anvspec8": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "eareal8": null,
+        "earealh8": null,
+        "m3_m28": null,
+        "m3_m2h8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "bygpctar8": null,
+        "minuds8": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "eareal9": null,
+        "earealh9": null,
+        "m3_m29": null,
+        "m3_m2h9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "bygpctar9": null,
+        "minuds9": null,
+        "udstykfb9": null,
+        "anvspec10": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "eareal10": null,
+        "earealh10": null,
+        "m3_m210": null,
+        "m3_m2h10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "bygpctar10": null,
+        "minuds10": null,
+        "udstykfb10": null,
+        "abestem1": null,
+        "abestem2": null,
+        "abestem3": null,
+        "septima_transaktion_id": "145154910",
+        "septima_hash86": "guQk58/5d9QwhH7oa9HJ/3PGeeKEHmmSb+p8efC6FqaamTGOM9WsLk0RkP4geFnq+RnRkMhAYQ3WqSFmoz642g",
+        "septima_serial": "1160469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.536756829,
+                55.704226034
+              ],
+              [
+                12.537733502,
+                55.703959789
+              ],
+              [
+                12.53775646,
+                55.703934922
+              ],
+              [
+                12.537575924,
+                55.703325478
+              ],
+              [
+                12.536938033,
+                55.703299733
+              ],
+              [
+                12.536555569,
+                55.703284559
+              ],
+              [
+                12.536527754,
+                55.703555101
+              ],
+              [
+                12.536568842,
+                55.703930971
+              ],
+              [
+                12.536608642,
+                55.703920131
+              ],
+              [
+                12.536635698,
+                55.704187472
+              ],
+              [
+                12.536756829,
+                55.704226034
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": null,
+        "id": 775525,
+        "planid": 10073799,
+        "lokplan_id": 10050457,
+        "delnr": "DEL VII",
+        "objektkode": 30,
+        "plantype": 30.1,
+        "komnr": 101,
+        "lp_plannr": "10050457",
+        "lp_plannavn": "Drejervej",
+        "anvgen": null,
+        "zone": null,
+        "datoforsl": 20200624,
+        "datovedt": null,
+        "datoaflyst": null,
+        "datoikraft": null,
+        "datostart": 20200629,
+        "datoslut": 20200928,
+        "saflysdato": null,
+        "datoattr": 20200629,
+        "datogeom": 20200626,
+        "bebygpct": null,
+        "bebygpctaf": null,
+        "bebygpctar": null,
+        "m3_m2": null,
+        "maxetager": null,
+        "maxbygnhjd": null,
+        "minmiljo": null,
+        "maxmiljo": null,
+        "bevarbest": null,
+        "bebyggrad": null,
+        "mingrund": null,
+        "dataprod": null,
+        "digigrundl": null,
+        "digigrundd": null,
+        "datooprt": "2020-06-18T21:01:47.938Z",
+        "datoopdt": "2020-06-29T12:21:39.982Z",
+        "planstatus": null,
+        "anvendelsegenerel": null,
+        "kommunenavn": "København",
+        "zonestatus": null,
+        "doklink": "https://dokument.plandata.dk/20_10050457_1593433024602.pdf",
+        "lp_distrikt": null,
+        "sforhold": null,
+        "minuds": null,
+        "eareal": null,
+        "earealh": null,
+        "m3_m2h": null,
+        "ianvreg": true,
+        "izonereg": true,
+        "iomfangreg": true,
+        "iudstykreg": true,
+        "kompleks": false,
+        "kbeskriv": null,
+        "vindbeskriv": null,
+        "byggefelttype": null,
+        "udstykforbud": null,
+        "sforaktuel": false,
+        "anvspec1": null,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "eareal1": null,
+        "earealh1": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "bygpctar1": null,
+        "minuds1": null,
+        "udstykfb1": null,
+        "anvspec2": null,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "eareal2": null,
+        "earealh2": null,
+        "m3_m22": null,
+        "m3_m2h2": null,
+        "maxbhjd2": null,
+        "maxetage2": null,
+        "bygpctar2": null,
+        "minuds2": null,
+        "udstykfb2": null,
+        "anvspec3": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "eareal3": null,
+        "earealh3": null,
+        "m3_m23": null,
+        "m3_m2h3": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "bygpctar3": null,
+        "minuds3": null,
+        "udstykfb3": null,
+        "anvspec4": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "eareal4": null,
+        "earealh4": null,
+        "m3_m24": null,
+        "m3_m2h4": null,
+        "maxbhjd4": null,
+        "maxetage4": null,
+        "bygpctar4": null,
+        "minuds4": null,
+        "udstykfb4": null,
+        "anvspec5": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "eareal5": null,
+        "earealh5": null,
+        "m3_m25": null,
+        "m3_m2h5": null,
+        "maxbhjd5": null,
+        "maxetage5": null,
+        "bygpctar5": null,
+        "minuds5": null,
+        "udstykfb5": null,
+        "anvspec6": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m26": null,
+        "m3_m2h6": null,
+        "maxbhjd6": null,
+        "maxetage6": null,
+        "bygpctar6": null,
+        "minuds6": null,
+        "udstykfb6": null,
+        "anvspec7": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "eareal7": null,
+        "earealh7": null,
+        "m3_m27": null,
+        "m3_m2h7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "bygpctar7": null,
+        "minuds7": null,
+        "udstykfb7": null,
+        "anvspec8": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "eareal8": null,
+        "earealh8": null,
+        "m3_m28": null,
+        "m3_m2h8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "bygpctar8": null,
+        "minuds8": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "eareal9": null,
+        "earealh9": null,
+        "m3_m29": null,
+        "m3_m2h9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "bygpctar9": null,
+        "minuds9": null,
+        "udstykfb9": null,
+        "anvspec10": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "eareal10": null,
+        "earealh10": null,
+        "m3_m210": null,
+        "m3_m2h10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "bygpctar10": null,
+        "minuds10": null,
+        "udstykfb10": null,
+        "abestem1": null,
+        "abestem2": null,
+        "abestem3": null,
+        "septima_transaktion_id": "145154910",
+        "septima_hash86": "GOouxkWMHic/p/Ia5Ti/H64alG1OGqFF2Wk+LObyYSmaGZ8ye4xk3K7fhWw2TP1x8h2Yznjg/uv382L7gR+lHw",
+        "septima_serial": "1160470"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.536416402,
+                55.703042605
+              ],
+              [
+                12.536420695,
+                55.702995338
+              ],
+              [
+                12.536460855,
+                55.702989369
+              ],
+              [
+                12.536473623,
+                55.702858668
+              ],
+              [
+                12.536488663,
+                55.702688823
+              ],
+              [
+                12.536508393,
+                55.702447386
+              ],
+              [
+                12.535991755,
+                55.702533314
+              ],
+              [
+                12.535633356,
+                55.702592281
+              ],
+              [
+                12.535633121,
+                55.702594616
+              ],
+              [
+                12.535612023,
+                55.702832954
+              ],
+              [
+                12.53568429,
+                55.702835151
+              ],
+              [
+                12.535776326,
+                55.703090046
+              ],
+              [
+                12.535792815,
+                55.70313576
+              ],
+              [
+                12.535802186,
+                55.703134438
+              ],
+              [
+                12.536197879,
+                55.703073506
+              ],
+              [
+                12.536416402,
+                55.703042605
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": null,
+        "id": 775526,
+        "planid": 10073794,
+        "lokplan_id": 10050457,
+        "delnr": "DEL II",
+        "objektkode": 30,
+        "plantype": 30.1,
+        "komnr": 101,
+        "lp_plannr": "10050457",
+        "lp_plannavn": "Drejervej",
+        "anvgen": 21,
+        "zone": null,
+        "datoforsl": 20200624,
+        "datovedt": null,
+        "datoaflyst": null,
+        "datoikraft": null,
+        "datostart": 20200629,
+        "datoslut": 20200928,
+        "saflysdato": null,
+        "datoattr": 20200629,
+        "datogeom": 20200626,
+        "bebygpct": null,
+        "bebygpctaf": null,
+        "bebygpctar": null,
+        "m3_m2": null,
+        "maxetager": null,
+        "maxbygnhjd": null,
+        "minmiljo": null,
+        "maxmiljo": null,
+        "bevarbest": null,
+        "bebyggrad": null,
+        "mingrund": null,
+        "dataprod": null,
+        "digigrundl": null,
+        "digigrundd": null,
+        "datooprt": "2020-06-18T21:01:47.938Z",
+        "datoopdt": "2020-06-29T12:21:40.019Z",
+        "planstatus": null,
+        "anvendelsegenerel": "Blandet bolig og erhverv",
+        "kommunenavn": "København",
+        "zonestatus": null,
+        "doklink": "https://dokument.plandata.dk/20_10050457_1593433024602.pdf",
+        "lp_distrikt": null,
+        "sforhold": null,
+        "minuds": null,
+        "eareal": null,
+        "earealh": null,
+        "m3_m2h": null,
+        "ianvreg": false,
+        "izonereg": true,
+        "iomfangreg": true,
+        "iudstykreg": true,
+        "kompleks": false,
+        "kbeskriv": null,
+        "vindbeskriv": null,
+        "byggefelttype": null,
+        "udstykforbud": null,
+        "sforaktuel": false,
+        "anvspec1": 3110,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "eareal1": null,
+        "earealh1": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "bygpctar1": null,
+        "minuds1": null,
+        "udstykfb1": null,
+        "anvspec2": 4180,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "eareal2": null,
+        "earealh2": null,
+        "m3_m22": null,
+        "m3_m2h2": null,
+        "maxbhjd2": null,
+        "maxetage2": null,
+        "bygpctar2": null,
+        "minuds2": null,
+        "udstykfb2": null,
+        "anvspec3": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "eareal3": null,
+        "earealh3": null,
+        "m3_m23": null,
+        "m3_m2h3": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "bygpctar3": null,
+        "minuds3": null,
+        "udstykfb3": null,
+        "anvspec4": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "eareal4": null,
+        "earealh4": null,
+        "m3_m24": null,
+        "m3_m2h4": null,
+        "maxbhjd4": null,
+        "maxetage4": null,
+        "bygpctar4": null,
+        "minuds4": null,
+        "udstykfb4": null,
+        "anvspec5": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "eareal5": null,
+        "earealh5": null,
+        "m3_m25": null,
+        "m3_m2h5": null,
+        "maxbhjd5": null,
+        "maxetage5": null,
+        "bygpctar5": null,
+        "minuds5": null,
+        "udstykfb5": null,
+        "anvspec6": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m26": null,
+        "m3_m2h6": null,
+        "maxbhjd6": null,
+        "maxetage6": null,
+        "bygpctar6": null,
+        "minuds6": null,
+        "udstykfb6": null,
+        "anvspec7": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "eareal7": null,
+        "earealh7": null,
+        "m3_m27": null,
+        "m3_m2h7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "bygpctar7": null,
+        "minuds7": null,
+        "udstykfb7": null,
+        "anvspec8": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "eareal8": null,
+        "earealh8": null,
+        "m3_m28": null,
+        "m3_m2h8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "bygpctar8": null,
+        "minuds8": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "eareal9": null,
+        "earealh9": null,
+        "m3_m29": null,
+        "m3_m2h9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "bygpctar9": null,
+        "minuds9": null,
+        "udstykfb9": null,
+        "anvspec10": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "eareal10": null,
+        "earealh10": null,
+        "m3_m210": null,
+        "m3_m2h10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "bygpctar10": null,
+        "minuds10": null,
+        "udstykfb10": null,
+        "abestem1": null,
+        "abestem2": null,
+        "abestem3": null,
+        "septima_transaktion_id": "145154910",
+        "septima_hash86": "9/isbskjJC3vHUPFfLdA/Ta1eA5GWqt9p2B8adgfiOBMxUXObQY2tAjfNkwALxu/Mtn566JiGSqlQy5SxqSA3Q",
+        "septima_serial": "1160471"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.533929315,
+                55.702762773
+              ],
+              [
+                12.534212407,
+                55.702807146
+              ],
+              [
+                12.534737177,
+                55.702692713
+              ],
+              [
+                12.534740534,
+                55.702691977
+              ],
+              [
+                12.534506667,
+                55.702351478
+              ],
+              [
+                12.534506122,
+                55.702333285
+              ],
+              [
+                12.534148188,
+                55.702336594
+              ],
+              [
+                12.534070052,
+                55.702475087
+              ],
+              [
+                12.534044737,
+                55.702525162
+              ],
+              [
+                12.533929315,
+                55.702762773
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": null,
+        "id": 775527,
+        "planid": 10073796,
+        "lokplan_id": 10050457,
+        "delnr": "DEL IV",
+        "objektkode": 30,
+        "plantype": 30.1,
+        "komnr": 101,
+        "lp_plannr": "10050457",
+        "lp_plannavn": "Drejervej",
+        "anvgen": 21,
+        "zone": null,
+        "datoforsl": 20200624,
+        "datovedt": null,
+        "datoaflyst": null,
+        "datoikraft": null,
+        "datostart": 20200629,
+        "datoslut": 20200928,
+        "saflysdato": null,
+        "datoattr": 20200629,
+        "datogeom": 20200626,
+        "bebygpct": null,
+        "bebygpctaf": null,
+        "bebygpctar": null,
+        "m3_m2": null,
+        "maxetager": null,
+        "maxbygnhjd": null,
+        "minmiljo": null,
+        "maxmiljo": null,
+        "bevarbest": null,
+        "bebyggrad": null,
+        "mingrund": null,
+        "dataprod": null,
+        "digigrundl": null,
+        "digigrundd": null,
+        "datooprt": "2020-06-18T21:01:47.938Z",
+        "datoopdt": "2020-06-29T12:21:40.172Z",
+        "planstatus": null,
+        "anvendelsegenerel": "Blandet bolig og erhverv",
+        "kommunenavn": "København",
+        "zonestatus": null,
+        "doklink": "https://dokument.plandata.dk/20_10050457_1593433024602.pdf",
+        "lp_distrikt": null,
+        "sforhold": null,
+        "minuds": null,
+        "eareal": null,
+        "earealh": null,
+        "m3_m2h": null,
+        "ianvreg": false,
+        "izonereg": true,
+        "iomfangreg": true,
+        "iudstykreg": true,
+        "kompleks": false,
+        "kbeskriv": null,
+        "vindbeskriv": null,
+        "byggefelttype": null,
+        "udstykforbud": null,
+        "sforaktuel": false,
+        "anvspec1": 3110,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "eareal1": null,
+        "earealh1": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "bygpctar1": null,
+        "minuds1": null,
+        "udstykfb1": null,
+        "anvspec2": null,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "eareal2": null,
+        "earealh2": null,
+        "m3_m22": null,
+        "m3_m2h2": null,
+        "maxbhjd2": null,
+        "maxetage2": null,
+        "bygpctar2": null,
+        "minuds2": null,
+        "udstykfb2": null,
+        "anvspec3": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "eareal3": null,
+        "earealh3": null,
+        "m3_m23": null,
+        "m3_m2h3": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "bygpctar3": null,
+        "minuds3": null,
+        "udstykfb3": null,
+        "anvspec4": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "eareal4": null,
+        "earealh4": null,
+        "m3_m24": null,
+        "m3_m2h4": null,
+        "maxbhjd4": null,
+        "maxetage4": null,
+        "bygpctar4": null,
+        "minuds4": null,
+        "udstykfb4": null,
+        "anvspec5": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "eareal5": null,
+        "earealh5": null,
+        "m3_m25": null,
+        "m3_m2h5": null,
+        "maxbhjd5": null,
+        "maxetage5": null,
+        "bygpctar5": null,
+        "minuds5": null,
+        "udstykfb5": null,
+        "anvspec6": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m26": null,
+        "m3_m2h6": null,
+        "maxbhjd6": null,
+        "maxetage6": null,
+        "bygpctar6": null,
+        "minuds6": null,
+        "udstykfb6": null,
+        "anvspec7": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "eareal7": null,
+        "earealh7": null,
+        "m3_m27": null,
+        "m3_m2h7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "bygpctar7": null,
+        "minuds7": null,
+        "udstykfb7": null,
+        "anvspec8": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "eareal8": null,
+        "earealh8": null,
+        "m3_m28": null,
+        "m3_m2h8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "bygpctar8": null,
+        "minuds8": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "eareal9": null,
+        "earealh9": null,
+        "m3_m29": null,
+        "m3_m2h9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "bygpctar9": null,
+        "minuds9": null,
+        "udstykfb9": null,
+        "anvspec10": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "eareal10": null,
+        "earealh10": null,
+        "m3_m210": null,
+        "m3_m2h10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "bygpctar10": null,
+        "minuds10": null,
+        "udstykfb10": null,
+        "abestem1": null,
+        "abestem2": null,
+        "abestem3": null,
+        "septima_transaktion_id": "145154910",
+        "septima_hash86": "8MnsNz3OlUfvSHyj5xkMQdqQ5RL/5vofTGK8DCz/y6jo2hgSsoaonIUXLjZiab1c2OezOQbamxMGKOYHqEBRuQ",
+        "septima_serial": "1160472"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.536579542,
+                55.703021423
+              ],
+              [
+                12.536555569,
+                55.703284559
+              ],
+              [
+                12.536938033,
+                55.703299733
+              ],
+              [
+                12.537575924,
+                55.703325478
+              ],
+              [
+                12.537552596,
+                55.703248715
+              ],
+              [
+                12.537476469,
+                55.702989919
+              ],
+              [
+                12.537411379,
+                55.702636077
+              ],
+              [
+                12.537258019,
+                55.702645347
+              ],
+              [
+                12.536995935,
+                55.702637169
+              ],
+              [
+                12.53696848,
+                55.702973816
+              ],
+              [
+                12.536585135,
+                55.702958901
+              ],
+              [
+                12.536608519,
+                55.702701714
+              ],
+              [
+                12.536648209,
+                55.702702871
+              ],
+              [
+                12.536654323,
+                55.70263648
+              ],
+              [
+                12.536614288,
+                55.702635189
+              ],
+              [
+                12.536642448,
+                55.70230068
+              ],
+              [
+                12.53652033,
+                55.702318407
+              ],
+              [
+                12.536317513,
+                55.702347741
+              ],
+              [
+                12.536165466,
+                55.70238087
+              ],
+              [
+                12.536077025,
+                55.70240001
+              ],
+              [
+                12.535548564,
+                55.702515976
+              ],
+              [
+                12.535216953,
+                55.702588754
+              ],
+              [
+                12.535099122,
+                55.702614287
+              ],
+              [
+                12.534850948,
+                55.702668052
+              ],
+              [
+                12.534740534,
+                55.702691977
+              ],
+              [
+                12.534212407,
+                55.702807146
+              ],
+              [
+                12.534238691,
+                55.702842859
+              ],
+              [
+                12.534226388,
+                55.702868822
+              ],
+              [
+                12.534208338,
+                55.702904319
+              ],
+              [
+                12.534313267,
+                55.702881721
+              ],
+              [
+                12.534471818,
+                55.702847579
+              ],
+              [
+                12.534543695,
+                55.702831553
+              ],
+              [
+                12.534685505,
+                55.702800698
+              ],
+              [
+                12.535067301,
+                55.702717628
+              ],
+              [
+                12.535633121,
+                55.702594616
+              ],
+              [
+                12.535633356,
+                55.702592281
+              ],
+              [
+                12.536508393,
+                55.702447386
+              ],
+              [
+                12.536460855,
+                55.702989369
+              ],
+              [
+                12.536420695,
+                55.702995338
+              ],
+              [
+                12.536416402,
+                55.703042605
+              ],
+              [
+                12.53645653,
+                55.703036637
+              ],
+              [
+                12.536579542,
+                55.703021423
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": null,
+        "id": 775528,
+        "planid": 10073798,
+        "lokplan_id": 10050457,
+        "delnr": "DEL VI",
+        "objektkode": 30,
+        "plantype": 30.1,
+        "komnr": 101,
+        "lp_plannr": "10050457",
+        "lp_plannavn": "Drejervej",
+        "anvgen": 21,
+        "zone": null,
+        "datoforsl": 20200624,
+        "datovedt": null,
+        "datoaflyst": null,
+        "datoikraft": null,
+        "datostart": 20200629,
+        "datoslut": 20200928,
+        "saflysdato": null,
+        "datoattr": 20200629,
+        "datogeom": 20200626,
+        "bebygpct": null,
+        "bebygpctaf": null,
+        "bebygpctar": null,
+        "m3_m2": null,
+        "maxetager": null,
+        "maxbygnhjd": null,
+        "minmiljo": null,
+        "maxmiljo": null,
+        "bevarbest": null,
+        "bebyggrad": null,
+        "mingrund": null,
+        "dataprod": null,
+        "digigrundl": null,
+        "digigrundd": null,
+        "datooprt": "2020-06-18T21:01:47.938Z",
+        "datoopdt": "2020-06-29T12:21:40.314Z",
+        "planstatus": null,
+        "anvendelsegenerel": "Blandet bolig og erhverv",
+        "kommunenavn": "København",
+        "zonestatus": null,
+        "doklink": "https://dokument.plandata.dk/20_10050457_1593433024602.pdf",
+        "lp_distrikt": null,
+        "sforhold": null,
+        "minuds": null,
+        "eareal": null,
+        "earealh": null,
+        "m3_m2h": null,
+        "ianvreg": false,
+        "izonereg": true,
+        "iomfangreg": true,
+        "iudstykreg": true,
+        "kompleks": false,
+        "kbeskriv": null,
+        "vindbeskriv": null,
+        "byggefelttype": null,
+        "udstykforbud": null,
+        "sforaktuel": false,
+        "anvspec1": 3110,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "eareal1": null,
+        "earealh1": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "bygpctar1": null,
+        "minuds1": null,
+        "udstykfb1": null,
+        "anvspec2": 4180,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "eareal2": null,
+        "earealh2": null,
+        "m3_m22": null,
+        "m3_m2h2": null,
+        "maxbhjd2": null,
+        "maxetage2": null,
+        "bygpctar2": null,
+        "minuds2": null,
+        "udstykfb2": null,
+        "anvspec3": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "eareal3": null,
+        "earealh3": null,
+        "m3_m23": null,
+        "m3_m2h3": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "bygpctar3": null,
+        "minuds3": null,
+        "udstykfb3": null,
+        "anvspec4": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "eareal4": null,
+        "earealh4": null,
+        "m3_m24": null,
+        "m3_m2h4": null,
+        "maxbhjd4": null,
+        "maxetage4": null,
+        "bygpctar4": null,
+        "minuds4": null,
+        "udstykfb4": null,
+        "anvspec5": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "eareal5": null,
+        "earealh5": null,
+        "m3_m25": null,
+        "m3_m2h5": null,
+        "maxbhjd5": null,
+        "maxetage5": null,
+        "bygpctar5": null,
+        "minuds5": null,
+        "udstykfb5": null,
+        "anvspec6": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m26": null,
+        "m3_m2h6": null,
+        "maxbhjd6": null,
+        "maxetage6": null,
+        "bygpctar6": null,
+        "minuds6": null,
+        "udstykfb6": null,
+        "anvspec7": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "eareal7": null,
+        "earealh7": null,
+        "m3_m27": null,
+        "m3_m2h7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "bygpctar7": null,
+        "minuds7": null,
+        "udstykfb7": null,
+        "anvspec8": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "eareal8": null,
+        "earealh8": null,
+        "m3_m28": null,
+        "m3_m2h8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "bygpctar8": null,
+        "minuds8": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "eareal9": null,
+        "earealh9": null,
+        "m3_m29": null,
+        "m3_m2h9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "bygpctar9": null,
+        "minuds9": null,
+        "udstykfb9": null,
+        "anvspec10": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "eareal10": null,
+        "earealh10": null,
+        "m3_m210": null,
+        "m3_m2h10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "bygpctar10": null,
+        "minuds10": null,
+        "udstykfb10": null,
+        "abestem1": null,
+        "abestem2": null,
+        "abestem3": null,
+        "septima_transaktion_id": "145154910",
+        "septima_hash86": "BzJEksPx9P/OY7HP2KgYQLMQTIHYpsc7YXqp3lJkJkmBajqVic5dZYJ7NCAasChq01+yQVUMJ/mlbLmX6vV/3w",
+        "septima_serial": "1160473"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.928094544,
+                56.408478365
+              ],
+              [
+                10.927354945,
+                56.408478539
+              ],
+              [
+                10.927006481,
+                56.407709513
+              ],
+              [
+                10.926701968,
+                56.407036945
+              ],
+              [
+                10.926688769,
+                56.407016302
+              ],
+              [
+                10.926669704,
+                56.406998266
+              ],
+              [
+                10.926641087,
+                56.406986849
+              ],
+              [
+                10.926606942,
+                56.406978303
+              ],
+              [
+                10.92593827,
+                56.40690925
+              ],
+              [
+                10.925280192,
+                56.406841288
+              ],
+              [
+                10.92427532,
+                56.406735928
+              ],
+              [
+                10.92422701,
+                56.406729309
+              ],
+              [
+                10.924153366,
+                56.4067185
+              ],
+              [
+                10.923998399,
+                56.406695653
+              ],
+              [
+                10.923881195,
+                56.406563575
+              ],
+              [
+                10.924633094,
+                56.406345492
+              ],
+              [
+                10.925194073,
+                56.406124528
+              ],
+              [
+                10.92535357,
+                56.406083051
+              ],
+              [
+                10.925491611,
+                56.406037145
+              ],
+              [
+                10.926682169,
+                56.405663874
+              ],
+              [
+                10.92677537,
+                56.405628727
+              ],
+              [
+                10.926789889,
+                56.405624188
+              ],
+              [
+                10.926955621,
+                56.405571469
+              ],
+              [
+                10.928008558,
+                56.405236808
+              ],
+              [
+                10.928223756,
+                56.405293761
+              ],
+              [
+                10.928441197,
+                56.405411066
+              ],
+              [
+                10.928588698,
+                56.405625971
+              ],
+              [
+                10.928739663,
+                56.405902918
+              ],
+              [
+                10.928817242,
+                56.406084404
+              ],
+              [
+                10.928831942,
+                56.406253208
+              ],
+              [
+                10.928814132,
+                56.406391335
+              ],
+              [
+                10.928666316,
+                56.406541908
+              ],
+              [
+                10.928623896,
+                56.406574829
+              ],
+              [
+                10.928483266,
+                56.406806616
+              ],
+              [
+                10.928334763,
+                56.406882793
+              ],
+              [
+                10.928223693,
+                56.406955602
+              ],
+              [
+                10.928052845,
+                56.40701622
+              ],
+              [
+                10.927898624,
+                56.407075501
+              ],
+              [
+                10.92762479,
+                56.407147694
+              ],
+              [
+                10.927483487,
+                56.407167594
+              ],
+              [
+                10.928094544,
+                56.408478365
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": null,
+        "id": 869630,
+        "planid": 10812186,
+        "lokplan_id": 10808996,
+        "delnr": "1, LP 100-707",
+        "objektkode": 30,
+        "plantype": 30.1,
+        "komnr": 707,
+        "lp_plannr": "Lokalplan 100-707",
+        "lp_plannavn": "Grenaa Sydhavn",
+        "anvgen": 71,
+        "zone": null,
+        "datoforsl": 20210518,
+        "datovedt": null,
+        "datoaflyst": null,
+        "datoikraft": null,
+        "datostart": 20210611,
+        "datoslut": 20210806,
+        "saflysdato": null,
+        "datoattr": 20210610,
+        "datogeom": 20210604,
+        "bebygpct": null,
+        "bebygpctaf": null,
+        "bebygpctar": null,
+        "m3_m2": null,
+        "maxetager": null,
+        "maxbygnhjd": null,
+        "minmiljo": null,
+        "maxmiljo": null,
+        "bevarbest": null,
+        "bebyggrad": null,
+        "mingrund": null,
+        "dataprod": null,
+        "digigrundl": null,
+        "digigrundd": null,
+        "datooprt": "2021-06-01T12:19:37.746Z",
+        "datoopdt": "2021-06-10T08:11:10.795Z",
+        "planstatus": null,
+        "anvendelsegenerel": "Område til offentlige formål",
+        "kommunenavn": "Norddjurs",
+        "zonestatus": null,
+        "doklink": "https://dokument.plandata.dk/20_10808996_1623311101790.pdf",
+        "lp_distrikt": "Grenaa",
+        "sforhold": null,
+        "minuds": null,
+        "eareal": null,
+        "earealh": null,
+        "m3_m2h": null,
+        "ianvreg": false,
+        "izonereg": true,
+        "iomfangreg": true,
+        "iudstykreg": true,
+        "kompleks": false,
+        "kbeskriv": null,
+        "vindbeskriv": null,
+        "byggefelttype": null,
+        "udstykforbud": null,
+        "sforaktuel": false,
+        "anvspec1": 4135,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "eareal1": null,
+        "earealh1": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "bygpctar1": null,
+        "minuds1": null,
+        "udstykfb1": null,
+        "anvspec2": 7100,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "eareal2": null,
+        "earealh2": null,
+        "m3_m22": null,
+        "m3_m2h2": null,
+        "maxbhjd2": null,
+        "maxetage2": null,
+        "bygpctar2": null,
+        "minuds2": null,
+        "udstykfb2": null,
+        "anvspec3": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "eareal3": null,
+        "earealh3": null,
+        "m3_m23": null,
+        "m3_m2h3": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "bygpctar3": null,
+        "minuds3": null,
+        "udstykfb3": null,
+        "anvspec4": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "eareal4": null,
+        "earealh4": null,
+        "m3_m24": null,
+        "m3_m2h4": null,
+        "maxbhjd4": null,
+        "maxetage4": null,
+        "bygpctar4": null,
+        "minuds4": null,
+        "udstykfb4": null,
+        "anvspec5": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "eareal5": null,
+        "earealh5": null,
+        "m3_m25": null,
+        "m3_m2h5": null,
+        "maxbhjd5": null,
+        "maxetage5": null,
+        "bygpctar5": null,
+        "minuds5": null,
+        "udstykfb5": null,
+        "anvspec6": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m26": null,
+        "m3_m2h6": null,
+        "maxbhjd6": null,
+        "maxetage6": null,
+        "bygpctar6": null,
+        "minuds6": null,
+        "udstykfb6": null,
+        "anvspec7": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "eareal7": null,
+        "earealh7": null,
+        "m3_m27": null,
+        "m3_m2h7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "bygpctar7": null,
+        "minuds7": null,
+        "udstykfb7": null,
+        "anvspec8": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "eareal8": null,
+        "earealh8": null,
+        "m3_m28": null,
+        "m3_m2h8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "bygpctar8": null,
+        "minuds8": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "eareal9": null,
+        "earealh9": null,
+        "m3_m29": null,
+        "m3_m2h9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "bygpctar9": null,
+        "minuds9": null,
+        "udstykfb9": null,
+        "anvspec10": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "eareal10": null,
+        "earealh10": null,
+        "m3_m210": null,
+        "m3_m2h10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "bygpctar10": null,
+        "minuds10": null,
+        "udstykfb10": null,
+        "abestem1": null,
+        "abestem2": null,
+        "abestem3": null,
+        "septima_transaktion_id": "145154910",
+        "septima_hash86": "6Voe6i42HUZyS+VuZEKYW59W497jlfOA7mfEqlyj+OSXeTgVNLqxq7unusWinLcU1YDaK7GZU1wt35WnpRed7g",
+        "septima_serial": "1160489"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.928094544,
+                56.408478365
+              ],
+              [
+                10.928674832,
+                56.40970559
+              ],
+              [
+                10.929193252,
+                56.410795385
+              ],
+              [
+                10.929253363,
+                56.410823655
+              ],
+              [
+                10.929806725,
+                56.411303093
+              ],
+              [
+                10.929762206,
+                56.411313851
+              ],
+              [
+                10.929626149,
+                56.411194293
+              ],
+              [
+                10.929213073,
+                56.410834706
+              ],
+              [
+                10.929138697,
+                56.410800008
+              ],
+              [
+                10.929143584,
+                56.41077486
+              ],
+              [
+                10.928848712,
+                56.410156335
+              ],
+              [
+                10.928595241,
+                56.410195683
+              ],
+              [
+                10.928623391,
+                56.410229843
+              ],
+              [
+                10.928631044,
+                56.410339447
+              ],
+              [
+                10.928611321,
+                56.410369318
+              ],
+              [
+                10.92857003,
+                56.410392606
+              ],
+              [
+                10.928514085,
+                56.410404978
+              ],
+              [
+                10.928456153,
+                56.410403722
+              ],
+              [
+                10.92840243,
+                56.410389551
+              ],
+              [
+                10.928366582,
+                56.410363419
+              ],
+              [
+                10.928316379,
+                56.41025861
+              ],
+              [
+                10.928302322,
+                56.410227466
+              ],
+              [
+                10.928064593,
+                56.409693601
+              ],
+              [
+                10.927705698,
+                56.408898319
+              ],
+              [
+                10.927631613,
+                56.408907738
+              ],
+              [
+                10.927421897,
+                56.408937148
+              ],
+              [
+                10.927290562,
+                56.408955544
+              ],
+              [
+                10.927322706,
+                56.409277114
+              ],
+              [
+                10.927316762,
+                56.409294191
+              ],
+              [
+                10.927303579,
+                56.409312368
+              ],
+              [
+                10.927283106,
+                56.409327424
+              ],
+              [
+                10.927259748,
+                56.409339919
+              ],
+              [
+                10.927226846,
+                56.409349596
+              ],
+              [
+                10.927207862,
+                56.409352407
+              ],
+              [
+                10.927176419,
+                56.409355681
+              ],
+              [
+                10.927144593,
+                56.409354558
+              ],
+              [
+                10.927113529,
+                56.40934929
+              ],
+              [
+                10.927085851,
+                56.409340464
+              ],
+              [
+                10.927061952,
+                56.409329423
+              ],
+              [
+                10.927042964,
+                56.409316149
+              ],
+              [
+                10.926669569,
+                56.408829949
+              ],
+              [
+                10.92660811,
+                56.40879415
+              ],
+              [
+                10.926479763,
+                56.408595839
+              ],
+              [
+                10.925717984,
+                56.408612612
+              ],
+              [
+                10.92568794,
+                56.408624312
+              ],
+              [
+                10.925706709,
+                56.408655742
+              ],
+              [
+                10.925584189,
+                56.408678583
+              ],
+              [
+                10.925562431,
+                56.408642526
+              ],
+              [
+                10.925527772,
+                56.408655914
+              ],
+              [
+                10.925293476,
+                56.408503549
+              ],
+              [
+                10.925368475,
+                56.408284377
+              ],
+              [
+                10.925381664,
+                56.408247059
+              ],
+              [
+                10.92452014,
+                56.408166165
+              ],
+              [
+                10.923403053,
+                56.408054002
+              ],
+              [
+                10.923275338,
+                56.408041335
+              ],
+              [
+                10.921939556,
+                56.407905682
+              ],
+              [
+                10.921709216,
+                56.407857131
+              ],
+              [
+                10.921551557,
+                56.40780988
+              ],
+              [
+                10.921419166,
+                56.407771942
+              ],
+              [
+                10.921640306,
+                56.407589778
+              ],
+              [
+                10.921607228,
+                56.407567016
+              ],
+              [
+                10.921602531,
+                56.407538153
+              ],
+              [
+                10.921627677,
+                56.407512871
+              ],
+              [
+                10.921655745,
+                56.407497339
+              ],
+              [
+                10.921584952,
+                56.40745629
+              ],
+              [
+                10.921369403,
+                56.407331305
+              ],
+              [
+                10.921481722,
+                56.407292631
+              ],
+              [
+                10.921535608,
+                56.407278048
+              ],
+              [
+                10.923574639,
+                56.406652262
+              ],
+              [
+                10.923881195,
+                56.406563575
+              ],
+              [
+                10.923998399,
+                56.406695653
+              ],
+              [
+                10.924153366,
+                56.4067185
+              ],
+              [
+                10.92422701,
+                56.406729309
+              ],
+              [
+                10.92427532,
+                56.406735928
+              ],
+              [
+                10.925280192,
+                56.406841288
+              ],
+              [
+                10.92593827,
+                56.40690925
+              ],
+              [
+                10.926606942,
+                56.406978303
+              ],
+              [
+                10.926641087,
+                56.406986849
+              ],
+              [
+                10.926669704,
+                56.406998266
+              ],
+              [
+                10.926688769,
+                56.407016302
+              ],
+              [
+                10.926701968,
+                56.407036945
+              ],
+              [
+                10.927006481,
+                56.407709513
+              ],
+              [
+                10.927354945,
+                56.408478539
+              ],
+              [
+                10.928094544,
+                56.408478365
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": null,
+        "id": 869631,
+        "planid": 10812187,
+        "lokplan_id": 10808996,
+        "delnr": "2, LP 100-707",
+        "objektkode": 30,
+        "plantype": 30.1,
+        "komnr": 707,
+        "lp_plannr": "Lokalplan 100-707",
+        "lp_plannavn": "Grenaa Sydhavn",
+        "anvgen": 31,
+        "zone": null,
+        "datoforsl": 20210518,
+        "datovedt": null,
+        "datoaflyst": null,
+        "datoikraft": null,
+        "datostart": 20210611,
+        "datoslut": 20210806,
+        "saflysdato": null,
+        "datoattr": 20210610,
+        "datogeom": 20210604,
+        "bebygpct": null,
+        "bebygpctaf": null,
+        "bebygpctar": null,
+        "m3_m2": null,
+        "maxetager": null,
+        "maxbygnhjd": null,
+        "minmiljo": null,
+        "maxmiljo": null,
+        "bevarbest": null,
+        "bebyggrad": null,
+        "mingrund": null,
+        "dataprod": null,
+        "digigrundl": null,
+        "digigrundd": null,
+        "datooprt": "2021-06-01T12:19:37.746Z",
+        "datoopdt": "2021-06-10T08:11:10.852Z",
+        "planstatus": null,
+        "anvendelsegenerel": "Erhvervsområde",
+        "kommunenavn": "Norddjurs",
+        "zonestatus": null,
+        "doklink": "https://dokument.plandata.dk/20_10808996_1623311101790.pdf",
+        "lp_distrikt": "Grenaa",
+        "sforhold": null,
+        "minuds": null,
+        "eareal": null,
+        "earealh": null,
+        "m3_m2h": null,
+        "ianvreg": false,
+        "izonereg": true,
+        "iomfangreg": true,
+        "iudstykreg": true,
+        "kompleks": false,
+        "kbeskriv": null,
+        "vindbeskriv": null,
+        "byggefelttype": null,
+        "udstykforbud": null,
+        "sforaktuel": false,
+        "anvspec1": 3150,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "eareal1": null,
+        "earealh1": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "bygpctar1": null,
+        "minuds1": null,
+        "udstykfb1": null,
+        "anvspec2": 4135,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "eareal2": null,
+        "earealh2": null,
+        "m3_m22": null,
+        "m3_m2h2": null,
+        "maxbhjd2": null,
+        "maxetage2": null,
+        "bygpctar2": null,
+        "minuds2": null,
+        "udstykfb2": null,
+        "anvspec3": 8182,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "eareal3": null,
+        "earealh3": null,
+        "m3_m23": null,
+        "m3_m2h3": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "bygpctar3": null,
+        "minuds3": null,
+        "udstykfb3": null,
+        "anvspec4": 8190,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "eareal4": null,
+        "earealh4": null,
+        "m3_m24": null,
+        "m3_m2h4": null,
+        "maxbhjd4": null,
+        "maxetage4": null,
+        "bygpctar4": null,
+        "minuds4": null,
+        "udstykfb4": null,
+        "anvspec5": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "eareal5": null,
+        "earealh5": null,
+        "m3_m25": null,
+        "m3_m2h5": null,
+        "maxbhjd5": null,
+        "maxetage5": null,
+        "bygpctar5": null,
+        "minuds5": null,
+        "udstykfb5": null,
+        "anvspec6": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m26": null,
+        "m3_m2h6": null,
+        "maxbhjd6": null,
+        "maxetage6": null,
+        "bygpctar6": null,
+        "minuds6": null,
+        "udstykfb6": null,
+        "anvspec7": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "eareal7": null,
+        "earealh7": null,
+        "m3_m27": null,
+        "m3_m2h7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "bygpctar7": null,
+        "minuds7": null,
+        "udstykfb7": null,
+        "anvspec8": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "eareal8": null,
+        "earealh8": null,
+        "m3_m28": null,
+        "m3_m2h8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "bygpctar8": null,
+        "minuds8": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "eareal9": null,
+        "earealh9": null,
+        "m3_m29": null,
+        "m3_m2h9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "bygpctar9": null,
+        "minuds9": null,
+        "udstykfb9": null,
+        "anvspec10": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "eareal10": null,
+        "earealh10": null,
+        "m3_m210": null,
+        "m3_m2h10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "bygpctar10": null,
+        "minuds10": null,
+        "udstykfb10": null,
+        "abestem1": null,
+        "abestem2": null,
+        "abestem3": null,
+        "septima_transaktion_id": "145154910",
+        "septima_hash86": "NddajZlj3RVonNZPRM5+C/PGLX5hQng62ab0EX5nqyIeFCH2xZDcYAIktI5dTm3X1d9PIE1BjUPZdmg56iIRvw",
+        "septima_serial": "1160490"
+      }
+    }
+  ]
+}

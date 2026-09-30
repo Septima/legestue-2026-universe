@@ -1,0 +1,152 @@
+[
+  {
+    "tabelnavn": "bbrsag",
+    "beskrivelse": "bbrsag",
+    "kilde": "Bygnings- og Boligregistret, BBR",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, som frit bl.a. kan:\n        kopieres, distribueres og offentliggøres,\n        ændres og sammensættes med andet materiale,\n        bruges kommercielt og ikke-kommercielt",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/bygnings-og-boligregistret-bbr/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "automatic",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "Opdateres dagligt via Datafordeler DeltaDaily i XML format",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "bygning",
+    "beskrivelse": "bygning",
+    "kilde": "Bygnings- og Boligregistret, BBR",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, som frit bl.a. kan:\n        kopieres, distribueres og offentliggøres,\n        ændres og sammensættes med andet materiale,\n        bruges kommercielt og ikke-kommercielt",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/bygnings-og-boligregistret-bbr/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "automatic",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "Opdateres dagligt via Datafordeler DeltaDaily i XML format",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "bygningejendomsrelation",
+    "beskrivelse": "bygningejendomsrelation",
+    "kilde": "Bygnings- og Boligregistret, BBR",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, som frit bl.a. kan:\n        kopieres, distribueres og offentliggøres,\n        ændres og sammensættes med andet materiale,\n        bruges kommercielt og ikke-kommercielt",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/bygnings-og-boligregistret-bbr/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "automatic",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "Opdateres dagligt via Datafordeler DeltaDaily i XML format",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "ejendomsrelation",
+    "beskrivelse": "ejendomsrelation",
+    "kilde": "Bygnings- og Boligregistret, BBR",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, som frit bl.a. kan:\n        kopieres, distribueres og offentliggøres,\n        ændres og sammensættes med andet materiale,\n        bruges kommercielt og ikke-kommercielt",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/bygnings-og-boligregistret-bbr/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "automatic",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "Opdateres dagligt via Datafordeler DeltaDaily i XML format",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "enhed",
+    "beskrivelse": "enhed",
+    "kilde": "Bygnings- og Boligregistret, BBR",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, som frit bl.a. kan:\n        kopieres, distribueres og offentliggøres,\n        ændres og sammensættes med andet materiale,\n        bruges kommercielt og ikke-kommercielt",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/bygnings-og-boligregistret-bbr/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "automatic",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "Opdateres dagligt via Datafordeler DeltaDaily i XML format",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "enhedejendomsrelation",
+    "beskrivelse": "enhedejendomsrelation",
+    "kilde": "Bygnings- og Boligregistret, BBR",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, som frit bl.a. kan:\n        kopieres, distribueres og offentliggøres,\n        ændres og sammensættes med andet materiale,\n        bruges kommercielt og ikke-kommercielt",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/bygnings-og-boligregistret-bbr/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "automatic",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "Opdateres dagligt via Datafordeler DeltaDaily i XML format",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "etage",
+    "beskrivelse": "etage",
+    "kilde": "Bygnings- og Boligregistret, BBR",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, som frit bl.a. kan:\n        kopieres, distribueres og offentliggøres,\n        ændres og sammensættes med andet materiale,\n        bruges kommercielt og ikke-kommercielt",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/bygnings-og-boligregistret-bbr/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "automatic",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "Opdateres dagligt via Datafordeler DeltaDaily i XML format",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "fordelingaffordelingsareal",
+    "beskrivelse": "fordelingaffordelingsareal",
+    "kilde": "Bygnings- og Boligregistret, BBR",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, som frit bl.a. kan:\n        kopieres, distribueres og offentliggøres,\n        ændres og sammensættes med andet materiale,\n        bruges kommercielt og ikke-kommercielt",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/bygnings-og-boligregistret-bbr/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "automatic",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "Opdateres dagligt via Datafordeler DeltaDaily i XML format",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "fordelingsareal",
+    "beskrivelse": "fordelingsareal",
+    "kilde": "Bygnings- og Boligregistret, BBR",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, som frit bl.a. kan:\n        kopieres, distribueres og offentliggøres,\n        ændres og sammensættes med andet materiale,\n        bruges kommercielt og ikke-kommercielt",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/bygnings-og-boligregistret-bbr/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "automatic",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "Opdateres dagligt via Datafordeler DeltaDaily i XML format",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "grund",
+    "beskrivelse": "grund",
+    "kilde": "Bygnings- og Boligregistret, BBR",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, som frit bl.a. kan:\n        kopieres, distribueres og offentliggøres,\n        ændres og sammensættes med andet materiale,\n        bruges kommercielt og ikke-kommercielt",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/bygnings-og-boligregistret-bbr/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "automatic",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "Opdateres dagligt via Datafordeler DeltaDaily i XML format",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  }
+]

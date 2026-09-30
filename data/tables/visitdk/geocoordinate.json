@@ -1,0 +1,72 @@
+[
+  {
+    "latitude": "56.54465428",
+    "longitude": "9.0270938",
+    "septima_parent_tab": "address",
+    "septima_parent_id": "51906653",
+    "septima_serial": "47115145"
+  },
+  {
+    "latitude": "56.54465428",
+    "longitude": "9.0270938",
+    "septima_parent_tab": "address",
+    "septima_parent_id": "51906654",
+    "septima_serial": "47115146"
+  },
+  {
+    "latitude": "56.061909",
+    "longitude": "9.696827",
+    "septima_parent_tab": "address",
+    "septima_parent_id": "51906655",
+    "septima_serial": "47115147"
+  },
+  {
+    "latitude": "56.0952750481668",
+    "longitude": "9.78797614574432",
+    "septima_parent_tab": "address",
+    "septima_parent_id": "51906656",
+    "septima_serial": "47115148"
+  },
+  {
+    "latitude": "56.0256097378806",
+    "longitude": "9.7012420515346",
+    "septima_parent_tab": "address",
+    "septima_parent_id": "51906657",
+    "septima_serial": "47115149"
+  },
+  {
+    "latitude": "56.0491773384771",
+    "longitude": "9.72134470939636",
+    "septima_parent_tab": "address",
+    "septima_parent_id": "51906658",
+    "septima_serial": "47115150"
+  },
+  {
+    "latitude": "56.06807996",
+    "longitude": "9.94221303",
+    "septima_parent_tab": "address",
+    "septima_parent_id": "51906659",
+    "septima_serial": "47115151"
+  },
+  {
+    "latitude": "55.452104",
+    "longitude": "10.664634999",
+    "septima_parent_tab": "address",
+    "septima_parent_id": "51906660",
+    "septima_serial": "47115152"
+  },
+  {
+    "latitude": "55.45376",
+    "longitude": "10.664957",
+    "septima_parent_tab": "address",
+    "septima_parent_id": "51906661",
+    "septima_serial": "47115153"
+  },
+  {
+    "latitude": "55.451894",
+    "longitude": "10.664533",
+    "septima_parent_tab": "address",
+    "septima_parent_id": "51906662",
+    "septima_serial": "47115154"
+  }
+]

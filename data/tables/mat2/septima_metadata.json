@@ -1,0 +1,152 @@
+[
+  {
+    "tabelnavn": "bygningpaafremmedgrundflade",
+    "beskrivelse": "Matrikel Registerdata fra DAF, 2023",
+    "kilde": "MAT via DAF",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, se url",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsoplysninger-ebr-og-mat/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": "-"
+  },
+  {
+    "tabelnavn": "bygningpaafremmedgrundflade_se",
+    "beskrivelse": "Matrikel Registerdata fra DAF, 2023",
+    "kilde": "MAT via DAF",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, se url",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsoplysninger-ebr-og-mat/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": "-"
+  },
+  {
+    "tabelnavn": "bygningpaafremmedgrundpunkt",
+    "beskrivelse": "Matrikel Registerdata fra DAF, 2023",
+    "kilde": "MAT via DAF",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, se url",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsoplysninger-ebr-og-mat/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": "-"
+  },
+  {
+    "tabelnavn": "bygningpaafremmedgrundpunkt_se",
+    "beskrivelse": "Matrikel Registerdata fra DAF, 2023",
+    "kilde": "MAT via DAF",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, se url",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsoplysninger-ebr-og-mat/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": "-"
+  },
+  {
+    "tabelnavn": "centroide",
+    "beskrivelse": "Matrikel Registerdata fra DAF, 2023",
+    "kilde": "MAT via DAF",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, se url",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsoplysninger-ebr-og-mat/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": "-"
+  },
+  {
+    "tabelnavn": "centroide_sekundaerforretnings",
+    "beskrivelse": "Matrikel Registerdata fra DAF, 2023",
+    "kilde": "MAT via DAF",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, se url",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsoplysninger-ebr-og-mat/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": "-"
+  },
+  {
+    "tabelnavn": "ejerlav",
+    "beskrivelse": "Matrikel Registerdata fra DAF, 2023",
+    "kilde": "MAT via DAF",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, se url",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsoplysninger-ebr-og-mat/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": "-"
+  },
+  {
+    "tabelnavn": "ejerlejlighed",
+    "beskrivelse": "Matrikel Registerdata fra DAF, 2023",
+    "kilde": "MAT via DAF",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, se url",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsoplysninger-ebr-og-mat/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": "-"
+  },
+  {
+    "tabelnavn": "ejerlejlighed_sekundaerforretn",
+    "beskrivelse": "Matrikel Registerdata fra DAF, 2023",
+    "kilde": "MAT via DAF",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, se url",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsoplysninger-ebr-og-mat/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": "-"
+  },
+  {
+    "tabelnavn": "ejerlejlighedslod",
+    "beskrivelse": "Matrikel Registerdata fra DAF, 2023",
+    "kilde": "MAT via DAF",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, se url",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsoplysninger-ebr-og-mat/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": "-"
+  }
+]

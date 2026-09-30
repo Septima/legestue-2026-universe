@@ -1,0 +1,395 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.399828935,
+          55.809919072,
+          38.54
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1000428632",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2015-11-27T13:27:31.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "DSM GEODATA (P) LTD",
+        "virkningfra": "2015-11-27T13:27:31.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Beregnet",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Beregnet",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "underminimummast": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "146199878",
+        "septima_hash86": "UBqQ9jGStp37qHoDlXSNR22iJdbN9LlX8Okli5ctH3aIINeivybYUvfzFN0rBrbYFqjfRXbzLkQ4QuWMFyLImg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376379693,
+          55.817059651,
+          38.05
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1000428633",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2015-11-27T13:27:31.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "DSM GEODATA (P) LTD",
+        "virkningfra": "2015-11-27T13:27:31.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Beregnet",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Beregnet",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "underminimummast": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "146199879",
+        "septima_hash86": "PRydT2eB4gxFeonij9o4RaRvlgJ+29R1NkC1z6NdEOS6f3mODqViI4/9t9q3hQWisgEcAKwoja7ejWTOVon5DA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.361074861,
+          55.824154292,
+          51.18
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1000428634",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2015-11-27T13:27:31.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "DSM GEODATA (P) LTD",
+        "virkningfra": "2015-11-27T13:27:31.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Beregnet",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Beregnet",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "underminimummast": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "146199880",
+        "septima_hash86": "WPc/fLJIjDyz7HcECHClRHMwIQPHeXhvJd/nfsNABfgx/9HdJS3lwPf8Fc4ZwgQ58B4AVK3VScLTrKSyLr/IHg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378124783,
+          55.814038278,
+          34.19
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1000428636",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2015-11-27T13:27:31.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "DSM GEODATA (P) LTD",
+        "virkningfra": "2015-11-27T13:27:31.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Beregnet",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Beregnet",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "underminimummast": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "146199881",
+        "septima_hash86": "qz3WJXv841p3ar5RW8Ic+lHuMqJGSP+uTj2MECvRtQvy1mTg3CBjSJmAjZu6OzQKWpkf30oFEOiv0QSertsbqg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.359215543,
+          55.818013903,
+          39.38
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1000428637",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2015-11-27T13:27:31.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "DSM GEODATA (P) LTD",
+        "virkningfra": "2015-11-27T13:27:31.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Beregnet",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Beregnet",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "underminimummast": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "146199882",
+        "septima_hash86": "ngpRObzTr/x1P+vb5pJ03F1e+kVaBJ+7tpnGrOmAG46jFaAvJwj0A3YCQF1Vd81jAtED74D9cZheAY2EHOdgrg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.310535973,
+          56.550727619,
+          2.11
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1216735207",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Fotogrammetrisk ajourføring",
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2021-09-07T14:55:20.955Z",
+        "registreringtil": null,
+        "virkningsaktoer": "DSM GEODATA (P) LTD",
+        "virkningfra": "2021-05-01T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": "Udpeget ajourføring 2021",
+        "underminimummast": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "146199883",
+        "septima_hash86": "DcolmgmrHgjiGvzZXnpVEHm8b+uRV0c7PnirgFeeILrpYv2Kugc2S+XwpJ+jWvqaOziEhrB+Wfi2prd1amfUnw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.398713412,
+          55.809108554,
+          37.28
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1000428640",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2015-11-27T13:27:31.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "DSM GEODATA (P) LTD",
+        "virkningfra": "2015-11-27T13:27:31.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Beregnet",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Beregnet",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "underminimummast": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "146199884",
+        "septima_hash86": "rZvgcx2d7S0GWbCQCrzmQIF6mmJScChiGjxh17Cv0PUTeKhwHjvgV7+DemlI4mfA1+TsKMwL+KYmeEVf1gOkkg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378324143,
+          55.815537977,
+          38.01
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1000428641",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2015-11-27T13:27:31.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "DSM GEODATA (P) LTD",
+        "virkningfra": "2015-11-27T13:27:31.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Beregnet",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Beregnet",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "underminimummast": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "146199885",
+        "septima_hash86": "auZTgD1bNOscKUehOG6awk3hCg2zRri5VL6PqhzS7aho2ZIjrr2+CXrTbX2iDxc0Uu15kaHs2iP/ZZEBGiiCnw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378839289,
+          55.815538107,
+          38.41
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1000428642",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2015-11-27T13:27:31.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "DSM GEODATA (P) LTD",
+        "virkningfra": "2015-11-27T13:27:31.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Beregnet",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Beregnet",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "underminimummast": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "146199886",
+        "septima_hash86": "qi/XtdODjxegUH3bMfSDkDUsLVli2e3gfYA3GdnpU9xikUAWBP5blyoW0EbDagUvgCmSlFKDW8aa6lgB9HhCgA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375502413,
+          55.815809015,
+          35.9
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1000428643",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2015-11-27T13:27:31.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "DSM GEODATA (P) LTD",
+        "virkningfra": "2015-11-27T13:27:31.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Beregnet",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Beregnet",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "underminimummast": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "146199887",
+        "septima_hash86": "CIFEzxNJO7j8UFtV/B1mN5Pwxg+ZzCZqZm2JQNjSnXpr3XqRLu8qJylpHAB/LnMDUDDX01y8I45wtSDd3oomxw"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1435 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.197513622,
+                55.816894806,
+                0
+              ],
+              [
+                8.197538461,
+                55.816975119,
+                0
+              ],
+              [
+                8.197518632,
+                55.816977056,
+                0
+              ],
+              [
+                8.197528661,
+                55.81700929,
+                0
+              ],
+              [
+                8.197543854,
+                55.817007771,
+                0
+              ],
+              [
+                8.19758501,
+                55.817140487,
+                0
+              ],
+              [
+                8.19739407,
+                55.817159279,
+                0
+              ],
+              [
+                8.197400961,
+                55.817181158,
+                0
+              ],
+              [
+                8.197479267,
+                55.817168281,
+                0
+              ],
+              [
+                8.197534379,
+                55.81727431,
+                0
+              ],
+              [
+                8.197510998,
+                55.817278201,
+                0
+              ],
+              [
+                8.197301381,
+                55.817312686,
+                0
+              ],
+              [
+                8.19724627,
+                55.817206656,
+                0
+              ],
+              [
+                8.197319132,
+                55.817194642,
+                0
+              ],
+              [
+                8.197310899,
+                55.817168171,
+                0
+              ],
+              [
+                8.197303542,
+                55.817168931,
+                0
+              ],
+              [
+                8.197262081,
+                55.817035585,
+                0
+              ],
+              [
+                8.197278871,
+                55.817033987,
+                0
+              ],
+              [
+                8.19726855,
+                55.817000404,
+                0
+              ],
+              [
+                8.197244722,
+                55.817002764,
+                0
+              ],
+              [
+                8.197220177,
+                55.816923711,
+                0
+              ],
+              [
+                8.197240325,
+                55.816921776,
+                0
+              ],
+              [
+                8.197513622,
+                55.816894806,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "332748",
+        "gmlid": "sn.19e4392f-dcb4-5d41-e053-d380220a2006.20150702T143311",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "systemetablering",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "systemetablering",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "19e4392f-dcb4-5d41-e053-d380220a2006",
+        "registreringfra": "2015-07-02T12:33:11.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "systemetablering",
+        "status": "iBrug",
+        "virkningfra": "2015-07-02T12:33:11.000Z",
+        "virkningsaktoer": "systemetablering",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2015-07-02T12:33:11.000Z",
+        "navn_1_skrivemaade": "Nymindegab Museum",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "bygningstype": "museumSamling",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "Ma6CRAvUzrW6SspLA3Kwqdr4DKgTsp043/uah5FZqUSfQy76KtfbuX9Opv/YigAwW+BsgPq3A5LJrbyyKW9KEg",
+        "septima_serial": "6022301"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.494377488,
+                56.380292019,
+                0
+              ],
+              [
+                10.494689017,
+                56.380356374,
+                0
+              ],
+              [
+                10.494673363,
+                56.380382621,
+                0
+              ],
+              [
+                10.494661208,
+                56.380403075,
+                0
+              ],
+              [
+                10.494662038,
+                56.380424271,
+                0
+              ],
+              [
+                10.494663244,
+                56.38045921,
+                0
+              ],
+              [
+                10.494664183,
+                56.380487324,
+                0
+              ],
+              [
+                10.494343016,
+                56.380515995,
+                0
+              ],
+              [
+                10.494336218,
+                56.380454077,
+                0
+              ],
+              [
+                10.494285895,
+                56.380455222,
+                0
+              ],
+              [
+                10.494287112,
+                56.380473898,
+                0
+              ],
+              [
+                10.494232704,
+                56.380474104,
+                0
+              ],
+              [
+                10.494232555,
+                56.380486865,
+                0
+              ],
+              [
+                10.49406063,
+                56.380484534,
+                0
+              ],
+              [
+                10.494061988,
+                56.380386845,
+                0
+              ],
+              [
+                10.494062024,
+                56.380379476,
+                0
+              ],
+              [
+                10.494073204,
+                56.380379611,
+                0
+              ],
+              [
+                10.4942286,
+                56.380381692,
+                0
+              ],
+              [
+                10.494232199,
+                56.38039917,
+                0
+              ],
+              [
+                10.494270628,
+                56.380392058,
+                0
+              ],
+              [
+                10.494271709,
+                56.38037003,
+                0
+              ],
+              [
+                10.494283874,
+                56.380370513,
+                0
+              ],
+              [
+                10.494343234,
+                56.380372673,
+                0
+              ],
+              [
+                10.494377488,
+                56.380292019,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "324754",
+        "gmlid": "sn.19e4392f-bd7b-5d41-e053-d380220a2006.20150702T142859",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "systemetablering",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "systemetablering",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "19e4392f-bd7b-5d41-e053-d380220a2006",
+        "registreringfra": "2015-07-02T12:28:59.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "systemetablering",
+        "status": "iBrug",
+        "virkningfra": "2015-07-02T12:28:59.000Z",
+        "virkningsaktoer": "systemetablering",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2015-07-02T12:28:59.000Z",
+        "navn_1_skrivemaade": "Djurslands Jernbanemuseum",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "bygningstype": "museumSamling",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "dHpp5MDE4bsHRdyXvM0BVDc1j0IidHiorYV8r59NCkB1Ohk+i95cAncZBTdBxeIgV/0Uc6l3aao/x0FbnQc3Sw",
+        "septima_serial": "6022302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.699043515,
+                56.847580295,
+                0
+              ],
+              [
+                9.698863939,
+                56.847656766,
+                0
+              ],
+              [
+                9.698773399,
+                56.847593037,
+                0
+              ],
+              [
+                9.698881566,
+                56.847546883,
+                0
+              ],
+              [
+                9.698768764,
+                56.847467467,
+                0
+              ],
+              [
+                9.698835778,
+                56.847438882,
+                0
+              ],
+              [
+                9.698858371,
+                56.847454747,
+                0
+              ],
+              [
+                9.698879028,
+                56.847445917,
+                0
+              ],
+              [
+                9.698874545,
+                56.847442888,
+                0
+              ],
+              [
+                9.698878774,
+                56.847441067,
+                0
+              ],
+              [
+                9.698845881,
+                56.847417983,
+                0
+              ],
+              [
+                9.698972428,
+                56.847364,
+                0
+              ],
+              [
+                9.699003328,
+                56.847385748,
+                0
+              ],
+              [
+                9.699013737,
+                56.847381287,
+                0
+              ],
+              [
+                9.699142821,
+                56.847472201,
+                0
+              ],
+              [
+                9.698985368,
+                56.847539294,
+                0
+              ],
+              [
+                9.699043515,
+                56.847580295,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "328702",
+        "gmlid": "sn.19e4392f-cce7-5d41-e053-d380220a2006.20150702T143104",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "systemetablering",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "systemetablering",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "19e4392f-cce7-5d41-e053-d380220a2006",
+        "registreringfra": "2015-07-02T12:31:04.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "systemetablering",
+        "status": "iBrug",
+        "virkningfra": "2015-07-02T12:31:04.000Z",
+        "virkningsaktoer": "systemetablering",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2015-07-02T12:31:04.000Z",
+        "navn_1_skrivemaade": "Suldrup Varmeværk",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "bygningstype": "kraftvarmeværk",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "46hjYaDFi6JI/ODJDH5SlwPsXGPB9kXdkn7wY9F0F6MecV/cbolbYeOvtVQvznH/KguIE6y8Ta1bbrxzWyqtog",
+        "septima_serial": "6022303"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.274406734,
+                55.564340605,
+                0
+              ],
+              [
+                12.274404328,
+                55.564342197,
+                0
+              ],
+              [
+                12.274314319,
+                55.56429965,
+                0
+              ],
+              [
+                12.274218848,
+                55.564254371,
+                0
+              ],
+              [
+                12.274223509,
+                55.56425128,
+                0
+              ],
+              [
+                12.274174613,
+                55.564228042,
+                0
+              ],
+              [
+                12.274252701,
+                55.564175065,
+                0
+              ],
+              [
+                12.2743011,
+                55.564198047,
+                0
+              ],
+              [
+                12.274303053,
+                55.564196736,
+                0
+              ],
+              [
+                12.274489852,
+                55.564285156,
+                0
+              ],
+              [
+                12.274472883,
+                55.564296668,
+                0
+              ],
+              [
+                12.274406734,
+                55.564340605,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "328070",
+        "gmlid": "sn.19e4392f-ca6f-5d41-e053-d380220a2006.20150702T143044",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "systemetablering",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "systemetablering",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "19e4392f-ca6f-5d41-e053-d380220a2006",
+        "registreringfra": "2015-07-02T12:30:44.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "systemetablering",
+        "status": "iBrug",
+        "virkningfra": "2015-07-02T12:30:44.000Z",
+        "virkningsaktoer": "systemetablering",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2015-07-02T12:30:44.000Z",
+        "navn_1_skrivemaade": "Mosede Fort",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "bygningstype": "museumSamling",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "JJ8oLKgWiNVg8R52g5Iqg7mBaMw1jtwzsI8jn256J2RfETRC2aSClaZCXV9X/9V3Is6f2xovGnXL24wZxKrTPQ",
+        "septima_serial": "6022304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.826829916,
+                56.436939077,
+                0
+              ],
+              [
+                10.826819771,
+                56.436954143,
+                0
+              ],
+              [
+                10.826757695,
+                56.437046446,
+                0
+              ],
+              [
+                10.826621716,
+                56.437018344,
+                0
+              ],
+              [
+                10.826583381,
+                56.437010462,
+                0
+              ],
+              [
+                10.826604128,
+                56.436979694,
+                0
+              ],
+              [
+                10.826641971,
+                56.436987494,
+                0
+              ],
+              [
+                10.826693447,
+                56.436910893,
+                0
+              ],
+              [
+                10.826829916,
+                56.436939077,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "332345",
+        "gmlid": "sn.19e4392f-db21-5d41-e053-d380220a2006.20150702T143259",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "systemetablering",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "systemetablering",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "19e4392f-db21-5d41-e053-d380220a2006",
+        "registreringfra": "2015-07-02T12:32:59.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "systemetablering",
+        "status": "iBrug",
+        "virkningfra": "2015-07-02T12:32:59.000Z",
+        "virkningsaktoer": "systemetablering",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2015-07-02T12:32:59.000Z",
+        "navn_1_skrivemaade": "Dansk Motor- og Maskinsamling",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "bygningstype": "museumSamling",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "mMXY0Cb+hoDi613KFK3wTrE3KPpxvmqJnzwGRjOGzM22KmCSbWoD9QkRIxh6vYlRHRrZcNAijsaDpyyWwc757g",
+        "septima_serial": "6022305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.522644607,
+                55.255371321,
+                0
+              ],
+              [
+                11.522618994,
+                55.255379402,
+                0
+              ],
+              [
+                11.522592054,
+                55.255351643,
+                0
+              ],
+              [
+                11.522617824,
+                55.255343559,
+                0
+              ],
+              [
+                11.522606042,
+                55.255331488,
+                0
+              ],
+              [
+                11.522780395,
+                55.255276465,
+                0
+              ],
+              [
+                11.522934819,
+                55.255435884,
+                0
+              ],
+              [
+                11.522834835,
+                55.255467436,
+                0
+              ],
+              [
+                11.522862113,
+                55.255495547,
+                0
+              ],
+              [
+                11.522737903,
+                55.255534701,
+                0
+              ],
+              [
+                11.522600481,
+                55.255392729,
+                0
+              ],
+              [
+                11.522650164,
+                55.255377049,
+                0
+              ],
+              [
+                11.522644607,
+                55.255371321,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "330070",
+        "gmlid": "sn.19e4392f-d23f-5d41-e053-d380220a2006.20150702T143143",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "systemetablering",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "systemetablering",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "19e4392f-d23f-5d41-e053-d380220a2006",
+        "registreringfra": "2015-07-02T12:31:43.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "systemetablering",
+        "status": "iBrug",
+        "virkningfra": "2015-07-02T12:31:43.000Z",
+        "virkningsaktoer": "systemetablering",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2015-07-02T12:31:43.000Z",
+        "navn_1_skrivemaade": "Sandved-Tornemark Kraftvarme",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "bygningstype": "kraftvarmeværk",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "qTiP4Af36LajKcv0zW7RzhMnAvLeeV7zFHlXkk7I3yHcxzG3PKlvg5qA8vpfA4SpS9Z1l19YRWE/ndDmwfr9bg",
+        "septima_serial": "6022306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.169702612,
+                56.384953152,
+                0
+              ],
+              [
+                10.169548035,
+                56.384929991,
+                0
+              ],
+              [
+                10.169808165,
+                56.384396787,
+                0
+              ],
+              [
+                10.169936707,
+                56.38441606,
+                0
+              ],
+              [
+                10.169890543,
+                56.384511019,
+                0
+              ],
+              [
+                10.17008157,
+                56.384539766,
+                0
+              ],
+              [
+                10.170297001,
+                56.384572056,
+                0
+              ],
+              [
+                10.170341655,
+                56.384480705,
+                0
+              ],
+              [
+                10.170468408,
+                56.384499726,
+                0
+              ],
+              [
+                10.170415841,
+                56.384607684,
+                0
+              ],
+              [
+                10.170396026,
+                56.384648124,
+                0
+              ],
+              [
+                10.170208453,
+                56.385033109,
+                0
+              ],
+              [
+                10.170051433,
+                56.385009522,
+                0
+              ],
+              [
+                10.170193151,
+                56.384718954,
+                0
+              ],
+              [
+                10.170020187,
+                56.384693002,
+                0
+              ],
+              [
+                10.169842503,
+                56.384666286,
+                0
+              ],
+              [
+                10.169702612,
+                56.384953152,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "324764",
+        "gmlid": "sn.19e4392f-bd85-5d41-e053-d380220a2006.20150702T142859",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "systemetablering",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "systemetablering",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "19e4392f-bd85-5d41-e053-d380220a2006",
+        "registreringfra": "2015-07-02T12:28:59.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "systemetablering",
+        "status": "iBrug",
+        "virkningfra": "2015-07-02T12:28:59.000Z",
+        "virkningsaktoer": "systemetablering",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2015-07-02T12:28:59.000Z",
+        "navn_1_skrivemaade": "Clausholm Slot",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "bygningstype": "museumSamling",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "8Ny5Vf03wXB4pOLeNRq99ZJqwmxMTjj7Fw2bJyb1Oe+1MXiduhIUwOXuyoyYWV/cISlS/NVYOEbunIAadWxJ4w",
+        "septima_serial": "6022307"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.213611128,
+                56.705676717,
+                0
+              ],
+              [
+                8.213627975,
+                56.705667749,
+                0
+              ],
+              [
+                8.213621358,
+                56.705663934,
+                0
+              ],
+              [
+                8.213657203,
+                56.705644664,
+                0
+              ],
+              [
+                8.213721938,
+                56.705681189,
+                0
+              ],
+              [
+                8.213685599,
+                56.705700636,
+                0
+              ],
+              [
+                8.213681077,
+                56.705698181,
+                0
+              ],
+              [
+                8.213664724,
+                56.705706973,
+                0
+              ],
+              [
+                8.213841496,
+                56.705806645,
+                0
+              ],
+              [
+                8.213820187,
+                56.7058181,
+                0
+              ],
+              [
+                8.213870231,
+                56.705846357,
+                0
+              ],
+              [
+                8.213434641,
+                56.706080164,
+                0
+              ],
+              [
+                8.213011842,
+                56.705841747,
+                0
+              ],
+              [
+                8.213447761,
+                56.705607855,
+                0
+              ],
+              [
+                8.213493123,
+                56.705633477,
+                0
+              ],
+              [
+                8.213514267,
+                56.70562211,
+                0
+              ],
+              [
+                8.213611128,
+                56.705676717,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "332701",
+        "gmlid": "sn.19e4392f-dc85-5d41-e053-d380220a2006.20150702T143310",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "systemetablering",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "systemetablering",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "19e4392f-dc85-5d41-e053-d380220a2006",
+        "registreringfra": "2015-07-02T12:33:10.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "systemetablering",
+        "status": "iBrug",
+        "virkningfra": "2015-07-02T12:33:10.000Z",
+        "virkningsaktoer": "systemetablering",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2015-07-02T12:33:10.000Z",
+        "navn_1_skrivemaade": "Kystcentret",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "bygningstype": "museumSamling",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "FZa1gfEy5ktDiIxYU754+4Jt4WCamH9N9Fv75Otwyit/CGr2QDTnZdZ7xxSoq+MHcPoZEq6CcttqjTT6/QnpMA",
+        "septima_serial": "6022308"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.744484108,
+                55.564760451,
+                0
+              ],
+              [
+                9.744473532,
+                55.564754585,
+                0
+              ],
+              [
+                9.744438555,
+                55.564774836,
+                0
+              ],
+              [
+                9.744388719,
+                55.564747282,
+                0
+              ],
+              [
+                9.744423697,
+                55.564727031,
+                0
+              ],
+              [
+                9.744411039,
+                55.564720099,
+                0
+              ],
+              [
+                9.744615871,
+                55.564600871,
+                0
+              ],
+              [
+                9.744689099,
+                55.564641222,
+                0
+              ],
+              [
+                9.744484108,
+                55.564760451,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "323500",
+        "gmlid": "sn.19e4392f-b895-5d41-e053-d380220a2006.20150702T142812",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "systemetablering",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "systemetablering",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "19e4392f-b895-5d41-e053-d380220a2006",
+        "registreringfra": "2015-07-02T12:28:12.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "systemetablering",
+        "status": "iBrug",
+        "virkningfra": "2015-07-02T12:28:12.000Z",
+        "virkningsaktoer": "systemetablering",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2015-07-02T12:28:12.000Z",
+        "navn_1_skrivemaade": "Fredericia Museum",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "bygningstype": "museumSamling",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "uIMOLr+OINk1tz0h4VVnOXKLxedZ6ZRAPs4QVcnpCPpFUkcD8pBFhlAq2sd1mlQ6OMBG6FSpgapgsaLP4vWBTg",
+        "septima_serial": "6022309"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.182884348,
+                56.131098564,
+                0
+              ],
+              [
+                8.183130173,
+                56.131031004,
+                0
+              ],
+              [
+                8.183200244,
+                56.131110536,
+                0
+              ],
+              [
+                8.183133568,
+                56.131128874,
+                0
+              ],
+              [
+                8.183164522,
+                56.131163851,
+                0
+              ],
+              [
+                8.18300819,
+                56.131206844,
+                0
+              ],
+              [
+                8.182976765,
+                56.131171325,
+                0
+              ],
+              [
+                8.182953947,
+                56.131177554,
+                0
+              ],
+              [
+                8.182884348,
+                56.131098564,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "328815",
+        "gmlid": "sn.19e4392f-cd58-5d41-e053-d380220a2006.20150702T143106",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "systemetablering",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "systemetablering",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "19e4392f-cd58-5d41-e053-d380220a2006",
+        "registreringfra": "2015-07-02T12:31:06.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "systemetablering",
+        "status": "iBrug",
+        "virkningfra": "2015-07-02T12:31:06.000Z",
+        "virkningsaktoer": "systemetablering",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2015-07-02T12:31:06.000Z",
+        "navn_1_skrivemaade": "Kloster Kraftvarmeværk",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "bygningstype": "kraftvarmeværk",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "eCQNWSJItWeWwuzDou+vxr3Gvatg7dY6qW+ZrrVPd3bYH0jetKOjjwdjcW/R1Nun0NQwNA2B5bewAKmrqmjuqg",
+        "septima_serial": "6022310"
+      }
+    }
+  ]
+}

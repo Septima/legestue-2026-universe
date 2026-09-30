@@ -1,0 +1,82 @@
+[
+  {
+    "_language": null,
+    "value": "Bredebro afhentningssted holder sommerferielukket fra mandag den 29. juni til søndag den  9. august\nDog åbent hver onsdag i perioden fra kl. 14.30-17",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1151234",
+    "septima_serial": "15456"
+  },
+  {
+    "_language": null,
+    "value": "Summer closed from June 29 - Aug. 9\nHowever, during summerclosing the pickup location will be open from 2.30 pm - 5 pm on Wednesdays",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1151234",
+    "septima_serial": "15457"
+  },
+  {
+    "_language": null,
+    "value": "Højer Afhentningssted holder sommerferielukket fra 15. juni til den 10. august",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1151235",
+    "septima_serial": "15458"
+  },
+  {
+    "_language": null,
+    "value": "The pick-up location is temporarily summer closed until August 10",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1151235",
+    "septima_serial": "15459"
+  },
+  {
+    "_language": null,
+    "value": "Biblioteket bliver til kulturhus i løbet af 2026 og er derfor lukket.",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1151316",
+    "septima_serial": "15460"
+  },
+  {
+    "_language": null,
+    "value": "The library is undergoing remodelling and is therefore closed.",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1151316",
+    "septima_serial": "15461"
+  },
+  {
+    "_language": null,
+    "value": "Servicemeddelelse:  Biblioteket i Hurup modtager ikke bestillinger fra 31.08.26 til og med 10.10.26 grundet flytning.",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1151451",
+    "septima_serial": "15462"
+  },
+  {
+    "_language": null,
+    "value": "Service Notice: Hurup Library will not accept requests from August 31, 2026, through October 10, 2026, due to relocation.",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1151451",
+    "septima_serial": "15463"
+  },
+  {
+    "_language": null,
+    "value": "Lukket på grund af renovering. Forventet åbnet 20.oktober",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1151485",
+    "septima_serial": "15464"
+  },
+  {
+    "_language": null,
+    "value": "Closed due to renovation.",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1151485",
+    "septima_serial": "15465"
+  }
+]

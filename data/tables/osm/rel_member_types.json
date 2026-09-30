@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "node"
+  },
+  {
+    "id": 2,
+    "name": "way"
+  },
+  {
+    "id": 3,
+    "name": "relation"
+  }
+]

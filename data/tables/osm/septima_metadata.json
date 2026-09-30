@@ -1,0 +1,137 @@
+[
+  {
+    "tabelnavn": "nodes",
+    "beskrivelse": "Indeholder data fra OpenStreetMap",
+    "kilde": "OpenStreetMap®",
+    "rettigheder": "OpenStreetMap® er åbne data, gjort tilgængelige under Open Data Commons Open Database License (ODbL) af OpenStreetMap Foundation (OSMF)",
+    "rettigheder_url": "https://www.openstreetmap.org/copyright",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": null
+  },
+  {
+    "tabelnavn": "nodes_points",
+    "beskrivelse": "Indeholder data fra OpenStreetMap",
+    "kilde": "OpenStreetMap®",
+    "rettigheder": "OpenStreetMap® er åbne data, gjort tilgængelige under Open Data Commons Open Database License (ODbL) af OpenStreetMap Foundation (OSMF)",
+    "rettigheder_url": "https://www.openstreetmap.org/copyright",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": null
+  },
+  {
+    "tabelnavn": "rel_member_types",
+    "beskrivelse": "Indeholder data fra OpenStreetMap",
+    "kilde": "OpenStreetMap®",
+    "rettigheder": "OpenStreetMap® er åbne data, gjort tilgængelige under Open Data Commons Open Database License (ODbL) af OpenStreetMap Foundation (OSMF)",
+    "rettigheder_url": "https://www.openstreetmap.org/copyright",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": null
+  },
+  {
+    "tabelnavn": "rels",
+    "beskrivelse": "Indeholder data fra OpenStreetMap",
+    "kilde": "OpenStreetMap®",
+    "rettigheder": "OpenStreetMap® er åbne data, gjort tilgængelige under Open Data Commons Open Database License (ODbL) af OpenStreetMap Foundation (OSMF)",
+    "rettigheder_url": "https://www.openstreetmap.org/copyright",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": null
+  },
+  {
+    "tabelnavn": "rels_members",
+    "beskrivelse": "Indeholder data fra OpenStreetMap",
+    "kilde": "OpenStreetMap®",
+    "rettigheder": "OpenStreetMap® er åbne data, gjort tilgængelige under Open Data Commons Open Database License (ODbL) af OpenStreetMap Foundation (OSMF)",
+    "rettigheder_url": "https://www.openstreetmap.org/copyright",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": null
+  },
+  {
+    "tabelnavn": "rel_types",
+    "beskrivelse": "Indeholder data fra OpenStreetMap",
+    "kilde": "OpenStreetMap®",
+    "rettigheder": "OpenStreetMap® er åbne data, gjort tilgængelige under Open Data Commons Open Database License (ODbL) af OpenStreetMap Foundation (OSMF)",
+    "rettigheder_url": "https://www.openstreetmap.org/copyright",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": null
+  },
+  {
+    "tabelnavn": "ways",
+    "beskrivelse": "Indeholder data fra OpenStreetMap",
+    "kilde": "OpenStreetMap®",
+    "rettigheder": "OpenStreetMap® er åbne data, gjort tilgængelige under Open Data Commons Open Database License (ODbL) af OpenStreetMap Foundation (OSMF)",
+    "rettigheder_url": "https://www.openstreetmap.org/copyright",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": null
+  },
+  {
+    "tabelnavn": "ways_lines",
+    "beskrivelse": "Indeholder data fra OpenStreetMap",
+    "kilde": "OpenStreetMap®",
+    "rettigheder": "OpenStreetMap® er åbne data, gjort tilgængelige under Open Data Commons Open Database License (ODbL) af OpenStreetMap Foundation (OSMF)",
+    "rettigheder_url": "https://www.openstreetmap.org/copyright",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": null
+  },
+  {
+    "tabelnavn": "ways_polygons",
+    "beskrivelse": "Indeholder data fra OpenStreetMap",
+    "kilde": "OpenStreetMap®",
+    "rettigheder": "OpenStreetMap® er åbne data, gjort tilgængelige under Open Data Commons Open Database License (ODbL) af OpenStreetMap Foundation (OSMF)",
+    "rettigheder_url": "https://www.openstreetmap.org/copyright",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": null
+  }
+]

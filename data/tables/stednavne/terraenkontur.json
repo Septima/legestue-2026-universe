@@ -1,0 +1,1823 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              12.473898208,
+              55.681247884,
+              0
+            ],
+            [
+              12.4698679,
+              55.680413573,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "408988",
+        "gmlid": "sn.8654abe7-9dc1-e8d9-e053-d280220a9df7.20190618T212039",
+        "dataansvarligmyndighed": "SDFE",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "8654abe7-9dc1-e8d9-e053-d280220a9df7",
+        "registreringfra": "2019-06-18T19:20:39.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2019-06-18T19:20:39.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2019-04-12T11:36:59.000Z",
+        "navn_1_skrivemaade": "Damhusdæmningen",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "laengde": "270",
+        "terraenkonturtype": "dæmning",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "a8j7YIVm7sIZXTH2of7Vnkn1zK6HOwJhuZ7YuwuPeK32nlLIj6OCBvQu2tSbr/hIPcMPufy/Fzl0gAXZa/TDnA",
+        "septima_serial": "3151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              9.89984255,
+              56.548221148,
+              0
+            ],
+            [
+              9.899592484,
+              56.548156831,
+              0
+            ],
+            [
+              9.899345606,
+              56.548096534,
+              0
+            ],
+            [
+              9.898969095,
+              56.548008963,
+              0
+            ],
+            [
+              9.898566271,
+              56.547888427,
+              0
+            ],
+            [
+              9.898268525,
+              56.547816186,
+              0
+            ],
+            [
+              9.898065521,
+              56.547760781,
+              0
+            ],
+            [
+              9.89769051,
+              56.547646959,
+              0
+            ],
+            [
+              9.897193148,
+              56.547538423,
+              0
+            ],
+            [
+              9.896849625,
+              56.547462825,
+              0
+            ],
+            [
+              9.896778115,
+              56.547444654,
+              0
+            ],
+            [
+              9.896441172,
+              56.54734457,
+              0
+            ],
+            [
+              9.895975591,
+              56.547203993,
+              0
+            ],
+            [
+              9.895418534,
+              56.547039816,
+              0
+            ],
+            [
+              9.894948694,
+              56.546883813,
+              0
+            ],
+            [
+              9.894548936,
+              56.546740601,
+              0
+            ],
+            [
+              9.894111472,
+              56.546577803,
+              0
+            ],
+            [
+              9.893508912,
+              56.546338564,
+              0
+            ],
+            [
+              9.892809187,
+              56.546117001,
+              0
+            ],
+            [
+              9.892124699,
+              56.545913653,
+              0
+            ],
+            [
+              9.891446546,
+              56.545744127,
+              0
+            ],
+            [
+              9.890761157,
+              56.545584982,
+              0
+            ],
+            [
+              9.89033244,
+              56.545447085,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "339076",
+        "gmlid": "sn.1a5a02f0-5f33-9e0b-e053-d480220af5cb.20150708T104830",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "1a5a02f0-5f33-9e0b-e053-d480220af5cb",
+        "registreringfra": "2015-07-08T08:48:30.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2015-07-08T08:48:30.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2015-07-08T08:48:30.000Z",
+        "navn_1_skrivemaade": "Dandige",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "laengde": "663",
+        "terraenkonturtype": "dige",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "Eivgpjd3y78wc2cKD/HTqENne19AZUpD6pl7Gb2btP1scuaFlIs00J1dudxzsP1CiSxA5dJ2sLwr5WKj02wpAg",
+        "septima_serial": "3152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              10.532003161,
+              56.164299162,
+              0
+            ],
+            [
+              10.531851173,
+              56.16432441,
+              0
+            ],
+            [
+              10.531544891,
+              56.16435741,
+              0
+            ],
+            [
+              10.531122989,
+              56.16438663,
+              0
+            ],
+            [
+              10.530830199,
+              56.16439448,
+              0
+            ]
+          ],
+          [
+            [
+              10.530616916,
+              56.164401075,
+              0
+            ],
+            [
+              10.530389353,
+              56.164400928,
+              0
+            ],
+            [
+              10.529857309,
+              56.164434563,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "339079",
+        "gmlid": "sn.1a5a02f0-5f36-9e0b-e053-d480220af5cb.20150708T111728",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "1a5a02f0-5f36-9e0b-e053-d480220af5cb",
+        "registreringfra": "2015-07-08T09:17:28.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2015-07-08T09:17:28.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "suAutoriseret",
+        "navn_1_oprettelsesdato": "2015-07-08T09:17:28.000Z",
+        "navn_1_skrivemaade": "Dragsmur",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "laengde": "121",
+        "terraenkonturtype": "dige",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "1BNX8fKHURKDRyUHWYdVCL97HxGDwfFK9H0L63DOnDr4hM69mlaBpFqco7SmQkmySEzvcCQ7/kKMWixGhjZKOQ",
+        "septima_serial": "3153"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              10.814323093,
+              56.504874686,
+              0
+            ],
+            [
+              10.81378648,
+              56.50479527,
+              0
+            ],
+            [
+              10.813313616,
+              56.504672687,
+              0
+            ],
+            [
+              10.812177148,
+              56.504369913,
+              0
+            ],
+            [
+              10.811155479,
+              56.504054851,
+              0
+            ],
+            [
+              10.810178031,
+              56.503763758,
+              0
+            ],
+            [
+              10.809338945,
+              56.503508204,
+              0
+            ],
+            [
+              10.807978561,
+              56.503121939,
+              0
+            ],
+            [
+              10.807643628,
+              56.503028778,
+              0
+            ],
+            [
+              10.807871666,
+              56.502637625,
+              0
+            ],
+            [
+              10.808174178,
+              56.50208391,
+              0
+            ],
+            [
+              10.80841931,
+              56.501720992,
+              0
+            ],
+            [
+              10.808790546,
+              56.50123232,
+              0
+            ],
+            [
+              10.809054064,
+              56.500699569,
+              0
+            ],
+            [
+              10.80910475,
+              56.500457199,
+              0
+            ],
+            [
+              10.809221436,
+              56.500307679,
+              0
+            ],
+            [
+              10.809209536,
+              56.499433518,
+              0
+            ],
+            [
+              10.809100881,
+              56.498642808,
+              0
+            ],
+            [
+              10.812802893,
+              56.498230913,
+              0
+            ],
+            [
+              10.8146488,
+              56.498022618,
+              0
+            ],
+            [
+              10.815549783,
+              56.497919499,
+              0
+            ],
+            [
+              10.817856181,
+              56.497669018,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "339080",
+        "gmlid": "sn.1a5a02f0-5f37-9e0b-e053-d480220af5cb.20150708T112434",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "1a5a02f0-5f37-9e0b-e053-d480220af5cb",
+        "registreringfra": "2015-07-08T09:24:34.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2015-07-08T09:24:34.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2015-07-08T09:24:34.000Z",
+        "navn_1_skrivemaade": "Dyrehavemur",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "laengde": "1515",
+        "terraenkonturtype": "dige",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "3vj36Q9sh1eqno0/+IA8iTxhfe+QQy8XXu2WFv92JeHmtdibT99HqjDu8uAuXWrHTnSb/s5ieSjRQ5xIC/9egg",
+        "septima_serial": "3154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              10.369469979,
+              54.885918016,
+              0
+            ],
+            [
+              10.369353314,
+              54.885902704,
+              0
+            ],
+            [
+              10.36912202,
+              54.885872328,
+              0
+            ],
+            [
+              10.368664395,
+              54.885810798,
+              0
+            ],
+            [
+              10.368319104,
+              54.885760942,
+              0
+            ],
+            [
+              10.367945715,
+              54.885728479,
+              0
+            ],
+            [
+              10.367544011,
+              54.885697681,
+              0
+            ],
+            [
+              10.366086475,
+              54.885563002,
+              0
+            ],
+            [
+              10.365648477,
+              54.885523798,
+              0
+            ],
+            [
+              10.365266279,
+              54.885474979,
+              0
+            ],
+            [
+              10.364997737,
+              54.885467841,
+              0
+            ],
+            [
+              10.364534216,
+              54.885476014,
+              0
+            ],
+            [
+              10.364201382,
+              54.885503929,
+              0
+            ],
+            [
+              10.363878328,
+              54.885530655,
+              0
+            ],
+            [
+              10.36335976,
+              54.885570717,
+              0
+            ],
+            [
+              10.361945109,
+              54.885879487,
+              0
+            ],
+            [
+              10.360974316,
+              54.886073531,
+              0
+            ],
+            [
+              10.360299553,
+              54.886225428,
+              0
+            ],
+            [
+              10.359812373,
+              54.886327587,
+              0
+            ],
+            [
+              10.35960076,
+              54.886386127,
+              0
+            ],
+            [
+              10.359475199,
+              54.886435257,
+              0
+            ],
+            [
+              10.359210397,
+              54.886562515,
+              0
+            ],
+            [
+              10.358971599,
+              54.886688854,
+              0
+            ],
+            [
+              10.358774324,
+              54.886779767,
+              0
+            ],
+            [
+              10.358558681,
+              54.886857673,
+              0
+            ],
+            [
+              10.358263548,
+              54.886917684,
+              0
+            ],
+            [
+              10.35798256,
+              54.886962528,
+              0
+            ],
+            [
+              10.357703168,
+              54.887031708,
+              0
+            ],
+            [
+              10.357539711,
+              54.887057442,
+              0
+            ],
+            [
+              10.3572647,
+              54.887103924,
+              0
+            ],
+            [
+              10.357051421,
+              54.887173443,
+              0
+            ],
+            [
+              10.356826822,
+              54.887267983,
+              0
+            ],
+            [
+              10.356605473,
+              54.887371115,
+              0
+            ],
+            [
+              10.356425149,
+              54.887493471,
+              0
+            ],
+            [
+              10.356276353,
+              54.887607654,
+              0
+            ],
+            [
+              10.356111472,
+              54.88774889,
+              0
+            ],
+            [
+              10.355820278,
+              54.887935754,
+              0
+            ],
+            [
+              10.355691388,
+              54.888006755,
+              0
+            ],
+            [
+              10.355610481,
+              54.88804882,
+              0
+            ],
+            [
+              10.355353763,
+              54.888171397,
+              0
+            ],
+            [
+              10.354979366,
+              54.888318205,
+              0
+            ],
+            [
+              10.354641821,
+              54.888429639,
+              0
+            ],
+            [
+              10.354211893,
+              54.888589735,
+              0
+            ],
+            [
+              10.353769833,
+              54.888755447,
+              0
+            ],
+            [
+              10.353338815,
+              54.888911149,
+              0
+            ],
+            [
+              10.353012379,
+              54.889056606,
+              0
+            ],
+            [
+              10.352630487,
+              54.889264065,
+              0
+            ],
+            [
+              10.3524374,
+              54.889383051,
+              0
+            ],
+            [
+              10.352269753,
+              54.889479556,
+              0
+            ],
+            [
+              10.352070027,
+              54.889591245,
+              0
+            ],
+            [
+              10.351861998,
+              54.889725047,
+              0
+            ],
+            [
+              10.351650726,
+              54.889901754,
+              0
+            ],
+            [
+              10.351455858,
+              54.890088793,
+              0
+            ],
+            [
+              10.351274972,
+              54.890213843,
+              0
+            ],
+            [
+              10.35120604,
+              54.890259906,
+              0
+            ]
+          ],
+          [
+            [
+              10.350466158,
+              54.890626283,
+              0
+            ],
+            [
+              10.350340544,
+              54.890693197,
+              0
+            ],
+            [
+              10.350156482,
+              54.890760761,
+              0
+            ],
+            [
+              10.349826435,
+              54.890873626,
+              0
+            ],
+            [
+              10.349551038,
+              54.890979502,
+              0
+            ],
+            [
+              10.349307341,
+              54.891063636,
+              0
+            ],
+            [
+              10.349134989,
+              54.891127113,
+              0
+            ],
+            [
+              10.348874372,
+              54.891218174,
+              0
+            ],
+            [
+              10.348659208,
+              54.891302348,
+              0
+            ],
+            [
+              10.348517694,
+              54.891355507,
+              0
+            ],
+            [
+              10.34824259,
+              54.891428393,
+              0
+            ],
+            [
+              10.348027204,
+              54.891487314,
+              0
+            ],
+            [
+              10.347898588,
+              54.89152523,
+              0
+            ],
+            [
+              10.347363227,
+              54.891676854,
+              0
+            ],
+            [
+              10.347108456,
+              54.891756432,
+              0
+            ],
+            [
+              10.346844422,
+              54.891824788,
+              0
+            ],
+            [
+              10.346541439,
+              54.891908135,
+              0
+            ],
+            [
+              10.346200976,
+              54.891989739,
+              0
+            ],
+            [
+              10.345900053,
+              54.892046099,
+              0
+            ],
+            [
+              10.345666745,
+              54.892077443,
+              0
+            ],
+            [
+              10.345419226,
+              54.892122156,
+              0
+            ],
+            [
+              10.345214141,
+              54.892167567,
+              0
+            ],
+            [
+              10.345042677,
+              54.89222995,
+              0
+            ],
+            [
+              10.344911106,
+              54.892291623,
+              0
+            ],
+            [
+              10.344681594,
+              54.892390149,
+              0
+            ]
+          ],
+          [
+            [
+              10.341729915,
+              54.893786983,
+              0
+            ],
+            [
+              10.341791393,
+              54.893774171,
+              0
+            ],
+            [
+              10.341962958,
+              54.893766075,
+              0
+            ],
+            [
+              10.342208457,
+              54.893763363,
+              0
+            ],
+            [
+              10.342587711,
+              54.893750275,
+              0
+            ],
+            [
+              10.34282249,
+              54.893748759,
+              0
+            ],
+            [
+              10.343175672,
+              54.893748809,
+              0
+            ],
+            [
+              10.343463084,
+              54.893735745,
+              0
+            ],
+            [
+              10.343736667,
+              54.893714834,
+              0
+            ],
+            [
+              10.344082105,
+              54.893697711,
+              0
+            ],
+            [
+              10.344393975,
+              54.893679342,
+              0
+            ],
+            [
+              10.344783398,
+              54.893657956,
+              0
+            ],
+            [
+              10.344765321,
+              54.893503842,
+              0
+            ],
+            [
+              10.344738401,
+              54.893299586,
+              0
+            ],
+            [
+              10.344698392,
+              54.893076871,
+              0
+            ],
+            [
+              10.344662957,
+              54.892911895,
+              0
+            ],
+            [
+              10.344644491,
+              54.892834987,
+              0
+            ],
+            [
+              10.344614002,
+              54.892673372,
+              0
+            ],
+            [
+              10.344582766,
+              54.892554814,
+              0
+            ],
+            [
+              10.344558435,
+              54.892456311,
+              0
+            ],
+            [
+              10.344557106,
+              54.892383618,
+              0
+            ],
+            [
+              10.34452214,
+              54.892246767,
+              0
+            ],
+            [
+              10.344423041,
+              54.89200071,
+              0
+            ],
+            [
+              10.344334479,
+              54.891790126,
+              0
+            ],
+            [
+              10.344241569,
+              54.891589387,
+              0
+            ],
+            [
+              10.344141128,
+              54.891373182,
+              0
+            ],
+            [
+              10.34404546,
+              54.891183168,
+              0
+            ],
+            [
+              10.343955909,
+              54.890970887,
+              0
+            ],
+            [
+              10.343845449,
+              54.890744009,
+              0
+            ],
+            [
+              10.343799772,
+              54.890631812,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "339075",
+        "gmlid": "sn.1a5a02f0-5f32-9e0b-e053-d480220af5cb.20150708T103447",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "1a5a02f0-5f32-9e0b-e053-d480220af5cb",
+        "registreringfra": "2015-07-08T08:34:47.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2015-07-08T08:34:47.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2015-07-08T08:34:47.000Z",
+        "navn_1_skrivemaade": "Borgnæsdiget",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "laengde": "2321",
+        "terraenkonturtype": "dige",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "7TVj0FO2YCFC8ZetrciwWwi77jLT8+7zJdgXP+D+lJV8rmVre0U3teuf/bu9Tt54FFeaU+q7sRu9afPYnnc4WQ",
+        "septima_serial": "3155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              11.423474767,
+              55.738837394,
+              0
+            ],
+            [
+              11.423189221,
+              55.738823793,
+              0
+            ],
+            [
+              11.42276712,
+              55.738773878,
+              0
+            ],
+            [
+              11.422266974,
+              55.738685771,
+              0
+            ],
+            [
+              11.421639014,
+              55.738563512,
+              0
+            ],
+            [
+              11.421492464,
+              55.738522718,
+              0
+            ],
+            [
+              11.421406886,
+              55.738481172,
+              0
+            ],
+            [
+              11.421257545,
+              55.738369606,
+              0
+            ],
+            [
+              11.421176483,
+              55.738291667,
+              0
+            ],
+            [
+              11.421078824,
+              55.73819777,
+              0
+            ],
+            [
+              11.420894206,
+              55.738036205,
+              0
+            ]
+          ],
+          [
+            [
+              11.42059395,
+              55.73759972,
+              0
+            ],
+            [
+              11.420384981,
+              55.73732008,
+              0
+            ],
+            [
+              11.420267747,
+              55.737186577,
+              0
+            ],
+            [
+              11.419961518,
+              55.73698795,
+              0
+            ],
+            [
+              11.419877482,
+              55.736863141,
+              0
+            ],
+            [
+              11.419568518,
+              55.73599476,
+              0
+            ],
+            [
+              11.41944484,
+              55.735836846,
+              0
+            ],
+            [
+              11.419233353,
+              55.735637249,
+              0
+            ],
+            [
+              11.41909176,
+              55.735532179,
+              0
+            ],
+            [
+              11.418585957,
+              55.7352076,
+              0
+            ],
+            [
+              11.418230524,
+              55.735062967,
+              0
+            ],
+            [
+              11.41767962,
+              55.734905284,
+              0
+            ],
+            [
+              11.417289171,
+              55.734835762,
+              0
+            ],
+            [
+              11.416755637,
+              55.734794041,
+              0
+            ],
+            [
+              11.416267587,
+              55.734789713,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "339086",
+        "gmlid": "sn.1a5a02f0-5f3c-9e0b-e053-d480220af5cb.20150708T133758",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "1a5a02f0-5f3c-9e0b-e053-d480220af5cb",
+        "registreringfra": "2015-07-08T11:37:58.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2015-07-08T11:37:58.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2015-07-08T11:37:58.000Z",
+        "navn_1_skrivemaade": "Landdige",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "laengde": "654",
+        "terraenkonturtype": "dige",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "iFdvBlZIwZcIK0xvOcF9SxsSizCFwcM1l76RD5hoWZjWh1yuioI8gCByuZtK65c7efJMjsByIlGRum1OJPep+g",
+        "septima_serial": "3156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              11.662284537,
+              55.917425834,
+              0
+            ],
+            [
+              11.662293471,
+              55.917383394,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "448118",
+        "gmlid": "sn.b472551f-1ff1-f20a-e053-d380220adc47.20201119T092440",
+        "dataansvarligmyndighed": "SDFE",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "b472551f-1ff1-f20a-e053-d380220adc47",
+        "registreringfra": "2020-11-19T08:24:40.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2020-11-19T08:24:40.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2020-11-19T08:24:40.000Z",
+        "navn_1_skrivemaade": "Grønnehave Mølle",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "laengde": "5",
+        "terraenkonturtype": "dæmning",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "EmcjXgplN84IVpQUqjEt/0boOzxQdxINItyaJI3hbzbjqtEe72I8WU1/u83mkQP2F1u+Q2/iZDvGpUK4C/qUlQ",
+        "septima_serial": "3157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              8.564734659,
+              56.312550753,
+              0
+            ],
+            [
+              8.565187328,
+              56.313928728,
+              0
+            ],
+            [
+              8.565414463,
+              56.314418827,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "422161",
+        "gmlid": "sn.93fdc72e-75d3-4fac-e053-d380220aef17.20191003T101840",
+        "dataansvarligmyndighed": "SDFE",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "93fdc72e-75d3-4fac-e053-d380220aef17",
+        "registreringfra": "2019-10-03T08:18:40.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2019-10-03T08:18:40.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2019-10-03T08:14:16.000Z",
+        "navn_1_skrivemaade": "Carneiros Dæmning",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "laengde": "212",
+        "terraenkonturtype": "dæmning",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "BMy//5vfLH59ydQay4a5GGIxB4R/NeasVY5HSCdx5uJ39zoqCC4iTbZAYWAsTxaN2nc6nqeczoNaTCrVRnO4bA",
+        "septima_serial": "3158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              11.224910515,
+              55.388777014,
+              0
+            ],
+            [
+              11.222007332,
+              55.387964179,
+              0
+            ],
+            [
+              11.221857623,
+              55.387976413,
+              0
+            ],
+            [
+              11.221628176,
+              55.388056684,
+              0
+            ],
+            [
+              11.221411157,
+              55.388060628,
+              0
+            ],
+            [
+              11.221173715,
+              55.387998355,
+              0
+            ],
+            [
+              11.220316479,
+              55.387909291,
+              0
+            ],
+            [
+              11.220233544,
+              55.38792031,
+              0
+            ],
+            [
+              11.21985811,
+              55.38807933,
+              0
+            ],
+            [
+              11.219692239,
+              55.388101368,
+              0
+            ],
+            [
+              11.21933954,
+              55.388069721,
+              0
+            ],
+            [
+              11.219302959,
+              55.38801331,
+              0
+            ],
+            [
+              11.219274551,
+              55.387804549,
+              0
+            ],
+            [
+              11.219357143,
+              55.387489135,
+              0
+            ],
+            [
+              11.219366914,
+              55.387365294,
+              0
+            ],
+            [
+              11.219275993,
+              55.387233769,
+              0
+            ],
+            [
+              11.216616289,
+              55.38509414,
+              0
+            ],
+            [
+              11.216429481,
+              55.385040452,
+              0
+            ],
+            [
+              11.211890796,
+              55.386349789,
+              0
+            ],
+            [
+              11.21181476,
+              55.386484341,
+              0
+            ],
+            [
+              11.212015366,
+              55.386785112,
+              0
+            ],
+            [
+              11.214543819,
+              55.38926967,
+              0
+            ],
+            [
+              11.214549133,
+              55.389364699,
+              0
+            ],
+            [
+              11.212575542,
+              55.389933141,
+              0
+            ],
+            [
+              11.212458148,
+              55.389925754,
+              0
+            ],
+            [
+              11.212319814,
+              55.389842645,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "429181",
+        "gmlid": "sn.a379a105-057b-ad9c-e053-d480220a084f.20200417T132401",
+        "dataansvarligmyndighed": "SDFE",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "a379a105-057b-ad9c-e053-d480220a084f",
+        "registreringfra": "2020-04-17T11:24:01.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2020-04-17T11:24:01.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2020-04-17T11:24:01.000Z",
+        "navn_1_skrivemaade": "Tjokholmdæmningen",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "laengde": "1650",
+        "terraenkonturtype": "dige",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "+1ACmWy3f863O/hU0D5JUWEx48GKTJMfUZOSLC1Iqr4hDL3YcMEA2VbICx8q/im1/1u1jgUn/AtEiKzcod+O3A",
+        "septima_serial": "3159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              10.483056892,
+              55.518079588,
+              0
+            ],
+            [
+              10.483228505,
+              55.517167873,
+              0
+            ],
+            [
+              10.483496933,
+              55.51572279,
+              0
+            ],
+            [
+              10.483887781,
+              55.513726684,
+              0
+            ],
+            [
+              10.484342538,
+              55.511443574,
+              0
+            ],
+            [
+              10.485086755,
+              55.511074902,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "176302",
+        "gmlid": "sn.1233766a-1c52-6b98-e053-d480220a5a3f.20150326T165205",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "systemetablering",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "systemetablering",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "1233766a-1c52-6b98-e053-d480220a5a3f",
+        "registreringfra": "2015-03-26T15:52:05.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "systemetablering",
+        "status": "iBrug",
+        "virkningfra": "2015-03-26T15:52:05.000Z",
+        "virkningsaktoer": "systemetablering",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2015-03-26T15:52:05.000Z",
+        "navn_1_skrivemaade": "Firtals Dæmning",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "laengde": "805",
+        "terraenkonturtype": "dæmning",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "2uqJjG3P2bv3987lrG9vsJ5XIMEHPr2iCO8yZplyDYzEiFXITHmTTc94u5UDd4u07zB8haLR8gRdJRb8AYE9Eg",
+        "septima_serial": "3160"
+      }
+    }
+  ]
+}

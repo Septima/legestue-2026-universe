@@ -1,0 +1,1261 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.526465213,
+                55.209940195
+              ],
+              [
+                10.534565853,
+                55.218025018
+              ],
+              [
+                10.53406906,
+                55.221697062
+              ],
+              [
+                10.585870612,
+                55.235017717
+              ],
+              [
+                10.57710065,
+                55.236995074
+              ],
+              [
+                10.572949524,
+                55.24265634
+              ],
+              [
+                10.533136031,
+                55.255696191
+              ],
+              [
+                10.533058967,
+                55.258038765
+              ],
+              [
+                10.527429603,
+                55.25886615
+              ],
+              [
+                10.509215628,
+                55.24053059
+              ],
+              [
+                10.50155903,
+                55.238874529
+              ],
+              [
+                10.505251961,
+                55.216431756
+              ],
+              [
+                10.490136272,
+                55.207794633
+              ],
+              [
+                10.509185369,
+                55.202320891
+              ],
+              [
+                10.516858444,
+                55.206244338
+              ],
+              [
+                10.526465213,
+                55.209940195
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1894337",
+        "id_lokalid": "1700701422",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Ryslinge",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "afstemningsomraadenummer": "19",
+        "afstemningsstednavn": "Ryslinge Forsamlingshus",
+        "afstemningsstedadresselokalid": "0a3f508a-3d66-32b8-e044-0003ba298018",
+        "kommunekode": "0430",
+        "kommunelokalid": "1700389158",
+        "opstillingskredsnummer": "48",
+        "opstillingskredslokalid": "1700403616",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700701422",
+        "septima_hash86": "RzU0TVvFp7DEnqs9clD4jtcxxa1NzMX+TpiSc7bk27yKKPfVNJh25B6330ZelhDcSrdVuCxff9q+1HsBlmDpww",
+        "septima_serial": "301516"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.526131264,
+                55.766296722
+              ],
+              [
+                12.519994906,
+                55.775825876
+              ],
+              [
+                12.528369079,
+                55.788588814
+              ],
+              [
+                12.518272472,
+                55.789326974
+              ],
+              [
+                12.501843761,
+                55.790990309
+              ],
+              [
+                12.497025413,
+                55.784244939
+              ],
+              [
+                12.520692183,
+                55.764459937
+              ],
+              [
+                12.526131264,
+                55.766296722
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1894338",
+        "id_lokalid": "1700708642",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Lyngby Idrætsby",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "afstemningsomraadenummer": "02",
+        "afstemningsstednavn": "Lyngby Idrætsby, Hal 2",
+        "afstemningsstedadresselokalid": "0A3F507D-5B3C-32B8-E044-0003BA298018",
+        "kommunekode": "0173",
+        "kommunelokalid": "1700389115",
+        "opstillingskredsnummer": "14",
+        "opstillingskredslokalid": "1700403557",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700708642",
+        "septima_hash86": "oJXvo8vFVWG+NiBhWoVTINeXT3gYigVt2No/VSWZ2n5kEpZ85GLp8BL1FnKeqHcwSA2n2G3vX/nDKfDj6B337g",
+        "septima_serial": "301517"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.107390081,
+                56.514579541
+              ],
+              [
+                10.093531436,
+                56.506823307
+              ],
+              [
+                10.095726715,
+                56.504726667
+              ],
+              [
+                10.092511899,
+                56.498112842
+              ],
+              [
+                10.068798677,
+                56.495604918
+              ],
+              [
+                10.070627706,
+                56.493327863
+              ],
+              [
+                10.075452197,
+                56.487339923
+              ],
+              [
+                10.056164296,
+                56.481358295
+              ],
+              [
+                10.053995359,
+                56.47271363
+              ],
+              [
+                10.058118004,
+                56.467576068
+              ],
+              [
+                10.06579752,
+                56.468152172
+              ],
+              [
+                10.074378434,
+                56.469916431
+              ],
+              [
+                10.077368523,
+                56.465086756
+              ],
+              [
+                10.080913991,
+                56.467283472
+              ],
+              [
+                10.093370172,
+                56.467730479
+              ],
+              [
+                10.112679102,
+                56.46609071
+              ],
+              [
+                10.115512749,
+                56.463291096
+              ],
+              [
+                10.102634172,
+                56.46456475
+              ],
+              [
+                10.120509398,
+                56.45898625
+              ],
+              [
+                10.117072359,
+                56.460397402
+              ],
+              [
+                10.132149987,
+                56.457822477
+              ],
+              [
+                10.126649296,
+                56.464907644
+              ],
+              [
+                10.114446711,
+                56.494319264
+              ],
+              [
+                10.111140014,
+                56.500832197
+              ],
+              [
+                10.114353158,
+                56.512731184
+              ],
+              [
+                10.107390081,
+                56.514579541
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1894339",
+        "id_lokalid": "1700707150",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Rismølleskolen",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "afstemningsomraadenummer": "11",
+        "afstemningsstednavn": "Rismølleskolen",
+        "afstemningsstedadresselokalid": "0A3F5094-CDD1-32B8-E044-0003BA298018",
+        "kommunekode": "0730",
+        "kommunelokalid": "1700389190",
+        "opstillingskredsnummer": "67",
+        "opstillingskredslokalid": "1700403586",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700707150",
+        "septima_hash86": "ERY/p0E80a74MTyboq64fkNlbBL0lMPxrGN5U4GjpQKs1UAUV8nmskHskfzVnTFHH1+jt6IvUbc0xqEu4xPH0A",
+        "septima_serial": "301518"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.146160787,
+                56.208871535
+              ],
+              [
+                9.149561692,
+                56.208877263
+              ],
+              [
+                9.148839203,
+                56.211388176
+              ],
+              [
+                9.145976033,
+                56.221725899
+              ],
+              [
+                9.142874075,
+                56.232072168
+              ],
+              [
+                9.150598242,
+                56.234613651
+              ],
+              [
+                9.109329896,
+                56.26723069
+              ],
+              [
+                9.044549859,
+                56.268685026
+              ],
+              [
+                9.038139172,
+                56.266701761
+              ],
+              [
+                9.034530594,
+                56.237893598
+              ],
+              [
+                9.062383856,
+                56.228969694
+              ],
+              [
+                9.060436266,
+                56.220384421
+              ],
+              [
+                9.065657248,
+                56.218269115
+              ],
+              [
+                9.075990943,
+                56.213483016
+              ],
+              [
+                9.103159291,
+                56.21250702
+              ],
+              [
+                9.106736567,
+                56.208798539
+              ],
+              [
+                9.146160787,
+                56.208871535
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1894340",
+        "id_lokalid": "1700705024",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Ilskov",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "afstemningsomraadenummer": "19",
+        "afstemningsstednavn": "Ilskov Forsamlingshus",
+        "afstemningsstedadresselokalid": "0A3F5091-5B5E-32B8-E044-0003BA298018",
+        "kommunekode": "0657",
+        "kommunelokalid": "1700389181",
+        "opstillingskredsnummer": "81",
+        "opstillingskredslokalid": "1700403589",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700705024",
+        "septima_hash86": "QmTQAnDLkhZWW0p0FgGoCA+OM0cwo/pqExS5hDxDOQAj50UDyxFuNg92fM3Js8aL0fZ+s7+V65CTJPLHmdIPag",
+        "septima_serial": "301519"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.846255369,
+                55.786815618
+              ],
+              [
+                11.845518974,
+                55.7899126
+              ],
+              [
+                11.838627277,
+                55.798638733
+              ],
+              [
+                11.834133266,
+                55.804177746
+              ],
+              [
+                11.826235347,
+                55.809163673
+              ],
+              [
+                11.82122077,
+                55.805646873
+              ],
+              [
+                11.825640637,
+                55.796738641
+              ],
+              [
+                11.821173591,
+                55.786094622
+              ],
+              [
+                11.811224598,
+                55.783249339
+              ],
+              [
+                11.798258488,
+                55.792556566
+              ],
+              [
+                11.791965227,
+                55.78608288
+              ],
+              [
+                11.779533689,
+                55.785396345
+              ],
+              [
+                11.774923821,
+                55.782298258
+              ],
+              [
+                11.779115126,
+                55.776228429
+              ],
+              [
+                11.784548949,
+                55.765861674
+              ],
+              [
+                11.795017703,
+                55.75945388
+              ],
+              [
+                11.801126638,
+                55.758555203
+              ],
+              [
+                11.811420826,
+                55.750494464
+              ],
+              [
+                11.833964462,
+                55.756358343
+              ],
+              [
+                11.833445444,
+                55.759880563
+              ],
+              [
+                11.847787747,
+                55.780369448
+              ],
+              [
+                11.846255369,
+                55.786815618
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1894341",
+        "id_lokalid": "1700707528",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Orø",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "afstemningsomraadenummer": "15",
+        "afstemningsstednavn": "Orø Forsamlingshus",
+        "afstemningsstedadresselokalid": "0A3F5083-2013-32B8-E044-0003BA298018",
+        "kommunekode": "0316",
+        "kommunelokalid": "1700389140",
+        "opstillingskredsnummer": "37",
+        "opstillingskredslokalid": "1700403628",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700707528",
+        "septima_hash86": "00WkUIXOaAXIOxYMB9iLda7cnbb9o2S6OZJ3UGZoQlc9XazSmvDIQto7vZl7CSDP5IqSWT+dGjTik0j6entzdA",
+        "septima_serial": "301520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.68916947,
+                55.182335895
+              ],
+              [
+                10.682460913,
+                55.183843821
+              ],
+              [
+                10.672978768,
+                55.185791919
+              ],
+              [
+                10.651614028,
+                55.19191935
+              ],
+              [
+                10.651612006,
+                55.191919827
+              ],
+              [
+                10.651568987,
+                55.191924274
+              ],
+              [
+                10.625049587,
+                55.194578722
+              ],
+              [
+                10.623057079,
+                55.181516283
+              ],
+              [
+                10.61201275,
+                55.17873911
+              ],
+              [
+                10.596690702,
+                55.177865565
+              ],
+              [
+                10.589343755,
+                55.157993055
+              ],
+              [
+                10.588952334,
+                55.15805352
+              ],
+              [
+                10.590865561,
+                55.145904119
+              ],
+              [
+                10.599958439,
+                55.132617697
+              ],
+              [
+                10.597328107,
+                55.111108216
+              ],
+              [
+                10.621531334,
+                55.112460304
+              ],
+              [
+                10.626540486,
+                55.115981874
+              ],
+              [
+                10.628304771,
+                55.120848494
+              ],
+              [
+                10.622761836,
+                55.130659576
+              ],
+              [
+                10.660068351,
+                55.124174913
+              ],
+              [
+                10.668261573,
+                55.124510582
+              ],
+              [
+                10.678026594,
+                55.121981295
+              ],
+              [
+                10.687327575,
+                55.134723677
+              ],
+              [
+                10.676631197,
+                55.14440585
+              ],
+              [
+                10.691782961,
+                55.159217891
+              ],
+              [
+                10.682740945,
+                55.16787437
+              ],
+              [
+                10.68916947,
+                55.182335895
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1894342",
+        "id_lokalid": "1700705350",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Gudbjerg",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "afstemningsomraadenummer": "21",
+        "afstemningsstednavn": "Gudbjerg Forsamlingshus",
+        "afstemningsstedadresselokalid": "0A3F5088-46D1-32B8-E044-0003BA298018",
+        "kommunekode": "0479",
+        "kommunelokalid": "1700389162",
+        "opstillingskredsnummer": "47",
+        "opstillingskredslokalid": "1700403615",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700705350",
+        "septima_hash86": "M6jHNMPY9yV4YgLzzHZCWc7MAEi+DiTUZCb5fFSQmvdJGJoPnZTQ2iZUmRsW4Gyv219yCJSa9rq00nk1avAn4w",
+        "septima_serial": "301521"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.985486897,
+                55.181926382
+              ],
+              [
+                9.984760507,
+                55.1819052
+              ],
+              [
+                9.985508681,
+                55.177820041
+              ],
+              [
+                9.981756188,
+                55.167332456
+              ],
+              [
+                9.989640689,
+                55.155639995
+              ],
+              [
+                9.99110092,
+                55.14829241
+              ],
+              [
+                9.98698922,
+                55.140565784
+              ],
+              [
+                9.980419065,
+                55.13767226
+              ],
+              [
+                9.978456244,
+                55.132688028
+              ],
+              [
+                10.004633114,
+                55.123205444
+              ],
+              [
+                10.022573083,
+                55.120788866
+              ],
+              [
+                10.034287459,
+                55.124015093
+              ],
+              [
+                10.044046543,
+                55.132461102
+              ],
+              [
+                10.032936077,
+                55.141781457
+              ],
+              [
+                10.02519269,
+                55.150056995
+              ],
+              [
+                10.017253234,
+                55.153923529
+              ],
+              [
+                10.012063105,
+                55.160199435
+              ],
+              [
+                9.997835016,
+                55.16557939
+              ],
+              [
+                9.991630273,
+                55.173617605
+              ],
+              [
+                9.995124596,
+                55.179736442
+              ],
+              [
+                9.9856911,
+                55.175705633
+              ],
+              [
+                9.985848756,
+                55.179885383
+              ],
+              [
+                9.985486897,
+                55.181926382
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                10.050285203,
+                55.273164253
+              ],
+              [
+                10.040988891,
+                55.275228184
+              ],
+              [
+                10.013087406,
+                55.265879391
+              ],
+              [
+                9.975624952,
+                55.26375394
+              ],
+              [
+                9.960800906,
+                55.266971839
+              ],
+              [
+                9.956061357,
+                55.263891551
+              ],
+              [
+                9.952770085,
+                55.255215682
+              ],
+              [
+                9.951853644,
+                55.249615178
+              ],
+              [
+                9.930970561,
+                55.239510905
+              ],
+              [
+                9.927582415,
+                55.238313823
+              ],
+              [
+                9.918130619,
+                55.231363982
+              ],
+              [
+                9.919866051,
+                55.230211427
+              ],
+              [
+                9.923937406,
+                55.221937628
+              ],
+              [
+                9.932257932,
+                55.219137677
+              ],
+              [
+                9.943755241,
+                55.219043356
+              ],
+              [
+                9.966633873,
+                55.218555916
+              ],
+              [
+                9.977667819,
+                55.213835789
+              ],
+              [
+                9.98125985,
+                55.210565947
+              ],
+              [
+                9.995713815,
+                55.218267333
+              ],
+              [
+                10.004768335,
+                55.222182154
+              ],
+              [
+                10.010560502,
+                55.230224212
+              ],
+              [
+                10.014388412,
+                55.23567255
+              ],
+              [
+                10.019386576,
+                55.239484701
+              ],
+              [
+                10.030158805,
+                55.251233687
+              ],
+              [
+                10.050285203,
+                55.273164253
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1899973",
+        "id_lokalid": "1700709318",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Ebberup/Helnæs",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "afstemningsomraadenummer": "02",
+        "afstemningsstednavn": "EBBERUP HALLEN",
+        "afstemningsstedadresselokalid": "0a3f5087-cbee-32b8-e044-0003ba298018",
+        "kommunekode": "0420",
+        "kommunelokalid": "1700389157",
+        "opstillingskredsnummer": "44",
+        "opstillingskredslokalid": "1700403609",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700709318",
+        "septima_hash86": "d+h82GlSdyOibp//hr998AiHXFETfxVooOT4FXnKxNIMTQ6hxg3DXRrhKpCq54yn27jRM68bPg88AZEX9mL1sQ",
+        "septima_serial": "301522"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.964126166,
+                57.021973475
+              ],
+              [
+                9.960801516,
+                57.025661344
+              ],
+              [
+                9.948757267,
+                57.044840813
+              ],
+              [
+                9.945437537,
+                57.040297407
+              ],
+              [
+                9.938059052,
+                57.037761382
+              ],
+              [
+                9.942670806,
+                57.032779844
+              ],
+              [
+                9.948949811,
+                57.032663248
+              ],
+              [
+                9.947467642,
+                57.028859348
+              ],
+              [
+                9.958427109,
+                57.022004379
+              ],
+              [
+                9.964126166,
+                57.021973475
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1898089",
+        "id_lokalid": "1700707394",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Vejgaardhallen",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "afstemningsomraadenummer": "30",
+        "afstemningsstednavn": "Vejgaardhallen",
+        "afstemningsstedadresselokalid": "0A3F509C-DC3A-32B8-E044-0003BA298018",
+        "kommunekode": "0851",
+        "kommunelokalid": "1700389206",
+        "opstillingskredsnummer": "90",
+        "opstillingskredslokalid": "1700403596",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700707394",
+        "septima_hash86": "BNIwIkB3kEg9Y+34lIv2zEd76PihvRx6L7x47DeJ6GjJAvvvWWGPU8DAz2fHqfiUxYQL3MFGhFoY0aP4rPVipQ",
+        "septima_serial": "301523"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.961794832,
+                55.462183725
+              ],
+              [
+                11.958650786,
+                55.464228364
+              ],
+              [
+                11.94527111,
+                55.460410854
+              ],
+              [
+                11.935647985,
+                55.436481949
+              ],
+              [
+                11.957147419,
+                55.419298276
+              ],
+              [
+                11.954238612,
+                55.409607298
+              ],
+              [
+                11.963532666,
+                55.402022737
+              ],
+              [
+                11.997829959,
+                55.402167221
+              ],
+              [
+                12.014585895,
+                55.40035597
+              ],
+              [
+                12.043299527,
+                55.394039141
+              ],
+              [
+                12.048782045,
+                55.400511006
+              ],
+              [
+                12.057050254,
+                55.400560037
+              ],
+              [
+                12.060437882,
+                55.408685705
+              ],
+              [
+                12.052466467,
+                55.411661643
+              ],
+              [
+                12.030553384,
+                55.43373884
+              ],
+              [
+                12.010540094,
+                55.433382467
+              ],
+              [
+                11.982415544,
+                55.443507983
+              ],
+              [
+                11.980520192,
+                55.447939118
+              ],
+              [
+                11.972661007,
+                55.451553394
+              ],
+              [
+                11.961794832,
+                55.462183725
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1898099",
+        "id_lokalid": "1700702164",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Gørslev",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "afstemningsomraadenummer": "10",
+        "afstemningsstednavn": "Ellebækskolen",
+        "afstemningsstedadresselokalid": "0a3f5082-334e-32b8-e044-0003ba298018",
+        "kommunekode": "0259",
+        "kommunelokalid": "1700389136",
+        "opstillingskredsnummer": "34",
+        "opstillingskredslokalid": "1700403633",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700702164",
+        "septima_hash86": "TyRmbJrveMGALEWnAPJvwn7UKhEE56LZ6+O3zmWO0ZYjEBoF6w7fp5/bMl9/Unr2UvQxERsMpndiJ5LP4FJQtg",
+        "septima_serial": "301524"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.480576475,
+                55.355411549
+              ],
+              [
+                10.479503417,
+                55.356174595
+              ],
+              [
+                10.464364139,
+                55.361785929
+              ],
+              [
+                10.43992987,
+                55.374606722
+              ],
+              [
+                10.422086505,
+                55.384961732
+              ],
+              [
+                10.415792851,
+                55.382669171
+              ],
+              [
+                10.395976035,
+                55.381618042
+              ],
+              [
+                10.395555735,
+                55.381341284
+              ],
+              [
+                10.395160173,
+                55.371848452
+              ],
+              [
+                10.414731242,
+                55.365288248
+              ],
+              [
+                10.417954834,
+                55.360438164
+              ],
+              [
+                10.437446737,
+                55.350991996
+              ],
+              [
+                10.477774711,
+                55.353435707
+              ],
+              [
+                10.480576475,
+                55.355411549
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1898100",
+        "id_lokalid": "1700705894",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Rosengårdskolen",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "afstemningsomraadenummer": "25",
+        "afstemningsstednavn": "Rosengårdskolen, Sportshallen",
+        "afstemningsstedadresselokalid": "0A3F5089-CA9A-32B8-E044-0003BA298018",
+        "kommunekode": "0461",
+        "kommunelokalid": "1700389161",
+        "opstillingskredsnummer": "43",
+        "opstillingskredslokalid": "1700403611",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700705894",
+        "septima_hash86": "oDKZzgvGZX+l2HHrQJITNUQ29avIBqjnXll4tTZ8YKiAl1ibtDZdvlOxND8SxFxnyNmJ1f9BPg7TARNYQz35tg",
+        "septima_serial": "301525"
+      }
+    }
+  ]
+}

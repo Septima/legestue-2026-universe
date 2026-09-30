@@ -1,0 +1,72 @@
+[
+  {
+    "inst_type_3": "1010",
+    "inst_type_3_tekst": "Efterskoler med samlet særligt tilbud",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "exJ0PNCx7hNkzVwomQ/zH8NakH3Zk2ntfF6SAe3z5KmDRqaAQUREN3hGuFDiIqJx3DJKJ3D0nPLrqTnf30RZoQ",
+    "septima_serial": "2"
+  },
+  {
+    "inst_type_3": "1011",
+    "inst_type_3_tekst": "Efterskoler",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "CErl+RRKtTJTzbJ5SKGj/ZAAw7Ie1avGALRF/OPNLpnZeyv9LbQOlHpXQCd2yCMT713P8AoI9oA76j12NN+ePQ",
+    "septima_serial": "3"
+  },
+  {
+    "inst_type_3": "1012",
+    "inst_type_3_tekst": "Folkeskoler",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "qpGyPr1TUk12zoyjIXgkF1obplLdJY+6iK7hDIL55LDxbDOXHwsP1K9dkbhvJYjWUx2kt24SbceJ6dWs3MMEZw",
+    "septima_serial": "4"
+  },
+  {
+    "inst_type_3": "1013",
+    "inst_type_3_tekst": "Friskoler og private grundskoler",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "I0QRH4PWlIIIWiqEnZZDHdLQoRv1yeVKWMibRf2SLaT0zRNLXXMqjmadhzq6Vt9DTY9+H06ZGeVGxLtTmVDatg",
+    "septima_serial": "5"
+  },
+  {
+    "inst_type_3": "1014",
+    "inst_type_3_tekst": "Kommunale ungdomsskoler og ungdomskostskoler",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "mPe5l2mBwur/BxnCDQML1wvrmUD1LPF5U1+g4u9438zEoJAGjEoEfnTJIi7xbukayfFWIyilKZrgVeXcGZh9rA",
+    "septima_serial": "6"
+  },
+  {
+    "inst_type_3": "1015",
+    "inst_type_3_tekst": "Specialskoler for børn",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "7/xrKCwy3k05MHPho/Iq5KqinLckWBNbOb2JWJ+FC7lU9djLHmvYm+6qwuKYJIVh1LBFHrfT02IfmmB4Cwq6bA",
+    "septima_serial": "7"
+  },
+  {
+    "inst_type_3": "1016",
+    "inst_type_3_tekst": "Dagbehandlingstilbud og behandlingshjem",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "GsvqmYUgp/4g3hZIw0tIg3m06cEbk18mAzUtc6Y6mzb5QhRsNJFqX5jDuUfbAVx78PHWOHHUvxeIiMNd1ymkQg",
+    "septima_serial": "8"
+  },
+  {
+    "inst_type_3": "1017",
+    "inst_type_3_tekst": "Kommunale internationale skoler",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "/JTsSAESm96YJ/ufOwEzg2KeY1GQHWT/o6Y2KN1+bj8pWQEvxF+twfKHzZaCxUJe53lrTz2uSZ8mvEMUMh8ZHA",
+    "septima_serial": "9"
+  },
+  {
+    "inst_type_3": "1018",
+    "inst_type_3_tekst": "Frie og private internationale skoler",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "3PIRuiV7PKMkRgJo3gHIwdVbEpYHsOSI3zkjf3CpFTbMDk4oMZDPBWZ6MkKFkJGSK0tBtOIfs5od3P1JRhRf5Q",
+    "septima_serial": "10"
+  },
+  {
+    "inst_type_3": "1021",
+    "inst_type_3_tekst": "Daghøjskoler",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "ZRXhIMnLrmxf475hwMbGk2EWvsc4mq4VN8o9vInEcvaqqIycSFQl/54ZT8kxKIMnG+mAD9FvfA1YtMfz2JjJ5g",
+    "septima_serial": "12"
+  }
+]

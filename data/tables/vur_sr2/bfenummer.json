@@ -1,0 +1,82 @@
+[
+  {
+    "bfekrydsreferenceid": "595245316402744",
+    "bfenummer": "2118097",
+    "ejendomsvurderingid": "595219341624526",
+    "datafordeleropdateringstid": "2024-05-14T08:00:39.875Z",
+    "septima_hash86": "q5F//PQm6UlxBthdAC+qCIg6N2TeruyI/pP+fzah5n2Jr665K/gpIX9N6F+Nyzv7zWYuxltuBntY04i0Y6S18w",
+    "septima_serial": "2"
+  },
+  {
+    "bfekrydsreferenceid": "380245316427886",
+    "bfenummer": "5437137",
+    "ejendomsvurderingid": "380245100673431",
+    "datafordeleropdateringstid": "2024-05-14T08:00:39.896Z",
+    "septima_hash86": "Vf5lVPc9Si5PYAhDSn27CEWcB5mCD97xrQgJLX+iDkPH4Hc7QVReuPChgK56cTf73m//ZoNPCeJCM6uhtSPREQ",
+    "septima_serial": "3"
+  },
+  {
+    "bfekrydsreferenceid": "380245316433949",
+    "bfenummer": "5437137",
+    "ejendomsvurderingid": "380245109691077",
+    "datafordeleropdateringstid": "2024-05-14T08:00:39.906Z",
+    "septima_hash86": "TZoPcH3UVdQfIN+3jLRo2PBTE35rfoV5WEk20c+YLzSb7uRnZbn33JDCNlZX7syLx3epxrQ3uRZdN8D5jIptow",
+    "septima_serial": "4"
+  },
+  {
+    "bfekrydsreferenceid": "295245417041252",
+    "bfenummer": "8025380",
+    "ejendomsvurderingid": "295245421690770",
+    "datafordeleropdateringstid": "2024-05-15T08:00:22.576Z",
+    "septima_hash86": "4h1IUVzYiYLrcu/OQWnBH9O1ixprTbdt6ZomkcR0tQqIKyufNA3us7ViGTv8U3xap+AQLEwozsNo9PxQyz//LQ",
+    "septima_serial": "5"
+  },
+  {
+    "bfekrydsreferenceid": "295245417041874",
+    "bfenummer": "8025380",
+    "ejendomsvurderingid": "295245421996021",
+    "datafordeleropdateringstid": "2024-05-15T08:00:22.633Z",
+    "septima_hash86": "5zFL+VBHVUuahllLRRRV4jgnnehJuY5yzKEm6csyZAbvxI44lMzUkunSIM4hvgQGS227y4NQj053A/tdWGcIHQ",
+    "septima_serial": "6"
+  },
+  {
+    "bfekrydsreferenceid": "295245417044072",
+    "bfenummer": "9552045",
+    "ejendomsvurderingid": "295245424899867",
+    "datafordeleropdateringstid": "2024-05-15T08:00:22.634Z",
+    "septima_hash86": "fIPiT1c50sz3v49dCFhvXBmVT05ajNt+TMZfRS7f4MLj6Q78ikl8emg2QTvZxsYjiOph3ibWTGQ3M/tD/lYKBQ",
+    "septima_serial": "7"
+  },
+  {
+    "bfekrydsreferenceid": "295245417057969",
+    "bfenummer": "5455298",
+    "ejendomsvurderingid": "295245424155390",
+    "datafordeleropdateringstid": "2024-05-15T08:00:22.637Z",
+    "septima_hash86": "GkcDo01XkR+28MkoOpTn/CpBvdtV8tg7Xxg597qFKCMeVSIYMPL3MWlUhOUEyIWvFW9M8FiTl+r3SEr9LgC7XA",
+    "septima_serial": "8"
+  },
+  {
+    "bfekrydsreferenceid": "295245417060190",
+    "bfenummer": "100102008",
+    "ejendomsvurderingid": "295245424451209",
+    "datafordeleropdateringstid": "2024-05-15T08:00:22.643Z",
+    "septima_hash86": "YbtQsyGuINojV0HAJvrhiVzlaHjnOcyHJ2Mj8nt7OyA8lCD+HulMSQ6up0wsDu7LKzHy/nFZ0RHEzoA2/e+LCA",
+    "septima_serial": "9"
+  },
+  {
+    "bfekrydsreferenceid": "264245417113011",
+    "bfenummer": "10117685",
+    "ejendomsvurderingid": "264245489592717",
+    "datafordeleropdateringstid": "2024-05-15T08:00:22.646Z",
+    "septima_hash86": "NF+Ys5PcZiEoMQOkWTovLoAN5Gh8OZxMfFNcAWjaWLyVAZ9gJ17/bUDox32X7udcSJE86/AoE6ut+8Qzh4BB/g",
+    "septima_serial": "10"
+  },
+  {
+    "bfekrydsreferenceid": "396245516426659",
+    "bfenummer": "10155888",
+    "ejendomsvurderingid": "396245548147151",
+    "datafordeleropdateringstid": "2024-05-16T08:00:37.056Z",
+    "septima_hash86": "0/biIV/ylCwL9IQMBy6BHqcCsppqsRpiMo6WYg9uEbyh5aY6K/2nTx8fVYEw4tOE0SuiLR3GUPVsomTAMMxDmA",
+    "septima_serial": "11"
+  }
+]

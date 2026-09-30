@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1336083,
+          55.7339112
+        ]
+      },
+      "properties": {
+        "id": "115732",
+        "septima_serial": "942070563",
+        "septima_hash86": "q6fC2dMZNe4Mu5vx9gZu9lFsAJe+EeLRHhrEad4SggzopvoYbtLqQw0DjfUBmCKWuPY+4jiO9xUtqGEt1/TGyA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1338262,
+          55.7339097
+        ]
+      },
+      "properties": {
+        "id": "115733",
+        "septima_serial": "942070564",
+        "septima_hash86": "DVDon1tArCJZLS5JUUVANjyw/LCaWyJPONvgD8jSPamEooEtGPIOqQj7rUnz4aa9k42piopJ+XA+FLUqqH7wsw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.131581,
+          55.7354767
+        ]
+      },
+      "properties": {
+        "id": "115740",
+        "septima_serial": "942070565",
+        "septima_hash86": "mTFGuaSqZm+4g0EfX2EqnnoQeIDHAWk61Aj98iQ5hiOJ+By5SfvpxE4UduVdSNJJwJEJMlnqpaq/+yWr6qJrNA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0945198,
+          55.7289205
+        ]
+      },
+      "properties": {
+        "id": "115858",
+        "septima_serial": "942070566",
+        "septima_hash86": "I2B4nWjCUhE6fn3YXyZpbC5rHKVAFTl1JnjXBlXL+bxGmXDtxMj92PuGvCBBUUBcTiozwPE6wBeP+mj+D9xCNg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8338879,
+          55.8547506
+        ]
+      },
+      "properties": {
+        "id": "117111",
+        "septima_serial": "942070569",
+        "septima_hash86": "5VdvvCYVU2brhoYvF6e4++WPV/0F5rXcYtgOIpAj8i8QkR0GEZBLTWBBDi0rysKTp6snr3BNpocQQSUreku4Jg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8447419,
+          55.8636993
+        ]
+      },
+      "properties": {
+        "id": "117123",
+        "septima_serial": "942070570",
+        "septima_hash86": "uqKLPNNrDEC/46uiIJp3+SFisLfxmEG7/uJCy9jpLBTwScdP6tSpjHjtGjX8rdaBCJtg39tzGVbzQvs4SF3JBg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8550256,
+          55.8623995
+        ]
+      },
+      "properties": {
+        "id": "117127",
+        "septima_serial": "942070571",
+        "septima_hash86": "m2fopUSHTPev2Pq0lpxAS19H2cleDLBA4U1PA7sXNTTRr+VIP4bQMgcZppWOhA5xXzDBVXLZXn/h4r8fZpiLZw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8687494,
+          55.863919
+        ]
+      },
+      "properties": {
+        "id": "117132",
+        "septima_serial": "942070572",
+        "septima_hash86": "Bl17Wj+KkT2eczJCcRTe12/AcUFVISDFPH9WUdsOMs4JRyhIgFON4tDFHzllku1OXq7aZUWeWaAmf0AF0YPHxA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8766055,
+          55.8656166
+        ]
+      },
+      "properties": {
+        "id": "117134",
+        "septima_serial": "942070573",
+        "septima_hash86": "rSugtWKN5bTf24hEAhQWGWPhH7hmVBctdoU24BiZm/gAEJPI7teRPar7Cki83bZoBHjLaLJLgT67ktZcjHwt5A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.886706,
+          55.8679709
+        ]
+      },
+      "properties": {
+        "id": "117135",
+        "septima_serial": "942070574",
+        "septima_hash86": "bRuJRp7FpzijP/i78X6E/ot9WfVtjF52yj3vm6J7NfOxRqCvzjThpO3wEbqMb3uwGRPZZFL09F9Xp86kXHrHEg"
+      }
+    }
+  ]
+}

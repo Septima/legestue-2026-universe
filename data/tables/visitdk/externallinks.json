@@ -1,0 +1,82 @@
+[
+  {
+    "linktype": "Ekstern link 1",
+    "url": "https://api.www.danmarkssmukkeste.dk/sites/danmarkssmukkeste.com/files/2024-06/Det%20sker%20i%20Danmarks%20Smukkeste%20sommer%202024.pdf",
+    "name": "Download oversigt i PDF",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392799",
+    "septima_serial": "7170654"
+  },
+  {
+    "linktype": "Ekstern link 1",
+    "url": "https://dk.trustpilot.com/review/www.camillasdiner.dk",
+    "name": "Trustpilot",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392802",
+    "septima_serial": "7170655"
+  },
+  {
+    "linktype": "TripAdvisor",
+    "url": "https://www.tripadvisor.dk/Hotel_Review-g1102747-d3223587-Reviews-Voerladegaard-Skanderborg_East_Jutland_Jutland.html",
+    "name": "TripAdvisor",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392807",
+    "septima_serial": "7170656"
+  },
+  {
+    "linktype": "TripAdvisor",
+    "url": "https://www.tripadvisor.dk/Hotel_Review-g1102747-d2278361-Reviews-Motellet_Skanderborg_Syd-Skanderborg_East_Jutland_Jutland.html",
+    "name": "TripAdvisor",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392808",
+    "septima_serial": "7170657"
+  },
+  {
+    "linktype": "Ekstern link 1",
+    "url": "https://www.eon.dk/privat/strom-til-din-elbil/oversigt-ladepunkter-til-elbil.html",
+    "name": "Oversigt over ladestandere fra E.ON",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392839",
+    "septima_serial": "7170658"
+  },
+  {
+    "linktype": "Rabat link",
+    "url": "https://annerisum.bigcartel.com/",
+    "name": "Anne Risum",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392842",
+    "septima_serial": "7170659"
+  },
+  {
+    "linktype": "Rabat link",
+    "url": "https://www.tanjae.dk/",
+    "name": "Tanja Eijgendal",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392842",
+    "septima_serial": "7170660"
+  },
+  {
+    "linktype": "Booking",
+    "url": "http://www.vikingfregerslev.dk/",
+    "name": "Læs mere",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392853",
+    "septima_serial": "7170661"
+  },
+  {
+    "linktype": "Ekstern link 1",
+    "url": "http://www.vikingfregerslev.dk/viking-fregerslev",
+    "name": "Læs mere om Vikingen på Fregerslev og kunst- og historielunden.",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392856",
+    "septima_serial": "7170662"
+  },
+  {
+    "linktype": "x-1001 fortællinger",
+    "url": "https://www.lagersalg.com/dansk-outlet-langeskov",
+    "name": "Hjemmeside",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392974",
+    "septima_serial": "7170663"
+  }
+]

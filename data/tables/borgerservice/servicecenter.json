@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Rigsombuddet på Færøerne",
+    "address": "Amtmandsbrekkan 6",
+    "zip": "0100",
+    "city": "Thorshavn, Færøerne",
+    "septima_hash86": "zLMSpcEVgAOBkd1mEBeAERGoMCaGlFBf+WPDZI2vj6enuxLkjsymCo4fNOH8U9AX+czrYROHMG4b/jBnCJnnyQ",
+    "septima_serial": "2"
+  },
+  {
+    "name": "Borgerservice Indre By",
+    "address": "Nyropsgade 7",
+    "zip": "1602",
+    "city": "København V",
+    "septima_hash86": "Xk1RZjwAbON3xslNvBNsUisYEBfB+8jLHV9bpVVvOTRXX/JYrLEsyE2E8brBlQHAgBze3ecg1nPLKSoKut8Oeg",
+    "septima_serial": "3"
+  },
+  {
+    "name": "Biblioteket Frederiksberg",
+    "address": "Falkoner Plads 3",
+    "zip": "2000",
+    "city": "Frederiksberg",
+    "septima_hash86": "sViqKBfo6mNkjVJeubXIZRXY7PK4ECggtD74GEL3R6BVyG3e5M+8DEzpB2HjA/plon44H44WARWxIQ1jXU9SdQ",
+    "septima_serial": "4"
+  },
+  {
+    "name": "BorgerServiceCenter Frederiksberg",
+    "address": "Smallegade 1",
+    "zip": "2000",
+    "city": "Frederiksberg",
+    "septima_hash86": "bFpGhm8qc7qTLPUEJcFFicpsDgT85u40984oTWWwLOsDo8cnM/37Wt7awo9k3dxyRDM8fpzjpdQX8Pb/DJVOqQ",
+    "septima_serial": "5"
+  },
+  {
+    "name": "Borgerservice - Øbro Jagtvej Bibliotek",
+    "address": "Jagtvej 227",
+    "zip": "2100",
+    "city": "København Ø",
+    "septima_hash86": "WSJWYQNejMiahr423vDRRZCGPpYJsqgLPWhihbz5xhzjruDz9ZLjTeQ++XaXOS16u9i/DimZp4OzBSAQtze9Zg",
+    "septima_serial": "6"
+  },
+  {
+    "name": "Borgerservice Sundby Bibliotek",
+    "address": "Jemtelandsgade 3",
+    "zip": "2300",
+    "city": "København S",
+    "septima_hash86": "BVhEXn8q41xTIJMocifJwoly5Q4PjVCcNUAXbmjXidOk/0FlLX0hGSlRKMNElvnVT/BMUwSovV4wmNIPmjSpUA",
+    "septima_serial": "7"
+  },
+  {
+    "name": "Borgerservice - BIBIBLIOTEKET Rentemestervej",
+    "address": "Rentemestervej 76",
+    "zip": "2400",
+    "city": "København NV",
+    "septima_hash86": "cwVHzCJUO5RN2yRCbwPdH96TnX6JsvVZDZ0Rr0yvZvK5mBrTlr9A8hNbGdfw5Sgd/4t9HTiYk2zP2o//NnnBEg",
+    "septima_serial": "8"
+  },
+  {
+    "name": "Borgerservice - Valby",
+    "address": "Gammel Køge Landevej 43",
+    "zip": "2500",
+    "city": "Valby",
+    "septima_hash86": "bFWAHugxsbcbLKgDkYnEpwsq0FVyniuN4RzlPPcdnoYEx4ZEPN1p/mJ3RI9dar1/cSy+6vDfsuLCcU3R2VZZhQ",
+    "septima_serial": "9"
+  },
+  {
+    "name": "Glostrup Borgerservice",
+    "address": "Rådhusparken 2",
+    "zip": "2600",
+    "city": "Glostrup",
+    "septima_hash86": "t6uW6PLMhooYW4lHn0Mt2emxsPUOoEnEgFDlOP8CeM8+v384lRSugpx2OLXsPtOER3fEde7FNXWsUBzqkQ4fTg",
+    "septima_serial": "10"
+  },
+  {
+    "name": "Brøndby Kommune",
+    "address": "Park Alle 160",
+    "zip": "2605",
+    "city": "Brøndby",
+    "septima_hash86": "GW6ML2/Nk+62yVvjX0V3LsiIYwWSk9Ern4/TjOIzgmFCD9faLVrTnSmKJTCNi95emcPkmMLbB6rjjUHRHvv/QQ",
+    "septima_serial": "11"
+  }
+]

@@ -1,0 +1,755 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.498125342,
+              55.629783471,
+              0
+            ],
+            [
+              9.497777339,
+              55.62921852,
+              0
+            ],
+            [
+              9.498169645,
+              55.629006485,
+              0
+            ],
+            [
+              9.49858888,
+              55.628926787,
+              0
+            ],
+            [
+              9.499125551,
+              55.6294898,
+              0
+            ],
+            [
+              9.498125342,
+              55.629783471,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1206658500",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Vejle kommune",
+        "registreringfra": "2024-06-11T10:31:28.948Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Vejle kommune",
+        "virkningfra": "2019-04-04T13:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "aar": "2025",
+        "nummer": "5210",
+        "kilde": "0630",
+        "aktion": "Ændre geometri",
+        "objtype": "Sø",
+        "foretaget": "NEJ",
+        "septima_transaktion_id": "129818021",
+        "septima_serial": "332410",
+        "septima_hash86": "Ee8UevLwBhkzZ99fiB0nUnMjEAhlpGcF1CbF2joRnr7iRENcHjJ2ITIYM2qfGucFYY28pwKSg0pKR89Cjjt0uQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.415159335,
+              55.81647871,
+              0
+            ],
+            [
+              9.4167165,
+              55.816263189,
+              0
+            ],
+            [
+              9.416854592,
+              55.817059268,
+              0
+            ],
+            [
+              9.415303533,
+              55.817011771,
+              0
+            ],
+            [
+              9.415159335,
+              55.81647871,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1206658502",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Vejle kommune",
+        "registreringfra": "2024-06-11T10:31:28.948Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Vejle kommune",
+        "virkningfra": "2019-04-04T13:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "aar": "2025",
+        "nummer": "5212",
+        "kilde": "0630",
+        "aktion": "Ny",
+        "objtype": "Sø",
+        "foretaget": "NEJ",
+        "septima_transaktion_id": "129818021",
+        "septima_serial": "332420",
+        "septima_hash86": "haU09nTthM08S2CREjergzZIjvVDE1d3JpO9zrLfXiZoZS6uAUtw0+QIUrRs60kKYvXnSfzQQAfC7AKqpu9HBA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.889530147,
+              55.003448458,
+              -999
+            ],
+            [
+              11.889314829,
+              55.002996956,
+              -999
+            ],
+            [
+              11.890157601,
+              55.003286821,
+              -999
+            ],
+            [
+              11.890152021,
+              55.003320128,
+              -999
+            ],
+            [
+              11.890108231,
+              55.003354973,
+              -999
+            ],
+            [
+              11.890077048,
+              55.003417208,
+              -999
+            ],
+            [
+              11.890182149,
+              55.003464965,
+              -999
+            ],
+            [
+              11.890221099,
+              55.003684572,
+              -999
+            ],
+            [
+              11.889530147,
+              55.003448458,
+              -999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1230197688",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Vordingborg kommune",
+        "registreringfra": "2024-10-29T15:08:44.276Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Vordingborg kommune",
+        "virkningfra": "2024-07-02T11:47:26.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "aar": "2024",
+        "nummer": "1",
+        "kilde": "0390",
+        "aktion": "Ny",
+        "objtype": "TekniskAnlægFlade",
+        "foretaget": "NEJ",
+        "septima_transaktion_id": "133147926",
+        "septima_serial": "375508",
+        "septima_hash86": "/Air+M5JiQqlaiGguOsqAcCpZhSXgzkk3GCltnMcd8seG5GHrJy1+nbkH9FTLNBgYvHKvfI6mPuK7/Pxrk9l5A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.857737052,
+              56.546628542,
+              -999
+            ],
+            [
+              9.857850068,
+              56.546426059,
+              -999
+            ],
+            [
+              9.857626721,
+              56.54638151,
+              -999
+            ],
+            [
+              9.857497232,
+              56.546582039,
+              -999
+            ],
+            [
+              9.857737052,
+              56.546628542,
+              -999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1226198308",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Randers kommune",
+        "registreringfra": "2024-10-28T15:25:26.527Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Randers kommune",
+        "virkningfra": "2023-11-22T07:56:26.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "aar": "2024",
+        "nummer": "1",
+        "kilde": "0730",
+        "aktion": "Ikke tildelt",
+        "objtype": null,
+        "foretaget": "NEJ",
+        "septima_transaktion_id": "133147926",
+        "septima_serial": "375626",
+        "septima_hash86": "J1b5KSzqLisgovxSN6vCMkIJQQV/eGXLIgpagiE7/NKAoCL378NozxPa8lgv1m4OkPtFw1Nw0STs8GTKnkb2vQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.488585541,
+              57.325242478,
+              -999
+            ],
+            [
+              10.489970733,
+              57.325628307,
+              -999
+            ],
+            [
+              10.489878023,
+              57.32574656,
+              -999
+            ],
+            [
+              10.488467008,
+              57.325338305,
+              -999
+            ],
+            [
+              10.488585541,
+              57.325242478,
+              -999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1230065659",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Frederikshavn kommune",
+        "registreringfra": "2024-12-19T15:39:52.039Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Frederikshavn kommune",
+        "virkningfra": "2024-05-17T07:42:29.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Fortov, rabat, heller, belægning",
+        "aar": "2024",
+        "nummer": "1",
+        "kilde": "0813",
+        "aktion": "Ændre geometri",
+        "objtype": "Vejkant",
+        "foretaget": "NEJ",
+        "septima_transaktion_id": "134093206",
+        "septima_serial": "387678",
+        "septima_hash86": "1BZeMwdn5DBztt+Fj0CSKiewsHTysN+pgwYT/QxyjBd7jwrNVQbQIQ9h7PeXK2RlD3iFHcF+XGbS1Pg8ip5+lQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.487123124,
+              57.325431643,
+              -999
+            ],
+            [
+              10.487260913,
+              57.325310793,
+              -999
+            ],
+            [
+              10.489615202,
+              57.326081552,
+              -999
+            ],
+            [
+              10.493047301,
+              57.327132548,
+              -999
+            ],
+            [
+              10.495322372,
+              57.327742335,
+              -999
+            ],
+            [
+              10.498276283,
+              57.328553602,
+              -999
+            ],
+            [
+              10.497960506,
+              57.328659424,
+              -999
+            ],
+            [
+              10.493490723,
+              57.327413524,
+              -999
+            ],
+            [
+              10.488905604,
+              57.326059854,
+              -999
+            ],
+            [
+              10.487260556,
+              57.325548611,
+              -999
+            ],
+            [
+              10.487123124,
+              57.325431643,
+              -999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1230065682",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Frederikshavn kommune",
+        "registreringfra": "2024-12-19T15:39:52.039Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Frederikshavn kommune",
+        "virkningfra": "2024-05-17T07:48:49.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Nedlæggelse af fortov 1 side",
+        "aar": "2024",
+        "nummer": "1",
+        "kilde": "0813",
+        "aktion": "Ændre geometri",
+        "objtype": "Vejkant",
+        "foretaget": "NEJ",
+        "septima_transaktion_id": "134093206",
+        "septima_serial": "387679",
+        "septima_hash86": "pPDkNkrPLbLAoG2xysR1QQ9KNRfnym1pxDkrxoN696bGfl8LzxlOENVVK+pyZvUS5XjH/gVyTUA9jp7Lqx/nsg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.495464789,
+              57.333201651,
+              -999
+            ],
+            [
+              10.495364752,
+              57.332223823,
+              -999
+            ],
+            [
+              10.495588579,
+              57.332213077,
+              -999
+            ],
+            [
+              10.49567026,
+              57.33319283,
+              -999
+            ],
+            [
+              10.495464789,
+              57.333201651,
+              -999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1230065722",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Frederikshavn kommune",
+        "registreringfra": "2024-12-19T15:39:52.039Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Frederikshavn kommune",
+        "virkningfra": "2024-05-17T08:08:20.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Fortov fjernet",
+        "aar": "2024",
+        "nummer": "1",
+        "kilde": "0813",
+        "aktion": "Ændre geometri",
+        "objtype": "Vejkant",
+        "foretaget": "NEJ",
+        "septima_transaktion_id": "134093206",
+        "septima_serial": "387687",
+        "septima_hash86": "cmZuLK0SmKuT8B+nhz9XHeXgchg9D80mVZLxZsjRfGruK6JYZqH7LhRbQT8OqR/oczu5IUx98NlY+4A1yg+TNA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.555094243,
+              55.464407296,
+              -999
+            ],
+            [
+              11.55765829,
+              55.463916497,
+              -999
+            ],
+            [
+              11.557316358,
+              55.463307634,
+              -999
+            ],
+            [
+              11.556245464,
+              55.463809214,
+              -999
+            ],
+            [
+              11.555076465,
+              55.46415454,
+              -999
+            ],
+            [
+              11.555094243,
+              55.464407296,
+              -999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1234042752",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "KDS",
+        "registreringfra": "2025-05-28T10:24:34.570Z",
+        "registreringtil": null,
+        "virkningsaktoer": "KDS",
+        "virkningfra": "2025-05-28T09:09:24.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "aar": "2026",
+        "nummer": "1",
+        "kilde": "KDS",
+        "aktion": "Ny",
+        "objtype": "Vejkant",
+        "foretaget": "NY",
+        "septima_transaktion_id": "141887435",
+        "septima_serial": "409270",
+        "septima_hash86": "HdrmzX8EUFaezIzbTbwgRBXJjYp0y0KkkAFLiEWH0mnG9ItijR6UZq3muN0/uVUP1MQke2Kxuagf9L8tCUemmA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.772623349,
+              56.588883625,
+              -999
+            ],
+            [
+              9.771539529,
+              56.587379714,
+              -999
+            ],
+            [
+              9.772638674,
+              56.587288348,
+              -999
+            ],
+            [
+              9.774628335,
+              56.587223145,
+              -999
+            ],
+            [
+              9.774839887,
+              56.588204272,
+              -999
+            ],
+            [
+              9.773613368,
+              56.58861342,
+              -999
+            ],
+            [
+              9.772623349,
+              56.588883625,
+              -999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1231148537",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Mariagerfjord kommune",
+        "registreringfra": "2025-05-30T08:01:49.872Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Mariagerfjord kommune",
+        "virkningfra": "2024-10-21T06:46:54.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "aar": "2026",
+        "nummer": "1",
+        "kilde": "0846",
+        "aktion": "Ny",
+        "objtype": "Bygning",
+        "foretaget": "NY",
+        "septima_transaktion_id": "141887435",
+        "septima_serial": "409293",
+        "septima_hash86": "ZxfeAmLFFG+Y3Q5sJ2xUIko4kKOM7FL/HcCz1CCJ0Z+wBq69njItSN+z6qFm2kME0WBcN6JatihvI2jOE+vR6g"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.860173762,
+              56.768971449,
+              -999
+            ],
+            [
+              9.859946077,
+              56.768644915,
+              -999
+            ],
+            [
+              9.860633915,
+              56.768467404,
+              -999
+            ],
+            [
+              9.860901697,
+              56.768830046,
+              -999
+            ],
+            [
+              9.860173762,
+              56.768971449,
+              -999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1232285620",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Mariagerfjord kommune",
+        "registreringfra": "2025-05-30T08:01:49.872Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Mariagerfjord kommune",
+        "virkningfra": "2025-01-08T13:42:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "aar": "2026",
+        "nummer": "1",
+        "kilde": "0846",
+        "aktion": "Ny",
+        "objtype": "Bygning",
+        "foretaget": "NY",
+        "septima_transaktion_id": "141887435",
+        "septima_serial": "409294",
+        "septima_hash86": "Ql3k8J36sgYkRJhybFw15kG/geqZIIF5zS/xWu2VPRiWuaC+v/0CgzzvGTFi0JbayimWRLimlzKOh4V7F7GAAA"
+      }
+    }
+  ]
+}

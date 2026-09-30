@@ -1,0 +1,710 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.807007892,
+            55.046898679,
+            0.22
+          ],
+          [
+            11.807335035,
+            55.046760864,
+            -0.01
+          ],
+          [
+            11.807676703,
+            55.046624781,
+            -0.06
+          ],
+          [
+            11.808137169,
+            55.046425541,
+            -0.16
+          ],
+          [
+            11.808455466,
+            55.046295658,
+            -0.11
+          ],
+          [
+            11.808962386,
+            55.04608914,
+            0.19
+          ],
+          [
+            11.809356041,
+            55.045922004,
+            0.07
+          ],
+          [
+            11.809433032,
+            55.045876714,
+            0.02
+          ],
+          [
+            11.809484581,
+            55.045830304,
+            -0.01
+          ],
+          [
+            11.809727875,
+            55.045608833,
+            -0.01
+          ],
+          [
+            11.80987717,
+            55.045462533,
+            0.22
+          ],
+          [
+            11.81011292,
+            55.045258586,
+            0.24
+          ],
+          [
+            11.810187486,
+            55.045203283,
+            0.12
+          ],
+          [
+            11.810319555,
+            55.045112849,
+            0.17
+          ],
+          [
+            11.81063942,
+            55.044916218,
+            0.42
+          ],
+          [
+            11.810895266,
+            55.044757835,
+            0.42
+          ],
+          [
+            11.811362232,
+            55.044450821,
+            0.27
+          ],
+          [
+            11.811656776,
+            55.0442661,
+            0.22
+          ],
+          [
+            11.811785591,
+            55.044182931,
+            0.19
+          ],
+          [
+            11.811881054,
+            55.044142157,
+            0.19
+          ],
+          [
+            11.811933133,
+            55.044119017,
+            0.19
+          ],
+          [
+            11.811975212,
+            55.044091704,
+            0.14
+          ],
+          [
+            11.811987408,
+            55.044071374,
+            0.14
+          ],
+          [
+            11.811992315,
+            55.044040874,
+            0.21
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1065553887",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "GST",
+        "registreringfra": "2023-04-21T15:44:01.980Z",
+        "registreringtil": null,
+        "virkningsaktoer": "GST",
+        "virkningfra": "2014-03-06T09:23:47.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "1.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "1.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "vandloebstype": "Almindelig",
+        "vanduuid": null,
+        "fraknude": null,
+        "tilknude": null,
+        "faldretning": "Samme",
+        "netvaerk": false,
+        "midtebredde": "2.5-12",
+        "synligvandloebsmidte": true,
+        "link": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "89049390",
+        "septima_hash86": "Ez8+dzag0pevP6JxdbBqfX1ePL6gKoNBDYTRoBkXlnqflempdelrKfQZ7A0qHmDXC1qb9sl98gZxT+f5P+e9Cw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.984747233,
+            55.021065882,
+            48.89
+          ],
+          [
+            11.985009147,
+            55.021065386,
+            49.21
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1065554047",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "GST",
+        "registreringfra": "2023-04-21T15:44:01.980Z",
+        "registreringtil": null,
+        "virkningsaktoer": "GST",
+        "virkningfra": "2014-03-06T09:23:47.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "1.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "1.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "vandloebstype": "Almindelig",
+        "vanduuid": null,
+        "fraknude": null,
+        "tilknude": null,
+        "faldretning": "Samme",
+        "netvaerk": true,
+        "midtebredde": "0-2.5",
+        "synligvandloebsmidte": true,
+        "link": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "89049391",
+        "septima_hash86": "ih/TskQgvz06uHt9ft2vkdGr14NHst3dMRBhXW5awOjhjEnoYGhcfDcOAyeTKY9W8mBkjOy3VdgWPh4G0CMQ3A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.985009147,
+            55.021065386,
+            49.21
+          ],
+          [
+            11.985104743,
+            55.021065197,
+            49.33
+          ],
+          [
+            11.985157244,
+            55.021059953,
+            49.33
+          ],
+          [
+            11.98521671,
+            55.021045277,
+            49.33
+          ],
+          [
+            11.985571852,
+            55.020964363,
+            50.22
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1065554268",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "GST",
+        "registreringfra": "2023-04-21T15:44:01.980Z",
+        "registreringtil": null,
+        "virkningsaktoer": "GST",
+        "virkningfra": "2014-03-06T09:23:47.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "1.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "1.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "vandloebstype": "Almindelig",
+        "vanduuid": null,
+        "fraknude": null,
+        "tilknude": null,
+        "faldretning": "Samme",
+        "netvaerk": true,
+        "midtebredde": "0-2.5",
+        "synligvandloebsmidte": true,
+        "link": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "89049392",
+        "septima_hash86": "1NMmwg8RfrslykcY4Sl+Vn/LY4vsjPufMlWS9NnB7x7SGjVKCigYu68EklP5QrnwSMs60v5/Ec8CTsXP3CBRGQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.899467628,
+            55.082651955,
+            5
+          ],
+          [
+            11.899469394,
+            55.082628719,
+            4.84
+          ],
+          [
+            11.89952349,
+            55.08252521,
+            4.96
+          ],
+          [
+            11.899594837,
+            55.082270345,
+            4.96
+          ],
+          [
+            11.899655203,
+            55.082030484,
+            4.64
+          ],
+          [
+            11.899688245,
+            55.081781206,
+            4.39
+          ],
+          [
+            11.899714469,
+            55.08146808,
+            4.19
+          ],
+          [
+            11.899752198,
+            55.081183987,
+            3.67
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1065554305",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "GST",
+        "registreringfra": "2023-04-21T15:44:01.980Z",
+        "registreringtil": null,
+        "virkningsaktoer": "GST",
+        "virkningfra": "2014-03-06T09:23:47.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "1.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "1.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "vandloebstype": "Rørlagt",
+        "vanduuid": null,
+        "fraknude": null,
+        "tilknude": null,
+        "faldretning": "Samme",
+        "netvaerk": false,
+        "midtebredde": "Ukendt",
+        "synligvandloebsmidte": false,
+        "link": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "89049393",
+        "septima_hash86": "t6MhPbnTHiRUOUf9HVr3OE1zcQ2LTuqUNjt8F0hwK6E109vnIKbEBfVheXDZt/pdmc+7JEculDpgaF5M7cuJNA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.807007892,
+            55.046898679,
+            0.22
+          ],
+          [
+            11.806896287,
+            55.04698639,
+            0.24
+          ],
+          [
+            11.806776594,
+            55.047048036,
+            0.24
+          ],
+          [
+            11.806509411,
+            55.04716343,
+            0.35
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1065554404",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "GST",
+        "registreringfra": "2023-04-21T15:44:01.980Z",
+        "registreringtil": null,
+        "virkningsaktoer": "GST",
+        "virkningfra": "2014-03-06T09:23:47.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "1.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "1.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "vandloebstype": "Almindelig",
+        "vanduuid": null,
+        "fraknude": null,
+        "tilknude": null,
+        "faldretning": "Samme",
+        "netvaerk": false,
+        "midtebredde": "2.5-12",
+        "synligvandloebsmidte": true,
+        "link": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "89049394",
+        "septima_hash86": "GfsLORGP76en5Hva1GS+DP0ROZyxC1ehBOrxUXcDreKhG/uRm3F0LFP+HZ1ko9GtwXS8KTC3xJe+zfOzD5VDFA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.79389651,
+            55.042748734,
+            4.26
+          ],
+          [
+            11.793655417,
+            55.042600452,
+            3.67
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1096375279",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "GST",
+        "registreringfra": "2023-04-21T15:44:01.980Z",
+        "registreringtil": null,
+        "virkningsaktoer": "GST",
+        "virkningfra": "2016-05-12T09:21:06.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "1.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "1.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "vandloebstype": "Almindelig",
+        "vanduuid": null,
+        "fraknude": null,
+        "tilknude": null,
+        "faldretning": "Modsat",
+        "netvaerk": true,
+        "midtebredde": "0-2.5",
+        "synligvandloebsmidte": true,
+        "link": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "89049395",
+        "septima_hash86": "y7WzRNSBfirguhZygyks9QJDq8YGQC/331qD0zM4US8drOX03SLiu3K74fJdS3nsZuMS3GffiJ3PBy1R+FnJLA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.503384441,
+            56.041683697,
+            41.84
+          ],
+          [
+            12.503216814,
+            56.042072207,
+            40.72
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1078315698",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "KMS",
+        "registreringfra": "2015-09-14T16:25:08.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "KMS",
+        "virkningfra": "2015-09-14T16:25:08.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.20",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.30",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "vandloebstype": "Almindelig",
+        "vanduuid": null,
+        "fraknude": null,
+        "tilknude": null,
+        "faldretning": "Samme",
+        "netvaerk": false,
+        "midtebredde": "0-2.5",
+        "synligvandloebsmidte": true,
+        "link": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "89049396",
+        "septima_hash86": "VXRinttUFpDtcV4X1Zy8Bx1shWfNZRuBXCXRsn2kmqQSlCwXt1xeATDlMBLLzRgCLIivL02XvUmyBNnnrh5zbg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.765089122,
+            55.10920583,
+            -0.76
+          ],
+          [
+            11.768375587,
+            55.109834696,
+            -1.51
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1070322031",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Ukendt",
+        "registreringfra": "2023-04-21T15:44:01.980Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Ukendt",
+        "virkningfra": "2014-12-23T13:23:31.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "1.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "1.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "vandloebstype": "Almindelig",
+        "vanduuid": null,
+        "fraknude": null,
+        "tilknude": null,
+        "faldretning": "Samme",
+        "netvaerk": true,
+        "midtebredde": "2.5-12",
+        "synligvandloebsmidte": true,
+        "link": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "89049397",
+        "septima_hash86": "slAdMObGaCSI9ZMKEl/2TOVsyvMbO+h94KcWf9G+PIo4kOffbjWouuvLnxfR/sih8klKkc8bOcOVG3wnUDyWNw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.451503592,
+            55.746259063,
+            28.12
+          ],
+          [
+            8.451602225,
+            55.746404799,
+            28.05
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1039438015",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2012-01-06T13:16:28.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2012-01-06T13:16:28.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.20",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.30",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "vandloebstype": "Almindelig",
+        "vanduuid": null,
+        "fraknude": null,
+        "tilknude": null,
+        "faldretning": "Samme",
+        "netvaerk": true,
+        "midtebredde": "0-2.5",
+        "synligvandloebsmidte": true,
+        "link": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "89049398",
+        "septima_hash86": "QD1cuouu1n1tRqmKa9FElbnmHGZ+PBeibINCXFHoE0Y4y4A3h6ZjJEpOEsY8y933T1gIG9M8/qpnUVUZZm24fw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.768375587,
+            55.109834696,
+            -1.51
+          ],
+          [
+            11.768473193,
+            55.109844703,
+            -1.51
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1070322032",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Maskinel fejlrettelse",
+        "registreringsaktoer": "Ukendt",
+        "registreringfra": "2023-04-21T15:44:01.980Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Ukendt",
+        "virkningfra": "2014-12-23T13:23:31.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "1.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "1.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "vandloebstype": "Rørlagt",
+        "vanduuid": null,
+        "fraknude": null,
+        "tilknude": null,
+        "faldretning": "Samme",
+        "netvaerk": true,
+        "midtebredde": "Ukendt",
+        "synligvandloebsmidte": false,
+        "link": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "89049399",
+        "septima_hash86": "hJ2S9Bv1ttTnol1kM2GA8WTzn/Ui5OvJ1JfuxlTcJNiS4+m6yobO3pDLck+Wp2Qo/h5+JuiUqPzhTQJoBKAB/Q"
+      }
+    }
+  ]
+}

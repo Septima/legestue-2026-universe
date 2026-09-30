@@ -1,0 +1,72 @@
+[
+  {
+    "id": 215,
+    "name": "Morsø",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392776",
+    "septima_serial": "102748677"
+  },
+  {
+    "id": 322,
+    "name": "Nykøbing Mors",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392776",
+    "septima_serial": "102748678"
+  },
+  {
+    "id": 215,
+    "name": "Morsø",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392777",
+    "septima_serial": "102748679"
+  },
+  {
+    "id": 322,
+    "name": "Nykøbing Mors",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392777",
+    "septima_serial": "102748680"
+  },
+  {
+    "id": 156,
+    "name": "Ry",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392778",
+    "septima_serial": "102748681"
+  },
+  {
+    "id": 665,
+    "name": "Søhøjlandet",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392778",
+    "septima_serial": "102748682"
+  },
+  {
+    "id": 156,
+    "name": "Ry",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392779",
+    "septima_serial": "102748683"
+  },
+  {
+    "id": 665,
+    "name": "Søhøjlandet",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392779",
+    "septima_serial": "102748684"
+  },
+  {
+    "id": 162,
+    "name": "Skanderborg",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392780",
+    "septima_serial": "102748685"
+  },
+  {
+    "id": 665,
+    "name": "Søhøjlandet",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392780",
+    "septima_serial": "102748686"
+  }
+]

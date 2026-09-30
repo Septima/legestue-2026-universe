@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "unknown"
+  },
+  {
+    "id": 2,
+    "name": "multipolygon"
+  },
+  {
+    "id": 3,
+    "name": "route"
+  },
+  {
+    "id": 4,
+    "name": "route_master"
+  },
+  {
+    "id": 5,
+    "name": "restriction"
+  },
+  {
+    "id": 6,
+    "name": "boundary"
+  },
+  {
+    "id": 7,
+    "name": "public_transport"
+  },
+  {
+    "id": 8,
+    "name": "destination_sign"
+  },
+  {
+    "id": 9,
+    "name": "waterway"
+  },
+  {
+    "id": 10,
+    "name": "enforcement"
+  }
+]

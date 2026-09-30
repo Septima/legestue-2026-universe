@@ -1,0 +1,1365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.173044618,
+                55.356847986,
+                0
+              ],
+              [
+                11.173071543,
+                55.356574635,
+                0
+              ],
+              [
+                11.173083347,
+                55.356462109,
+                0
+              ],
+              [
+                11.173122079,
+                55.356352708,
+                0
+              ],
+              [
+                11.173168304,
+                55.356266327,
+                0
+              ],
+              [
+                11.173173196,
+                55.356255985,
+                0
+              ],
+              [
+                11.173173186,
+                55.356255983,
+                0
+              ],
+              [
+                11.173250868,
+                55.35609136,
+                0
+              ],
+              [
+                11.173370525,
+                55.355909819,
+                0
+              ],
+              [
+                11.173509606,
+                55.355743904,
+                0
+              ],
+              [
+                11.173666431,
+                55.355573916,
+                0
+              ],
+              [
+                11.173870517,
+                55.35543175,
+                0
+              ],
+              [
+                11.174086763,
+                55.355307982,
+                0
+              ],
+              [
+                11.174103298,
+                55.355297936,
+                0
+              ],
+              [
+                11.174141469,
+                55.355311305,
+                0
+              ],
+              [
+                11.174254189,
+                55.35534696,
+                0
+              ],
+              [
+                11.174172988,
+                55.355390694,
+                0
+              ],
+              [
+                11.17399253,
+                55.355500496,
+                0
+              ],
+              [
+                11.173829274,
+                55.355628552,
+                0
+              ],
+              [
+                11.17367335,
+                55.355776997,
+                0
+              ],
+              [
+                11.173547677,
+                55.35593969,
+                0
+              ],
+              [
+                11.173453303,
+                55.356099777,
+                0
+              ],
+              [
+                11.173377793,
+                55.35627159,
+                0
+              ],
+              [
+                11.173280671,
+                55.356469367,
+                0
+              ],
+              [
+                11.173218466,
+                55.356924008,
+                0
+              ],
+              [
+                11.173178837,
+                55.356913711,
+                0
+              ],
+              [
+                11.173091146,
+                55.356861845,
+                0
+              ],
+              [
+                11.173044618,
+                55.356847986,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "47929",
+        "lokalid": "2407287_95",
+        "registreringfra": "2018-06-04T02:59:05.090000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2011-10-12T08:48:30.710000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Matrikulær sag",
+        "senestesaglokalid": "100039411",
+        "jordstykkelokalid": "2407287",
+        "temafladeid": "95",
+        "tematype": "Strandbeskyttelse",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "septima_hash86": "iJFvQz4zMIeJiqXj67VFVEfhIMyRfKXKgO7WIFwVAc+TUcDMTeyHM7y9bUur9UH16td07F/xRKJ9uLKv1IV7bA",
+        "septima_serial": "6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.668658025,
+                55.914107169,
+                0
+              ],
+              [
+                11.668557759,
+                55.913631036,
+                0
+              ],
+              [
+                11.668763952,
+                55.913593155,
+                0
+              ],
+              [
+                11.668782021,
+                55.913580575,
+                0
+              ],
+              [
+                11.672284863,
+                55.914267126,
+                0
+              ],
+              [
+                11.672321358,
+                55.914286235,
+                0
+              ],
+              [
+                11.672134929,
+                55.914497813,
+                0
+              ],
+              [
+                11.672967541,
+                55.914676759,
+                0
+              ],
+              [
+                11.672953458,
+                55.914733505,
+                0
+              ],
+              [
+                11.673229173,
+                55.914817099,
+                0
+              ],
+              [
+                11.673305732,
+                55.91473745,
+                0
+              ],
+              [
+                11.673358286,
+                55.914750367,
+                0
+              ],
+              [
+                11.673453309,
+                55.914652286,
+                0
+              ],
+              [
+                11.673567956,
+                55.914679747,
+                0
+              ],
+              [
+                11.673556039,
+                55.915237197,
+                0
+              ],
+              [
+                11.673535387,
+                55.915271749,
+                0
+              ],
+              [
+                11.673480219,
+                55.915295725,
+                0
+              ],
+              [
+                11.673390865,
+                55.915277189,
+                0
+              ],
+              [
+                11.672281582,
+                55.91505983,
+                0
+              ],
+              [
+                11.671133038,
+                55.914834127,
+                0
+              ],
+              [
+                11.670833753,
+                55.915311953,
+                0
+              ],
+              [
+                11.670702556,
+                55.915793807,
+                0
+              ],
+              [
+                11.670220301,
+                55.91564454,
+                0
+              ],
+              [
+                11.669224523,
+                55.914851501,
+                0
+              ],
+              [
+                11.669184589,
+                55.914560243,
+                0
+              ],
+              [
+                11.669121051,
+                55.914449469,
+                0
+              ],
+              [
+                11.669003494,
+                55.914237826,
+                0
+              ],
+              [
+                11.66871077,
+                55.914261674,
+                0
+              ],
+              [
+                11.668611182,
+                55.914110477,
+                0
+              ],
+              [
+                11.668658025,
+                55.914107169,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "207484",
+        "lokalid": "1049678_57",
+        "registreringfra": "2020-05-12T08:10:26.863000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2020-05-12T08:10:02.477000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Matrikulær sag",
+        "senestesaglokalid": "100153656",
+        "jordstykkelokalid": "1049678",
+        "temafladeid": "57",
+        "tematype": "Strandbeskyttelse",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "septima_hash86": "RuwdIHCQv0GL6l9GbPvrj3Hwvc+JVkjXLM0groTHsnt9wYSsbjf4+qqnDL9gwpoXpFnsoc7yC/Zz+NrC4ow6Xg",
+        "septima_serial": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.331009072,
+                54.981419481,
+                0
+              ],
+              [
+                12.330259498,
+                54.981023508,
+                0
+              ],
+              [
+                12.331383166,
+                54.98048252,
+                0
+              ],
+              [
+                12.331993082,
+                54.980843625,
+                0
+              ],
+              [
+                12.331009072,
+                54.981419481,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "229900",
+        "lokalid": "2486026_143",
+        "registreringfra": "2020-12-07T09:50:15.951000+01:00",
+        "registreringtil": null,
+        "virkningfra": "2020-12-07T09:50:01.988000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Matrikulær sag",
+        "senestesaglokalid": "100162012",
+        "jordstykkelokalid": "2486026",
+        "temafladeid": "143",
+        "tematype": "Strandbeskyttelse",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "septima_hash86": "mrKno3Z3m5ISc+tQev9PPzw0BpisI17DyKeic21mwzO6wvn49rRQQ/MJDVaIV877dchOYfN8+HTtD3g8RHO6dQ",
+        "septima_serial": "19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.83082663,
+                55.396154399,
+                0
+              ],
+              [
+                9.831379631,
+                55.396047569,
+                0
+              ],
+              [
+                9.831592625,
+                55.396034673,
+                0
+              ],
+              [
+                9.831804252,
+                55.396010076,
+                0
+              ],
+              [
+                9.831851378,
+                55.396004598,
+                0
+              ],
+              [
+                9.831973476,
+                55.395988104,
+                0
+              ],
+              [
+                9.832271041,
+                55.396040042,
+                0
+              ],
+              [
+                9.833512911,
+                55.396224113,
+                0
+              ],
+              [
+                9.835252259,
+                55.396508152,
+                0
+              ],
+              [
+                9.835807595,
+                55.396597599,
+                0
+              ],
+              [
+                9.836486496,
+                55.396706228,
+                0
+              ],
+              [
+                9.837291969,
+                55.396837243,
+                0
+              ],
+              [
+                9.837353352,
+                55.396860985,
+                0
+              ],
+              [
+                9.837344666,
+                55.396868208,
+                0
+              ],
+              [
+                9.836933612,
+                55.397201245,
+                0
+              ],
+              [
+                9.83649666,
+                55.397387202,
+                0
+              ],
+              [
+                9.83590057,
+                55.397756224,
+                0
+              ],
+              [
+                9.835329535,
+                55.397924231,
+                0
+              ],
+              [
+                9.834591445,
+                55.398186257,
+                0
+              ],
+              [
+                9.834026429,
+                55.398249186,
+                0
+              ],
+              [
+                9.833962025,
+                55.398270365,
+                0
+              ],
+              [
+                9.833467115,
+                55.397218143,
+                0
+              ],
+              [
+                9.83082663,
+                55.396154399,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "48634",
+        "lokalid": "36488_600",
+        "registreringfra": "2018-06-04T03:01:38.560000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2017-01-19T08:40:32.075000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Matrikulær sag",
+        "senestesaglokalid": "100111013",
+        "jordstykkelokalid": "36488",
+        "temafladeid": "600",
+        "tematype": "Strandbeskyttelse",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "septima_hash86": "RDI5EKbM3HonIssPr+LWDcrnV5XISdJTiASqe3unXzjkroj9XIhF4Z3Qd7ixreVa7FoxRmERWoeH4YMOwAoLTg",
+        "septima_serial": "23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.510614712,
+                54.861594147,
+                0
+              ],
+              [
+                10.510469499,
+                54.861451225,
+                0
+              ],
+              [
+                10.510936118,
+                54.861297959,
+                0
+              ],
+              [
+                10.511719206,
+                54.86104506,
+                0
+              ],
+              [
+                10.511719205,
+                54.861045051,
+                0
+              ],
+              [
+                10.511463768,
+                54.8607858,
+                0
+              ],
+              [
+                10.511693983,
+                54.860688213,
+                0
+              ],
+              [
+                10.511913175,
+                54.860578827,
+                0
+              ],
+              [
+                10.512018494,
+                54.860524533,
+                0
+              ],
+              [
+                10.512455827,
+                54.86031442,
+                0
+              ],
+              [
+                10.512790718,
+                54.860654575,
+                0
+              ],
+              [
+                10.513223093,
+                54.861059332,
+                0
+              ],
+              [
+                10.513908295,
+                54.861707036,
+                0
+              ],
+              [
+                10.514516289,
+                54.862278828,
+                0
+              ],
+              [
+                10.51407447,
+                54.862480548,
+                0
+              ],
+              [
+                10.513419081,
+                54.862821001,
+                0
+              ],
+              [
+                10.513156371,
+                54.862954335,
+                0
+              ],
+              [
+                10.512435528,
+                54.863317367,
+                0
+              ],
+              [
+                10.511363162,
+                54.862299921,
+                0
+              ],
+              [
+                10.510614712,
+                54.861594147,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "205948",
+        "lokalid": "100031769_1427",
+        "registreringfra": "2020-04-30T08:40:27.639000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2020-04-30T08:40:02.771000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Matrikulær sag",
+        "senestesaglokalid": "100154782",
+        "jordstykkelokalid": "100031769",
+        "temafladeid": "1427",
+        "tematype": "Strandbeskyttelse",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "septima_hash86": "Bwge3gRFpc6qwfXz/wAa7W8sxfFwmB/oe/jhr91+QyRRWLpQ6jP4G85W6K4Rqwbb5lnlCstVr+5n2NAEG5oReQ",
+        "septima_serial": "24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.325564226,
+                54.982326813,
+                0
+              ],
+              [
+                12.325501416,
+                54.982305774,
+                0
+              ],
+              [
+                12.329904296,
+                54.980157383,
+                0
+              ],
+              [
+                12.329939993,
+                54.980160561,
+                0
+              ],
+              [
+                12.330776002,
+                54.980292582,
+                0
+              ],
+              [
+                12.331460018,
+                54.980355519,
+                0
+              ],
+              [
+                12.332132076,
+                54.980403557,
+                0
+              ],
+              [
+                12.332677986,
+                54.980432095,
+                0
+              ],
+              [
+                12.331993082,
+                54.980843625,
+                0
+              ],
+              [
+                12.331383166,
+                54.98048252,
+                0
+              ],
+              [
+                12.330259498,
+                54.981023508,
+                0
+              ],
+              [
+                12.331009072,
+                54.981419481,
+                0
+              ],
+              [
+                12.33055606,
+                54.981662067,
+                0
+              ],
+              [
+                12.330305884,
+                54.981531604,
+                0
+              ],
+              [
+                12.329829976,
+                54.981820977,
+                0
+              ],
+              [
+                12.330066049,
+                54.981947089,
+                0
+              ],
+              [
+                12.328924823,
+                54.982610894,
+                0
+              ],
+              [
+                12.32874511,
+                54.982534956,
+                0
+              ],
+              [
+                12.328604019,
+                54.982480762,
+                0
+              ],
+              [
+                12.328392931,
+                54.982448644,
+                0
+              ],
+              [
+                12.328175661,
+                54.982434778,
+                0
+              ],
+              [
+                12.327913971,
+                54.982446558,
+                0
+              ],
+              [
+                12.327614051,
+                54.982462091,
+                0
+              ],
+              [
+                12.327365062,
+                54.98245562,
+                0
+              ],
+              [
+                12.32703314,
+                54.982453055,
+                0
+              ],
+              [
+                12.326688455,
+                54.982454202,
+                0
+              ],
+              [
+                12.326413899,
+                54.982440516,
+                0
+              ],
+              [
+                12.326113727,
+                54.98241238,
+                0
+              ],
+              [
+                12.325845401,
+                54.982376852,
+                0
+              ],
+              [
+                12.325564226,
+                54.982326813,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "229897",
+        "lokalid": "100313615_143",
+        "registreringfra": "2020-12-07T09:50:15.951000+01:00",
+        "registreringtil": null,
+        "virkningfra": "2020-12-07T09:50:01.988000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Matrikulær sag",
+        "senestesaglokalid": "100162012",
+        "jordstykkelokalid": "100313615",
+        "temafladeid": "143",
+        "tematype": "Strandbeskyttelse",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "septima_hash86": "7lXeVuyTR+4YSWVPJxozD3IVra+eV5R6ElC1zpXGMeC5nLcn260jv3phQnCBkwQHD04DK99QhcPSkRX3zjz/aQ",
+        "septima_serial": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.304652134,
+                54.951553403,
+                0
+              ],
+              [
+                12.304652094,
+                54.951553382,
+                0
+              ],
+              [
+                12.304911075,
+                54.947670317,
+                0
+              ],
+              [
+                12.304912379,
+                54.947649484,
+                0
+              ],
+              [
+                12.305484399,
+                54.947931171,
+                0
+              ],
+              [
+                12.30599853,
+                54.948418343,
+                0
+              ],
+              [
+                12.306435829,
+                54.948733625,
+                0
+              ],
+              [
+                12.306908001,
+                54.948989773,
+                0
+              ],
+              [
+                12.307211152,
+                54.949123154,
+                0
+              ],
+              [
+                12.307868138,
+                54.949418036,
+                0
+              ],
+              [
+                12.308350809,
+                54.949686705,
+                0
+              ],
+              [
+                12.309243618,
+                54.950131512,
+                0
+              ],
+              [
+                12.309764229,
+                54.950458198,
+                0
+              ],
+              [
+                12.310070104,
+                54.950601075,
+                0
+              ],
+              [
+                12.310380175,
+                54.950772133,
+                0
+              ],
+              [
+                12.311009036,
+                54.951077351,
+                0
+              ],
+              [
+                12.311473451,
+                54.951317498,
+                0
+              ],
+              [
+                12.311786017,
+                54.951476031,
+                0
+              ],
+              [
+                12.310574485,
+                54.95325013,
+                0
+              ],
+              [
+                12.310701153,
+                54.953281187,
+                0
+              ],
+              [
+                12.310745805,
+                54.954225931,
+                0
+              ],
+              [
+                12.310703046,
+                54.954623099,
+                0
+              ],
+              [
+                12.30967415,
+                54.954177457,
+                0
+              ],
+              [
+                12.309648225,
+                54.954164487,
+                0
+              ],
+              [
+                12.308824176,
+                54.953757517,
+                0
+              ],
+              [
+                12.308192121,
+                54.953445505,
+                0
+              ],
+              [
+                12.307564232,
+                54.953122461,
+                0
+              ],
+              [
+                12.306790055,
+                54.952699409,
+                0
+              ],
+              [
+                12.306928712,
+                54.952648302,
+                0
+              ],
+              [
+                12.306978123,
+                54.952623525,
+                0
+              ],
+              [
+                12.307115885,
+                54.952451667,
+                0
+              ],
+              [
+                12.307289421,
+                54.95188655,
+                0
+              ],
+              [
+                12.306456689,
+                54.951804406,
+                0
+              ],
+              [
+                12.30644159,
+                54.952122426,
+                0
+              ],
+              [
+                12.306441062,
+                54.952122405,
+                0
+              ],
+              [
+                12.305696134,
+                54.95209338,
+                0
+              ],
+              [
+                12.305131077,
+                54.951816395,
+                0
+              ],
+              [
+                12.304693119,
+                54.951574407,
+                0
+              ],
+              [
+                12.304652134,
+                54.951553403,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "49710",
+        "lokalid": "2493278_139",
+        "registreringfra": "2018-06-04T03:04:59.019000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2012-04-11T11:05:46.284000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Matrikulær sag",
+        "senestesaglokalid": "100054548",
+        "jordstykkelokalid": "2493278",
+        "temafladeid": "139",
+        "tematype": "Strandbeskyttelse",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "septima_hash86": "8D+BjW+flBGhK3EbPiNte4HvOzWVYFwuQ7OiTEekYY1YYagx3PPjenl+SUM0JoCnfI0uEYRDoeayew39nWvgog",
+        "septima_serial": "28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.411400631,
+                54.965718483,
+                0
+              ],
+              [
+                12.411252588,
+                54.964462412,
+                0
+              ],
+              [
+                12.411354451,
+                54.964454453,
+                0
+              ],
+              [
+                12.411469546,
+                54.964445529,
+                0
+              ],
+              [
+                12.412355873,
+                54.964376799,
+                0
+              ],
+              [
+                12.41275141,
+                54.965597433,
+                0
+              ],
+              [
+                12.412633456,
+                54.965607628,
+                0
+              ],
+              [
+                12.411903527,
+                54.965680545,
+                0
+              ],
+              [
+                12.411400631,
+                54.965718483,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "49454",
+        "lokalid": "2481792_139",
+        "registreringfra": "2018-06-04T03:04:00.121000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2009-03-03T08:28:09.824000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "90004188",
+        "jordstykkelokalid": "2481792",
+        "temafladeid": "139",
+        "tematype": "Strandbeskyttelse",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "septima_hash86": "o05ylk2JqU4mom1EKe76Uo5xVD0kp2VDqrR1MFUNjTVLWuSTuFbMLJjB9taCxGCd1lzD7YfztKnEId1Rh7+BDw",
+        "septima_serial": "42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.111281381,
+                54.901878489,
+                0
+              ],
+              [
+                12.111277075,
+                54.901844317,
+                0
+              ],
+              [
+                12.111429791,
+                54.901772754,
+                0
+              ],
+              [
+                12.111560114,
+                54.901711647,
+                0
+              ],
+              [
+                12.111684103,
+                54.90163984,
+                0
+              ],
+              [
+                12.111769067,
+                54.901577296,
+                0
+              ],
+              [
+                12.111870729,
+                54.901437388,
+                0
+              ],
+              [
+                12.111908934,
+                54.901511709,
+                0
+              ],
+              [
+                12.112143144,
+                54.901823018,
+                0
+              ],
+              [
+                12.112312994,
+                54.902005345,
+                0
+              ],
+              [
+                12.112344637,
+                54.902061132,
+                0
+              ],
+              [
+                12.112397048,
+                54.902087643,
+                0
+              ],
+              [
+                12.112274332,
+                54.902097308,
+                0
+              ],
+              [
+                12.111964283,
+                54.902074731,
+                0
+              ],
+              [
+                12.111784357,
+                54.902038577,
+                0
+              ],
+              [
+                12.111303283,
+                54.90205231,
+                0
+              ],
+              [
+                12.111281381,
+                54.901878489,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "49457",
+        "lokalid": "2482307_139",
+        "registreringfra": "2018-06-04T03:04:03.517000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2011-09-21T10:14:30.767000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "senestesaglokalid": "100053070",
+        "jordstykkelokalid": "2482307",
+        "temafladeid": "139",
+        "tematype": "Strandbeskyttelse",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "septima_hash86": "EKPdHC2k7JrfvMwlWqfpUf5VDvKPZWksEjSubdUD7HvloTbN54VbLfWkH5uFDLSHuxMxThNnzLIFMs29iePP1w",
+        "septima_serial": "45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.69267095,
+                55.94633549,
+                0
+              ],
+              [
+                11.692585213,
+                55.945538719,
+                0
+              ],
+              [
+                11.693365836,
+                55.945594652,
+                0
+              ],
+              [
+                11.693405257,
+                55.945600927,
+                0
+              ],
+              [
+                11.693359918,
+                55.946437016,
+                0
+              ],
+              [
+                11.693026018,
+                55.946391626,
+                0
+              ],
+              [
+                11.69267095,
+                55.94633549,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "104197",
+        "lokalid": "1046627_58",
+        "registreringfra": "2018-06-04T04:36:37.480000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2008-12-17T09:44:56.095000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Anden sagskategori",
+        "senestesaglokalid": "90001605",
+        "jordstykkelokalid": "1046627",
+        "temafladeid": "58",
+        "tematype": "Strandbeskyttelse",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "septima_hash86": "OZhrt/WeBCGlAhWASYVYrIKfkh95ieuQ6Q+nQi9G71GZmDFepiyhtD2hzT8jmWYgLYmOYdlCpM3nQ0ckUADPsw",
+        "septima_serial": "64"
+      }
+    }
+  ]
+}

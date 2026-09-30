@@ -1,0 +1,92 @@
+[
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "name": "Selvejende institution",
+    "importeddate": "0001-01-01T00:00:00.000Z",
+    "updateddate": "2017-03-22T14:48:02.460Z",
+    "septima_parent_tab": "facility",
+    "septima_parent_id": "19665356",
+    "septima_serial": "19664846"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "name": "Privat",
+    "importeddate": "0001-01-01T00:00:00.000Z",
+    "updateddate": "2017-03-22T14:48:02.460Z",
+    "septima_parent_tab": "facility",
+    "septima_parent_id": "19665357",
+    "septima_serial": "19664847"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "name": "Kommunal",
+    "importeddate": "0001-01-01T00:00:00.000Z",
+    "updateddate": "2017-03-22T14:48:02.460Z",
+    "septima_parent_tab": "facility",
+    "septima_parent_id": "19665358",
+    "septima_serial": "19664848"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "name": "Kommunal",
+    "importeddate": "0001-01-01T00:00:00.000Z",
+    "updateddate": "2017-03-22T14:48:02.460Z",
+    "septima_parent_tab": "facility",
+    "septima_parent_id": "19665359",
+    "septima_serial": "19664849"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "name": "Andet",
+    "importeddate": "0001-01-01T00:00:00.000Z",
+    "updateddate": "2017-04-19T13:28:29.155Z",
+    "septima_parent_tab": "facility",
+    "septima_parent_id": "19665360",
+    "septima_serial": "19664850"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "name": "Selvejende institution",
+    "importeddate": "0001-01-01T00:00:00.000Z",
+    "updateddate": "2017-03-22T14:48:02.460Z",
+    "septima_parent_tab": "facility",
+    "septima_parent_id": "19665361",
+    "septima_serial": "19664851"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "name": "Andet",
+    "importeddate": "0001-01-01T00:00:00.000Z",
+    "updateddate": "2017-04-19T13:28:29.155Z",
+    "septima_parent_tab": "facility",
+    "septima_parent_id": "19665362",
+    "septima_serial": "19664852"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "name": "Andet",
+    "importeddate": "0001-01-01T00:00:00.000Z",
+    "updateddate": "2017-04-19T13:28:29.155Z",
+    "septima_parent_tab": "facility",
+    "septima_parent_id": "19665363",
+    "septima_serial": "19664853"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "name": "Andet",
+    "importeddate": "0001-01-01T00:00:00.000Z",
+    "updateddate": "2017-04-19T13:28:29.155Z",
+    "septima_parent_tab": "facility",
+    "septima_parent_id": "19665364",
+    "septima_serial": "19664854"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "name": "Kommunal",
+    "importeddate": "0001-01-01T00:00:00.000Z",
+    "updateddate": "2017-03-22T14:48:02.460Z",
+    "septima_parent_tab": "facility",
+    "septima_parent_id": "19665365",
+    "septima_serial": "19664855"
+  }
+]

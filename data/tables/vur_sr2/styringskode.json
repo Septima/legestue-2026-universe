@@ -1,0 +1,122 @@
+[
+  {
+    "styringskodekrydsreferenceid": "346247215561533",
+    "ejendomsvurderingid": "500000000082319",
+    "kode": "100",
+    "kategoritekst": "Ejendom",
+    "overskrift": "Ejendomsværdi skal fastsættes",
+    "datafordeleropdateringstid": "2024-07-03T08:07:14.673Z",
+    "lovhenvisning": null,
+    "begrundelse": null,
+    "septima_hash86": "V82k66+Pc/UjWAP2Pn03DGstGtrK2e9tAW4vTml1/oHBx5hwkhquO9JY2kEhuML3abIuh4CeyngI+t4gb8DBPQ",
+    "septima_serial": "2"
+  },
+  {
+    "styringskodekrydsreferenceid": "346247215561539",
+    "ejendomsvurderingid": "500000000082319",
+    "kode": "200",
+    "kategoritekst": "Grundværdi",
+    "overskrift": "Grundværdi skal ansættes",
+    "datafordeleropdateringstid": "2024-07-03T08:07:14.681Z",
+    "lovhenvisning": null,
+    "begrundelse": null,
+    "septima_hash86": "6RuD5TTtu5utUeW5NmF3dItL/21RiUeuZ7qf0PdssOOAJxAXyOfTeGD9tSkVZTVLMorSY69zydi9gHLXJEKvMw",
+    "septima_serial": "3"
+  },
+  {
+    "styringskodekrydsreferenceid": "346247215561542",
+    "ejendomsvurderingid": "500000000082319",
+    "kode": "300",
+    "kategoritekst": "Fradrag for forbedringer",
+    "overskrift": "Fradrag for grundforbedringer skal beregnes",
+    "datafordeleropdateringstid": "2024-07-03T08:07:14.682Z",
+    "lovhenvisning": null,
+    "begrundelse": null,
+    "septima_hash86": "KOSzTIp0Uj6EZoj1v+8x6dxVAcCjevlFQDw26PGqVXICZHMcFHL7M+tMWTQ+9qDN0FSIktBVCa+NBHgsOPv1LA",
+    "septima_serial": "4"
+  },
+  {
+    "styringskodekrydsreferenceid": "346247215577150",
+    "ejendomsvurderingid": "500000000074222",
+    "kode": "100",
+    "kategoritekst": "Ejendom",
+    "overskrift": "Ejendomsværdi skal fastsættes",
+    "datafordeleropdateringstid": "2024-07-03T08:07:14.682Z",
+    "lovhenvisning": null,
+    "begrundelse": null,
+    "septima_hash86": "ZjMqgv5dctogg3wzY09er2SWkheMAVaGNJUJ5+6U/mE7x+rZ1mKz7t1EVJpEP9ueHANPs01Xv/VRB6t0aCgb+g",
+    "septima_serial": "5"
+  },
+  {
+    "styringskodekrydsreferenceid": "346247215577154",
+    "ejendomsvurderingid": "500000000074222",
+    "kode": "200",
+    "kategoritekst": "Grundværdi",
+    "overskrift": "Grundværdi skal ansættes",
+    "datafordeleropdateringstid": "2024-07-03T08:07:14.682Z",
+    "lovhenvisning": null,
+    "begrundelse": null,
+    "septima_hash86": "7DHp9yojU67YwQBKTKUhRbzjHX5C+cXKCcGVZDb763/7i/1AOS8fgIpqh3GFiBgfNt07T14i9nk2YDmivi67Yg",
+    "septima_serial": "6"
+  },
+  {
+    "styringskodekrydsreferenceid": "346247215577156",
+    "ejendomsvurderingid": "500000000074222",
+    "kode": "300",
+    "kategoritekst": "Fradrag for forbedringer",
+    "overskrift": "Fradrag for grundforbedringer skal beregnes",
+    "datafordeleropdateringstid": "2024-07-03T08:07:14.682Z",
+    "lovhenvisning": null,
+    "begrundelse": null,
+    "septima_hash86": "B/9djwWdMQ9zEdgNqEXMThCQ+pgfjdLwl1P5/zFPypPrvDOWzZOqDwctPj0fMh+PZPP3ruY9Yznl77njnr8dZw",
+    "septima_serial": "7"
+  },
+  {
+    "styringskodekrydsreferenceid": "346247215577158",
+    "ejendomsvurderingid": "500000000074222",
+    "kode": "901",
+    "kategoritekst": "Ejendomstype",
+    "overskrift": "Ejendom med grund og bygninger",
+    "datafordeleropdateringstid": "2024-07-03T08:07:14.682Z",
+    "lovhenvisning": "EVL § 2, stk. 1, nr. 1",
+    "begrundelse": null,
+    "septima_hash86": "8mECZs6mtKtajVBfN6iEJ9O9gTOSEtR7HKNmVQUiRDURR3w6CLkSehOIHZtdbHrn/3vEl6H5FoZ3FvrEWgHQBA",
+    "septima_serial": "8"
+  },
+  {
+    "styringskodekrydsreferenceid": "346247215579924",
+    "ejendomsvurderingid": "500000000088264",
+    "kode": "100",
+    "kategoritekst": "Ejendom",
+    "overskrift": "Ejendomsværdi skal fastsættes",
+    "datafordeleropdateringstid": "2024-07-03T08:07:14.682Z",
+    "lovhenvisning": null,
+    "begrundelse": null,
+    "septima_hash86": "2pGPvPwEo6cJPBq7/MHsDRDmUwCy5w2rXtjzhFXFVFJHZRKNMoMCpf3r/LrYk4LoQNWmI+052ivg4QXMc2WEJg",
+    "septima_serial": "9"
+  },
+  {
+    "styringskodekrydsreferenceid": "346247215579927",
+    "ejendomsvurderingid": "500000000088264",
+    "kode": "200",
+    "kategoritekst": "Grundværdi",
+    "overskrift": "Grundværdi skal ansættes",
+    "datafordeleropdateringstid": "2024-07-03T08:07:14.682Z",
+    "lovhenvisning": null,
+    "begrundelse": null,
+    "septima_hash86": "o1u/57Ib+gR2LrLonfwf9pOTyb3zIBqXpulfnrFIref9VwvkKJRS8vlJ5lZMvS5yaloZ6lUcbFtwSN4sHzM+IA",
+    "septima_serial": "10"
+  },
+  {
+    "styringskodekrydsreferenceid": "346247215579930",
+    "ejendomsvurderingid": "500000000088264",
+    "kode": "300",
+    "kategoritekst": "Fradrag for forbedringer",
+    "overskrift": "Fradrag for grundforbedringer skal beregnes",
+    "datafordeleropdateringstid": "2024-07-03T08:07:14.682Z",
+    "lovhenvisning": null,
+    "begrundelse": null,
+    "septima_hash86": "8GChg/1Rfpu9DobTrRGw/WA6jXOOHu2Kf9hbmxHsVEl38Mle9MGuyPviB6IwpmeiWf25rUUBBkcgrnOGF+Vz5g",
+    "septima_serial": "11"
+  }
+]

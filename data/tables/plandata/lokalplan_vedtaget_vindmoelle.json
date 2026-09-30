@@ -1,0 +1,5905 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.948235653,
+                57.22621185
+              ],
+              [
+                9.948645405,
+                57.228781212
+              ],
+              [
+                9.949831259,
+                57.228695403
+              ],
+              [
+                9.951257385,
+                57.228628453
+              ],
+              [
+                9.950814999,
+                57.228803235
+              ],
+              [
+                9.950611671,
+                57.228949605
+              ],
+              [
+                9.950511945,
+                57.229098146
+              ],
+              [
+                9.950495318,
+                57.229299262
+              ],
+              [
+                9.950542862,
+                57.2294526
+              ],
+              [
+                9.950627179,
+                57.229552457
+              ],
+              [
+                9.95078839,
+                57.229675378
+              ],
+              [
+                9.950987288,
+                57.229780279
+              ],
+              [
+                9.9511245,
+                57.229817665
+              ],
+              [
+                9.951409212,
+                57.229868712
+              ],
+              [
+                9.951720409,
+                57.229890001
+              ],
+              [
+                9.951926859,
+                57.229864791
+              ],
+              [
+                9.952295405,
+                57.229785149
+              ],
+              [
+                9.952904904,
+                57.229601611
+              ],
+              [
+                9.953841967,
+                57.229315277
+              ],
+              [
+                9.956550946,
+                57.228487764
+              ],
+              [
+                9.958099835,
+                57.228433378
+              ],
+              [
+                9.959255152,
+                57.22842855
+              ],
+              [
+                9.960823187,
+                57.228472896
+              ],
+              [
+                9.962680454,
+                57.228464642
+              ],
+              [
+                9.964320174,
+                57.228356713
+              ],
+              [
+                9.964732169,
+                57.228300159
+              ],
+              [
+                9.964690033,
+                57.22802925
+              ],
+              [
+                9.96227037,
+                57.228169201
+              ],
+              [
+                9.962024037,
+                57.22708042
+              ],
+              [
+                9.962541072,
+                57.226636054
+              ],
+              [
+                9.962527943,
+                57.226550438
+              ],
+              [
+                9.962552645,
+                57.22645271
+              ],
+              [
+                9.962580024,
+                57.226248554
+              ],
+              [
+                9.96252277,
+                57.226142586
+              ],
+              [
+                9.962454465,
+                57.226030791
+              ],
+              [
+                9.962260003,
+                57.22588745
+              ],
+              [
+                9.962028482,
+                57.225785772
+              ],
+              [
+                9.961775937,
+                57.225713812
+              ],
+              [
+                9.961331061,
+                57.225682885
+              ],
+              [
+                9.961094671,
+                57.225710159
+              ],
+              [
+                9.960829241,
+                57.225771304
+              ],
+              [
+                9.959885944,
+                57.226052544
+              ],
+              [
+                9.958774461,
+                57.226383722
+              ],
+              [
+                9.954388982,
+                57.227700238
+              ],
+              [
+                9.953301961,
+                57.228016554
+              ],
+              [
+                9.952409511,
+                57.228291638
+              ],
+              [
+                9.950846423,
+                57.22833008
+              ],
+              [
+                9.94917035,
+                57.228425515
+              ],
+              [
+                9.948800744,
+                57.226128745
+              ],
+              [
+                9.948574083,
+                57.226159274
+              ],
+              [
+                9.948235653,
+                57.22621185
+              ]
+            ],
+            [
+              [
+                9.957692658,
+                57.228171669
+              ],
+              [
+                9.961315349,
+                57.227071066
+              ],
+              [
+                9.961431382,
+                57.227132249
+              ],
+              [
+                9.961687365,
+                57.228173665
+              ],
+              [
+                9.957692658,
+                57.228171669
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": null,
+        "id": 325598,
+        "planid": 3003240,
+        "komnr": 810,
+        "objektkode": 20,
+        "plantype": 20.1,
+        "plannr": "32-T-21.01",
+        "plannavn": "Vindmøller ved Nejst II",
+        "anvgen": 81,
+        "datoforsl": 20150527,
+        "datovedt": 20150902,
+        "datoaflyst": null,
+        "datoikraft": 20150910,
+        "datostart": 20150601,
+        "datoslut": 20150727,
+        "datoattr": null,
+        "datogeom": null,
+        "doklink": "https://dokument.plandata.dk/20_3003240_1441882253897.pdf",
+        "distrikt": null,
+        "zone": null,
+        "bebygpct": null,
+        "bebygpctaf": null,
+        "bebygpctar": null,
+        "m3_m2": null,
+        "maxetager": null,
+        "maxbygnhjd": null,
+        "minmiljo": null,
+        "maxmiljo": null,
+        "bevarbest": null,
+        "bebyggrad": null,
+        "mingrund": null,
+        "dataprod": null,
+        "digigrundl": null,
+        "digigrundd": null,
+        "datooprt": "2015-06-01T07:34:17.000Z",
+        "datoopdt": "2018-07-24T13:12:33.118Z",
+        "anvendelsegenerel": "Tekniske anlæg",
+        "kommunenavn": "Brønderslev",
+        "zonestatus": null,
+        "planstatus": null,
+        "megawatt": 9,
+        "vvmredeg": null,
+        "sforhold": null,
+        "minuds": null,
+        "eareal": null,
+        "earealh": null,
+        "m3_m2h": null,
+        "ianvreg": false,
+        "izonereg": true,
+        "iomfangreg": true,
+        "iudstykreg": true,
+        "kompleks": null,
+        "kbeskriv": null,
+        "vindbeskriv": null,
+        "udstykforbud": null,
+        "statsplan": false,
+        "sforaktuel": false,
+        "anvspec1": 8111,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "eareal1": null,
+        "earealh1": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "bygpctar1": null,
+        "minuds1": null,
+        "udstykfb1": null,
+        "anvspec2": 9110,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "eareal2": null,
+        "earealh2": null,
+        "m3_m22": null,
+        "m3_m2h2": null,
+        "maxbhjd2": null,
+        "maxetage2": null,
+        "bygpctar2": null,
+        "minuds2": null,
+        "udstykfb2": null,
+        "anvspec3": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "eareal3": null,
+        "earealh3": null,
+        "m3_m23": null,
+        "m3_m2h3": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "bygpctar3": null,
+        "minuds3": null,
+        "udstykfb3": null,
+        "anvspec4": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "eareal4": null,
+        "earealh4": null,
+        "m3_m24": null,
+        "m3_m2h4": null,
+        "maxbhjd4": null,
+        "maxetage4": null,
+        "bygpctar4": null,
+        "minuds4": null,
+        "udstykfb4": null,
+        "anvspec5": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "eareal5": null,
+        "earealh5": null,
+        "m3_m25": null,
+        "m3_m2h5": null,
+        "maxbhjd5": null,
+        "maxetage5": null,
+        "bygpctar5": null,
+        "minuds5": null,
+        "udstykfb5": null,
+        "anvspec6": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m26": null,
+        "m3_m2h6": null,
+        "maxbhjd6": null,
+        "maxetage6": null,
+        "bygpctar6": null,
+        "minuds6": null,
+        "udstykfb6": null,
+        "anvspec7": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "eareal7": null,
+        "earealh7": null,
+        "m3_m27": null,
+        "m3_m2h7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "bygpctar7": null,
+        "minuds7": null,
+        "udstykfb7": null,
+        "anvspec8": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "eareal8": null,
+        "earealh8": null,
+        "m3_m28": null,
+        "m3_m2h8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "bygpctar8": null,
+        "minuds8": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "eareal9": null,
+        "earealh9": null,
+        "m3_m29": null,
+        "m3_m2h9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "bygpctar9": null,
+        "minuds9": null,
+        "udstykfb9": null,
+        "anvspec10": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "eareal10": null,
+        "earealh10": null,
+        "m3_m210": null,
+        "m3_m2h10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "bygpctar10": null,
+        "minuds10": null,
+        "udstykfb10": null,
+        "abestem1": null,
+        "abestem2": null,
+        "abestem3": null,
+        "septima_transaktion_id": "147134986",
+        "septima_hash86": "zfnm9N5wOWt7a+zsac4aRN2w2k+t+Rct0Ba/Iam8UPlrFHqRQBLNhoIGipqSLQSdIjEQEhpYbNIKqRMgY0g3iA",
+        "septima_serial": "1168591"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.941750002,
+                57.234239932
+              ],
+              [
+                9.941537231,
+                57.234294944
+              ],
+              [
+                9.941236207,
+                57.234370057
+              ],
+              [
+                9.940919876,
+                57.234685376
+              ],
+              [
+                9.940039425,
+                57.235832009
+              ],
+              [
+                9.938586925,
+                57.237716882
+              ],
+              [
+                9.937198039,
+                57.239532661
+              ],
+              [
+                9.936944011,
+                57.239852092
+              ],
+              [
+                9.936294077,
+                57.240698334
+              ],
+              [
+                9.935655691,
+                57.241558582
+              ],
+              [
+                9.934154243,
+                57.243475285
+              ],
+              [
+                9.933863911,
+                57.24385771
+              ],
+              [
+                9.932766671,
+                57.24528969
+              ],
+              [
+                9.932665806,
+                57.245433965
+              ],
+              [
+                9.932653974,
+                57.245578155
+              ],
+              [
+                9.933109968,
+                57.245937334
+              ],
+              [
+                9.933191923,
+                57.245983503
+              ],
+              [
+                9.934059551,
+                57.245708766
+              ],
+              [
+                9.935007556,
+                57.244500639
+              ],
+              [
+                9.937219588,
+                57.24161741
+              ],
+              [
+                9.937882584,
+                57.240772079
+              ],
+              [
+                9.938475335,
+                57.239973536
+              ],
+              [
+                9.940427593,
+                57.237441561
+              ],
+              [
+                9.941620685,
+                57.235878383
+              ],
+              [
+                9.942052378,
+                57.235325592
+              ],
+              [
+                9.942686182,
+                57.234505002
+              ],
+              [
+                9.942557846,
+                57.234388878
+              ],
+              [
+                9.942003659,
+                57.234234399
+              ],
+              [
+                9.941750002,
+                57.234239932
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": null,
+        "id": 325634,
+        "planid": 1166160,
+        "komnr": 810,
+        "objektkode": 20,
+        "plantype": 20.1,
+        "plannr": "1983-02",
+        "plannavn": "Vindmøllepark ved Ryå",
+        "anvgen": 81,
+        "datoforsl": 20020828,
+        "datovedt": 20030212,
+        "datoaflyst": null,
+        "datoikraft": 20030225,
+        "datostart": 20020903,
+        "datoslut": 20021029,
+        "datoattr": null,
+        "datogeom": null,
+        "doklink": "https://dokument.plandata.dk/20_1166160_APPROVED_1239889823976.pdf",
+        "distrikt": null,
+        "zone": null,
+        "bebygpct": null,
+        "bebygpctaf": null,
+        "bebygpctar": null,
+        "m3_m2": null,
+        "maxetager": null,
+        "maxbygnhjd": 100,
+        "minmiljo": null,
+        "maxmiljo": null,
+        "bevarbest": null,
+        "bebyggrad": null,
+        "mingrund": null,
+        "dataprod": null,
+        "digigrundl": null,
+        "digigrundd": null,
+        "datooprt": "2009-04-16T13:50:23.000Z",
+        "datoopdt": "2018-07-24T13:12:33.118Z",
+        "anvendelsegenerel": "Tekniske anlæg",
+        "kommunenavn": "Brønderslev",
+        "zonestatus": null,
+        "planstatus": null,
+        "megawatt": 0,
+        "vvmredeg": null,
+        "sforhold": null,
+        "minuds": null,
+        "eareal": null,
+        "earealh": null,
+        "m3_m2h": null,
+        "ianvreg": false,
+        "izonereg": true,
+        "iomfangreg": false,
+        "iudstykreg": true,
+        "kompleks": null,
+        "kbeskriv": null,
+        "vindbeskriv": null,
+        "udstykforbud": null,
+        "statsplan": false,
+        "sforaktuel": false,
+        "anvspec1": 8111,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "eareal1": null,
+        "earealh1": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "bygpctar1": null,
+        "minuds1": null,
+        "udstykfb1": null,
+        "anvspec2": null,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "eareal2": null,
+        "earealh2": null,
+        "m3_m22": null,
+        "m3_m2h2": null,
+        "maxbhjd2": null,
+        "maxetage2": null,
+        "bygpctar2": null,
+        "minuds2": null,
+        "udstykfb2": null,
+        "anvspec3": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "eareal3": null,
+        "earealh3": null,
+        "m3_m23": null,
+        "m3_m2h3": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "bygpctar3": null,
+        "minuds3": null,
+        "udstykfb3": null,
+        "anvspec4": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "eareal4": null,
+        "earealh4": null,
+        "m3_m24": null,
+        "m3_m2h4": null,
+        "maxbhjd4": null,
+        "maxetage4": null,
+        "bygpctar4": null,
+        "minuds4": null,
+        "udstykfb4": null,
+        "anvspec5": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "eareal5": null,
+        "earealh5": null,
+        "m3_m25": null,
+        "m3_m2h5": null,
+        "maxbhjd5": null,
+        "maxetage5": null,
+        "bygpctar5": null,
+        "minuds5": null,
+        "udstykfb5": null,
+        "anvspec6": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m26": null,
+        "m3_m2h6": null,
+        "maxbhjd6": null,
+        "maxetage6": null,
+        "bygpctar6": null,
+        "minuds6": null,
+        "udstykfb6": null,
+        "anvspec7": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "eareal7": null,
+        "earealh7": null,
+        "m3_m27": null,
+        "m3_m2h7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "bygpctar7": null,
+        "minuds7": null,
+        "udstykfb7": null,
+        "anvspec8": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "eareal8": null,
+        "earealh8": null,
+        "m3_m28": null,
+        "m3_m2h8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "bygpctar8": null,
+        "minuds8": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "eareal9": null,
+        "earealh9": null,
+        "m3_m29": null,
+        "m3_m2h9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "bygpctar9": null,
+        "minuds9": null,
+        "udstykfb9": null,
+        "anvspec10": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "eareal10": null,
+        "earealh10": null,
+        "m3_m210": null,
+        "m3_m2h10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "bygpctar10": null,
+        "minuds10": null,
+        "udstykfb10": null,
+        "abestem1": null,
+        "abestem2": null,
+        "abestem3": null,
+        "septima_transaktion_id": "147134986",
+        "septima_hash86": "NUTVqWXUSMHAKJiTmpnPwr8gSI5X53cNianSDYMHLxyuMda6Gti2Q4JadAbQTSfHAe0YAC8S9tHBZRUZdSu5kA",
+        "septima_serial": "1168592"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.392183598,
+                57.164104846
+              ],
+              [
+                10.39213414,
+                57.164230057
+              ],
+              [
+                10.392082534,
+                57.164312908
+              ],
+              [
+                10.392021505,
+                57.164444789
+              ],
+              [
+                10.393081507,
+                57.164380997
+              ],
+              [
+                10.398654716,
+                57.164045271
+              ],
+              [
+                10.398863504,
+                57.164121492
+              ],
+              [
+                10.398934135,
+                57.16425162
+              ],
+              [
+                10.398791913,
+                57.164545978
+              ],
+              [
+                10.397958864,
+                57.164529078
+              ],
+              [
+                10.39760156,
+                57.164580664
+              ],
+              [
+                10.397178135,
+                57.164737716
+              ],
+              [
+                10.396911482,
+                57.164985852
+              ],
+              [
+                10.396895615,
+                57.16526214
+              ],
+              [
+                10.397017285,
+                57.165467869
+              ],
+              [
+                10.397210714,
+                57.16560139
+              ],
+              [
+                10.397509161,
+                57.165731362
+              ],
+              [
+                10.397853807,
+                57.165808453
+              ],
+              [
+                10.39887109,
+                57.16583044
+              ],
+              [
+                10.399932167,
+                57.165851931
+              ],
+              [
+                10.402035671,
+                57.165980785
+              ],
+              [
+                10.404366599,
+                57.16621417
+              ],
+              [
+                10.407174729,
+                57.166652758
+              ],
+              [
+                10.408603659,
+                57.166914086
+              ],
+              [
+                10.411609288,
+                57.167661042
+              ],
+              [
+                10.413589256,
+                57.168280238
+              ],
+              [
+                10.414926899,
+                57.168790821
+              ],
+              [
+                10.415243578,
+                57.16890074
+              ],
+              [
+                10.416676076,
+                57.169483172
+              ],
+              [
+                10.41783368,
+                57.170019942
+              ],
+              [
+                10.418075663,
+                57.170102898
+              ],
+              [
+                10.418490197,
+                57.170172001
+              ],
+              [
+                10.418702485,
+                57.170166031
+              ],
+              [
+                10.418988229,
+                57.170133047
+              ],
+              [
+                10.419272467,
+                57.170060805
+              ],
+              [
+                10.419458797,
+                57.169949205
+              ],
+              [
+                10.419614466,
+                57.169837952
+              ],
+              [
+                10.419713608,
+                57.169738049
+              ],
+              [
+                10.419768313,
+                57.169507733
+              ],
+              [
+                10.419676067,
+                57.169273129
+              ],
+              [
+                10.419463742,
+                57.169106532
+              ],
+              [
+                10.419089141,
+                57.168932513
+              ],
+              [
+                10.418581454,
+                57.168678953
+              ],
+              [
+                10.418292003,
+                57.168543753
+              ],
+              [
+                10.416718089,
+                57.167889699
+              ],
+              [
+                10.415464097,
+                57.167408157
+              ],
+              [
+                10.414562453,
+                57.167117219
+              ],
+              [
+                10.414256096,
+                57.167036421
+              ],
+              [
+                10.413950039,
+                57.166732388
+              ],
+              [
+                10.413580484,
+                57.166498232
+              ],
+              [
+                10.413298833,
+                57.166360817
+              ],
+              [
+                10.412899857,
+                57.166161544
+              ],
+              [
+                10.412892066,
+                57.166091266
+              ],
+              [
+                10.412780773,
+                57.166038199
+              ],
+              [
+                10.41270192,
+                57.166038492
+              ],
+              [
+                10.412419256,
+                57.166094496
+              ],
+              [
+                10.411666585,
+                57.166174629
+              ],
+              [
+                10.411104468,
+                57.166112401
+              ],
+              [
+                10.408113994,
+                57.165472376
+              ],
+              [
+                10.405596585,
+                57.165057869
+              ],
+              [
+                10.404479006,
+                57.164932326
+              ],
+              [
+                10.405236465,
+                57.163302882
+              ],
+              [
+                10.397783984,
+                57.163755059
+              ],
+              [
+                10.392183598,
+                57.164104846
+              ]
+            ],
+            [
+              [
+                10.399665452,
+                57.163953411
+              ],
+              [
+                10.401913842,
+                57.163821102
+              ],
+              [
+                10.403887127,
+                57.163704948
+              ],
+              [
+                10.403942012,
+                57.163705627
+              ],
+              [
+                10.403996253,
+                57.163710258
+              ],
+              [
+                10.404048887,
+                57.163718753
+              ],
+              [
+                10.404098983,
+                57.163730959
+              ],
+              [
+                10.404145648,
+                57.163746671
+              ],
+              [
+                10.404188079,
+                57.163765612
+              ],
+              [
+                10.404225509,
+                57.163787438
+              ],
+              [
+                10.40425728,
+                57.163811763
+              ],
+              [
+                10.404282837,
+                57.163838169
+              ],
+              [
+                10.404293134,
+                57.163851998
+              ],
+              [
+                10.404308557,
+                57.163880629
+              ],
+              [
+                10.404316852,
+                57.163910122
+              ],
+              [
+                10.404318276,
+                57.16392502
+              ],
+              [
+                10.404315652,
+                57.163954823
+              ],
+              [
+                10.404305785,
+                57.16398416
+              ],
+              [
+                10.403980718,
+                57.164683861
+              ],
+              [
+                10.403518172,
+                57.164762177
+              ],
+              [
+                10.403492263,
+                57.164817945
+              ],
+              [
+                10.402931299,
+                57.164764508
+              ],
+              [
+                10.402368704,
+                57.164716414
+              ],
+              [
+                10.401945795,
+                57.164683845
+              ],
+              [
+                10.401380754,
+                57.164645118
+              ],
+              [
+                10.40081456,
+                57.164611756
+              ],
+              [
+                10.400389262,
+                57.164590269
+              ],
+              [
+                10.399963475,
+                57.164571813
+              ],
+              [
+                10.399395139,
+                57.164551918
+              ],
+              [
+                10.399665452,
+                57.163953411
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": null,
+        "id": 325653,
+        "planid": 3268767,
+        "komnr": 810,
+        "objektkode": 20,
+        "plantype": 20.1,
+        "plannr": "32-T-22.01",
+        "plannavn": "Vindmøller ved Skovengen",
+        "anvgen": 81,
+        "datoforsl": 20161123,
+        "datovedt": 20170524,
+        "datoaflyst": null,
+        "datoikraft": 20170619,
+        "datostart": 20170625,
+        "datoslut": 20170120,
+        "datoattr": null,
+        "datogeom": null,
+        "doklink": "https://dokument.plandata.dk/20_3268767_1498054991674.pdf",
+        "distrikt": "32 - Åbent land",
+        "zone": null,
+        "bebygpct": null,
+        "bebygpctaf": null,
+        "bebygpctar": null,
+        "m3_m2": null,
+        "maxetager": null,
+        "maxbygnhjd": null,
+        "minmiljo": null,
+        "maxmiljo": null,
+        "bevarbest": null,
+        "bebyggrad": null,
+        "mingrund": null,
+        "dataprod": null,
+        "digigrundl": null,
+        "digigrundd": null,
+        "datooprt": "2016-11-24T12:46:18.000Z",
+        "datoopdt": "2018-07-24T13:12:33.118Z",
+        "anvendelsegenerel": "Tekniske anlæg",
+        "kommunenavn": "Brønderslev",
+        "zonestatus": null,
+        "planstatus": null,
+        "megawatt": 17,
+        "vvmredeg": null,
+        "sforhold": null,
+        "minuds": null,
+        "eareal": null,
+        "earealh": null,
+        "m3_m2h": null,
+        "ianvreg": false,
+        "izonereg": true,
+        "iomfangreg": true,
+        "iudstykreg": true,
+        "kompleks": null,
+        "kbeskriv": null,
+        "vindbeskriv": null,
+        "udstykforbud": null,
+        "statsplan": false,
+        "sforaktuel": false,
+        "anvspec1": 8111,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "eareal1": null,
+        "earealh1": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "bygpctar1": null,
+        "minuds1": null,
+        "udstykfb1": null,
+        "anvspec2": 9110,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "eareal2": null,
+        "earealh2": null,
+        "m3_m22": null,
+        "m3_m2h2": null,
+        "maxbhjd2": null,
+        "maxetage2": null,
+        "bygpctar2": null,
+        "minuds2": null,
+        "udstykfb2": null,
+        "anvspec3": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "eareal3": null,
+        "earealh3": null,
+        "m3_m23": null,
+        "m3_m2h3": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "bygpctar3": null,
+        "minuds3": null,
+        "udstykfb3": null,
+        "anvspec4": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "eareal4": null,
+        "earealh4": null,
+        "m3_m24": null,
+        "m3_m2h4": null,
+        "maxbhjd4": null,
+        "maxetage4": null,
+        "bygpctar4": null,
+        "minuds4": null,
+        "udstykfb4": null,
+        "anvspec5": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "eareal5": null,
+        "earealh5": null,
+        "m3_m25": null,
+        "m3_m2h5": null,
+        "maxbhjd5": null,
+        "maxetage5": null,
+        "bygpctar5": null,
+        "minuds5": null,
+        "udstykfb5": null,
+        "anvspec6": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m26": null,
+        "m3_m2h6": null,
+        "maxbhjd6": null,
+        "maxetage6": null,
+        "bygpctar6": null,
+        "minuds6": null,
+        "udstykfb6": null,
+        "anvspec7": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "eareal7": null,
+        "earealh7": null,
+        "m3_m27": null,
+        "m3_m2h7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "bygpctar7": null,
+        "minuds7": null,
+        "udstykfb7": null,
+        "anvspec8": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "eareal8": null,
+        "earealh8": null,
+        "m3_m28": null,
+        "m3_m2h8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "bygpctar8": null,
+        "minuds8": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "eareal9": null,
+        "earealh9": null,
+        "m3_m29": null,
+        "m3_m2h9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "bygpctar9": null,
+        "minuds9": null,
+        "udstykfb9": null,
+        "anvspec10": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "eareal10": null,
+        "earealh10": null,
+        "m3_m210": null,
+        "m3_m2h10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "bygpctar10": null,
+        "minuds10": null,
+        "udstykfb10": null,
+        "abestem1": null,
+        "abestem2": null,
+        "abestem3": null,
+        "septima_transaktion_id": "147134986",
+        "septima_hash86": "OMvca01Ysic1t+UFpAOmVYzhuCAQ6eaWY7rYoiOQr9E+/UGqyVjfaUGfQm5scJ1kaLX4ULtTf3rPCLwmGwfL7A",
+        "septima_serial": "1168593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.243575749,
+                57.131931433
+              ],
+              [
+                10.243682954,
+                57.131910057
+              ],
+              [
+                10.243863627,
+                57.131870614
+              ],
+              [
+                10.244159613,
+                57.131695482
+              ],
+              [
+                10.244299827,
+                57.131564487
+              ],
+              [
+                10.24435457,
+                57.131440165
+              ],
+              [
+                10.244191285,
+                57.131122871
+              ],
+              [
+                10.244164351,
+                57.131080868
+              ],
+              [
+                10.240518031,
+                57.129698996
+              ],
+              [
+                10.240052878,
+                57.129489194
+              ],
+              [
+                10.239771075,
+                57.129390044
+              ],
+              [
+                10.239507476,
+                57.129354788
+              ],
+              [
+                10.239335572,
+                57.129339012
+              ],
+              [
+                10.239149065,
+                57.129367067
+              ],
+              [
+                10.238963142,
+                57.12941259
+              ],
+              [
+                10.23446522,
+                57.127986154
+              ],
+              [
+                10.230491651,
+                57.126697124
+              ],
+              [
+                10.230033813,
+                57.126617155
+              ],
+              [
+                10.229867472,
+                57.126607136
+              ],
+              [
+                10.229718059,
+                57.126623163
+              ],
+              [
+                10.229542073,
+                57.126645276
+              ],
+              [
+                10.229303486,
+                57.126717514
+              ],
+              [
+                10.229103915,
+                57.126835968
+              ],
+              [
+                10.228989806,
+                57.126947759
+              ],
+              [
+                10.228915002,
+                57.127114502
+              ],
+              [
+                10.22821213,
+                57.127112213
+              ],
+              [
+                10.22768226,
+                57.127585007
+              ],
+              [
+                10.227421819,
+                57.127726505
+              ],
+              [
+                10.226436673,
+                57.128260772
+              ],
+              [
+                10.226409275,
+                57.128479175
+              ],
+              [
+                10.2265198,
+                57.128367001
+              ],
+              [
+                10.226814115,
+                57.128198113
+              ],
+              [
+                10.227771032,
+                57.127661596
+              ],
+              [
+                10.228078987,
+                57.12741976
+              ],
+              [
+                10.228313435,
+                57.12722233
+              ],
+              [
+                10.2286658,
+                57.127189754
+              ],
+              [
+                10.228934149,
+                57.127207512
+              ],
+              [
+                10.22893656,
+                57.1272803
+              ],
+              [
+                10.229014789,
+                57.127378557
+              ],
+              [
+                10.229179253,
+                57.127493443
+              ],
+              [
+                10.229439984,
+                57.127604473
+              ],
+              [
+                10.229688853,
+                57.127680669
+              ],
+              [
+                10.232865923,
+                57.128689224
+              ],
+              [
+                10.237390414,
+                57.130109302
+              ],
+              [
+                10.237746131,
+                57.130248173
+              ],
+              [
+                10.237485875,
+                57.130445167
+              ],
+              [
+                10.236662942,
+                57.13110734
+              ],
+              [
+                10.231724119,
+                57.134849519
+              ],
+              [
+                10.230678554,
+                57.13564019
+              ],
+              [
+                10.230732393,
+                57.13569018
+              ],
+              [
+                10.230807608,
+                57.135761044
+              ],
+              [
+                10.230975316,
+                57.13591905
+              ],
+              [
+                10.230904344,
+                57.135744965
+              ],
+              [
+                10.230928508,
+                57.135666092
+              ],
+              [
+                10.230908448,
+                57.135556984
+              ],
+              [
+                10.231191041,
+                57.135343185
+              ],
+              [
+                10.231421348,
+                57.135183613
+              ],
+              [
+                10.233307984,
+                57.133770014
+              ],
+              [
+                10.235335598,
+                57.132251606
+              ],
+              [
+                10.237939646,
+                57.130277501
+              ],
+              [
+                10.239639549,
+                57.130822815
+              ],
+              [
+                10.242971261,
+                57.131874731
+              ],
+              [
+                10.243135879,
+                57.131912417
+              ],
+              [
+                10.243318456,
+                57.131926626
+              ],
+              [
+                10.243575749,
+                57.131931433
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": null,
+        "id": 325804,
+        "planid": 1370356,
+        "komnr": 810,
+        "objektkode": 20,
+        "plantype": 20.1,
+        "plannr": "32-T-11.01",
+        "plannavn": "Forsøgsvindmøller ved Try",
+        "anvgen": 81,
+        "datoforsl": 20101222,
+        "datovedt": 20110427,
+        "datoaflyst": null,
+        "datoikraft": 20110510,
+        "datostart": 20110111,
+        "datoslut": 20110308,
+        "datoattr": null,
+        "datogeom": null,
+        "doklink": "https://dokument.plandata.dk/20_1370356_APPROVED_1304938488265.pdf",
+        "distrikt": null,
+        "zone": null,
+        "bebygpct": null,
+        "bebygpctaf": null,
+        "bebygpctar": null,
+        "m3_m2": null,
+        "maxetager": null,
+        "maxbygnhjd": null,
+        "minmiljo": null,
+        "maxmiljo": null,
+        "bevarbest": null,
+        "bebyggrad": null,
+        "mingrund": null,
+        "dataprod": null,
+        "digigrundl": null,
+        "digigrundd": null,
+        "datooprt": "2011-01-10T11:57:31.000Z",
+        "datoopdt": "2018-07-24T13:12:33.118Z",
+        "anvendelsegenerel": "Tekniske anlæg",
+        "kommunenavn": "Brønderslev",
+        "zonestatus": null,
+        "planstatus": null,
+        "megawatt": 9,
+        "vvmredeg": null,
+        "sforhold": null,
+        "minuds": null,
+        "eareal": null,
+        "earealh": null,
+        "m3_m2h": null,
+        "ianvreg": false,
+        "izonereg": true,
+        "iomfangreg": true,
+        "iudstykreg": true,
+        "kompleks": null,
+        "kbeskriv": null,
+        "vindbeskriv": null,
+        "udstykforbud": null,
+        "statsplan": false,
+        "sforaktuel": false,
+        "anvspec1": 8111,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "eareal1": null,
+        "earealh1": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "bygpctar1": null,
+        "minuds1": null,
+        "udstykfb1": null,
+        "anvspec2": 9110,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "eareal2": null,
+        "earealh2": null,
+        "m3_m22": null,
+        "m3_m2h2": null,
+        "maxbhjd2": null,
+        "maxetage2": null,
+        "bygpctar2": null,
+        "minuds2": null,
+        "udstykfb2": null,
+        "anvspec3": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "eareal3": null,
+        "earealh3": null,
+        "m3_m23": null,
+        "m3_m2h3": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "bygpctar3": null,
+        "minuds3": null,
+        "udstykfb3": null,
+        "anvspec4": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "eareal4": null,
+        "earealh4": null,
+        "m3_m24": null,
+        "m3_m2h4": null,
+        "maxbhjd4": null,
+        "maxetage4": null,
+        "bygpctar4": null,
+        "minuds4": null,
+        "udstykfb4": null,
+        "anvspec5": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "eareal5": null,
+        "earealh5": null,
+        "m3_m25": null,
+        "m3_m2h5": null,
+        "maxbhjd5": null,
+        "maxetage5": null,
+        "bygpctar5": null,
+        "minuds5": null,
+        "udstykfb5": null,
+        "anvspec6": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m26": null,
+        "m3_m2h6": null,
+        "maxbhjd6": null,
+        "maxetage6": null,
+        "bygpctar6": null,
+        "minuds6": null,
+        "udstykfb6": null,
+        "anvspec7": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "eareal7": null,
+        "earealh7": null,
+        "m3_m27": null,
+        "m3_m2h7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "bygpctar7": null,
+        "minuds7": null,
+        "udstykfb7": null,
+        "anvspec8": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "eareal8": null,
+        "earealh8": null,
+        "m3_m28": null,
+        "m3_m2h8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "bygpctar8": null,
+        "minuds8": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "eareal9": null,
+        "earealh9": null,
+        "m3_m29": null,
+        "m3_m2h9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "bygpctar9": null,
+        "minuds9": null,
+        "udstykfb9": null,
+        "anvspec10": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "eareal10": null,
+        "earealh10": null,
+        "m3_m210": null,
+        "m3_m2h10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "bygpctar10": null,
+        "minuds10": null,
+        "udstykfb10": null,
+        "abestem1": null,
+        "abestem2": null,
+        "abestem3": null,
+        "septima_transaktion_id": "147134986",
+        "septima_hash86": "m7k04004EVuCAVoIccBbcGOCjmEIluuJpcjZzBT6hZQdYd3dEOlUoIM3vBPnG60h7GRiQI3SyNB1VNM/8JlGxw",
+        "septima_serial": "1168594"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.035174307,
+                57.256595278
+              ],
+              [
+                10.037210644,
+                57.258809636
+              ],
+              [
+                10.037021256,
+                57.258811199
+              ],
+              [
+                10.036733238,
+                57.25888415
+              ],
+              [
+                10.036575513,
+                57.258959235
+              ],
+              [
+                10.036371971,
+                57.259089232
+              ],
+              [
+                10.036281779,
+                57.259250374
+              ],
+              [
+                10.036250771,
+                57.259411029
+              ],
+              [
+                10.036278316,
+                57.259548745
+              ],
+              [
+                10.03639482,
+                57.259692143
+              ],
+              [
+                10.036564412,
+                57.259828687
+              ],
+              [
+                10.036833088,
+                57.259909878
+              ],
+              [
+                10.037142565,
+                57.259968277
+              ],
+              [
+                10.038242965,
+                57.259943152
+              ],
+              [
+                10.038560566,
+                57.260290197
+              ],
+              [
+                10.039957651,
+                57.260012031
+              ],
+              [
+                10.041033455,
+                57.260023764
+              ],
+              [
+                10.041520209,
+                57.259858294
+              ],
+              [
+                10.042886935,
+                57.259830921
+              ],
+              [
+                10.045915853,
+                57.259757633
+              ],
+              [
+                10.052127164,
+                57.25959672
+              ],
+              [
+                10.052463967,
+                57.259574653
+              ],
+              [
+                10.052780637,
+                57.259469345
+              ],
+              [
+                10.053001512,
+                57.259326344
+              ],
+              [
+                10.05313306,
+                57.259164842
+              ],
+              [
+                10.053156612,
+                57.258952918
+              ],
+              [
+                10.052935134,
+                57.25865964
+              ],
+              [
+                10.052664968,
+                57.258527167
+              ],
+              [
+                10.052319512,
+                57.258453069
+              ],
+              [
+                10.052052824,
+                57.258442469
+              ],
+              [
+                10.051373759,
+                57.256423915
+              ],
+              [
+                10.050839657,
+                57.25492063
+              ],
+              [
+                10.050703335,
+                57.254498316
+              ],
+              [
+                10.050755316,
+                57.25445297
+              ],
+              [
+                10.051267867,
+                57.254368484
+              ],
+              [
+                10.051680822,
+                57.254320117
+              ],
+              [
+                10.051945105,
+                57.25424733
+              ],
+              [
+                10.05210705,
+                57.254114447
+              ],
+              [
+                10.052119319,
+                57.253921865
+              ],
+              [
+                10.052016595,
+                57.253640422
+              ],
+              [
+                10.054025263,
+                57.25330119
+              ],
+              [
+                10.053592765,
+                57.252560564
+              ],
+              [
+                10.052861807,
+                57.251315575
+              ],
+              [
+                10.052130121,
+                57.250043321
+              ],
+              [
+                10.05185937,
+                57.249574184
+              ],
+              [
+                10.051520327,
+                57.24961341
+              ],
+              [
+                10.051494851,
+                57.249616247
+              ],
+              [
+                10.051380086,
+                57.249629344
+              ],
+              [
+                10.051133675,
+                57.249656956
+              ],
+              [
+                10.053085304,
+                57.253029975
+              ],
+              [
+                10.051495184,
+                57.253309552
+              ],
+              [
+                10.05169836,
+                57.254000776
+              ],
+              [
+                10.051635186,
+                57.254068672
+              ],
+              [
+                10.05145302,
+                57.254115108
+              ],
+              [
+                10.050833316,
+                57.254178035
+              ],
+              [
+                10.050597798,
+                57.254221708
+              ],
+              [
+                10.050328782,
+                57.254336236
+              ],
+              [
+                10.049898255,
+                57.254391161
+              ],
+              [
+                10.050299275,
+                57.255587596
+              ],
+              [
+                10.051169784,
+                57.258095376
+              ],
+              [
+                10.051235726,
+                57.258332215
+              ],
+              [
+                10.051166716,
+                57.258403368
+              ],
+              [
+                10.050895936,
+                57.25845696
+              ],
+              [
+                10.047737116,
+                57.258537868
+              ],
+              [
+                10.04396332,
+                57.258643054
+              ],
+              [
+                10.040555534,
+                57.258713017
+              ],
+              [
+                10.038023743,
+                57.258778864
+              ],
+              [
+                10.035874321,
+                57.256438735
+              ],
+              [
+                10.035174307,
+                57.256595278
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": null,
+        "id": 325849,
+        "planid": 1794012,
+        "komnr": 810,
+        "objektkode": 20,
+        "plantype": 20.1,
+        "plannr": "32-T-17.01",
+        "plannavn": "Vindmøller ved Ø. Linderup",
+        "anvgen": 81,
+        "datoforsl": 20121128,
+        "datovedt": 20130320,
+        "datoaflyst": null,
+        "datoikraft": 20130325,
+        "datostart": 20121211,
+        "datoslut": 20130205,
+        "datoattr": null,
+        "datogeom": null,
+        "doklink": "https://dokument.plandata.dk/20_1794012_APPROVED_1363951921628.pdf",
+        "distrikt": null,
+        "zone": null,
+        "bebygpct": null,
+        "bebygpctaf": null,
+        "bebygpctar": null,
+        "m3_m2": null,
+        "maxetager": null,
+        "maxbygnhjd": null,
+        "minmiljo": null,
+        "maxmiljo": null,
+        "bevarbest": null,
+        "bebyggrad": null,
+        "mingrund": null,
+        "dataprod": null,
+        "digigrundl": null,
+        "digigrundd": null,
+        "datooprt": "2012-12-06T15:24:31.000Z",
+        "datoopdt": "2018-07-24T13:12:33.118Z",
+        "anvendelsegenerel": "Tekniske anlæg",
+        "kommunenavn": "Brønderslev",
+        "zonestatus": null,
+        "planstatus": null,
+        "megawatt": 12,
+        "vvmredeg": null,
+        "sforhold": null,
+        "minuds": null,
+        "eareal": null,
+        "earealh": null,
+        "m3_m2h": null,
+        "ianvreg": false,
+        "izonereg": true,
+        "iomfangreg": true,
+        "iudstykreg": true,
+        "kompleks": null,
+        "kbeskriv": null,
+        "vindbeskriv": null,
+        "udstykforbud": null,
+        "statsplan": false,
+        "sforaktuel": false,
+        "anvspec1": 8111,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "eareal1": null,
+        "earealh1": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "bygpctar1": null,
+        "minuds1": null,
+        "udstykfb1": null,
+        "anvspec2": 9110,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "eareal2": null,
+        "earealh2": null,
+        "m3_m22": null,
+        "m3_m2h2": null,
+        "maxbhjd2": null,
+        "maxetage2": null,
+        "bygpctar2": null,
+        "minuds2": null,
+        "udstykfb2": null,
+        "anvspec3": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "eareal3": null,
+        "earealh3": null,
+        "m3_m23": null,
+        "m3_m2h3": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "bygpctar3": null,
+        "minuds3": null,
+        "udstykfb3": null,
+        "anvspec4": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "eareal4": null,
+        "earealh4": null,
+        "m3_m24": null,
+        "m3_m2h4": null,
+        "maxbhjd4": null,
+        "maxetage4": null,
+        "bygpctar4": null,
+        "minuds4": null,
+        "udstykfb4": null,
+        "anvspec5": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "eareal5": null,
+        "earealh5": null,
+        "m3_m25": null,
+        "m3_m2h5": null,
+        "maxbhjd5": null,
+        "maxetage5": null,
+        "bygpctar5": null,
+        "minuds5": null,
+        "udstykfb5": null,
+        "anvspec6": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m26": null,
+        "m3_m2h6": null,
+        "maxbhjd6": null,
+        "maxetage6": null,
+        "bygpctar6": null,
+        "minuds6": null,
+        "udstykfb6": null,
+        "anvspec7": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "eareal7": null,
+        "earealh7": null,
+        "m3_m27": null,
+        "m3_m2h7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "bygpctar7": null,
+        "minuds7": null,
+        "udstykfb7": null,
+        "anvspec8": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "eareal8": null,
+        "earealh8": null,
+        "m3_m28": null,
+        "m3_m2h8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "bygpctar8": null,
+        "minuds8": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "eareal9": null,
+        "earealh9": null,
+        "m3_m29": null,
+        "m3_m2h9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "bygpctar9": null,
+        "minuds9": null,
+        "udstykfb9": null,
+        "anvspec10": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "eareal10": null,
+        "earealh10": null,
+        "m3_m210": null,
+        "m3_m2h10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "bygpctar10": null,
+        "minuds10": null,
+        "udstykfb10": null,
+        "abestem1": null,
+        "abestem2": null,
+        "abestem3": null,
+        "septima_transaktion_id": "147134986",
+        "septima_hash86": "gxL/cc0Oc9farMur3PEQ0FlRHI+QK7/tc/TiuYkuy7B46A8kkFGIActG0QNAy3YjZLIrUEiv6jPv/Ln5VzuSnA",
+        "septima_serial": "1168595"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.947236715,
+                57.226310191
+              ],
+              [
+                9.947255472,
+                57.226364117
+              ],
+              [
+                9.948574083,
+                57.226159274
+              ],
+              [
+                9.94973035,
+                57.2259418
+              ],
+              [
+                9.950371226,
+                57.225801638
+              ],
+              [
+                9.951240041,
+                57.225632684
+              ],
+              [
+                9.951557408,
+                57.225524283
+              ],
+              [
+                9.952588876,
+                57.225018009
+              ],
+              [
+                9.953301065,
+                57.224664246
+              ],
+              [
+                9.953642683,
+                57.224512865
+              ],
+              [
+                9.953892663,
+                57.224402085
+              ],
+              [
+                9.954790096,
+                57.22405811
+              ],
+              [
+                9.954892842,
+                57.224019436
+              ],
+              [
+                9.955055765,
+                57.223979774
+              ],
+              [
+                9.956105728,
+                57.223724125
+              ],
+              [
+                9.9565833,
+                57.223523531
+              ],
+              [
+                9.957387396,
+                57.223210262
+              ],
+              [
+                9.957808484,
+                57.223069934
+              ],
+              [
+                9.957983033,
+                57.223016461
+              ],
+              [
+                9.958225425,
+                57.222942204
+              ],
+              [
+                9.958516176,
+                57.222846241
+              ],
+              [
+                9.958831146,
+                57.222742277
+              ],
+              [
+                9.959090578,
+                57.22266619
+              ],
+              [
+                9.959392613,
+                57.222577604
+              ],
+              [
+                9.960570996,
+                57.222369376
+              ],
+              [
+                9.960638389,
+                57.22235746
+              ],
+              [
+                9.962224524,
+                57.222197386
+              ],
+              [
+                9.962081655,
+                57.221075694
+              ],
+              [
+                9.961858566,
+                57.219372429
+              ],
+              [
+                9.961939112,
+                57.219272581
+              ],
+              [
+                9.961999345,
+                57.21919093
+              ],
+              [
+                9.96213047,
+                57.219117758
+              ],
+              [
+                9.962386579,
+                57.219054904
+              ],
+              [
+                9.963645685,
+                57.219055611
+              ],
+              [
+                9.963650325,
+                57.218949666
+              ],
+              [
+                9.961652717,
+                57.218970314
+              ],
+              [
+                9.961870053,
+                57.220612732
+              ],
+              [
+                9.96201385,
+                57.221824958
+              ],
+              [
+                9.962002495,
+                57.221867895
+              ],
+              [
+                9.961942023,
+                57.221940526
+              ],
+              [
+                9.961884944,
+                57.221983813
+              ],
+              [
+                9.96167846,
+                57.222037265
+              ],
+              [
+                9.961525015,
+                57.222051971
+              ],
+              [
+                9.961316419,
+                57.22202425
+              ],
+              [
+                9.961550358,
+                57.221907441
+              ],
+              [
+                9.961712576,
+                57.221750587
+              ],
+              [
+                9.961742074,
+                57.221606024
+              ],
+              [
+                9.961722867,
+                57.22150694
+              ],
+              [
+                9.961584634,
+                57.221307281
+              ],
+              [
+                9.961440436,
+                57.221197877
+              ],
+              [
+                9.961230379,
+                57.221113785
+              ],
+              [
+                9.960833981,
+                57.221058181
+              ],
+              [
+                9.960522824,
+                57.221083113
+              ],
+              [
+                9.960382204,
+                57.221111252
+              ],
+              [
+                9.960151544,
+                57.221194204
+              ],
+              [
+                9.960081527,
+                57.221219547
+              ],
+              [
+                9.959946702,
+                57.221310788
+              ],
+              [
+                9.959858126,
+                57.221421972
+              ],
+              [
+                9.959812989,
+                57.221604993
+              ],
+              [
+                9.959893371,
+                57.221818628
+              ],
+              [
+                9.960046056,
+                57.221934734
+              ],
+              [
+                9.960268761,
+                57.222025497
+              ],
+              [
+                9.960544742,
+                57.222086534
+              ],
+              [
+                9.96093588,
+                57.22209933
+              ],
+              [
+                9.960947125,
+                57.222212006
+              ],
+              [
+                9.960681565,
+                57.22223208
+              ],
+              [
+                9.960288377,
+                57.222300488
+              ],
+              [
+                9.959634662,
+                57.222422757
+              ],
+              [
+                9.958878603,
+                57.222606696
+              ],
+              [
+                9.957254101,
+                57.223131029
+              ],
+              [
+                9.957113004,
+                57.223141125
+              ],
+              [
+                9.957165524,
+                57.223082088
+              ],
+              [
+                9.957162079,
+                57.222949054
+              ],
+              [
+                9.9571375,
+                57.22280265
+              ],
+              [
+                9.957055952,
+                57.22270404
+              ],
+              [
+                9.956856965,
+                57.222565731
+              ],
+              [
+                9.956580053,
+                57.222468608
+              ],
+              [
+                9.956367068,
+                57.222431891
+              ],
+              [
+                9.956080021,
+                57.222425055
+              ],
+              [
+                9.955810941,
+                57.222469952
+              ],
+              [
+                9.955576048,
+                57.222550673
+              ],
+              [
+                9.955424463,
+                57.222637526
+              ],
+              [
+                9.955306831,
+                57.222751183
+              ],
+              [
+                9.955243703,
+                57.222882468
+              ],
+              [
+                9.955238594,
+                57.223006546
+              ],
+              [
+                9.955300286,
+                57.223141392
+              ],
+              [
+                9.955454128,
+                57.2233026
+              ],
+              [
+                9.95563901,
+                57.223377872
+              ],
+              [
+                9.955848485,
+                57.223439426
+              ],
+              [
+                9.956156966,
+                57.223470907
+              ],
+              [
+                9.95618354,
+                57.223533852
+              ],
+              [
+                9.955800452,
+                57.223672082
+              ],
+              [
+                9.954867174,
+                57.223918237
+              ],
+              [
+                9.954253502,
+                57.224143915
+              ],
+              [
+                9.95347622,
+                57.224474573
+              ],
+              [
+                9.952884187,
+                57.224733909
+              ],
+              [
+                9.952710523,
+                57.22477131
+              ],
+              [
+                9.952353022,
+                57.224774021
+              ],
+              [
+                9.952223284,
+                57.224741176
+              ],
+              [
+                9.952419856,
+                57.224624668
+              ],
+              [
+                9.952525264,
+                57.224520127
+              ],
+              [
+                9.952580614,
+                57.2244092
+              ],
+              [
+                9.952577011,
+                57.224269402
+              ],
+              [
+                9.95251492,
+                57.224118771
+              ],
+              [
+                9.952413004,
+                57.224036099
+              ],
+              [
+                9.95223955,
+                57.223920141
+              ],
+              [
+                9.951958947,
+                57.223841078
+              ],
+              [
+                9.951625235,
+                57.223798502
+              ],
+              [
+                9.951334891,
+                57.223825509
+              ],
+              [
+                9.951041609,
+                57.223899898
+              ],
+              [
+                9.950885851,
+                57.223986776
+              ],
+              [
+                9.950694652,
+                57.224150602
+              ],
+              [
+                9.950648887,
+                57.224311071
+              ],
+              [
+                9.950668937,
+                57.224443979
+              ],
+              [
+                9.950759597,
+                57.224574097
+              ],
+              [
+                9.950903835,
+                57.224685768
+              ],
+              [
+                9.951227405,
+                57.224818634
+              ],
+              [
+                9.951515108,
+                57.224850284
+              ],
+              [
+                9.951822669,
+                57.224845698
+              ],
+              [
+                9.95190818,
+                57.225260017
+              ],
+              [
+                9.951555028,
+                57.225431836
+              ],
+              [
+                9.951349032,
+                57.225505564
+              ],
+              [
+                9.949686577,
+                57.225856431
+              ],
+              [
+                9.948523808,
+                57.226074954
+              ],
+              [
+                9.948010173,
+                57.226150999
+              ],
+              [
+                9.947651559,
+                57.226110855
+              ],
+              [
+                9.947716801,
+                57.226060748
+              ],
+              [
+                9.947893014,
+                57.225960187
+              ],
+              [
+                9.94797748,
+                57.225849043
+              ],
+              [
+                9.947992836,
+                57.225799311
+              ],
+              [
+                9.947997911,
+                57.225672979
+              ],
+              [
+                9.947974639,
+                57.225576179
+              ],
+              [
+                9.947905754,
+                57.225484233
+              ],
+              [
+                9.947815969,
+                57.225387935
+              ],
+              [
+                9.947546448,
+                57.225254653
+              ],
+              [
+                9.947316134,
+                57.225190988
+              ],
+              [
+                9.947037092,
+                57.225172795
+              ],
+              [
+                9.946804759,
+                57.225192588
+              ],
+              [
+                9.946494713,
+                57.225262582
+              ],
+              [
+                9.946334378,
+                57.225333703
+              ],
+              [
+                9.946289343,
+                57.225361105
+              ],
+              [
+                9.946232471,
+                57.225413404
+              ],
+              [
+                9.946151524,
+                57.225499713
+              ],
+              [
+                9.946079351,
+                57.225603998
+              ],
+              [
+                9.946069246,
+                57.22569654
+              ],
+              [
+                9.946088761,
+                57.225809155
+              ],
+              [
+                9.946166879,
+                57.225937116
+              ],
+              [
+                9.946306317,
+                57.22602402
+              ],
+              [
+                9.946479358,
+                57.226124203
+              ],
+              [
+                9.946659675,
+                57.226183736
+              ],
+              [
+                9.946976601,
+                57.226219687
+              ],
+              [
+                9.947225858,
+                57.226211042
+              ],
+              [
+                9.947236715,
+                57.226310191
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": null,
+        "id": 325859,
+        "planid": 1469068,
+        "komnr": 810,
+        "objektkode": 20,
+        "plantype": 20.1,
+        "plannr": "32-T-16.01",
+        "plannavn": "Vindmøller ved Nejst",
+        "anvgen": 81,
+        "datoforsl": 20120321,
+        "datovedt": 20120829,
+        "datoaflyst": null,
+        "datoikraft": 20120904,
+        "datostart": 20120327,
+        "datoslut": 20120522,
+        "datoattr": null,
+        "datogeom": null,
+        "doklink": "https://dokument.plandata.dk/20_1469068_APPROVED_1349257839558.pdf",
+        "distrikt": null,
+        "zone": null,
+        "bebygpct": null,
+        "bebygpctaf": null,
+        "bebygpctar": null,
+        "m3_m2": null,
+        "maxetager": null,
+        "maxbygnhjd": null,
+        "minmiljo": null,
+        "maxmiljo": null,
+        "bevarbest": null,
+        "bebyggrad": null,
+        "mingrund": null,
+        "dataprod": null,
+        "digigrundl": null,
+        "digigrundd": null,
+        "datooprt": "2012-03-26T11:36:22.000Z",
+        "datoopdt": "2018-07-24T13:12:33.118Z",
+        "anvendelsegenerel": "Tekniske anlæg",
+        "kommunenavn": "Brønderslev",
+        "zonestatus": null,
+        "planstatus": null,
+        "megawatt": 12,
+        "vvmredeg": null,
+        "sforhold": null,
+        "minuds": null,
+        "eareal": null,
+        "earealh": null,
+        "m3_m2h": null,
+        "ianvreg": false,
+        "izonereg": true,
+        "iomfangreg": true,
+        "iudstykreg": true,
+        "kompleks": null,
+        "kbeskriv": null,
+        "vindbeskriv": null,
+        "udstykforbud": null,
+        "statsplan": false,
+        "sforaktuel": false,
+        "anvspec1": 8111,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "eareal1": null,
+        "earealh1": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "bygpctar1": null,
+        "minuds1": null,
+        "udstykfb1": null,
+        "anvspec2": 9110,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "eareal2": null,
+        "earealh2": null,
+        "m3_m22": null,
+        "m3_m2h2": null,
+        "maxbhjd2": null,
+        "maxetage2": null,
+        "bygpctar2": null,
+        "minuds2": null,
+        "udstykfb2": null,
+        "anvspec3": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "eareal3": null,
+        "earealh3": null,
+        "m3_m23": null,
+        "m3_m2h3": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "bygpctar3": null,
+        "minuds3": null,
+        "udstykfb3": null,
+        "anvspec4": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "eareal4": null,
+        "earealh4": null,
+        "m3_m24": null,
+        "m3_m2h4": null,
+        "maxbhjd4": null,
+        "maxetage4": null,
+        "bygpctar4": null,
+        "minuds4": null,
+        "udstykfb4": null,
+        "anvspec5": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "eareal5": null,
+        "earealh5": null,
+        "m3_m25": null,
+        "m3_m2h5": null,
+        "maxbhjd5": null,
+        "maxetage5": null,
+        "bygpctar5": null,
+        "minuds5": null,
+        "udstykfb5": null,
+        "anvspec6": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m26": null,
+        "m3_m2h6": null,
+        "maxbhjd6": null,
+        "maxetage6": null,
+        "bygpctar6": null,
+        "minuds6": null,
+        "udstykfb6": null,
+        "anvspec7": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "eareal7": null,
+        "earealh7": null,
+        "m3_m27": null,
+        "m3_m2h7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "bygpctar7": null,
+        "minuds7": null,
+        "udstykfb7": null,
+        "anvspec8": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "eareal8": null,
+        "earealh8": null,
+        "m3_m28": null,
+        "m3_m2h8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "bygpctar8": null,
+        "minuds8": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "eareal9": null,
+        "earealh9": null,
+        "m3_m29": null,
+        "m3_m2h9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "bygpctar9": null,
+        "minuds9": null,
+        "udstykfb9": null,
+        "anvspec10": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "eareal10": null,
+        "earealh10": null,
+        "m3_m210": null,
+        "m3_m2h10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "bygpctar10": null,
+        "minuds10": null,
+        "udstykfb10": null,
+        "abestem1": null,
+        "abestem2": null,
+        "abestem3": null,
+        "septima_transaktion_id": "147134986",
+        "septima_hash86": "3krNSV+XZyQJx1hlZLtaETTsDFlnzz3ajYpIJXPO6kLhq2FyZ7GpQwhxQ0jE/oxKR2wFlPjVJjv/ZZREww9B6g",
+        "septima_serial": "1168596"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.358238984,
+                57.222070921
+              ],
+              [
+                10.358048412,
+                57.222073482
+              ],
+              [
+                10.357926827,
+                57.22212975
+              ],
+              [
+                10.357875946,
+                57.222189394
+              ],
+              [
+                10.357859644,
+                57.222243287
+              ],
+              [
+                10.357901849,
+                57.222313904
+              ],
+              [
+                10.35782019,
+                57.222330488
+              ],
+              [
+                10.357858432,
+                57.222380296
+              ],
+              [
+                10.358096299,
+                57.222754765
+              ],
+              [
+                10.358397355,
+                57.222696965
+              ],
+              [
+                10.35864853,
+                57.223105808
+              ],
+              [
+                10.358868983,
+                57.223466223
+              ],
+              [
+                10.359121969,
+                57.223841162
+              ],
+              [
+                10.359271448,
+                57.224062566
+              ],
+              [
+                10.359151038,
+                57.224051585
+              ],
+              [
+                10.359018665,
+                57.224015002
+              ],
+              [
+                10.35859758,
+                57.223874933
+              ],
+              [
+                10.357988209,
+                57.223669132
+              ],
+              [
+                10.357539695,
+                57.223487208
+              ],
+              [
+                10.356843723,
+                57.223204654
+              ],
+              [
+                10.356342652,
+                57.223001807
+              ],
+              [
+                10.355912156,
+                57.222812245
+              ],
+              [
+                10.35568659,
+                57.2227684
+              ],
+              [
+                10.355118961,
+                57.222661305
+              ],
+              [
+                10.354109407,
+                57.222468067
+              ],
+              [
+                10.353496968,
+                57.222177155
+              ],
+              [
+                10.352895289,
+                57.221888604
+              ],
+              [
+                10.352835768,
+                57.221802471
+              ],
+              [
+                10.352575105,
+                57.221382149
+              ],
+              [
+                10.352863432,
+                57.221309624
+              ],
+              [
+                10.352612424,
+                57.220903248
+              ],
+              [
+                10.352520751,
+                57.220895971
+              ],
+              [
+                10.352468079,
+                57.220830424
+              ],
+              [
+                10.352391949,
+                57.220789923
+              ],
+              [
+                10.352264495,
+                57.22076237
+              ],
+              [
+                10.352164003,
+                57.220769008
+              ],
+              [
+                10.352026709,
+                57.220800467
+              ],
+              [
+                10.351960025,
+                57.220851596
+              ],
+              [
+                10.351922413,
+                57.22091368
+              ],
+              [
+                10.351968268,
+                57.220993652
+              ],
+              [
+                10.352026154,
+                57.221035177
+              ],
+              [
+                10.352121628,
+                57.221063074
+              ],
+              [
+                10.352274185,
+                57.221068869
+              ],
+              [
+                10.352509369,
+                57.221417567
+              ],
+              [
+                10.352758705,
+                57.221819829
+              ],
+              [
+                10.352311894,
+                57.221599854
+              ],
+              [
+                10.351781162,
+                57.2213345
+              ],
+              [
+                10.351572731,
+                57.22117559
+              ],
+              [
+                10.351426894,
+                57.221103608
+              ],
+              [
+                10.350373078,
+                57.220572808
+              ],
+              [
+                10.350348546,
+                57.220526793
+              ],
+              [
+                10.350249508,
+                57.220234477
+              ],
+              [
+                10.349619588,
+                57.220047038
+              ],
+              [
+                10.349629404,
+                57.220107261
+              ],
+              [
+                10.3501835,
+                57.220262459
+              ],
+              [
+                10.350275828,
+                57.220579639
+              ],
+              [
+                10.35078531,
+                57.220847707
+              ],
+              [
+                10.351537844,
+                57.221221419
+              ],
+              [
+                10.351450817,
+                57.221257892
+              ],
+              [
+                10.351787652,
+                57.221636901
+              ],
+              [
+                10.352140569,
+                57.222038876
+              ],
+              [
+                10.352202874,
+                57.222076221
+              ],
+              [
+                10.352485989,
+                57.222152509
+              ],
+              [
+                10.352744182,
+                57.222255511
+              ],
+              [
+                10.353278414,
+                57.222491072
+              ],
+              [
+                10.3534985,
+                57.222510187
+              ],
+              [
+                10.354122389,
+                57.222572882
+              ],
+              [
+                10.354065112,
+                57.22250656
+              ],
+              [
+                10.354313519,
+                57.222550161
+              ],
+              [
+                10.355225094,
+                57.222730406
+              ],
+              [
+                10.355897253,
+                57.222862818
+              ],
+              [
+                10.356213537,
+                57.223012292
+              ],
+              [
+                10.356164857,
+                57.223055791
+              ],
+              [
+                10.356370403,
+                57.22334282
+              ],
+              [
+                10.356453892,
+                57.223425031
+              ],
+              [
+                10.356553222,
+                57.223674721
+              ],
+              [
+                10.356906225,
+                57.223786607
+              ],
+              [
+                10.357368044,
+                57.223781925
+              ],
+              [
+                10.357538425,
+                57.22379295
+              ],
+              [
+                10.358169608,
+                57.223796093
+              ],
+              [
+                10.359038976,
+                57.224070153
+              ],
+              [
+                10.359179871,
+                57.224113015
+              ],
+              [
+                10.359377618,
+                57.224122685
+              ],
+              [
+                10.359281352,
+                57.223949351
+              ],
+              [
+                10.358992186,
+                57.223502079
+              ],
+              [
+                10.35870845,
+                57.223036566
+              ],
+              [
+                10.358555299,
+                57.222807651
+              ],
+              [
+                10.358455903,
+                57.222631871
+              ],
+              [
+                10.358288413,
+                57.222385755
+              ],
+              [
+                10.358382473,
+                57.222333499
+              ],
+              [
+                10.358447906,
+                57.222248496
+              ],
+              [
+                10.358430036,
+                57.222176791
+              ],
+              [
+                10.358382558,
+                57.222128545
+              ],
+              [
+                10.358238984,
+                57.222070921
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                10.357084512,
+                57.230882006
+              ],
+              [
+                10.356921779,
+                57.229604461
+              ],
+              [
+                10.356815006,
+                57.228605642
+              ],
+              [
+                10.356683398,
+                57.227511226
+              ],
+              [
+                10.356567062,
+                57.226583583
+              ],
+              [
+                10.356563995,
+                57.226334036
+              ],
+              [
+                10.356632351,
+                57.226328339
+              ],
+              [
+                10.356674542,
+                57.226315487
+              ],
+              [
+                10.356707084,
+                57.226304785
+              ],
+              [
+                10.356768615,
+                57.226263233
+              ],
+              [
+                10.356803287,
+                57.22621162
+              ],
+              [
+                10.356797451,
+                57.226135652
+              ],
+              [
+                10.356743756,
+                57.226084168
+              ],
+              [
+                10.356669194,
+                57.226045305
+              ],
+              [
+                10.356558746,
+                57.22602501
+              ],
+              [
+                10.356473485,
+                57.226026758
+              ],
+              [
+                10.356341738,
+                57.226048841
+              ],
+              [
+                10.356258428,
+                57.226102971
+              ],
+              [
+                10.356221062,
+                57.226165017
+              ],
+              [
+                10.356245841,
+                57.226258961
+              ],
+              [
+                10.356118116,
+                57.226266125
+              ],
+              [
+                10.356146586,
+                57.226502175
+              ],
+              [
+                10.356175761,
+                57.226715904
+              ],
+              [
+                10.356519395,
+                57.226737812
+              ],
+              [
+                10.356563513,
+                57.227234016
+              ],
+              [
+                10.35660673,
+                57.227664116
+              ],
+              [
+                10.356670076,
+                57.228144411
+              ],
+              [
+                10.3567165,
+                57.228537287
+              ],
+              [
+                10.356747773,
+                57.228808016
+              ],
+              [
+                10.356788045,
+                57.229199305
+              ],
+              [
+                10.356825733,
+                57.229561698
+              ],
+              [
+                10.356861767,
+                57.229796013
+              ],
+              [
+                10.356910403,
+                57.230290515
+              ],
+              [
+                10.356940812,
+                57.230454645
+              ],
+              [
+                10.356976974,
+                57.230858375
+              ],
+              [
+                10.357084512,
+                57.230882006
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                10.34893032,
+                57.229294674
+              ],
+              [
+                10.34943261,
+                57.229279362
+              ],
+              [
+                10.349387167,
+                57.228827798
+              ],
+              [
+                10.349242466,
+                57.228829352
+              ],
+              [
+                10.349228229,
+                57.228773308
+              ],
+              [
+                10.349185747,
+                57.228736575
+              ],
+              [
+                10.349101746,
+                57.228689545
+              ],
+              [
+                10.349000554,
+                57.228672451
+              ],
+              [
+                10.34890283,
+                57.228666889
+              ],
+              [
+                10.348783314,
+                57.228690485
+              ],
+              [
+                10.348724966,
+                57.228720037
+              ],
+              [
+                10.348677642,
+                57.228759387
+              ],
+              [
+                10.348650842,
+                57.22881835
+              ],
+              [
+                10.34866642,
+                57.228869421
+              ],
+              [
+                10.348713985,
+                57.228920149
+              ],
+              [
+                10.348765486,
+                57.228953479
+              ],
+              [
+                10.348897746,
+                57.228986769
+              ],
+              [
+                10.34893032,
+                57.229294674
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                10.3508786,
+                57.224858988
+              ],
+              [
+                10.350841698,
+                57.224808147
+              ],
+              [
+                10.350789567,
+                57.224757469
+              ],
+              [
+                10.350701608,
+                57.224727011
+              ],
+              [
+                10.350559366,
+                57.224712012
+              ],
+              [
+                10.350453299,
+                57.224728028
+              ],
+              [
+                10.35038104,
+                57.224751945
+              ],
+              [
+                10.350314165,
+                57.224798117
+              ],
+              [
+                10.350287129,
+                57.224850472
+              ],
+              [
+                10.350290735,
+                57.224907456
+              ],
+              [
+                10.350354402,
+                57.224981976
+              ],
+              [
+                10.350320553,
+                57.22509804
+              ],
+              [
+                10.350733428,
+                57.225139054
+              ],
+              [
+                10.350972046,
+                57.225164586
+              ],
+              [
+                10.351034011,
+                57.225234165
+              ],
+              [
+                10.35091193,
+                57.225604063
+              ],
+              [
+                10.350797389,
+                57.226013548
+              ],
+              [
+                10.350636177,
+                57.226521878
+              ],
+              [
+                10.350483768,
+                57.227021023
+              ],
+              [
+                10.35036688,
+                57.227408219
+              ],
+              [
+                10.350055491,
+                57.227601644
+              ],
+              [
+                10.349944607,
+                57.227694568
+              ],
+              [
+                10.349989196,
+                57.228164323
+              ],
+              [
+                10.350024392,
+                57.228668889
+              ],
+              [
+                10.350065835,
+                57.229260988
+              ],
+              [
+                10.350155733,
+                57.229260849
+              ],
+              [
+                10.350120414,
+                57.228752979
+              ],
+              [
+                10.35008964,
+                57.228411171
+              ],
+              [
+                10.350055063,
+                57.227965274
+              ],
+              [
+                10.350029509,
+                57.227682912
+              ],
+              [
+                10.350454089,
+                57.227418025
+              ],
+              [
+                10.350529195,
+                57.227180035
+              ],
+              [
+                10.350681575,
+                57.226680063
+              ],
+              [
+                10.350814258,
+                57.22622493
+              ],
+              [
+                10.350954825,
+                57.22577715
+              ],
+              [
+                10.35107247,
+                57.225369285
+              ],
+              [
+                10.351212729,
+                57.224913244
+              ],
+              [
+                10.3508786,
+                57.224858988
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                10.355386889,
+                57.23038971
+              ],
+              [
+                10.355309261,
+                57.229927646
+              ],
+              [
+                10.354895371,
+                57.22994368
+              ],
+              [
+                10.354896522,
+                57.229975072
+              ],
+              [
+                10.354726588,
+                57.229995086
+              ],
+              [
+                10.354639877,
+                57.230040648
+              ],
+              [
+                10.354605561,
+                57.230102173
+              ],
+              [
+                10.354601467,
+                57.230156761
+              ],
+              [
+                10.354626071,
+                57.230212698
+              ],
+              [
+                10.354721473,
+                57.230271166
+              ],
+              [
+                10.354871658,
+                57.230294339
+              ],
+              [
+                10.354927325,
+                57.230399521
+              ],
+              [
+                10.355386889,
+                57.23038971
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": null,
+        "id": 325875,
+        "planid": 1376193,
+        "komnr": 810,
+        "objektkode": 20,
+        "plantype": 20.1,
+        "plannr": "32-T-12.01",
+        "plannavn": "Vindmøllepark ved Pulsen",
+        "anvgen": 81,
+        "datoforsl": 20110525,
+        "datovedt": 20120523,
+        "datoaflyst": null,
+        "datoikraft": 20120531,
+        "datostart": 20110531,
+        "datoslut": 20110805,
+        "datoattr": null,
+        "datogeom": null,
+        "doklink": "https://dokument.plandata.dk/20_1376193_APPROVED_1338454736464.pdf",
+        "distrikt": null,
+        "zone": null,
+        "bebygpct": null,
+        "bebygpctaf": null,
+        "bebygpctar": null,
+        "m3_m2": null,
+        "maxetager": null,
+        "maxbygnhjd": null,
+        "minmiljo": null,
+        "maxmiljo": null,
+        "bevarbest": null,
+        "bebyggrad": null,
+        "mingrund": null,
+        "dataprod": null,
+        "digigrundl": null,
+        "digigrundd": null,
+        "datooprt": "2011-05-30T05:58:32.000Z",
+        "datoopdt": "2018-07-24T13:12:33.118Z",
+        "anvendelsegenerel": "Tekniske anlæg",
+        "kommunenavn": "Brønderslev",
+        "zonestatus": null,
+        "planstatus": null,
+        "megawatt": 18,
+        "vvmredeg": null,
+        "sforhold": null,
+        "minuds": null,
+        "eareal": null,
+        "earealh": null,
+        "m3_m2h": null,
+        "ianvreg": false,
+        "izonereg": true,
+        "iomfangreg": true,
+        "iudstykreg": true,
+        "kompleks": null,
+        "kbeskriv": null,
+        "vindbeskriv": null,
+        "udstykforbud": null,
+        "statsplan": false,
+        "sforaktuel": false,
+        "anvspec1": 8111,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "eareal1": null,
+        "earealh1": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "bygpctar1": null,
+        "minuds1": null,
+        "udstykfb1": null,
+        "anvspec2": 9110,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "eareal2": null,
+        "earealh2": null,
+        "m3_m22": null,
+        "m3_m2h2": null,
+        "maxbhjd2": null,
+        "maxetage2": null,
+        "bygpctar2": null,
+        "minuds2": null,
+        "udstykfb2": null,
+        "anvspec3": 9120,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "eareal3": null,
+        "earealh3": null,
+        "m3_m23": null,
+        "m3_m2h3": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "bygpctar3": null,
+        "minuds3": null,
+        "udstykfb3": null,
+        "anvspec4": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "eareal4": null,
+        "earealh4": null,
+        "m3_m24": null,
+        "m3_m2h4": null,
+        "maxbhjd4": null,
+        "maxetage4": null,
+        "bygpctar4": null,
+        "minuds4": null,
+        "udstykfb4": null,
+        "anvspec5": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "eareal5": null,
+        "earealh5": null,
+        "m3_m25": null,
+        "m3_m2h5": null,
+        "maxbhjd5": null,
+        "maxetage5": null,
+        "bygpctar5": null,
+        "minuds5": null,
+        "udstykfb5": null,
+        "anvspec6": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m26": null,
+        "m3_m2h6": null,
+        "maxbhjd6": null,
+        "maxetage6": null,
+        "bygpctar6": null,
+        "minuds6": null,
+        "udstykfb6": null,
+        "anvspec7": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "eareal7": null,
+        "earealh7": null,
+        "m3_m27": null,
+        "m3_m2h7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "bygpctar7": null,
+        "minuds7": null,
+        "udstykfb7": null,
+        "anvspec8": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "eareal8": null,
+        "earealh8": null,
+        "m3_m28": null,
+        "m3_m2h8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "bygpctar8": null,
+        "minuds8": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "eareal9": null,
+        "earealh9": null,
+        "m3_m29": null,
+        "m3_m2h9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "bygpctar9": null,
+        "minuds9": null,
+        "udstykfb9": null,
+        "anvspec10": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "eareal10": null,
+        "earealh10": null,
+        "m3_m210": null,
+        "m3_m2h10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "bygpctar10": null,
+        "minuds10": null,
+        "udstykfb10": null,
+        "abestem1": null,
+        "abestem2": null,
+        "abestem3": null,
+        "septima_transaktion_id": "147134986",
+        "septima_hash86": "alW9bndGebNVve9MrHuzziCJGf0/rG/05/l9anIvIL+GyQB0gECaYNmg/wbHSYIBonNENroFFhJdAoudE9QiSA",
+        "septima_serial": "1168597"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.208482854,
+                57.125341574
+              ],
+              [
+                10.208546004,
+                57.125556566
+              ],
+              [
+                10.208655393,
+                57.125751339
+              ],
+              [
+                10.208752888,
+                57.126043893
+              ],
+              [
+                10.20876537,
+                57.126467015
+              ],
+              [
+                10.209560557,
+                57.128498069
+              ],
+              [
+                10.210327833,
+                57.129402647
+              ],
+              [
+                10.216236219,
+                57.129205448
+              ],
+              [
+                10.214838568,
+                57.125757685
+              ],
+              [
+                10.214099056,
+                57.125035115
+              ],
+              [
+                10.208455034,
+                57.125262537
+              ],
+              [
+                10.208482854,
+                57.125341574
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": null,
+        "id": 325882,
+        "planid": 1166302,
+        "komnr": 810,
+        "objektkode": 20,
+        "plantype": 20.1,
+        "plannr": "20-23",
+        "plannavn": "Vindmøllepark, Gretterholtvej",
+        "anvgen": 81,
+        "datoforsl": 20020910,
+        "datovedt": 20030114,
+        "datoaflyst": null,
+        "datoikraft": 20030114,
+        "datostart": 20020918,
+        "datoslut": 20021113,
+        "datoattr": null,
+        "datogeom": null,
+        "doklink": "https://dokument.plandata.dk/20_1166302_APPROVED_1239889984523.pdf",
+        "distrikt": null,
+        "zone": null,
+        "bebygpct": null,
+        "bebygpctaf": null,
+        "bebygpctar": null,
+        "m3_m2": null,
+        "maxetager": null,
+        "maxbygnhjd": null,
+        "minmiljo": null,
+        "maxmiljo": null,
+        "bevarbest": null,
+        "bebyggrad": null,
+        "mingrund": null,
+        "dataprod": null,
+        "digigrundl": null,
+        "digigrundd": null,
+        "datooprt": "2009-04-16T13:53:04.000Z",
+        "datoopdt": "2018-07-24T13:12:33.118Z",
+        "anvendelsegenerel": "Tekniske anlæg",
+        "kommunenavn": "Brønderslev",
+        "zonestatus": null,
+        "planstatus": null,
+        "megawatt": 0,
+        "vvmredeg": null,
+        "sforhold": null,
+        "minuds": null,
+        "eareal": null,
+        "earealh": null,
+        "m3_m2h": null,
+        "ianvreg": false,
+        "izonereg": true,
+        "iomfangreg": true,
+        "iudstykreg": true,
+        "kompleks": null,
+        "kbeskriv": null,
+        "vindbeskriv": null,
+        "udstykforbud": null,
+        "statsplan": false,
+        "sforaktuel": false,
+        "anvspec1": 8111,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "eareal1": null,
+        "earealh1": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "bygpctar1": null,
+        "minuds1": null,
+        "udstykfb1": null,
+        "anvspec2": null,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "eareal2": null,
+        "earealh2": null,
+        "m3_m22": null,
+        "m3_m2h2": null,
+        "maxbhjd2": null,
+        "maxetage2": null,
+        "bygpctar2": null,
+        "minuds2": null,
+        "udstykfb2": null,
+        "anvspec3": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "eareal3": null,
+        "earealh3": null,
+        "m3_m23": null,
+        "m3_m2h3": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "bygpctar3": null,
+        "minuds3": null,
+        "udstykfb3": null,
+        "anvspec4": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "eareal4": null,
+        "earealh4": null,
+        "m3_m24": null,
+        "m3_m2h4": null,
+        "maxbhjd4": null,
+        "maxetage4": null,
+        "bygpctar4": null,
+        "minuds4": null,
+        "udstykfb4": null,
+        "anvspec5": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "eareal5": null,
+        "earealh5": null,
+        "m3_m25": null,
+        "m3_m2h5": null,
+        "maxbhjd5": null,
+        "maxetage5": null,
+        "bygpctar5": null,
+        "minuds5": null,
+        "udstykfb5": null,
+        "anvspec6": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m26": null,
+        "m3_m2h6": null,
+        "maxbhjd6": null,
+        "maxetage6": null,
+        "bygpctar6": null,
+        "minuds6": null,
+        "udstykfb6": null,
+        "anvspec7": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "eareal7": null,
+        "earealh7": null,
+        "m3_m27": null,
+        "m3_m2h7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "bygpctar7": null,
+        "minuds7": null,
+        "udstykfb7": null,
+        "anvspec8": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "eareal8": null,
+        "earealh8": null,
+        "m3_m28": null,
+        "m3_m2h8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "bygpctar8": null,
+        "minuds8": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "eareal9": null,
+        "earealh9": null,
+        "m3_m29": null,
+        "m3_m2h9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "bygpctar9": null,
+        "minuds9": null,
+        "udstykfb9": null,
+        "anvspec10": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "eareal10": null,
+        "earealh10": null,
+        "m3_m210": null,
+        "m3_m2h10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "bygpctar10": null,
+        "minuds10": null,
+        "udstykfb10": null,
+        "abestem1": null,
+        "abestem2": null,
+        "abestem3": null,
+        "septima_transaktion_id": "147134986",
+        "septima_hash86": "ugfEXH6YmG5PUAk1ykP74C0nJYGAgqYm6Gf6HDf9IIx3M7AC2YB55YdaumLLAY2PQ0+Qhrc+ZN5ifkwYngx3Nw",
+        "septima_serial": "1168598"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.627814036,
+                56.636586131
+              ],
+              [
+                9.627807155,
+                56.636600801
+              ],
+              [
+                9.627787982,
+                56.636611589
+              ],
+              [
+                9.627765059,
+                56.636615478
+              ],
+              [
+                9.625983663,
+                56.636688317
+              ],
+              [
+                9.625981214,
+                56.636727492
+              ],
+              [
+                9.625972581,
+                56.636766338
+              ],
+              [
+                9.62595789,
+                56.636804676
+              ],
+              [
+                9.625937137,
+                56.636842146
+              ],
+              [
+                9.625910447,
+                56.636878477
+              ],
+              [
+                9.625878222,
+                56.636913408
+              ],
+              [
+                9.625840606,
+                56.63694665
+              ],
+              [
+                9.625797823,
+                56.636977942
+              ],
+              [
+                9.625750177,
+                56.637007102
+              ],
+              [
+                9.625698205,
+                56.637033866
+              ],
+              [
+                9.625642275,
+                56.637057947
+              ],
+              [
+                9.625582665,
+                56.637079359
+              ],
+              [
+                9.625519777,
+                56.637097725
+              ],
+              [
+                9.625454425,
+                56.637113057
+              ],
+              [
+                9.625386737,
+                56.637125166
+              ],
+              [
+                9.625317513,
+                56.637134049
+              ],
+              [
+                9.625247025,
+                56.637139515
+              ],
+              [
+                9.625175944,
+                56.637141579
+              ],
+              [
+                9.625104936,
+                56.637140228
+              ],
+              [
+                9.625034279,
+                56.637135471
+              ],
+              [
+                9.624964772,
+                56.637127285
+              ],
+              [
+                9.624896695,
+                56.637115858
+              ],
+              [
+                9.624830848,
+                56.637101184
+              ],
+              [
+                9.624767378,
+                56.637083454
+              ],
+              [
+                9.62470707,
+                56.637062643
+              ],
+              [
+                9.624650353,
+                56.637039129
+              ],
+              [
+                9.624597488,
+                56.637012891
+              ],
+              [
+                9.624548886,
+                56.636984214
+              ],
+              [
+                9.624505091,
+                56.636953358
+              ],
+              [
+                9.624466365,
+                56.636920499
+              ],
+              [
+                9.624432991,
+                56.636885897
+              ],
+              [
+                9.624405104,
+                56.63684984
+              ],
+              [
+                9.624383115,
+                56.636812585
+              ],
+              [
+                9.624367159,
+                56.636774401
+              ],
+              [
+                9.624357242,
+                56.636735648
+              ],
+              [
+                9.624353514,
+                56.636696504
+              ],
+              [
+                9.624355948,
+                56.636657321
+              ],
+              [
+                9.624364583,
+                56.636618475
+              ],
+              [
+                9.624379275,
+                56.636580137
+              ],
+              [
+                9.62440003,
+                56.636542668
+              ],
+              [
+                9.624426721,
+                56.636506336
+              ],
+              [
+                9.624458947,
+                56.636471415
+              ],
+              [
+                9.62449658,
+                56.636438164
+              ],
+              [
+                9.624539348,
+                56.636406873
+              ],
+              [
+                9.624586993,
+                56.636377714
+              ],
+              [
+                9.624638982,
+                56.636350949
+              ],
+              [
+                9.624694911,
+                56.636326869
+              ],
+              [
+                9.624754521,
+                56.636305457
+              ],
+              [
+                9.624817392,
+                56.636287092
+              ],
+              [
+                9.624882742,
+                56.636271761
+              ],
+              [
+                9.624950428,
+                56.636259652
+              ],
+              [
+                9.625019651,
+                56.636250778
+              ],
+              [
+                9.625090137,
+                56.636245303
+              ],
+              [
+                9.625161087,
+                56.63624324
+              ],
+              [
+                9.625232224,
+                56.63624459
+              ],
+              [
+                9.625302879,
+                56.636249356
+              ],
+              [
+                9.625372384,
+                56.636257533
+              ],
+              [
+                9.625440459,
+                56.63626896
+              ],
+              [
+                9.625506306,
+                56.636283633
+              ],
+              [
+                9.62556979,
+                56.636301363
+              ],
+              [
+                9.625630098,
+                56.636322173
+              ],
+              [
+                9.625686814,
+                56.636345687
+              ],
+              [
+                9.625739663,
+                56.636371925
+              ],
+              [
+                9.625788265,
+                56.636400601
+              ],
+              [
+                9.625832077,
+                56.636431457
+              ],
+              [
+                9.62584271,
+                56.636440477
+              ],
+              [
+                9.625952194,
+                56.636436064
+              ],
+              [
+                9.625977595,
+                56.636630049
+              ],
+              [
+                9.627696247,
+                56.636559772
+              ],
+              [
+                9.626985191,
+                56.634766519
+              ],
+              [
+                9.626964716,
+                56.634772462
+              ],
+              [
+                9.626899369,
+                56.634787794
+              ],
+              [
+                9.626831686,
+                56.634799896
+              ],
+              [
+                9.626762466,
+                56.634808779
+              ],
+              [
+                9.626691983,
+                56.634814255
+              ],
+              [
+                9.626621036,
+                56.634816319
+              ],
+              [
+                9.626550049,
+                56.63481497
+              ],
+              [
+                9.62647938,
+                56.634810204
+              ],
+              [
+                9.626409894,
+                56.634802019
+              ],
+              [
+                9.626341805,
+                56.634790601
+              ],
+              [
+                9.626275976,
+                56.634775929
+              ],
+              [
+                9.626212494,
+                56.63475819
+              ],
+              [
+                9.626152189,
+                56.634737389
+              ],
+              [
+                9.626095474,
+                56.634713866
+              ],
+              [
+                9.626042611,
+                56.634687638
+              ],
+              [
+                9.625994012,
+                56.634658962
+              ],
+              [
+                9.625950218,
+                56.634628097
+              ],
+              [
+                9.625911493,
+                56.634595238
+              ],
+              [
+                9.62587812,
+                56.634560646
+              ],
+              [
+                9.625850249,
+                56.634524589
+              ],
+              [
+                9.625828244,
+                56.634487325
+              ],
+              [
+                9.625812287,
+                56.634449141
+              ],
+              [
+                9.62580237,
+                56.634410388
+              ],
+              [
+                9.625798641,
+                56.634371245
+              ],
+              [
+                9.625801073,
+                56.63433207
+              ],
+              [
+                9.625809706,
+                56.634293224
+              ],
+              [
+                9.625824396,
+                56.634254886
+              ],
+              [
+                9.625845164,
+                56.634217417
+              ],
+              [
+                9.625871836,
+                56.634181076
+              ],
+              [
+                9.625904058,
+                56.634146154
+              ],
+              [
+                9.625941688,
+                56.634112912
+              ],
+              [
+                9.625984452,
+                56.63408162
+              ],
+              [
+                9.626032093,
+                56.634052452
+              ],
+              [
+                9.626084078,
+                56.634025696
+              ],
+              [
+                9.626140003,
+                56.634001606
+              ],
+              [
+                9.626199608,
+                56.633980202
+              ],
+              [
+                9.626262491,
+                56.633961828
+              ],
+              [
+                9.62632782,
+                56.633946504
+              ],
+              [
+                9.626395518,
+                56.633934385
+              ],
+              [
+                9.62646472,
+                56.633925511
+              ],
+              [
+                9.626535218,
+                56.633920035
+              ],
+              [
+                9.626606147,
+                56.633917971
+              ],
+              [
+                9.62664892,
+                56.633918744
+              ],
+              [
+                9.626499358,
+                56.633541611
+              ],
+              [
+                9.626499357,
+                56.633541521
+              ],
+              [
+                9.625877917,
+                56.631974249
+              ],
+              [
+                9.62599074,
+                56.631985181
+              ],
+              [
+                9.626602928,
+                56.633529051
+              ],
+              [
+                9.626760197,
+                56.633925551
+              ],
+              [
+                9.626817301,
+                56.633932262
+              ],
+              [
+                9.626885372,
+                56.633943698
+              ],
+              [
+                9.626951215,
+                56.633958361
+              ],
+              [
+                9.627014697,
+                56.633976099
+              ],
+              [
+                9.627074985,
+                56.6339969
+              ],
+              [
+                9.627131699,
+                56.634020422
+              ],
+              [
+                9.627184562,
+                56.63404665
+              ],
+              [
+                9.627233162,
+                56.634075335
+              ],
+              [
+                9.627276956,
+                56.63410619
+              ],
+              [
+                9.627315681,
+                56.634139048
+              ],
+              [
+                9.627349055,
+                56.63417364
+              ],
+              [
+                9.627376944,
+                56.634209706
+              ],
+              [
+                9.627398934,
+                56.63424696
+              ],
+              [
+                9.627414892,
+                56.634285144
+              ],
+              [
+                9.627424811,
+                56.634323897
+              ],
+              [
+                9.627428558,
+                56.63436304
+              ],
+              [
+                9.627426111,
+                56.634402215
+              ],
+              [
+                9.62741748,
+                56.634441061
+              ],
+              [
+                9.627402792,
+                56.634479399
+              ],
+              [
+                9.627382041,
+                56.634516878
+              ],
+              [
+                9.627355354,
+                56.63455321
+              ],
+              [
+                9.627323133,
+                56.634588132
+              ],
+              [
+                9.627285504,
+                56.634621375
+              ],
+              [
+                9.62724274,
+                56.634652676
+              ],
+              [
+                9.627195099,
+                56.634681836
+              ],
+              [
+                9.627143115,
+                56.634708593
+              ],
+              [
+                9.627087189,
+                56.634732682
+              ],
+              [
+                9.627081047,
+                56.63473487
+              ],
+              [
+                9.627812862,
+                56.636580207
+              ],
+              [
+                9.627814036,
+                56.636586131
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                9.628873539,
+                56.632037843
+              ],
+              [
+                9.62887111,
+                56.632077018
+              ],
+              [
+                9.628862481,
+                56.632115864
+              ],
+              [
+                9.628847795,
+                56.632154202
+              ],
+              [
+                9.628827047,
+                56.632191672
+              ],
+              [
+                9.628800363,
+                56.632228005
+              ],
+              [
+                9.628768145,
+                56.632262936
+              ],
+              [
+                9.62873052,
+                56.63229618
+              ],
+              [
+                9.62868776,
+                56.632327472
+              ],
+              [
+                9.628640123,
+                56.632356633
+              ],
+              [
+                9.628588143,
+                56.632383399
+              ],
+              [
+                9.628532221,
+                56.63240748
+              ],
+              [
+                9.62847262,
+                56.632428894
+              ],
+              [
+                9.628409757,
+                56.632447261
+              ],
+              [
+                9.628344268,
+                56.632462595
+              ],
+              [
+                9.62827659,
+                56.632474706
+              ],
+              [
+                9.628207375,
+                56.632483591
+              ],
+              [
+                9.628136896,
+                56.632489058
+              ],
+              [
+                9.628065954,
+                56.632491123
+              ],
+              [
+                9.627994971,
+                56.632489774
+              ],
+              [
+                9.627924322,
+                56.632485019
+              ],
+              [
+                9.627854824,
+                56.632476834
+              ],
+              [
+                9.627786754,
+                56.632465408
+              ],
+              [
+                9.627720914,
+                56.632450737
+              ],
+              [
+                9.627657435,
+                56.632433007
+              ],
+              [
+                9.627597132,
+                56.632412199
+              ],
+              [
+                9.62754042,
+                56.632388685
+              ],
+              [
+                9.627487576,
+                56.632362448
+              ],
+              [
+                9.627438978,
+                56.632333773
+              ],
+              [
+                9.627395169,
+                56.632302917
+              ],
+              [
+                9.627356462,
+                56.632270059
+              ],
+              [
+                9.627327056,
+                56.632239661
+              ],
+              [
+                9.627248842,
+                56.632240684
+              ],
+              [
+                9.627238664,
+                56.632016264
+              ],
+              [
+                9.627245508,
+                56.63201614
+              ],
+              [
+                9.627246039,
+                56.632006893
+              ],
+              [
+                9.62725217,
+                56.63197946
+              ],
+              [
+                9.628688479,
+                56.631966823
+              ],
+              [
+                9.628861181,
+                56.631965232
+              ],
+              [
+                9.628869807,
+                56.6319987
+              ],
+              [
+                9.628873539,
+                56.632037843
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": null,
+        "id": 328322,
+        "planid": 1372530,
+        "komnr": 846,
+        "objektkode": 20,
+        "plantype": 20.1,
+        "plannr": "50B/2011",
+        "plannavn": "Vindmølleområde ved Hejring",
+        "anvgen": 81,
+        "datoforsl": 20110127,
+        "datovedt": 20110825,
+        "datoaflyst": null,
+        "datoikraft": 20110913,
+        "datostart": 20110215,
+        "datoslut": 20110413,
+        "datoattr": 20180817,
+        "datogeom": null,
+        "doklink": "https://dokument.plandata.dk/20_1372530_APPROVED_1315828244142.pdf",
+        "distrikt": null,
+        "zone": null,
+        "bebygpct": null,
+        "bebygpctaf": null,
+        "bebygpctar": null,
+        "m3_m2": null,
+        "maxetager": null,
+        "maxbygnhjd": 125,
+        "minmiljo": null,
+        "maxmiljo": null,
+        "bevarbest": null,
+        "bebyggrad": null,
+        "mingrund": null,
+        "dataprod": null,
+        "digigrundl": null,
+        "digigrundd": null,
+        "datooprt": "2011-02-10T14:11:59.591Z",
+        "datoopdt": "2018-08-17T09:11:38.542Z",
+        "anvendelsegenerel": "Tekniske anlæg",
+        "kommunenavn": "Mariagerfjord",
+        "zonestatus": null,
+        "planstatus": null,
+        "megawatt": 3,
+        "vvmredeg": null,
+        "sforhold": null,
+        "minuds": null,
+        "eareal": null,
+        "earealh": null,
+        "m3_m2h": null,
+        "ianvreg": false,
+        "izonereg": true,
+        "iomfangreg": false,
+        "iudstykreg": true,
+        "kompleks": false,
+        "kbeskriv": null,
+        "vindbeskriv": null,
+        "udstykforbud": null,
+        "statsplan": false,
+        "sforaktuel": false,
+        "anvspec1": 8111,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "eareal1": null,
+        "earealh1": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "maxbhjd1": null,
+        "maxetage1": null,
+        "bygpctar1": null,
+        "minuds1": null,
+        "udstykfb1": null,
+        "anvspec2": null,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "eareal2": null,
+        "earealh2": null,
+        "m3_m22": null,
+        "m3_m2h2": null,
+        "maxbhjd2": null,
+        "maxetage2": null,
+        "bygpctar2": null,
+        "minuds2": null,
+        "udstykfb2": null,
+        "anvspec3": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "eareal3": null,
+        "earealh3": null,
+        "m3_m23": null,
+        "m3_m2h3": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "bygpctar3": null,
+        "minuds3": null,
+        "udstykfb3": null,
+        "anvspec4": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "eareal4": null,
+        "earealh4": null,
+        "m3_m24": null,
+        "m3_m2h4": null,
+        "maxbhjd4": null,
+        "maxetage4": null,
+        "bygpctar4": null,
+        "minuds4": null,
+        "udstykfb4": null,
+        "anvspec5": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "eareal5": null,
+        "earealh5": null,
+        "m3_m25": null,
+        "m3_m2h5": null,
+        "maxbhjd5": null,
+        "maxetage5": null,
+        "bygpctar5": null,
+        "minuds5": null,
+        "udstykfb5": null,
+        "anvspec6": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m26": null,
+        "m3_m2h6": null,
+        "maxbhjd6": null,
+        "maxetage6": null,
+        "bygpctar6": null,
+        "minuds6": null,
+        "udstykfb6": null,
+        "anvspec7": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "eareal7": null,
+        "earealh7": null,
+        "m3_m27": null,
+        "m3_m2h7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "bygpctar7": null,
+        "minuds7": null,
+        "udstykfb7": null,
+        "anvspec8": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "eareal8": null,
+        "earealh8": null,
+        "m3_m28": null,
+        "m3_m2h8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "bygpctar8": null,
+        "minuds8": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "eareal9": null,
+        "earealh9": null,
+        "m3_m29": null,
+        "m3_m2h9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "bygpctar9": null,
+        "minuds9": null,
+        "udstykfb9": null,
+        "anvspec10": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "eareal10": null,
+        "earealh10": null,
+        "m3_m210": null,
+        "m3_m2h10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "bygpctar10": null,
+        "minuds10": null,
+        "udstykfb10": null,
+        "abestem1": null,
+        "abestem2": null,
+        "abestem3": null,
+        "septima_transaktion_id": "147134986",
+        "septima_hash86": "lV18rnAFub0FVvJ5F3GaqAQGSXCeUcKzBh0JIi5JUg1drI8uZAq/1P9ZNGCzd6+qYrib0o1LwKyP9PW/3tch+w",
+        "septima_serial": "1168599"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.564445671,
+                55.529475661
+              ],
+              [
+                11.565281347,
+                55.529607838
+              ],
+              [
+                11.566088001,
+                55.530242733
+              ],
+              [
+                11.568600576,
+                55.532240697
+              ],
+              [
+                11.570153871,
+                55.533506256
+              ],
+              [
+                11.570264171,
+                55.533615522
+              ],
+              [
+                11.570254851,
+                55.53365654
+              ],
+              [
+                11.570201959,
+                55.533691669
+              ],
+              [
+                11.5701031,
+                55.533720959
+              ],
+              [
+                11.569941235,
+                55.533740685
+              ],
+              [
+                11.569836605,
+                55.533791868
+              ],
+              [
+                11.569618999,
+                55.533986939
+              ],
+              [
+                11.569526432,
+                55.534112709
+              ],
+              [
+                11.569549899,
+                55.534196583
+              ],
+              [
+                11.569613036,
+                55.534244925
+              ],
+              [
+                11.569758434,
+                55.534358898
+              ],
+              [
+                11.569739435,
+                55.534499794
+              ],
+              [
+                11.569700525,
+                55.534587758
+              ],
+              [
+                11.569956651,
+                55.534627679
+              ],
+              [
+                11.569987274,
+                55.534464656
+              ],
+              [
+                11.569989853,
+                55.534357103
+              ],
+              [
+                11.569977698,
+                55.534317897
+              ],
+              [
+                11.569793831,
+                55.534175135
+              ],
+              [
+                11.569779412,
+                55.534156387
+              ],
+              [
+                11.569773245,
+                55.534135425
+              ],
+              [
+                11.569771605,
+                55.534119471
+              ],
+              [
+                11.569790397,
+                55.534094923
+              ],
+              [
+                11.569963565,
+                55.533926639
+              ],
+              [
+                11.570008382,
+                55.533878072
+              ],
+              [
+                11.570128984,
+                55.533851047
+              ],
+              [
+                11.570266712,
+                55.533829106
+              ],
+              [
+                11.570406659,
+                55.533804397
+              ],
+              [
+                11.570452096,
+                55.533765342
+              ],
+              [
+                11.570494695,
+                55.533682803
+              ],
+              [
+                11.570510441,
+                55.533604443
+              ],
+              [
+                11.570108633,
+                55.533281024
+              ],
+              [
+                11.569679079,
+                55.532935266
+              ],
+              [
+                11.569268233,
+                55.532604559
+              ],
+              [
+                11.569169975,
+                55.532525466
+              ],
+              [
+                11.569241716,
+                55.532442244
+              ],
+              [
+                11.569307739,
+                55.53242453
+              ],
+              [
+                11.569367371,
+                55.532419196
+              ],
+              [
+                11.56943002,
+                55.532423325
+              ],
+              [
+                11.569524792,
+                55.532441747
+              ],
+              [
+                11.569657281,
+                55.532472852
+              ],
+              [
+                11.570464457,
+                55.532385698
+              ],
+              [
+                11.57058256,
+                55.532327015
+              ],
+              [
+                11.570615395,
+                55.5322787
+              ],
+              [
+                11.570608832,
+                55.532178142
+              ],
+              [
+                11.569167794,
+                55.529065061
+              ],
+              [
+                11.569053165,
+                55.528925949
+              ],
+              [
+                11.569049443,
+                55.528868875
+              ],
+              [
+                11.569115466,
+                55.528777681
+              ],
+              [
+                11.569207795,
+                55.528721994
+              ],
+              [
+                11.569383572,
+                55.528676803
+              ],
+              [
+                11.569522439,
+                55.528617418
+              ],
+              [
+                11.569641209,
+                55.528544167
+              ],
+              [
+                11.569710867,
+                55.528471946
+              ],
+              [
+                11.569780839,
+                55.528331001
+              ],
+              [
+                11.56976869,
+                55.528218314
+              ],
+              [
+                11.569740659,
+                55.528119567
+              ],
+              [
+                11.569660542,
+                55.528031439
+              ],
+              [
+                11.569556913,
+                55.527950609
+              ],
+              [
+                11.569370414,
+                55.527849745
+              ],
+              [
+                11.569217094,
+                55.527816222
+              ],
+              [
+                11.569047802,
+                55.52779528
+              ],
+              [
+                11.568894037,
+                55.527791703
+              ],
+              [
+                11.564381989,
+                55.528018276
+              ],
+              [
+                11.563125571,
+                55.528101734
+              ],
+              [
+                11.562910392,
+                55.528149782
+              ],
+              [
+                11.562754212,
+                55.528219728
+              ],
+              [
+                11.56263325,
+                55.52831479
+              ],
+              [
+                11.562545563,
+                55.528405074
+              ],
+              [
+                11.562520076,
+                55.528492695
+              ],
+              [
+                11.562507186,
+                55.528589577
+              ],
+              [
+                11.562534847,
+                55.52868289
+              ],
+              [
+                11.562594006,
+                55.528780986
+              ],
+              [
+                11.562716161,
+                55.52888865
+              ],
+              [
+                11.562916582,
+                55.528982429
+              ],
+              [
+                11.563041682,
+                55.529024715
+              ],
+              [
+                11.563237506,
+                55.52904783
+              ],
+              [
+                11.563606186,
+                55.52903603
+              ],
+              [
+                11.564445671,
+                55.529475661
+              ]
+            ],
+            [
+              [
+                11.564164684,
+                55.529010729
+              ],
+              [
+                11.568745574,
+                55.528767822
+              ],
+              [
+                11.568859294,
+                55.529022496
+              ],
+              [
+                11.568963151,
+                55.529125895
+              ],
+              [
+                11.570364896,
+                55.532190371
+              ],
+              [
+                11.570368635,
+                55.532247671
+              ],
+              [
+                11.570322384,
+                55.53228307
+              ],
+              [
+                11.570239014,
+                55.532307772
+              ],
+              [
+                11.569736253,
+                55.532355046
+              ],
+              [
+                11.569578799,
+                55.532298676
+              ],
+              [
+                11.569439453,
+                55.532271763
+              ],
+              [
+                11.569306691,
+                55.532283729
+              ],
+              [
+                11.569175423,
+                55.532318616
+              ],
+              [
+                11.569083671,
+                55.532338902
+              ],
+              [
+                11.56896079,
+                55.532316233
+              ],
+              [
+                11.568888908,
+                55.532298604
+              ],
+              [
+                11.565422263,
+                55.529500251
+              ],
+              [
+                11.564609111,
+                55.529373238
+              ],
+              [
+                11.564073073,
+                55.529095273
+              ],
+              [
+                11.564063662,
+                55.529012844
+              ],
+              [
+                11.564164684,
+                55.529010729
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "oid": null,
+        "id": 328561,
+        "planid": 1424091,
+        "komnr": 340,
+        "objektkode": 20,
+        "plantype": 20.1,
+        "plannr": "SK 38",
+        "plannavn": "Vindmøller ved Tjørntved, sydvest for Stenlille",
+        "anvgen": 81,
+        "datoforsl": 20110824,
+        "datovedt": 20120222,
+        "datoaflyst": null,
+        "datoikraft": 20120313,
+        "datostart": 20110906,
+        "datoslut": 20111102,
+        "datoattr": null,
+        "datogeom": null,
+        "doklink": "https://dokument.plandata.dk/20_1424091_APPROVED_1331544747323.pdf",
+        "distrikt": null,
+        "zone": null,
+        "bebygpct": null,
+        "bebygpctaf": null,
+        "bebygpctar": null,
+        "m3_m2": null,
+        "maxetager": null,
+        "maxbygnhjd": null,
+        "minmiljo": null,
+        "maxmiljo": null,
+        "bevarbest": null,
+        "bebyggrad": null,
+        "mingrund": null,
+        "dataprod": null,
+        "digigrundl": null,
+        "digigrundd": null,
+        "datooprt": "2011-09-06T07:05:08.000Z",
+        "datoopdt": "2018-08-17T10:33:02.965Z",
+        "anvendelsegenerel": "Tekniske anlæg",
+        "kommunenavn": "Sorø",
+        "zonestatus": null,
+        "planstatus": null,
+        "megawatt": 4.6,
+        "vvmredeg": null,
+        "sforhold": null,
+        "minuds": 1000,
+        "eareal": null,
+        "earealh": null,
+        "m3_m2h": null,
+        "ianvreg": false,
+        "izonereg": true,
+        "iomfangreg": true,
+        "iudstykreg": false,
+        "kompleks": null,
+        "kbeskriv": null,
+        "vindbeskriv": null,
+        "udstykforbud": null,
+        "statsplan": false,
+        "sforaktuel": false,
+        "anvspec1": 8111,
+        "bygpct1": null,
+        "bygpcth1": null,
+        "eareal1": null,
+        "earealh1": null,
+        "m3_m21": null,
+        "m3_m2h1": null,
+        "maxbhjd1": 127,
+        "maxetage1": null,
+        "bygpctar1": null,
+        "minuds1": null,
+        "udstykfb1": null,
+        "anvspec2": null,
+        "bygpct2": null,
+        "bygpcth2": null,
+        "eareal2": null,
+        "earealh2": null,
+        "m3_m22": null,
+        "m3_m2h2": null,
+        "maxbhjd2": null,
+        "maxetage2": null,
+        "bygpctar2": null,
+        "minuds2": null,
+        "udstykfb2": null,
+        "anvspec3": null,
+        "bygpct3": null,
+        "bygpcth3": null,
+        "eareal3": null,
+        "earealh3": null,
+        "m3_m23": null,
+        "m3_m2h3": null,
+        "maxbhjd3": null,
+        "maxetage3": null,
+        "bygpctar3": null,
+        "minuds3": null,
+        "udstykfb3": null,
+        "anvspec4": null,
+        "bygpct4": null,
+        "bygpcth4": null,
+        "eareal4": null,
+        "earealh4": null,
+        "m3_m24": null,
+        "m3_m2h4": null,
+        "maxbhjd4": null,
+        "maxetage4": null,
+        "bygpctar4": null,
+        "minuds4": null,
+        "udstykfb4": null,
+        "anvspec5": null,
+        "bygpct5": null,
+        "bygpcth5": null,
+        "eareal5": null,
+        "earealh5": null,
+        "m3_m25": null,
+        "m3_m2h5": null,
+        "maxbhjd5": null,
+        "maxetage5": null,
+        "bygpctar5": null,
+        "minuds5": null,
+        "udstykfb5": null,
+        "anvspec6": null,
+        "bygpct6": null,
+        "bygpcth6": null,
+        "eareal6": null,
+        "earealh6": null,
+        "m3_m26": null,
+        "m3_m2h6": null,
+        "maxbhjd6": null,
+        "maxetage6": null,
+        "bygpctar6": null,
+        "minuds6": null,
+        "udstykfb6": null,
+        "anvspec7": null,
+        "bygpct7": null,
+        "bygpcth7": null,
+        "eareal7": null,
+        "earealh7": null,
+        "m3_m27": null,
+        "m3_m2h7": null,
+        "maxbhjd7": null,
+        "maxetage7": null,
+        "bygpctar7": null,
+        "minuds7": null,
+        "udstykfb7": null,
+        "anvspec8": null,
+        "bygpct8": null,
+        "bygpcth8": null,
+        "eareal8": null,
+        "earealh8": null,
+        "m3_m28": null,
+        "m3_m2h8": null,
+        "maxbhjd8": null,
+        "maxetage8": null,
+        "bygpctar8": null,
+        "minuds8": null,
+        "udstykfb8": null,
+        "anvspec9": null,
+        "bygpct9": null,
+        "bygpcth9": null,
+        "eareal9": null,
+        "earealh9": null,
+        "m3_m29": null,
+        "m3_m2h9": null,
+        "maxbhjd9": null,
+        "maxetage9": null,
+        "bygpctar9": null,
+        "minuds9": null,
+        "udstykfb9": null,
+        "anvspec10": null,
+        "bygpct10": null,
+        "bygpcth10": null,
+        "eareal10": null,
+        "earealh10": null,
+        "m3_m210": null,
+        "m3_m2h10": null,
+        "maxbhjd10": null,
+        "maxetage10": null,
+        "bygpctar10": null,
+        "minuds10": null,
+        "udstykfb10": null,
+        "abestem1": null,
+        "abestem2": null,
+        "abestem3": null,
+        "septima_transaktion_id": "147134986",
+        "septima_hash86": "pbNsD9O/Mr4iq1m2d/AHBzjbiqbSP3BXCj7SkQwqydT0MEzPP8a3cMYUqworfBLJsaG3L68SdfRN+aDmr7UalA",
+        "septima_serial": "1168600"
+      }
+    }
+  ]
+}

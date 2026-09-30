@@ -1,0 +1,44 @@
+[
+  {
+    "code": "1",
+    "text": "Tilslutningspligt eksisterende bebyggelse med 9 års frist og forblivelsespligt",
+    "septima_hash86": "Ftu0a2gxaDn6UJ3V8uFmE8SJCEWql3g3EMhzDbGrLOxWrRp1iZGvatZyvve/KhYxSzlR5MIqS6g7phXgzvg+Rg",
+    "septima_serial": "2"
+  },
+  {
+    "code": "2",
+    "text": "Tilslutningspligt eksisterende bebyggelse med 9 års frist eller tidligere når væsentlige varmeinstallationer udskiftes og forblivelsespligt",
+    "septima_hash86": "Ub0msxvzCH6F6m+oblcdyOtvdfA6CNbV7tP8KzrRRPDAJ3kQ9K3SO9JSbjDKCp1DIs/dMoapgpRxBCY15IjNkg",
+    "septima_serial": "3"
+  },
+  {
+    "code": "3",
+    "text": "Tilslutningspligt ny bebyggelse og eksisterende bebyggelse med 9 års frist samt forblivelsespligt",
+    "septima_hash86": "oCYTRUj8kjOPrcr2KZGbfmKGwFP5KhnOA9mKWFy+OSq3ysq3nl0OL7uMF7s1qVG85M0iGdDCAoVsxFA8fx6glQ",
+    "septima_serial": "4"
+  },
+  {
+    "code": "4",
+    "text": "Tilslutningspligt ny bebyggelse og eksisterende bebyggelse med 9 års frist eller tidligere når væsentlige varmeinstallationer udskiftes samt forblivelsespligt",
+    "septima_hash86": "wg8FyEyef/9OrY5Ab0Oq0VLpVATX0KLSn3r2h9ZgmZ5MGFBNE+gZ54dVYX34b5QIlTcy3RS/gcLm1kUlUj6q8Q",
+    "septima_serial": "5"
+  },
+  {
+    "code": "5",
+    "text": "Forblivelsespligt for allerede tilsluttet bebyggelse",
+    "septima_hash86": "cVYF41JGV9+o09hRK+1Kv5P15McHjy++3LK5iTZubDn9JT/4Uj9d2vjJUp+2X1e+9wxbxhEjxGu7R8cXRkxPlA",
+    "septima_serial": "6"
+  },
+  {
+    "code": "6",
+    "text": "Forblivelsespligt for allerede tilsluttet bebyggelse og tilslutningspligt ny bebyggelse",
+    "septima_hash86": "9S2vy1YeEh+FpNKJfMuTxkIG1HzrNpFWRIUpXFlDLI9d1bPphhXQsdjwFaoYVDwqMuZbN6rG+4kV1/BHlZm3Yg",
+    "septima_serial": "7"
+  },
+  {
+    "code": "7",
+    "text": "Tilslutningspligt ny bebyggelse",
+    "septima_hash86": "3yjVNAd25KRt3g9j6vousLZcrag8+d2dFLDsPN0sHCryrCosq26DU8Wz2CBLq85+rmGjJn/qwuW82xed4Wd+CQ",
+    "septima_serial": "8"
+  }
+]

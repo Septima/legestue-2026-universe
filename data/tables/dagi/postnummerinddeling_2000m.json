@@ -1,0 +1,1367 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.965881385,
+                56.297938648
+              ],
+              [
+                9.969929529,
+                56.281041151
+              ],
+              [
+                9.942363839,
+                56.272848902
+              ],
+              [
+                9.948430389,
+                56.250728689
+              ],
+              [
+                9.95466341,
+                56.250604844
+              ],
+              [
+                9.990872526,
+                56.241554205
+              ],
+              [
+                10.006811543,
+                56.243383769
+              ],
+              [
+                10.023588953,
+                56.237052137
+              ],
+              [
+                10.04444251,
+                56.228217426
+              ],
+              [
+                10.073664565,
+                56.225421955
+              ],
+              [
+                10.107465355,
+                56.217867054
+              ],
+              [
+                10.116518203,
+                56.215967594
+              ],
+              [
+                10.128625533,
+                56.22108536
+              ],
+              [
+                10.125999917,
+                56.259952454
+              ],
+              [
+                10.132864375,
+                56.271831455
+              ],
+              [
+                10.117484892,
+                56.285665115
+              ],
+              [
+                10.084793799,
+                56.293403518
+              ],
+              [
+                10.066426498,
+                56.305565439
+              ],
+              [
+                10.043590771,
+                56.301359236
+              ],
+              [
+                10.030355824,
+                56.297096475
+              ],
+              [
+                9.979264482,
+                56.300229765
+              ],
+              [
+                9.965881385,
+                56.297938648
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1918454",
+        "id_lokalid": "1700198382",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Hinnerup",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "ergadepostnummer": "false",
+        "postnummer": "8382",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700198382",
+        "septima_hash86": "F2a8DoRozdrba25p5Ark9nsDA959ywskWfcOQ+3Ca+cpOxyIhoepdXvp9/2bXj1LueiBqy3E+uyGlUMgl3WwUQ",
+        "septima_serial": "136957"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.684854331,
+                55.836889262
+              ],
+              [
+                9.6883401,
+                55.861586863
+              ],
+              [
+                9.693116784,
+                55.887020649
+              ],
+              [
+                9.693625299,
+                55.903617756
+              ],
+              [
+                9.644747597,
+                55.914647174
+              ],
+              [
+                9.644565829,
+                55.886270297
+              ],
+              [
+                9.643984873,
+                55.864380112
+              ],
+              [
+                9.639238867,
+                55.843919207
+              ],
+              [
+                9.650320112,
+                55.839097269
+              ],
+              [
+                9.64512299,
+                55.830696234
+              ],
+              [
+                9.670528754,
+                55.827432749
+              ],
+              [
+                9.684854331,
+                55.836889262
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1918455",
+        "id_lokalid": "1700198762",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Flemming",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "ergadepostnummer": "false",
+        "postnummer": "8762",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700198762",
+        "septima_hash86": "B1StIy4S8apF9pQk/e3In7Rt7/PRUFTJm553nDxCjSO6969fkrEJSsZij7dlvPLyS0hseMgInTi0S20xbSLsaw",
+        "septima_serial": "136958"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.583218127,
+                55.721823652
+              ],
+              [
+                12.546114674,
+                55.722697256
+              ],
+              [
+                12.544252051,
+                55.707951443
+              ],
+              [
+                12.552722922,
+                55.709734841
+              ],
+              [
+                12.57039356,
+                55.691387098
+              ],
+              [
+                12.599879534,
+                55.690923192
+              ],
+              [
+                12.600529018,
+                55.694730887
+              ],
+              [
+                12.599679136,
+                55.702786292
+              ],
+              [
+                12.599368939,
+                55.699292614
+              ],
+              [
+                12.596734521,
+                55.701071515
+              ],
+              [
+                12.59777275,
+                55.703481905
+              ],
+              [
+                12.5926021,
+                55.70474512
+              ],
+              [
+                12.595978941,
+                55.705610455
+              ],
+              [
+                12.593532556,
+                55.718466648
+              ],
+              [
+                12.583949597,
+                55.717489554
+              ],
+              [
+                12.583218127,
+                55.721823652
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1918456",
+        "id_lokalid": "1700192100",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "København Ø",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "ergadepostnummer": "false",
+        "postnummer": "2100",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700192100",
+        "septima_hash86": "2AY+1+/FAID1ivapydCbG+9JSg5L29Q765NaWQ7mRxFDvVEi0Ni7MZvdC1scAyhmXYdqaXU03HRDJAHFH0Oomg",
+        "septima_serial": "136959"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.124809669,
+                55.054459775
+              ],
+              [
+                10.126287442,
+                55.043638414
+              ],
+              [
+                10.14092242,
+                55.033478862
+              ],
+              [
+                10.146983296,
+                55.032014175
+              ],
+              [
+                10.170033379,
+                55.036096402
+              ],
+              [
+                10.180105287,
+                55.042127862
+              ],
+              [
+                10.173682617,
+                55.051216321
+              ],
+              [
+                10.166800759,
+                55.048928423
+              ],
+              [
+                10.152377026,
+                55.050548845
+              ],
+              [
+                10.140153302,
+                55.052467803
+              ],
+              [
+                10.139967526,
+                55.059973285
+              ],
+              [
+                10.128200115,
+                55.056933602
+              ],
+              [
+                10.124809669,
+                55.054459775
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1918457",
+        "id_lokalid": "1700378463",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Lyø",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "ergadepostnummer": "false",
+        "postnummer": "5601",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700378463",
+        "septima_hash86": "ODwHVt+u+fnlVWnX2s7BoHc+CpzaOITXReYmahDenrNFLqaZKS7RF2TbcgUOtKXIVecpUu3HBx2A+uuqfHLb4A",
+        "septima_serial": "136960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.665969246,
+                54.86099918
+              ],
+              [
+                10.663414135,
+                54.851492193
+              ],
+              [
+                10.667139912,
+                54.84783172
+              ],
+              [
+                10.658626419,
+                54.845330956
+              ],
+              [
+                10.650499439,
+                54.833012778
+              ],
+              [
+                10.644513696,
+                54.829824845
+              ],
+              [
+                10.637107667,
+                54.833352407
+              ],
+              [
+                10.633989438,
+                54.830000322
+              ],
+              [
+                10.624875242,
+                54.834424813
+              ],
+              [
+                10.605385622,
+                54.836796547
+              ],
+              [
+                10.598649971,
+                54.835532048
+              ],
+              [
+                10.602972408,
+                54.830296246
+              ],
+              [
+                10.620753025,
+                54.825502376
+              ],
+              [
+                10.632775408,
+                54.819605516
+              ],
+              [
+                10.645970203,
+                54.810427478
+              ],
+              [
+                10.656829942,
+                54.799680268
+              ],
+              [
+                10.66073846,
+                54.793090678
+              ],
+              [
+                10.660148404,
+                54.77955006
+              ],
+              [
+                10.666036104,
+                54.772410593
+              ],
+              [
+                10.668613891,
+                54.774391982
+              ],
+              [
+                10.685216658,
+                54.775230676
+              ],
+              [
+                10.693085885,
+                54.776101508
+              ],
+              [
+                10.715113123,
+                54.775515839
+              ],
+              [
+                10.71762739,
+                54.767614496
+              ],
+              [
+                10.733375188,
+                54.766950479
+              ],
+              [
+                10.747817727,
+                54.77064739
+              ],
+              [
+                10.751228965,
+                54.77942851
+              ],
+              [
+                10.774462868,
+                54.818993533
+              ],
+              [
+                10.776143058,
+                54.828956299
+              ],
+              [
+                10.780819282,
+                54.836380462
+              ],
+              [
+                10.727018477,
+                54.83408141
+              ],
+              [
+                10.7187184,
+                54.845339959
+              ],
+              [
+                10.706999651,
+                54.848756166
+              ],
+              [
+                10.687534598,
+                54.855190069
+              ],
+              [
+                10.665969246,
+                54.86099918
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1918458",
+        "id_lokalid": "1700195932",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Humble",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "ergadepostnummer": "false",
+        "postnummer": "5932",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700195932",
+        "septima_hash86": "2DOLwVNxLO5vSNQP3AcBTWBFbat3NnxkbiEHyth2n6sirZ+o6dzijrDA8RRGD0db8a3e5D5zXiuWXoaMID8jqw",
+        "septima_serial": "136961"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.025433881,
+                54.949977783
+              ],
+              [
+                9.974062762,
+                54.947381022
+              ],
+              [
+                9.955630301,
+                54.946924814
+              ],
+              [
+                9.940544239,
+                54.946549161
+              ],
+              [
+                9.889329952,
+                54.943413055
+              ],
+              [
+                9.873941861,
+                54.93486346
+              ],
+              [
+                9.865966998,
+                54.898363287
+              ],
+              [
+                9.871087416,
+                54.900147977
+              ],
+              [
+                9.880406369,
+                54.899237032
+              ],
+              [
+                9.886406854,
+                54.906746741
+              ],
+              [
+                9.898938014,
+                54.908178245
+              ],
+              [
+                9.913813887,
+                54.904534974
+              ],
+              [
+                9.922097166,
+                54.899903431
+              ],
+              [
+                9.939555661,
+                54.894359257
+              ],
+              [
+                9.948954686,
+                54.893028032
+              ],
+              [
+                9.954061649,
+                54.88871256
+              ],
+              [
+                9.970373748,
+                54.883002784
+              ],
+              [
+                9.981046648,
+                54.878428933
+              ],
+              [
+                9.988482394,
+                54.873262388
+              ],
+              [
+                9.997619813,
+                54.860267771
+              ],
+              [
+                9.99230292,
+                54.855776985
+              ],
+              [
+                9.980539683,
+                54.859503942
+              ],
+              [
+                9.971497008,
+                54.867658047
+              ],
+              [
+                9.95722342,
+                54.867651758
+              ],
+              [
+                9.952212638,
+                54.874103392
+              ],
+              [
+                9.935690635,
+                54.878599832
+              ],
+              [
+                9.927834893,
+                54.883067939
+              ],
+              [
+                9.913354723,
+                54.88575109
+              ],
+              [
+                9.907907851,
+                54.892487388
+              ],
+              [
+                9.898085104,
+                54.896412199
+              ],
+              [
+                9.885114464,
+                54.890492685
+              ],
+              [
+                9.876570686,
+                54.883693904
+              ],
+              [
+                9.867605643,
+                54.877297813
+              ],
+              [
+                9.888993145,
+                54.865347589
+              ],
+              [
+                9.908558532,
+                54.864443225
+              ],
+              [
+                9.922146613,
+                54.858271075
+              ],
+              [
+                9.940859235,
+                54.854330072
+              ],
+              [
+                9.959850008,
+                54.852435898
+              ],
+              [
+                9.979173605,
+                54.854020894
+              ],
+              [
+                9.988978337,
+                54.852568034
+              ],
+              [
+                10.009595641,
+                54.867399553
+              ],
+              [
+                10.023369649,
+                54.872935725
+              ],
+              [
+                10.037476735,
+                54.875077477
+              ],
+              [
+                10.064563838,
+                54.873376133
+              ],
+              [
+                10.071414738,
+                54.877674119
+              ],
+              [
+                10.065479685,
+                54.894741179
+              ],
+              [
+                10.058218324,
+                54.897466887
+              ],
+              [
+                10.049370987,
+                54.909111872
+              ],
+              [
+                10.044136492,
+                54.921187479
+              ],
+              [
+                10.043877004,
+                54.932474729
+              ],
+              [
+                10.026409663,
+                54.948754509
+              ],
+              [
+                10.025433881,
+                54.949977783
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1918459",
+        "id_lokalid": "1700196470",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Sydals",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "ergadepostnummer": "false",
+        "postnummer": "6470",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700196470",
+        "septima_hash86": "fMjh1yHScE6TuXCom2zkXs9cniypIUnluv16iBl6MrflEci4OsjFafQdDmgOU26LZNpPPfdJk03QjDNIUE4jyw",
+        "septima_serial": "136962"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.849932735,
+                55.295061827
+              ],
+              [
+                11.833489142,
+                55.296571311
+              ],
+              [
+                11.806909248,
+                55.301566215
+              ],
+              [
+                11.788656365,
+                55.298439057
+              ],
+              [
+                11.788698077,
+                55.287296593
+              ],
+              [
+                11.779937112,
+                55.285694402
+              ],
+              [
+                11.801989336,
+                55.263677762
+              ],
+              [
+                11.817100886,
+                55.254717922
+              ],
+              [
+                11.824105905,
+                55.232107939
+              ],
+              [
+                11.838980244,
+                55.230092045
+              ],
+              [
+                11.865354556,
+                55.231721296
+              ],
+              [
+                11.865377793,
+                55.23171194
+              ],
+              [
+                11.871726861,
+                55.229205128
+              ],
+              [
+                11.903816473,
+                55.216524245
+              ],
+              [
+                11.909543422,
+                55.222979724
+              ],
+              [
+                11.938210176,
+                55.214346419
+              ],
+              [
+                11.964281542,
+                55.215711279
+              ],
+              [
+                11.973054071,
+                55.225053913
+              ],
+              [
+                11.975719632,
+                55.236114851
+              ],
+              [
+                11.973254701,
+                55.249398986
+              ],
+              [
+                11.94395291,
+                55.244824724
+              ],
+              [
+                11.943542247,
+                55.2529732
+              ],
+              [
+                11.903720831,
+                55.276679618
+              ],
+              [
+                11.892117834,
+                55.282061901
+              ],
+              [
+                11.849932735,
+                55.295061827
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1918460",
+        "id_lokalid": "1700194684",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Holmegaard",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "ergadepostnummer": "false",
+        "postnummer": "4684",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700194684",
+        "septima_hash86": "jW1yKs4+g7OuEVL6NIDQB9y8iWab6Md7EnNmC/+z0+R70RtjFRUyRX4S+bOpS+yJNQqrVagDAHGSqYz01UjdRw",
+        "septima_serial": "136963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.327129777,
+                55.507779968
+              ],
+              [
+                8.316717386,
+                55.512625748
+              ],
+              [
+                8.312415268,
+                55.518651425
+              ],
+              [
+                8.310124877,
+                55.520130025
+              ],
+              [
+                8.306340862,
+                55.520040275
+              ],
+              [
+                8.304442132,
+                55.51667292
+              ],
+              [
+                8.307776579,
+                55.512933368
+              ],
+              [
+                8.312530351,
+                55.510087349
+              ],
+              [
+                8.325106075,
+                55.505031191
+              ],
+              [
+                8.329347089,
+                55.504363651
+              ],
+              [
+                8.327129777,
+                55.507779968
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                8.176721171,
+                55.586253339
+              ],
+              [
+                8.164304065,
+                55.562616894
+              ],
+              [
+                8.07670263,
+                55.558322037
+              ],
+              [
+                8.078425206,
+                55.556560712
+              ],
+              [
+                8.149658336,
+                55.538414559
+              ],
+              [
+                8.179707444,
+                55.532492418
+              ],
+              [
+                8.223843305,
+                55.512613071
+              ],
+              [
+                8.280001532,
+                55.48249047
+              ],
+              [
+                8.29407629,
+                55.476284772
+              ],
+              [
+                8.30730443,
+                55.480128045
+              ],
+              [
+                8.303310298,
+                55.484632232
+              ],
+              [
+                8.306327999,
+                55.495720211
+              ],
+              [
+                8.293898111,
+                55.503123308
+              ],
+              [
+                8.282258,
+                55.51121208
+              ],
+              [
+                8.269240511,
+                55.516157075
+              ],
+              [
+                8.254670462,
+                55.524531964
+              ],
+              [
+                8.259302588,
+                55.529183038
+              ],
+              [
+                8.273973312,
+                55.532816236
+              ],
+              [
+                8.256436878,
+                55.537387242
+              ],
+              [
+                8.249300049,
+                55.539821679
+              ],
+              [
+                8.242032838,
+                55.547677254
+              ],
+              [
+                8.236750996,
+                55.557389041
+              ],
+              [
+                8.23722765,
+                55.568972194
+              ],
+              [
+                8.245035107,
+                55.5734333
+              ],
+              [
+                8.245129768,
+                55.577642945
+              ],
+              [
+                8.250128593,
+                55.581248817
+              ],
+              [
+                8.23903206,
+                55.580706625
+              ],
+              [
+                8.228916248,
+                55.579600973
+              ],
+              [
+                8.207583318,
+                55.583656499
+              ],
+              [
+                8.176721171,
+                55.586253339
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1918461",
+        "id_lokalid": "1700196857",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Blåvand",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "ergadepostnummer": "false",
+        "postnummer": "6857",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700196857",
+        "septima_hash86": "1ppD2EQjK3EqVM1exVwdwxGPI/PFYON6NtX4A+JQXrmFEsNiHGoP9AoOk7SCD0mhfqniYj+ebNcR0GpkDhMjjw",
+        "septima_serial": "136964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.234096113,
+                55.068822595
+              ],
+              [
+                10.240111467,
+                55.063314791
+              ],
+              [
+                10.254810561,
+                55.056338598
+              ],
+              [
+                10.262485478,
+                55.054241381
+              ],
+              [
+                10.267547747,
+                55.053895439
+              ],
+              [
+                10.261005542,
+                55.058293807
+              ],
+              [
+                10.258766362,
+                55.062635809
+              ],
+              [
+                10.246813919,
+                55.068787758
+              ],
+              [
+                10.235046439,
+                55.071004898
+              ],
+              [
+                10.234096113,
+                55.068822595
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1918462",
+        "id_lokalid": "1700377938",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Bjørnø",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "ergadepostnummer": "false",
+        "postnummer": "5603",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700377938",
+        "septima_hash86": "uhu7LFJDZKP6g52AObBc4QHM1Fx/9Sr/HwwWKXsBppz1cPxG31T0dmhOyNchFSeEw9Y/OLYGJLbVFKXd/tZtdA",
+        "septima_serial": "136965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.98904331,
+                55.431357309
+              ],
+              [
+                9.978086034,
+                55.436895997
+              ],
+              [
+                9.966368445,
+                55.432178229
+              ],
+              [
+                9.943935643,
+                55.429636184
+              ],
+              [
+                9.942719821,
+                55.417374238
+              ],
+              [
+                9.938440603,
+                55.414833123
+              ],
+              [
+                9.928875243,
+                55.409713527
+              ],
+              [
+                9.903377175,
+                55.393562603
+              ],
+              [
+                9.898436144,
+                55.382000915
+              ],
+              [
+                9.881812272,
+                55.371399281
+              ],
+              [
+                9.881239116,
+                55.367023515
+              ],
+              [
+                9.909468907,
+                55.360480445
+              ],
+              [
+                9.921615862,
+                55.353986728
+              ],
+              [
+                9.92391139,
+                55.354792274
+              ],
+              [
+                9.938760499,
+                55.372396896
+              ],
+              [
+                9.942570517,
+                55.380014918
+              ],
+              [
+                9.976541671,
+                55.378535974
+              ],
+              [
+                9.990358962,
+                55.38286651
+              ],
+              [
+                10.002776395,
+                55.39652832
+              ],
+              [
+                9.992965597,
+                55.413083852
+              ],
+              [
+                9.98904331,
+                55.431357309
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1918463",
+        "id_lokalid": "1700195591",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Gelsted",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "ergadepostnummer": "false",
+        "postnummer": "5591",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700195591",
+        "septima_hash86": "acVvrQpmIP3lgCcxVV9JNuqkIuhahTQFS3rjPo9kk6JzDzs1WmFurAJzpwfQ6K8jyXtjD3lMZj7mN1yVL2QN2g",
+        "septima_serial": "136966"
+      }
+    }
+  ]
+}

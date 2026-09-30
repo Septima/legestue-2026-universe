@@ -1,0 +1,609 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.777031001,
+            55.079257098
+          ],
+          [
+            14.776214609,
+            55.07922921
+          ],
+          [
+            14.775882727,
+            55.079628816
+          ],
+          [
+            14.775882727,
+            55.079628816
+          ],
+          [
+            14.776026348,
+            55.079766971
+          ],
+          [
+            14.776263628,
+            55.079932122
+          ],
+          [
+            14.776378879,
+            55.080034664
+          ],
+          [
+            14.776463508,
+            55.080099053
+          ],
+          [
+            14.776614612,
+            55.080189086
+          ],
+          [
+            14.776904797,
+            55.080362466
+          ],
+          [
+            14.777090318,
+            55.080274104
+          ],
+          [
+            14.778342658,
+            55.080163656
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2002,
+        "temanavn": "Beskyttede sten- og jorddiger",
+        "objekt_id": "f6e3e94f-3843-413c-85cd-0edf64a0a39f",
+        "version_id": "76075d8e-3c94-4cc6-b547-ebc8e649b4c8",
+        "systid_fra": "2024/11/21",
+        "systid_til": null,
+        "oprettet": "2024/11/21",
+        "oprindkode": 0,
+        "oprindelse": null,
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "34072191",
+        "cvr_navn": "Slots- og Kulturstyrelsen",
+        "bruger_id": "00000000-0000-0000-0000-000000000000",
+        "link": null,
+        "draftstatu": null,
+        "listtoappr": null,
+        "digeid": null,
+        "digenummer": null,
+        "beskyttels": "2,1,4",
+        "beskyt_kod": null,
+        "digetypebe": null,
+        "septima_hash86": "7jLYjTzNbWmVlmlhpkjsidWvWX4YDbu4iv+2TFmDZuwMeDozJR9GrtRoX0OG4Ezm7nEdJ0rAUIY7yMBW47/rZQ",
+        "septima_serial": "21078839"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.07903598,
+            55.082474258
+          ],
+          [
+            15.07903598,
+            55.082474258
+          ],
+          [
+            15.078977231,
+            55.082648994
+          ],
+          [
+            15.078930263,
+            55.083058494
+          ],
+          [
+            15.078912987,
+            55.083122064
+          ],
+          [
+            15.078803402,
+            55.083218603
+          ],
+          [
+            15.07867151,
+            55.083493206
+          ],
+          [
+            15.078670941,
+            55.083768723
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2002,
+        "temanavn": "Beskyttede sten- og jorddiger",
+        "objekt_id": "ab148f58-fdd5-4105-94c6-d82419b1385d",
+        "version_id": "b696b518-666c-417f-8c3a-1e71be6b4c60",
+        "systid_fra": "2024/11/21",
+        "systid_til": null,
+        "oprettet": "2024/11/21",
+        "oprindkode": 0,
+        "oprindelse": null,
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "34072191",
+        "cvr_navn": "Slots- og Kulturstyrelsen",
+        "bruger_id": "00000000-0000-0000-0000-000000000000",
+        "link": null,
+        "draftstatu": null,
+        "listtoappr": null,
+        "digeid": null,
+        "digenummer": null,
+        "beskyttels": "2,1,4",
+        "beskyt_kod": null,
+        "digetypebe": null,
+        "septima_hash86": "PEhRy/zaZGovsfwx192Th6eaEYXeQtDdYwyK7TdAVAY1lk6UMXX1RRV+lXrv3OhOavU6NpucAMTzS9OBtLTXZQ",
+        "septima_serial": "21079257"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.308599039,
+            55.907726845
+          ],
+          [
+            12.308706041,
+            55.907745071
+          ],
+          [
+            12.308979664,
+            55.907890308
+          ],
+          [
+            12.309441679,
+            55.908153979
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2002,
+        "temanavn": "Beskyttede sten- og jorddiger",
+        "objekt_id": "4ad7a72b-fde3-41a3-903a-4856da398f50",
+        "version_id": "1aad8249-2c49-469b-9641-75db18ae8bb6",
+        "systid_fra": "2025/11/04",
+        "systid_til": null,
+        "oprettet": "2024/11/21",
+        "oprindkode": 0,
+        "oprindelse": null,
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "34072191",
+        "cvr_navn": "Slots- og Kulturstyrelsen",
+        "bruger_id": "94026447-31d2-430a-b395-fc169c61167d",
+        "link": null,
+        "draftstatu": null,
+        "listtoappr": null,
+        "digeid": null,
+        "digenummer": null,
+        "beskyttels": "4",
+        "beskyt_kod": null,
+        "digetypebe": null,
+        "septima_hash86": "s2uYTUMRBF8tvUl8A1fYuHpzQDjoaeBfLniTAmDI52lp3H79ISY24IPEEzP3GAO7OYD0AxblFz5X1yFzqZqAVA",
+        "septima_serial": "21080265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.513543621,
+            54.852803488
+          ],
+          [
+            10.513284871,
+            54.85205641
+          ],
+          [
+            10.513284871,
+            54.85205641
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2002,
+        "temanavn": "Beskyttede sten- og jorddiger",
+        "objekt_id": "9b790135-9a1b-4014-8076-193abd3682f5",
+        "version_id": "167e7bc9-487c-4c15-b933-a531baa40a6b",
+        "systid_fra": "2024/11/21",
+        "systid_til": null,
+        "oprettet": "2024/11/21",
+        "oprindkode": 0,
+        "oprindelse": null,
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "34072191",
+        "cvr_navn": "Slots- og Kulturstyrelsen",
+        "bruger_id": "00000000-0000-0000-0000-000000000000",
+        "link": null,
+        "draftstatu": null,
+        "listtoappr": null,
+        "digeid": null,
+        "digenummer": null,
+        "beskyttels": "5",
+        "beskyt_kod": null,
+        "digetypebe": null,
+        "septima_hash86": "i9rnacJontZY10vdu75MfoC5VTs1oP+aZlApQ6W1OsNHFHhwdrfPnh+NsNt8PqnlJDAvLoY5/XLczHpqTGOyQg",
+        "septima_serial": "21082590"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.509334517,
+            54.860143193
+          ],
+          [
+            10.507931939,
+            54.85948943
+          ],
+          [
+            10.507931939,
+            54.85948943
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2002,
+        "temanavn": "Beskyttede sten- og jorddiger",
+        "objekt_id": "6143cd0d-2086-4ced-b8b7-98f456476f35",
+        "version_id": "2d2428ba-916c-440f-835a-479d73cde5a3",
+        "systid_fra": "2024/11/21",
+        "systid_til": null,
+        "oprettet": "2024/11/21",
+        "oprindkode": 0,
+        "oprindelse": null,
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "34072191",
+        "cvr_navn": "Slots- og Kulturstyrelsen",
+        "bruger_id": "00000000-0000-0000-0000-000000000000",
+        "link": null,
+        "draftstatu": null,
+        "listtoappr": null,
+        "digeid": null,
+        "digenummer": null,
+        "beskyttels": "5",
+        "beskyt_kod": null,
+        "digetypebe": null,
+        "septima_hash86": "1qo1VrdzHSPpP8XYHEiqX5IEjWbIZA9voGiilasbJFGvbiQXwJIZn0SIUI+0hXAL2VKwVUehR8U7bZLU41nObg",
+        "septima_serial": "21082848"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.734347094,
+            54.858177834
+          ],
+          [
+            10.733894381,
+            54.858193468
+          ],
+          [
+            10.732906752,
+            54.858246995
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2002,
+        "temanavn": "Beskyttede sten- og jorddiger",
+        "objekt_id": "d297cfec-7c34-47f1-b737-fd10f53db2e5",
+        "version_id": "b96ce9be-69b4-4c72-adf7-0161161599d7",
+        "systid_fra": "2026/01/13",
+        "systid_til": null,
+        "oprettet": "2024/11/21",
+        "oprindkode": 0,
+        "oprindelse": null,
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "34072191",
+        "cvr_navn": "Slots- og Kulturstyrelsen",
+        "bruger_id": "4c71b866-b542-4b99-8a89-48e7263f12c6",
+        "link": null,
+        "draftstatu": null,
+        "listtoappr": null,
+        "digeid": null,
+        "digenummer": null,
+        "beskyttels": "2,4",
+        "beskyt_kod": null,
+        "digetypebe": null,
+        "septima_hash86": "ZUjB53b5Es5lgWcSe+hbnMGOj0KxUOEPN7JryeyqmcZLzAMMex+No4E+wr0qct2B5QsIZo8xJSPafW8YqaCcsQ",
+        "septima_serial": "21082898"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.732062238,
+            54.858286398
+          ],
+          [
+            10.731792325,
+            54.858295821
+          ],
+          [
+            10.731107995,
+            54.858323825
+          ],
+          [
+            10.73057019,
+            54.858346232
+          ],
+          [
+            10.729908746,
+            54.858373903
+          ],
+          [
+            10.729396334,
+            54.858392617
+          ],
+          [
+            10.728950615,
+            54.858407953
+          ],
+          [
+            10.72861891,
+            54.8584175
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2002,
+        "temanavn": "Beskyttede sten- og jorddiger",
+        "objekt_id": "77304b5e-8a54-4ae5-9a4e-8e5adedf5c1c",
+        "version_id": "90356c66-2746-4a6c-80cf-828bb785b54c",
+        "systid_fra": "2026/01/13",
+        "systid_til": null,
+        "oprettet": "2024/11/21",
+        "oprindkode": 0,
+        "oprindelse": null,
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "34072191",
+        "cvr_navn": "Slots- og Kulturstyrelsen",
+        "bruger_id": "4c71b866-b542-4b99-8a89-48e7263f12c6",
+        "link": null,
+        "draftstatu": null,
+        "listtoappr": null,
+        "digeid": null,
+        "digenummer": null,
+        "beskyttels": "4",
+        "beskyt_kod": null,
+        "digetypebe": null,
+        "septima_hash86": "x9OMkJcA7O8noZtaWJZS2oG2JZrOSaHLrHLAE46jiWL6hFid/G6E69rSo9s4bxjl0ZzJSiaeDgTbKuwoHYz0Ag",
+        "septima_serial": "21082899"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.488486521,
+            54.863781509
+          ],
+          [
+            10.487087841,
+            54.862835268
+          ],
+          [
+            10.487087841,
+            54.862835268
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2002,
+        "temanavn": "Beskyttede sten- og jorddiger",
+        "objekt_id": "86637149-7242-48da-8498-28daa6aa12fd",
+        "version_id": "faf242a8-396b-4906-9a06-c8fa44e98eab",
+        "systid_fra": "2024/11/21",
+        "systid_til": null,
+        "oprettet": "2024/11/21",
+        "oprindkode": 0,
+        "oprindelse": null,
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "34072191",
+        "cvr_navn": "Slots- og Kulturstyrelsen",
+        "bruger_id": "00000000-0000-0000-0000-000000000000",
+        "link": null,
+        "draftstatu": null,
+        "listtoappr": null,
+        "digeid": null,
+        "digenummer": null,
+        "beskyttels": "5",
+        "beskyt_kod": null,
+        "digetypebe": null,
+        "septima_hash86": "FZ2eOlmVTjjosTev3/gJQjrN0ASjiyRUiRGjlYB9WDdwV5NjEMFJoMnjJUXwwXBdRn90k5lZK6c9o//y9swkFA",
+        "septima_serial": "21082964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.504342282,
+            54.865259344
+          ],
+          [
+            10.504579577,
+            54.865136831
+          ],
+          [
+            10.503876025,
+            54.864499377
+          ],
+          [
+            10.503610842,
+            54.864235564
+          ],
+          [
+            10.503610842,
+            54.864235564
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2002,
+        "temanavn": "Beskyttede sten- og jorddiger",
+        "objekt_id": "0ff0bf6b-54b0-4d62-ac64-84cfba40b345",
+        "version_id": "fcd10eaf-eed9-4a3d-9337-6628fdfaf528",
+        "systid_fra": "2024/11/21",
+        "systid_til": null,
+        "oprettet": "2024/11/21",
+        "oprindkode": 0,
+        "oprindelse": null,
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "34072191",
+        "cvr_navn": "Slots- og Kulturstyrelsen",
+        "bruger_id": "00000000-0000-0000-0000-000000000000",
+        "link": null,
+        "draftstatu": null,
+        "listtoappr": null,
+        "digeid": null,
+        "digenummer": null,
+        "beskyttels": "5",
+        "beskyt_kod": null,
+        "digetypebe": null,
+        "septima_hash86": "r9Vt9DfyCpe80SAWWxapTphHb8+xY6VJrJQNjabvVZEAzgzMEl3B8jRxFBY4f6FG8408gBablmiNp3UNQGVUqQ",
+        "septima_serial": "21083018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.282697637,
+            54.926286775
+          ],
+          [
+            10.282677035,
+            54.926268351
+          ],
+          [
+            10.282697637,
+            54.926286775
+          ],
+          [
+            10.282677035,
+            54.926268351
+          ],
+          [
+            10.282697637,
+            54.926286775
+          ],
+          [
+            10.282677035,
+            54.926268351
+          ],
+          [
+            10.282677035,
+            54.926268351
+          ],
+          [
+            10.28247857,
+            54.926115129
+          ],
+          [
+            10.282483921,
+            54.926032677
+          ],
+          [
+            10.282549625,
+            54.925905829
+          ],
+          [
+            10.282617432,
+            54.925743548
+          ],
+          [
+            10.282635395,
+            54.925596453
+          ]
+        ]
+      },
+      "properties": {
+        "temakode": 2002,
+        "temanavn": "Beskyttede sten- og jorddiger",
+        "objekt_id": "d5e1044b-a8b5-4395-b3e8-282e0070b9cd",
+        "version_id": "8d2b6755-7676-402d-817a-9d753235c98f",
+        "systid_fra": "2024/11/21",
+        "systid_til": null,
+        "oprettet": "2024/11/21",
+        "oprindkode": 0,
+        "oprindelse": null,
+        "statuskode": 3,
+        "status": "Gældende / Vedtaget",
+        "off_kode": 1,
+        "offentlig": "Synlig for alle",
+        "cvr_kode": "34072191",
+        "cvr_navn": "Slots- og Kulturstyrelsen",
+        "bruger_id": "00000000-0000-0000-0000-000000000000",
+        "link": null,
+        "draftstatu": null,
+        "listtoappr": null,
+        "digeid": null,
+        "digenummer": null,
+        "beskyttels": "5",
+        "beskyt_kod": null,
+        "digetypebe": null,
+        "septima_hash86": "3BUpaXB1fGoKYFxLV/0FobMregWfLXNyHi0QWdjPW7Rq/vuPpQX6CKByQ3Njoe2MP8+DcNxMyVWd5AHeG0D1YA",
+        "septima_serial": "21084181"
+      }
+    }
+  ]
+}

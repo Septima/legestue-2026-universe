@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Rudkøbing bymidte",
+    "value": "300 meter",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47395669",
+    "septima_serial": "587586"
+  },
+  {
+    "name": "Centrum af Randers",
+    "value": "1,9 km",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47396147",
+    "septima_serial": "587587"
+  },
+  {
+    "name": "Aarhus Lufthavn",
+    "value": "47 km",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47396147",
+    "septima_serial": "587588"
+  },
+  {
+    "name": "Randers Banegård",
+    "value": "800 m",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47396147",
+    "septima_serial": "587589"
+  },
+  {
+    "name": "Motorvej E45",
+    "value": "1,5 km",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47396147",
+    "septima_serial": "587590"
+  },
+  {
+    "name": "Centrum af Randers",
+    "value": "1 km",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47396164",
+    "septima_serial": "587591"
+  },
+  {
+    "name": "Aarhus Lufthavn",
+    "value": "46 km",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47396164",
+    "septima_serial": "587592"
+  },
+  {
+    "name": "Randers Banegård",
+    "value": "2 km",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47396164",
+    "septima_serial": "587593"
+  },
+  {
+    "name": "Motorvej E45",
+    "value": "5 km",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47396164",
+    "septima_serial": "587594"
+  },
+  {
+    "name": "Offentlig transport",
+    "value": "500 m",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47396164",
+    "septima_serial": "587595"
+  }
+]

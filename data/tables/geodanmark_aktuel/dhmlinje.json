@@ -1,0 +1,515 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.813587459,
+            56.563832971,
+            9.42
+          ],
+          [
+            9.813688241,
+            56.563979657,
+            9.57
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1200050620",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "NIRAS",
+        "registreringfra": "2023-08-15T07:43:09.333Z",
+        "registreringtil": null,
+        "virkningsaktoer": "NIRAS",
+        "virkningfra": "2023-08-08T08:59:17.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.75",
+        "planstedfaestelsesmetode": "Beregnet",
+        "vertikalnoejagtighed": "0.10",
+        "vertikalstedfaestelsesmetode": "Beregnet",
+        "applikation": "FME",
+        "kommentar": "Kvalitetsløft af tilpasningsobjekterne 2023",
+        "brugesher": "Generel",
+        "hindring": "Jernbane",
+        "kategori": "Rørlagt vandløb",
+        "dimension": null,
+        "kotested": "DHM",
+        "kote": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "14195006",
+        "septima_hash86": "OYSQpY85zpONCy4JQMJJSReB/P5LT4dJXMTaKOAjCiU9JqTXHCCd5aHQXANIqZ65Sf8K2x2uwls2qjLG49m8Gw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.737640758,
+            55.986155521,
+            22.78
+          ],
+          [
+            8.737833557,
+            55.986087645,
+            22.73
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1200050445",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "NIRAS",
+        "registreringfra": "2023-06-26T07:11:53.383Z",
+        "registreringtil": null,
+        "virkningsaktoer": "NIRAS",
+        "virkningfra": "2023-06-22T22:25:13.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.75",
+        "planstedfaestelsesmetode": "Beregnet",
+        "vertikalnoejagtighed": "0.10",
+        "vertikalstedfaestelsesmetode": "Beregnet",
+        "applikation": "FME",
+        "kommentar": "Kvalitetsløft af tilpasningsobjekterne 2023",
+        "brugesher": "Generel",
+        "hindring": "Jernbane",
+        "kategori": "Rørlagt vandløb",
+        "dimension": null,
+        "kotested": "DHM",
+        "kote": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "14195007",
+        "septima_hash86": "ZDxhYqOJ9Ft8474SckImF8wu0Zu7Wu79PyhW3njxcrVXuFim/JcrDgJMF+8CpxtfrLDF8Xc1T+DpE6fgBoTDuw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.620809244,
+            55.2387814,
+            22.58
+          ],
+          [
+            9.620732979,
+            55.238731465,
+            22.44
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1225709563",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "NIRAS",
+        "registreringfra": "2023-11-03T08:33:31.231Z",
+        "registreringtil": null,
+        "virkningsaktoer": "NIRAS",
+        "virkningfra": "2023-11-02T13:42:30.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.75",
+        "planstedfaestelsesmetode": "Beregnet",
+        "vertikalnoejagtighed": "0.10",
+        "vertikalstedfaestelsesmetode": "Beregnet",
+        "applikation": "FME",
+        "kommentar": "Kvalitetsløft af tilpasningsobjekterne 2023",
+        "brugesher": "Generel",
+        "hindring": "Ikke tildelt",
+        "kategori": "Rørlagt vandløb",
+        "dimension": null,
+        "kotested": "DHM",
+        "kote": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "14195008",
+        "septima_hash86": "6rANUwbVBmyPtVPw66e829IYavdpflURn+1BdKCUPbg+YgzpfM/GF14zPXkpcF+FUg7iKuv9nQMubpeEtSPleg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.803556542,
+            54.949304438,
+            7.95
+          ],
+          [
+            10.803630032,
+            54.949411204,
+            8.04
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1225709564",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "NIRAS",
+        "registreringfra": "2023-11-03T08:33:31.231Z",
+        "registreringtil": null,
+        "virkningsaktoer": "NIRAS",
+        "virkningfra": "2023-11-02T13:42:30.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.75",
+        "planstedfaestelsesmetode": "Beregnet",
+        "vertikalnoejagtighed": "0.10",
+        "vertikalstedfaestelsesmetode": "Beregnet",
+        "applikation": "FME",
+        "kommentar": "Kvalitetsløft af tilpasningsobjekterne 2023",
+        "brugesher": "Generel",
+        "hindring": "Ikke tildelt",
+        "kategori": "Rørlagt vandløb",
+        "dimension": null,
+        "kotested": "DHM",
+        "kote": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "14195009",
+        "septima_hash86": "ZMN+VKOvC8DjwRxMICZ93TThQUAebcBaMu8edijqyd9WR4PmgBnytoiFTfEiOoLN/WWI/Sd3DZN79Vc+YJ0l2g"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.099421337,
+            55.562424316,
+            0.4
+          ],
+          [
+            10.099505547,
+            55.562532653,
+            0.06
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1200822486",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Fotogrammetrisk ajourføring",
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2018-12-18T12:37:34.096Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2018-05-09T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Ajourføring 2018",
+        "brugesher": "Generel",
+        "hindring": "Vandløb",
+        "kategori": "Rørlagt vandløb",
+        "dimension": null,
+        "kotested": "DHM",
+        "kote": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "14195010",
+        "septima_hash86": "pyQCYThbVJjicCr/ggDNiI0BrIpiyF98uxXI+QpBd0PmHEbbCXydV0cSaO/YhPc42czo13t/9LsymYiMYdzXTQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.099642957,
+            55.560952278,
+            0.46
+          ],
+          [
+            10.099560381,
+            55.561061302,
+            0.29
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1200822487",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Fotogrammetrisk ajourføring",
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2018-12-18T12:37:34.096Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2018-05-09T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Ajourføring 2018",
+        "brugesher": "Generel",
+        "hindring": "Vandløb",
+        "kategori": "Rørlagt vandløb",
+        "dimension": null,
+        "kotested": "DHM",
+        "kote": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "14195011",
+        "septima_hash86": "CPeZd55cmc9F9MS5RBM2qEDVQ88WDgbnu/yKbiqtucnmOeVNCcKDHrBi3RN/BWIB+8MytGr9X6t08ERQpL7xXg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.100271376,
+            55.559479283,
+            0.39
+          ],
+          [
+            10.100445645,
+            55.559706956,
+            0.39
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1200822488",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Fotogrammetrisk ajourføring",
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2018-12-18T12:37:34.096Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2018-05-09T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Ajourføring 2018",
+        "brugesher": "Generel",
+        "hindring": "Vandløb",
+        "kategori": "Rørlagt vandløb",
+        "dimension": null,
+        "kotested": "DHM",
+        "kote": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "14195012",
+        "septima_hash86": "1BLnJDlOj7K1MqkpbvwcIglWHDcSlRzvJstNmJMH2fMpfA79gQg86jZOLT6wNpyisUuxbGT5lphqhh7cHx3MKQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.263507255,
+            55.830869421,
+            0.04
+          ],
+          [
+            8.263866273,
+            55.830980832,
+            0.04
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1207086051",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Fotogrammetrisk ajourføring",
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2022-06-07T08:40:38.339Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Ringkøbing-skjern kommune",
+        "virkningfra": "2018-05-06T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": "Totalajourføring 2018",
+        "brugesher": "Regn",
+        "hindring": "Vandløb",
+        "kategori": "Rørlagt vandløb",
+        "dimension": null,
+        "kotested": "DHM",
+        "kote": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "14195013",
+        "septima_hash86": "Sn0jRC25epYLTKPfKazDHXSbG5QkuUwL58BerKre2kNIlynAFa4Rl0cnt4kkNWav72bClYt4BgbpfdXtcmsTog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.094930684,
+            55.555223986,
+            0.87
+          ],
+          [
+            10.094822929,
+            55.555077486,
+            0.87
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1200822500",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Fotogrammetrisk ajourføring",
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2018-12-18T12:37:34.096Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2018-05-09T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Ajourføring 2018",
+        "brugesher": "Generel",
+        "hindring": "Vandløb",
+        "kategori": "Rørlagt vandløb",
+        "dimension": null,
+        "kotested": "DHM",
+        "kote": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "14195014",
+        "septima_hash86": "czATqbml/AS2eSf4ZqB2aEBZipFr6WvMqSSFGJfskt5wZ5525GsCRto3CKn7qCPcp7v1oCGo7gPM4cIRhjUcKQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.093795669,
+            55.555204287,
+            0.75
+          ],
+          [
+            10.093972682,
+            55.555224634,
+            0.75
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1200822502",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Fotogrammetrisk ajourføring",
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2018-12-18T12:37:34.096Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2018-05-09T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Ajourføring 2018",
+        "brugesher": "Generel",
+        "hindring": "Vandløb",
+        "kategori": "Rørlagt vandløb",
+        "dimension": null,
+        "kotested": "DHM",
+        "kote": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "14195015",
+        "septima_hash86": "Ki3vx1fbsqgHdW8BUDE6qKquTezk0a7CkJO803qgadbapdOTxntf7bFiclisBpNnjmFf6fr8z1WAdOAQababAQ"
+      }
+    }
+  ]
+}

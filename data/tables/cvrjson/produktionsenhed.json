@@ -1,0 +1,3288 @@
+[
+  {
+    "p_nummer": "1011804345",
+    "branche_ansvarskode": null,
+    "reklamebeskyttet": false,
+    "navne": [
+      {
+        "navn": "PRICEWATERHOUSECOOPERS            STATSAUT.REVISIONSAKTIESELSKAB",
+        "periode": {
+          "gyldigFra": "2005-10-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "sidstOpdateret": "2013-11-22T22:55:56.000+01:00"
+      }
+    ],
+    "postadresse": [],
+    "beliggenhedsadresse": [
+      {
+        "etage": null,
+        "bynavn": "Snoghøj",
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": "2007-01-01",
+            "gyldigTil": null
+          },
+          "kommuneKode": 607,
+          "kommuneNavn": "FREDERICIA",
+          "sidstOpdateret": "2006-11-13T00:00:00.000+01:00"
+        },
+        "periode": {
+          "gyldigFra": "2005-10-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "vejkode": 9240,
+        "vejnavn": "Vesterballevej",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": "749bb14c-421b-4a32-be1e-a7b26d657eb8",
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": 7000,
+        "husnummerFra": 27,
+        "husnummerTil": null,
+        "postdistrikt": "Fredericia",
+        "sidstOpdateret": "2013-11-22T23:32:58.000+01:00",
+        "sidstValideret": "2021-03-04T19:02:43.181+01:00"
+      }
+    ],
+    "telefon_nummer": [],
+    "telefax_nummer": [],
+    "elektronisk_post": [],
+    "livsforloeb": [
+      {
+        "periode": {
+          "gyldigFra": "2005-10-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "sidstOpdateret": "2005-11-07T10:43:57.000+01:00"
+      }
+    ],
+    "hovedbranche": [
+      {
+        "periode": {
+          "gyldigFra": "2005-10-01",
+          "gyldigTil": "2007-12-31"
+        },
+        "branchekode": "741200",
+        "branchetekst": "Revisions- og bogføringsvirksomhed",
+        "sidstOpdateret": "2013-11-22T23:05:42.000+01:00"
+      },
+      {
+        "periode": {
+          "gyldigFra": "2008-01-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "branchekode": "692000",
+        "branchetekst": "Bogføring og revision: skatterådgivning",
+        "sidstOpdateret": "2013-11-22T23:09:38.000+01:00"
+      }
+    ],
+    "bibranche1": [],
+    "bibranche2": [],
+    "bibranche3": [],
+    "aarsbeskaeftigelse": [
+      {
+        "aar": 2005,
+        "antalAnsatte": 43,
+        "antalAarsvaerk": 7,
+        "sidstOpdateret": "2007-07-18T16:00:05.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_20_49",
+        "intervalKodeAntalAarsvaerk": "ANTAL_5_9",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2006,
+        "antalAnsatte": 52,
+        "antalAarsvaerk": 45,
+        "sidstOpdateret": "2008-10-03T14:52:37.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2007,
+        "antalAnsatte": 91,
+        "antalAarsvaerk": 84,
+        "sidstOpdateret": "2009-09-08T15:00:53.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2008,
+        "antalAnsatte": 88,
+        "antalAarsvaerk": 87,
+        "sidstOpdateret": "2010-09-23T14:53:22.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2011,
+        "antalAnsatte": 0,
+        "antalAarsvaerk": 36,
+        "sidstOpdateret": "2013-07-18T15:31:27.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_0_0",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      }
+    ],
+    "kvartalsbeskaeftigelse": [],
+    "erst_maanedsbeskaeftigelse": [],
+    "virksomhedsrelation": [
+      {
+        "periode": {
+          "gyldigFra": "2005-10-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "cvrNummer": 16994294,
+        "sidstOpdateret": "2005-11-07T10:43:57.000+01:00"
+      }
+    ],
+    "attributter": [],
+    "deltager_relation": [],
+    "produktions_enhed_metadata": {
+      "nyesteNavn": {
+        "navn": "PRICEWATERHOUSECOOPERS            STATSAUT.REVISIONSAKTIESELSKAB",
+        "periode": {
+          "gyldigFra": "2005-10-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "sidstOpdateret": "2013-11-22T22:55:56.000+01:00"
+      },
+      "sammensatStatus": "Ophørt",
+      "nyesteBibranche1": null,
+      "nyesteBibranche2": null,
+      "nyesteBibranche3": null,
+      "nyesteHovedbranche": {
+        "periode": {
+          "gyldigFra": "2008-01-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "branchekode": "692000",
+        "branchetekst": "Bogføring og revision: skatterådgivning",
+        "sidstOpdateret": "2013-11-22T23:09:38.000+01:00"
+      },
+      "nyesteCvrNummerRelation": 16994294,
+      "nyesteAarsbeskaeftigelse": {
+        "aar": 2011,
+        "antalAnsatte": 0,
+        "antalAarsvaerk": 36,
+        "sidstOpdateret": "2013-07-18T15:31:27.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_0_0",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      "nyesteKontaktoplysninger": [],
+      "nyesteBeliggenhedsadresse": {
+        "etage": null,
+        "bynavn": "Snoghøj",
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": "2007-01-01",
+            "gyldigTil": null
+          },
+          "kommuneKode": 607,
+          "kommuneNavn": "FREDERICIA",
+          "sidstOpdateret": "2006-11-13T00:00:00.000+01:00"
+        },
+        "periode": {
+          "gyldigFra": "2005-10-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "vejkode": 9240,
+        "vejnavn": "Vesterballevej",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": "749bb14c-421b-4a32-be1e-a7b26d657eb8",
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": 7000,
+        "husnummerFra": 27,
+        "husnummerTil": null,
+        "postdistrikt": "Fredericia",
+        "sidstOpdateret": "2013-11-22T23:32:58.000+01:00",
+        "sidstValideret": "2021-03-04T19:02:43.181+01:00"
+      },
+      "nyesteKvartalsbeskaeftigelse": null,
+      "nyesteErstMaanedsbeskaeftigelse": null
+    },
+    "samt_id": "4",
+    "fejl_registreret": false,
+    "data_adgang": "0",
+    "enheds_nummer": "211",
+    "enhedstype": "PRODUKTIONSENHED",
+    "sidst_opdateret": "2013-11-22T22:32:58.000Z",
+    "fejl_ved_indlaesning": false,
+    "naermeste_fremtidige_dato": null,
+    "fejl_beskrivelse": null,
+    "virknings_aktoer": "BT",
+    "septima_hash86": "YWGwEFv5kHQ4lKbx8hjzoNCgj9Q2qOyUwuJknexbiVz/1X0l2nFMJefpCGkvSeb6QqV8JWqwWftl8YprPocR5g",
+    "septima_serial": "3"
+  },
+  {
+    "p_nummer": "1007315348",
+    "branche_ansvarskode": null,
+    "reklamebeskyttet": false,
+    "navne": [
+      {
+        "navn": "DELOITTE & TOUCHE",
+        "periode": {
+          "gyldigFra": "1990-01-01",
+          "gyldigTil": "2004-01-18"
+        },
+        "sidstOpdateret": "2013-11-22T22:52:26.000+01:00"
+      },
+      {
+        "navn": "DELOITTE STATSAUTORISERET REVISIONSAKTIESELSKAB",
+        "periode": {
+          "gyldigFra": "2004-01-19",
+          "gyldigTil": "2011-10-13"
+        },
+        "sidstOpdateret": "2013-11-22T22:55:56.000+01:00"
+      }
+    ],
+    "postadresse": [],
+    "beliggenhedsadresse": [
+      {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": "2007-01-01",
+            "gyldigTil": null
+          },
+          "kommuneKode": 791,
+          "kommuneNavn": "VIBORG",
+          "sidstOpdateret": "2006-11-13T00:00:00.000+01:00"
+        },
+        "periode": {
+          "gyldigFra": "1990-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "vejkode": 9234,
+        "vejnavn": "Vestervangsvej",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": "0ea6a68e-cfac-4848-ac56-853c43ea7ef9",
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": 8800,
+        "husnummerFra": 6,
+        "husnummerTil": null,
+        "postdistrikt": "Viborg",
+        "sidstOpdateret": "2013-11-22T23:32:58.000+01:00",
+        "sidstValideret": "2021-03-05T23:53:27.817+01:00"
+      }
+    ],
+    "telefon_nummer": [
+      {
+        "periode": {
+          "gyldigFra": "2000-01-23",
+          "gyldigTil": "2011-10-13"
+        },
+        "hemmelig": false,
+        "sidstOpdateret": "2013-11-22T23:01:39.000+01:00",
+        "kontaktoplysning": "89252525"
+      }
+    ],
+    "telefax_nummer": [
+      {
+        "periode": {
+          "gyldigFra": "2000-01-23",
+          "gyldigTil": "2004-02-23"
+        },
+        "hemmelig": false,
+        "sidstOpdateret": "2000-04-01T16:27:28.000+02:00",
+        "kontaktoplysning": "89252550"
+      },
+      {
+        "periode": {
+          "gyldigFra": "2004-12-10",
+          "gyldigTil": "2011-10-13"
+        },
+        "hemmelig": false,
+        "sidstOpdateret": "2013-11-22T23:01:39.000+01:00",
+        "kontaktoplysning": "89252550"
+      }
+    ],
+    "elektronisk_post": [
+      {
+        "periode": {
+          "gyldigFra": "2002-09-18",
+          "gyldigTil": "2011-10-13"
+        },
+        "hemmelig": false,
+        "sidstOpdateret": "2013-11-22T23:01:39.000+01:00",
+        "kontaktoplysning": "viborg@deloitte.dk"
+      }
+    ],
+    "livsforloeb": [
+      {
+        "periode": {
+          "gyldigFra": "1990-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "sidstOpdateret": "2000-01-04T11:47:14.000+01:00"
+      }
+    ],
+    "hovedbranche": [
+      {
+        "periode": {
+          "gyldigFra": "1990-01-01",
+          "gyldigTil": "2007-12-31"
+        },
+        "branchekode": "741200",
+        "branchetekst": "Revisions- og bogføringsvirksomhed",
+        "sidstOpdateret": "2013-11-22T23:05:42.000+01:00"
+      },
+      {
+        "periode": {
+          "gyldigFra": "2008-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "branchekode": "692000",
+        "branchetekst": "Bogføring og revision: skatterådgivning",
+        "sidstOpdateret": "2013-11-22T23:09:38.000+01:00"
+      }
+    ],
+    "bibranche1": [],
+    "bibranche2": [],
+    "bibranche3": [],
+    "aarsbeskaeftigelse": [
+      {
+        "aar": 2000,
+        "antalAnsatte": 42,
+        "antalAarsvaerk": 40,
+        "sidstOpdateret": "2002-06-04T20:16:50.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_20_49",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2001,
+        "antalAnsatte": 49,
+        "antalAarsvaerk": 45,
+        "sidstOpdateret": "2003-05-19T20:23:25.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_20_49",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2002,
+        "antalAnsatte": 44,
+        "antalAarsvaerk": 44,
+        "sidstOpdateret": "2004-06-25T20:37:15.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_20_49",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2003,
+        "antalAnsatte": 44,
+        "antalAarsvaerk": 43,
+        "sidstOpdateret": "2005-12-02T20:37:54.000+01:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_20_49",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2004,
+        "antalAnsatte": 44,
+        "antalAarsvaerk": 44,
+        "sidstOpdateret": "2006-05-18T19:51:10.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_20_49",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2005,
+        "antalAnsatte": 46,
+        "antalAarsvaerk": 43,
+        "sidstOpdateret": "2007-07-18T15:55:57.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_20_49",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2006,
+        "antalAnsatte": 50,
+        "antalAarsvaerk": 44,
+        "sidstOpdateret": "2008-10-03T14:52:01.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2007,
+        "antalAnsatte": 52,
+        "antalAarsvaerk": 48,
+        "sidstOpdateret": "2009-09-08T14:58:45.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2008,
+        "antalAnsatte": 56,
+        "antalAarsvaerk": 52,
+        "sidstOpdateret": "2010-09-23T14:51:46.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2011,
+        "antalAnsatte": 0,
+        "antalAarsvaerk": 36,
+        "sidstOpdateret": "2013-07-18T15:27:57.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_0_0",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      }
+    ],
+    "kvartalsbeskaeftigelse": [],
+    "erst_maanedsbeskaeftigelse": [],
+    "virksomhedsrelation": [
+      {
+        "periode": {
+          "gyldigFra": "1990-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "cvrNummer": 24213714,
+        "sidstOpdateret": "2000-01-04T11:47:14.000+01:00"
+      }
+    ],
+    "attributter": [],
+    "deltager_relation": [],
+    "produktions_enhed_metadata": {
+      "nyesteNavn": {
+        "navn": "DELOITTE STATSAUTORISERET REVISIONSAKTIESELSKAB",
+        "periode": {
+          "gyldigFra": "2004-01-19",
+          "gyldigTil": "2011-10-13"
+        },
+        "sidstOpdateret": "2013-11-22T22:55:56.000+01:00"
+      },
+      "sammensatStatus": "Ophørt",
+      "nyesteBibranche1": null,
+      "nyesteBibranche2": null,
+      "nyesteBibranche3": null,
+      "nyesteHovedbranche": {
+        "periode": {
+          "gyldigFra": "2008-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "branchekode": "692000",
+        "branchetekst": "Bogføring og revision: skatterådgivning",
+        "sidstOpdateret": "2013-11-22T23:09:38.000+01:00"
+      },
+      "nyesteCvrNummerRelation": 24213714,
+      "nyesteAarsbeskaeftigelse": {
+        "aar": 2011,
+        "antalAnsatte": 0,
+        "antalAarsvaerk": 36,
+        "sidstOpdateret": "2013-07-18T15:27:57.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_0_0",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      "nyesteKontaktoplysninger": [
+        "89252525",
+        "89252550",
+        "viborg@deloitte.dk"
+      ],
+      "nyesteBeliggenhedsadresse": {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": "2007-01-01",
+            "gyldigTil": null
+          },
+          "kommuneKode": 791,
+          "kommuneNavn": "VIBORG",
+          "sidstOpdateret": "2006-11-13T00:00:00.000+01:00"
+        },
+        "periode": {
+          "gyldigFra": "1990-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "vejkode": 9234,
+        "vejnavn": "Vestervangsvej",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": "0ea6a68e-cfac-4848-ac56-853c43ea7ef9",
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": 8800,
+        "husnummerFra": 6,
+        "husnummerTil": null,
+        "postdistrikt": "Viborg",
+        "sidstOpdateret": "2013-11-22T23:32:58.000+01:00",
+        "sidstValideret": "2021-03-05T23:53:27.817+01:00"
+      },
+      "nyesteKvartalsbeskaeftigelse": null,
+      "nyesteErstMaanedsbeskaeftigelse": null
+    },
+    "samt_id": "5",
+    "fejl_registreret": false,
+    "data_adgang": "0",
+    "enheds_nummer": "865",
+    "enhedstype": "PRODUKTIONSENHED",
+    "sidst_opdateret": "2013-11-22T22:32:58.000Z",
+    "fejl_ved_indlaesning": false,
+    "naermeste_fremtidige_dato": null,
+    "fejl_beskrivelse": null,
+    "virknings_aktoer": "BT",
+    "septima_hash86": "EuEaas0MVArR+aZmq20GL0ePfDah/7cl32CahUJn77m1s5vl/Z57etOAYdkyjzRv4n2cDe8/wNPxFHfSAaHcqQ",
+    "septima_serial": "4"
+  },
+  {
+    "p_nummer": "1007315062",
+    "branche_ansvarskode": null,
+    "reklamebeskyttet": false,
+    "navne": [
+      {
+        "navn": "DELOITTE & TOUCHE",
+        "periode": {
+          "gyldigFra": "1991-09-01",
+          "gyldigTil": "2004-01-18"
+        },
+        "sidstOpdateret": "2013-11-22T22:52:26.000+01:00"
+      },
+      {
+        "navn": "DELOITTE STATSAUTORISERET REVISIONSAKTIESELSKAB",
+        "periode": {
+          "gyldigFra": "2004-01-19",
+          "gyldigTil": "2011-10-13"
+        },
+        "sidstOpdateret": "2013-11-22T22:55:56.000+01:00"
+      }
+    ],
+    "postadresse": [],
+    "beliggenhedsadresse": [
+      {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": null,
+            "gyldigTil": "2006-12-31"
+          },
+          "kommuneKode": 333,
+          "kommuneNavn": "SLAGELSE",
+          "sidstOpdateret": "1999-10-15T00:00:00.000+02:00"
+        },
+        "periode": {
+          "gyldigFra": "1991-09-01",
+          "gyldigTil": "2002-11-19"
+        },
+        "vejkode": 4439,
+        "vejnavn": "Korsgade",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": 4200,
+        "husnummerFra": 3,
+        "husnummerTil": null,
+        "postdistrikt": "Slagelse",
+        "sidstOpdateret": "2013-11-22T23:26:49.000+01:00",
+        "sidstValideret": null
+      },
+      {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": null,
+            "gyldigTil": "2006-12-31"
+          },
+          "kommuneKode": 333,
+          "kommuneNavn": "SLAGELSE",
+          "sidstOpdateret": "1999-10-15T00:00:00.000+02:00"
+        },
+        "periode": {
+          "gyldigFra": "2002-11-20",
+          "gyldigTil": "2005-12-31"
+        },
+        "vejkode": 5549,
+        "vejnavn": "Ndr.Ringgade",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": 4200,
+        "husnummerFra": 70,
+        "husnummerTil": null,
+        "postdistrikt": "Slagelse",
+        "sidstOpdateret": "2002-11-20T08:18:16.000+01:00",
+        "sidstValideret": null
+      },
+      {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": null,
+            "gyldigTil": "2006-12-31"
+          },
+          "kommuneKode": 333,
+          "kommuneNavn": "SLAGELSE",
+          "sidstOpdateret": "1999-10-15T00:00:00.000+02:00"
+        },
+        "periode": {
+          "gyldigFra": "2006-01-01",
+          "gyldigTil": "2006-12-31"
+        },
+        "vejkode": 5549,
+        "vejnavn": "Ndr.Ringgade",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": "A",
+        "bogstavTil": null,
+        "postnummer": 4200,
+        "husnummerFra": 70,
+        "husnummerTil": null,
+        "postdistrikt": "Slagelse",
+        "sidstOpdateret": "2006-12-18T11:12:10.000+01:00",
+        "sidstValideret": null
+      },
+      {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": "2007-01-01",
+            "gyldigTil": null
+          },
+          "kommuneKode": 330,
+          "kommuneNavn": "SLAGELSE",
+          "sidstOpdateret": "2006-11-13T00:00:00.000+01:00"
+        },
+        "periode": {
+          "gyldigFra": "2007-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "vejkode": 1162,
+        "vejnavn": "Ndr.Ringgade",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": "0a3f50ae-aca2-32b8-e044-0003ba298018",
+        "landekode": "DK",
+        "bogstavFra": "A",
+        "bogstavTil": null,
+        "postnummer": 4200,
+        "husnummerFra": 70,
+        "husnummerTil": null,
+        "postdistrikt": "Slagelse",
+        "sidstOpdateret": "2013-11-22T23:32:58.000+01:00",
+        "sidstValideret": "2021-03-04T10:38:41.048+01:00"
+      }
+    ],
+    "telefon_nummer": [
+      {
+        "periode": {
+          "gyldigFra": "2002-11-12",
+          "gyldigTil": "2011-10-13"
+        },
+        "hemmelig": false,
+        "sidstOpdateret": "2013-11-22T23:01:39.000+01:00",
+        "kontaktoplysning": "58554800"
+      }
+    ],
+    "telefax_nummer": [
+      {
+        "periode": {
+          "gyldigFra": "2002-11-12",
+          "gyldigTil": "2002-12-21"
+        },
+        "hemmelig": false,
+        "sidstOpdateret": "2002-11-15T19:36:06.000+01:00",
+        "kontaktoplysning": "58554801"
+      },
+      {
+        "periode": {
+          "gyldigFra": "2003-01-13",
+          "gyldigTil": "2004-02-23"
+        },
+        "hemmelig": false,
+        "sidstOpdateret": "2003-01-21T19:34:29.000+01:00",
+        "kontaktoplysning": "58554801"
+      },
+      {
+        "periode": {
+          "gyldigFra": "2004-06-08",
+          "gyldigTil": "2011-10-13"
+        },
+        "hemmelig": false,
+        "sidstOpdateret": "2013-11-22T23:01:39.000+01:00",
+        "kontaktoplysning": "58554801"
+      }
+    ],
+    "elektronisk_post": [
+      {
+        "periode": {
+          "gyldigFra": "2002-09-18",
+          "gyldigTil": "2011-10-13"
+        },
+        "hemmelig": false,
+        "sidstOpdateret": "2013-11-22T23:01:39.000+01:00",
+        "kontaktoplysning": "slagelse@deloitte.dk"
+      }
+    ],
+    "livsforloeb": [
+      {
+        "periode": {
+          "gyldigFra": "1991-09-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "sidstOpdateret": "2000-01-04T11:27:05.000+01:00"
+      }
+    ],
+    "hovedbranche": [
+      {
+        "periode": {
+          "gyldigFra": "1991-09-01",
+          "gyldigTil": "2007-12-31"
+        },
+        "branchekode": "741200",
+        "branchetekst": "Revisions- og bogføringsvirksomhed",
+        "sidstOpdateret": "2013-11-22T23:05:42.000+01:00"
+      },
+      {
+        "periode": {
+          "gyldigFra": "2008-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "branchekode": "692000",
+        "branchetekst": "Bogføring og revision: skatterådgivning",
+        "sidstOpdateret": "2013-11-22T23:09:38.000+01:00"
+      }
+    ],
+    "bibranche1": [],
+    "bibranche2": [],
+    "bibranche3": [],
+    "aarsbeskaeftigelse": [
+      {
+        "aar": 2000,
+        "antalAnsatte": 38,
+        "antalAarsvaerk": 36,
+        "sidstOpdateret": "2002-06-04T19:55:26.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_20_49",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2001,
+        "antalAnsatte": 42,
+        "antalAarsvaerk": 39,
+        "sidstOpdateret": "2003-05-19T20:05:53.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_20_49",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2002,
+        "antalAnsatte": 76,
+        "antalAarsvaerk": 66,
+        "sidstOpdateret": "2004-06-25T20:37:15.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2003,
+        "antalAnsatte": 64,
+        "antalAarsvaerk": 63,
+        "sidstOpdateret": "2005-12-02T20:37:54.000+01:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2004,
+        "antalAnsatte": 66,
+        "antalAarsvaerk": 64,
+        "sidstOpdateret": "2006-05-18T19:51:10.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2005,
+        "antalAnsatte": 61,
+        "antalAarsvaerk": 58,
+        "sidstOpdateret": "2007-07-18T15:55:57.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2006,
+        "antalAnsatte": 68,
+        "antalAarsvaerk": 61,
+        "sidstOpdateret": "2008-10-03T14:52:01.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2007,
+        "antalAnsatte": 79,
+        "antalAarsvaerk": 67,
+        "sidstOpdateret": "2009-09-08T14:58:45.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2008,
+        "antalAnsatte": 87,
+        "antalAarsvaerk": 79,
+        "sidstOpdateret": "2010-09-23T14:51:46.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2011,
+        "antalAnsatte": 0,
+        "antalAarsvaerk": 49,
+        "sidstOpdateret": "2013-07-18T15:27:57.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_0_0",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      }
+    ],
+    "kvartalsbeskaeftigelse": [],
+    "erst_maanedsbeskaeftigelse": [],
+    "virksomhedsrelation": [
+      {
+        "periode": {
+          "gyldigFra": "1991-09-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "cvrNummer": 24213714,
+        "sidstOpdateret": "2000-01-04T11:27:05.000+01:00"
+      }
+    ],
+    "attributter": [],
+    "deltager_relation": [],
+    "produktions_enhed_metadata": {
+      "nyesteNavn": {
+        "navn": "DELOITTE STATSAUTORISERET REVISIONSAKTIESELSKAB",
+        "periode": {
+          "gyldigFra": "2004-01-19",
+          "gyldigTil": "2011-10-13"
+        },
+        "sidstOpdateret": "2013-11-22T22:55:56.000+01:00"
+      },
+      "sammensatStatus": "Ophørt",
+      "nyesteBibranche1": null,
+      "nyesteBibranche2": null,
+      "nyesteBibranche3": null,
+      "nyesteHovedbranche": {
+        "periode": {
+          "gyldigFra": "2008-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "branchekode": "692000",
+        "branchetekst": "Bogføring og revision: skatterådgivning",
+        "sidstOpdateret": "2013-11-22T23:09:38.000+01:00"
+      },
+      "nyesteCvrNummerRelation": 24213714,
+      "nyesteAarsbeskaeftigelse": {
+        "aar": 2011,
+        "antalAnsatte": 0,
+        "antalAarsvaerk": 49,
+        "sidstOpdateret": "2013-07-18T15:27:57.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_0_0",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      "nyesteKontaktoplysninger": [
+        "58554800",
+        "58554801",
+        "slagelse@deloitte.dk"
+      ],
+      "nyesteBeliggenhedsadresse": {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": "2007-01-01",
+            "gyldigTil": null
+          },
+          "kommuneKode": 330,
+          "kommuneNavn": "SLAGELSE",
+          "sidstOpdateret": "2006-11-13T00:00:00.000+01:00"
+        },
+        "periode": {
+          "gyldigFra": "2007-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "vejkode": 1162,
+        "vejnavn": "Ndr.Ringgade",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": "0a3f50ae-aca2-32b8-e044-0003ba298018",
+        "landekode": "DK",
+        "bogstavFra": "A",
+        "bogstavTil": null,
+        "postnummer": 4200,
+        "husnummerFra": 70,
+        "husnummerTil": null,
+        "postdistrikt": "Slagelse",
+        "sidstOpdateret": "2013-11-22T23:32:58.000+01:00",
+        "sidstValideret": "2021-03-04T10:38:41.048+01:00"
+      },
+      "nyesteKvartalsbeskaeftigelse": null,
+      "nyesteErstMaanedsbeskaeftigelse": null
+    },
+    "samt_id": "11",
+    "fejl_registreret": false,
+    "data_adgang": "0",
+    "enheds_nummer": "1570",
+    "enhedstype": "PRODUKTIONSENHED",
+    "sidst_opdateret": "2013-11-22T22:32:58.000Z",
+    "fejl_ved_indlaesning": false,
+    "naermeste_fremtidige_dato": null,
+    "fejl_beskrivelse": null,
+    "virknings_aktoer": "BT",
+    "septima_hash86": "FK9ncmopkiSHTpTudBvzjLaAdT4vmZiNiUxL+mFZd1pDAlF0cr3QFCr3Qs67A1CLVDYqDneZzB5GpZNeMPohxA",
+    "septima_serial": "5"
+  },
+  {
+    "p_nummer": "1008289944",
+    "branche_ansvarskode": null,
+    "reklamebeskyttet": false,
+    "navne": [
+      {
+        "navn": "DELOITTE & TOUCHE",
+        "periode": {
+          "gyldigFra": "2000-01-01",
+          "gyldigTil": "2004-01-18"
+        },
+        "sidstOpdateret": "2013-11-22T22:52:26.000+01:00"
+      },
+      {
+        "navn": "DELOITTE STATSAUTORISERET REVISIONSAKTIESELSKAB",
+        "periode": {
+          "gyldigFra": "2004-01-19",
+          "gyldigTil": "2011-10-13"
+        },
+        "sidstOpdateret": "2013-11-22T22:55:56.000+01:00"
+      }
+    ],
+    "postadresse": [],
+    "beliggenhedsadresse": [
+      {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": null,
+            "gyldigTil": "2006-12-31"
+          },
+          "kommuneKode": 743,
+          "kommuneNavn": "SILKEBORG",
+          "sidstOpdateret": "1999-10-15T00:00:00.000+02:00"
+        },
+        "periode": {
+          "gyldigFra": "2000-01-01",
+          "gyldigTil": "2004-02-17"
+        },
+        "vejkode": 1440,
+        "vejnavn": "Drewsensvej",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": 8600,
+        "husnummerFra": 70,
+        "husnummerTil": null,
+        "postdistrikt": "Silkeborg",
+        "sidstOpdateret": "2013-11-22T23:26:49.000+01:00",
+        "sidstValideret": null
+      },
+      {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": null,
+            "gyldigTil": "2006-12-31"
+          },
+          "kommuneKode": 743,
+          "kommuneNavn": "SILKEBORG",
+          "sidstOpdateret": "1999-10-15T00:00:00.000+02:00"
+        },
+        "periode": {
+          "gyldigFra": "2004-02-18",
+          "gyldigTil": "2005-01-31"
+        },
+        "vejkode": 6220,
+        "vejnavn": "Papirfabrikken",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": 8600,
+        "husnummerFra": 22,
+        "husnummerTil": null,
+        "postdistrikt": "Silkeborg",
+        "sidstOpdateret": "2004-02-18T13:57:21.000+01:00",
+        "sidstValideret": null
+      },
+      {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": null,
+            "gyldigTil": "2006-12-31"
+          },
+          "kommuneKode": 743,
+          "kommuneNavn": "SILKEBORG",
+          "sidstOpdateret": "1999-10-15T00:00:00.000+02:00"
+        },
+        "periode": {
+          "gyldigFra": "2005-02-01",
+          "gyldigTil": "2006-12-31"
+        },
+        "vejkode": 6220,
+        "vejnavn": "Papirfabrikken",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": 8600,
+        "husnummerFra": 26,
+        "husnummerTil": null,
+        "postdistrikt": "Silkeborg",
+        "sidstOpdateret": "2005-05-04T11:21:06.000+02:00",
+        "sidstValideret": null
+      },
+      {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": "2007-01-01",
+            "gyldigTil": null
+          },
+          "kommuneKode": 740,
+          "kommuneNavn": "SILKEBORG",
+          "sidstOpdateret": "2006-11-13T00:00:00.000+01:00"
+        },
+        "periode": {
+          "gyldigFra": "2007-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "vejkode": 1348,
+        "vejnavn": "Papirfabrikken",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": "9466a9df-471f-47b4-bbc9-c32d64f5763e",
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": 8600,
+        "husnummerFra": 26,
+        "husnummerTil": null,
+        "postdistrikt": "Silkeborg",
+        "sidstOpdateret": "2013-11-22T23:32:58.000+01:00",
+        "sidstValideret": "2021-03-06T09:42:49.533+01:00"
+      }
+    ],
+    "telefon_nummer": [
+      {
+        "periode": {
+          "gyldigFra": "2002-06-21",
+          "gyldigTil": "2011-10-13"
+        },
+        "hemmelig": false,
+        "sidstOpdateret": "2013-11-22T23:01:39.000+01:00",
+        "kontaktoplysning": "89207000"
+      }
+    ],
+    "telefax_nummer": [
+      {
+        "periode": {
+          "gyldigFra": "2001-05-21",
+          "gyldigTil": "2002-06-20"
+        },
+        "hemmelig": false,
+        "sidstOpdateret": "2001-05-25T19:52:48.000+02:00",
+        "kontaktoplysning": "86828308"
+      },
+      {
+        "periode": {
+          "gyldigFra": "2002-09-18",
+          "gyldigTil": "2004-02-23"
+        },
+        "hemmelig": false,
+        "sidstOpdateret": "2002-09-23T19:42:15.000+02:00",
+        "kontaktoplysning": "89207005"
+      }
+    ],
+    "elektronisk_post": [
+      {
+        "periode": {
+          "gyldigFra": "2002-09-18",
+          "gyldigTil": "2011-10-13"
+        },
+        "hemmelig": false,
+        "sidstOpdateret": "2013-11-22T23:01:39.000+01:00",
+        "kontaktoplysning": "silkeborg@deloitte.dk"
+      }
+    ],
+    "livsforloeb": [
+      {
+        "periode": {
+          "gyldigFra": "2000-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "sidstOpdateret": "2001-02-21T15:17:14.000+01:00"
+      }
+    ],
+    "hovedbranche": [
+      {
+        "periode": {
+          "gyldigFra": "2000-01-01",
+          "gyldigTil": "2007-12-31"
+        },
+        "branchekode": "741200",
+        "branchetekst": "Revisions- og bogføringsvirksomhed",
+        "sidstOpdateret": "2013-11-22T23:05:42.000+01:00"
+      },
+      {
+        "periode": {
+          "gyldigFra": "2008-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "branchekode": "692000",
+        "branchetekst": "Bogføring og revision: skatterådgivning",
+        "sidstOpdateret": "2013-11-22T23:09:38.000+01:00"
+      }
+    ],
+    "bibranche1": [],
+    "bibranche2": [],
+    "bibranche3": [],
+    "aarsbeskaeftigelse": [
+      {
+        "aar": 2000,
+        "antalAnsatte": 63,
+        "antalAarsvaerk": 54,
+        "sidstOpdateret": "2002-06-04T19:55:17.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2001,
+        "antalAnsatte": 91,
+        "antalAarsvaerk": 79,
+        "sidstOpdateret": "2003-05-19T20:03:28.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2002,
+        "antalAnsatte": 94,
+        "antalAarsvaerk": 87,
+        "sidstOpdateret": "2004-06-25T20:41:13.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2003,
+        "antalAnsatte": 93,
+        "antalAarsvaerk": 89,
+        "sidstOpdateret": "2005-12-02T20:38:09.000+01:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2004,
+        "antalAnsatte": 97,
+        "antalAarsvaerk": 94,
+        "sidstOpdateret": "2006-05-18T19:51:29.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2005,
+        "antalAnsatte": 93,
+        "antalAarsvaerk": 92,
+        "sidstOpdateret": "2007-07-18T15:56:48.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2006,
+        "antalAnsatte": 101,
+        "antalAarsvaerk": 93,
+        "sidstOpdateret": "2008-10-03T14:52:16.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_100_199",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2007,
+        "antalAnsatte": 116,
+        "antalAarsvaerk": 103,
+        "sidstOpdateret": "2009-09-08T14:59:20.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_100_199",
+        "intervalKodeAntalAarsvaerk": "ANTAL_100_199",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2008,
+        "antalAnsatte": 112,
+        "antalAarsvaerk": 115,
+        "sidstOpdateret": "2010-09-23T14:52:30.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_100_199",
+        "intervalKodeAntalAarsvaerk": "ANTAL_100_199",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2011,
+        "antalAnsatte": 0,
+        "antalAarsvaerk": 71,
+        "sidstOpdateret": "2013-07-18T15:28:42.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_0_0",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      }
+    ],
+    "kvartalsbeskaeftigelse": [],
+    "erst_maanedsbeskaeftigelse": [],
+    "virksomhedsrelation": [
+      {
+        "periode": {
+          "gyldigFra": "2000-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "cvrNummer": 24213714,
+        "sidstOpdateret": "2001-02-21T15:17:14.000+01:00"
+      }
+    ],
+    "attributter": [],
+    "deltager_relation": [],
+    "produktions_enhed_metadata": {
+      "nyesteNavn": {
+        "navn": "DELOITTE STATSAUTORISERET REVISIONSAKTIESELSKAB",
+        "periode": {
+          "gyldigFra": "2004-01-19",
+          "gyldigTil": "2011-10-13"
+        },
+        "sidstOpdateret": "2013-11-22T22:55:56.000+01:00"
+      },
+      "sammensatStatus": "Ophørt",
+      "nyesteBibranche1": null,
+      "nyesteBibranche2": null,
+      "nyesteBibranche3": null,
+      "nyesteHovedbranche": {
+        "periode": {
+          "gyldigFra": "2008-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "branchekode": "692000",
+        "branchetekst": "Bogføring og revision: skatterådgivning",
+        "sidstOpdateret": "2013-11-22T23:09:38.000+01:00"
+      },
+      "nyesteCvrNummerRelation": 24213714,
+      "nyesteAarsbeskaeftigelse": {
+        "aar": 2011,
+        "antalAnsatte": 0,
+        "antalAarsvaerk": 71,
+        "sidstOpdateret": "2013-07-18T15:28:42.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_0_0",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      "nyesteKontaktoplysninger": [
+        "89207000",
+        "silkeborg@deloitte.dk"
+      ],
+      "nyesteBeliggenhedsadresse": {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": "2007-01-01",
+            "gyldigTil": null
+          },
+          "kommuneKode": 740,
+          "kommuneNavn": "SILKEBORG",
+          "sidstOpdateret": "2006-11-13T00:00:00.000+01:00"
+        },
+        "periode": {
+          "gyldigFra": "2007-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "vejkode": 1348,
+        "vejnavn": "Papirfabrikken",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": "9466a9df-471f-47b4-bbc9-c32d64f5763e",
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": 8600,
+        "husnummerFra": 26,
+        "husnummerTil": null,
+        "postdistrikt": "Silkeborg",
+        "sidstOpdateret": "2013-11-22T23:32:58.000+01:00",
+        "sidstValideret": "2021-03-06T09:42:49.533+01:00"
+      },
+      "nyesteKvartalsbeskaeftigelse": null,
+      "nyesteErstMaanedsbeskaeftigelse": null
+    },
+    "samt_id": "8",
+    "fejl_registreret": false,
+    "data_adgang": "0",
+    "enheds_nummer": "17047",
+    "enhedstype": "PRODUKTIONSENHED",
+    "sidst_opdateret": "2013-11-22T22:32:58.000Z",
+    "fejl_ved_indlaesning": false,
+    "naermeste_fremtidige_dato": null,
+    "fejl_beskrivelse": null,
+    "virknings_aktoer": "BT",
+    "septima_hash86": "85CzpXJfao2/rGIkNozHlqqzIZa6rodDLRKlMQQLyIADHvGizWC0b5ceXrj6TFnBmQKNyIJClHafuhMqmGQUVg",
+    "septima_serial": "8"
+  },
+  {
+    "p_nummer": "1011804329",
+    "branche_ansvarskode": null,
+    "reklamebeskyttet": false,
+    "navne": [
+      {
+        "navn": "PRICEWATERHOUSECOOPERS            STATSAUT.REVISIONSAKTIESELSKAB",
+        "periode": {
+          "gyldigFra": "2005-10-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "sidstOpdateret": "2013-11-22T22:55:56.000+01:00"
+      }
+    ],
+    "postadresse": [],
+    "beliggenhedsadresse": [
+      {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": null,
+            "gyldigTil": "2006-12-31"
+          },
+          "kommuneKode": 667,
+          "kommuneNavn": "RINGKØBING",
+          "sidstOpdateret": "1999-10-15T00:00:00.000+02:00"
+        },
+        "periode": {
+          "gyldigFra": "2005-10-01",
+          "gyldigTil": "2006-12-31"
+        },
+        "vejkode": 3437,
+        "vejnavn": "I C Chr Alle",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": 6950,
+        "husnummerFra": 5,
+        "husnummerTil": null,
+        "postdistrikt": "Ringkøbing",
+        "sidstOpdateret": "2013-11-22T23:26:49.000+01:00",
+        "sidstValideret": null
+      },
+      {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": "2007-01-01",
+            "gyldigTil": null
+          },
+          "kommuneKode": 760,
+          "kommuneNavn": "RINGKØBING-SKJERN",
+          "sidstOpdateret": "2006-11-13T00:00:00.000+01:00"
+        },
+        "periode": {
+          "gyldigFra": "2007-01-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "vejkode": 904,
+        "vejnavn": "I C Chr Alle",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": "0a3f50be-9a59-32b8-e044-0003ba298018",
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": 6950,
+        "husnummerFra": 5,
+        "husnummerTil": null,
+        "postdistrikt": "Ringkøbing",
+        "sidstOpdateret": "2013-11-22T23:32:58.000+01:00",
+        "sidstValideret": "2021-03-04T08:51:05.072+01:00"
+      }
+    ],
+    "telefon_nummer": [],
+    "telefax_nummer": [],
+    "elektronisk_post": [],
+    "livsforloeb": [
+      {
+        "periode": {
+          "gyldigFra": "2005-10-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "sidstOpdateret": "2005-11-07T10:42:00.000+01:00"
+      }
+    ],
+    "hovedbranche": [
+      {
+        "periode": {
+          "gyldigFra": "2005-10-01",
+          "gyldigTil": "2007-12-31"
+        },
+        "branchekode": "741200",
+        "branchetekst": "Revisions- og bogføringsvirksomhed",
+        "sidstOpdateret": "2013-11-22T23:05:42.000+01:00"
+      },
+      {
+        "periode": {
+          "gyldigFra": "2008-01-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "branchekode": "692000",
+        "branchetekst": "Bogføring og revision: skatterådgivning",
+        "sidstOpdateret": "2013-11-22T23:09:38.000+01:00"
+      }
+    ],
+    "bibranche1": [],
+    "bibranche2": [],
+    "bibranche3": [],
+    "aarsbeskaeftigelse": [
+      {
+        "aar": 2005,
+        "antalAnsatte": 11,
+        "antalAarsvaerk": 1,
+        "sidstOpdateret": "2007-07-18T16:00:05.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_10_19",
+        "intervalKodeAntalAarsvaerk": "ANTAL_1_1",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2006,
+        "antalAnsatte": 13,
+        "antalAarsvaerk": 10,
+        "sidstOpdateret": "2008-10-03T14:52:37.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_10_19",
+        "intervalKodeAntalAarsvaerk": "ANTAL_10_19",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2007,
+        "antalAnsatte": 12,
+        "antalAarsvaerk": 10,
+        "sidstOpdateret": "2009-09-08T15:00:53.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_10_19",
+        "intervalKodeAntalAarsvaerk": "ANTAL_10_19",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2008,
+        "antalAnsatte": 13,
+        "antalAarsvaerk": 11,
+        "sidstOpdateret": "2010-09-23T14:53:22.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_10_19",
+        "intervalKodeAntalAarsvaerk": "ANTAL_10_19",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2011,
+        "antalAnsatte": 0,
+        "antalAarsvaerk": 5,
+        "sidstOpdateret": "2013-07-18T15:31:27.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_0_0",
+        "intervalKodeAntalAarsvaerk": "ANTAL_5_9",
+        "intervalKodeAntalInklusivEjere": null
+      }
+    ],
+    "kvartalsbeskaeftigelse": [],
+    "erst_maanedsbeskaeftigelse": [],
+    "virksomhedsrelation": [
+      {
+        "periode": {
+          "gyldigFra": "2005-10-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "cvrNummer": 16994294,
+        "sidstOpdateret": "2005-11-07T10:42:00.000+01:00"
+      }
+    ],
+    "attributter": [],
+    "deltager_relation": [],
+    "produktions_enhed_metadata": {
+      "nyesteNavn": {
+        "navn": "PRICEWATERHOUSECOOPERS            STATSAUT.REVISIONSAKTIESELSKAB",
+        "periode": {
+          "gyldigFra": "2005-10-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "sidstOpdateret": "2013-11-22T22:55:56.000+01:00"
+      },
+      "sammensatStatus": "Ophørt",
+      "nyesteBibranche1": null,
+      "nyesteBibranche2": null,
+      "nyesteBibranche3": null,
+      "nyesteHovedbranche": {
+        "periode": {
+          "gyldigFra": "2008-01-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "branchekode": "692000",
+        "branchetekst": "Bogføring og revision: skatterådgivning",
+        "sidstOpdateret": "2013-11-22T23:09:38.000+01:00"
+      },
+      "nyesteCvrNummerRelation": 16994294,
+      "nyesteAarsbeskaeftigelse": {
+        "aar": 2011,
+        "antalAnsatte": 0,
+        "antalAarsvaerk": 5,
+        "sidstOpdateret": "2013-07-18T15:31:27.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_0_0",
+        "intervalKodeAntalAarsvaerk": "ANTAL_5_9",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      "nyesteKontaktoplysninger": [],
+      "nyesteBeliggenhedsadresse": {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": "2007-01-01",
+            "gyldigTil": null
+          },
+          "kommuneKode": 760,
+          "kommuneNavn": "RINGKØBING-SKJERN",
+          "sidstOpdateret": "2006-11-13T00:00:00.000+01:00"
+        },
+        "periode": {
+          "gyldigFra": "2007-01-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "vejkode": 904,
+        "vejnavn": "I C Chr Alle",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": "0a3f50be-9a59-32b8-e044-0003ba298018",
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": 6950,
+        "husnummerFra": 5,
+        "husnummerTil": null,
+        "postdistrikt": "Ringkøbing",
+        "sidstOpdateret": "2013-11-22T23:32:58.000+01:00",
+        "sidstValideret": "2021-03-04T08:51:05.072+01:00"
+      },
+      "nyesteKvartalsbeskaeftigelse": null,
+      "nyesteErstMaanedsbeskaeftigelse": null
+    },
+    "samt_id": "6",
+    "fejl_registreret": false,
+    "data_adgang": "0",
+    "enheds_nummer": "17136",
+    "enhedstype": "PRODUKTIONSENHED",
+    "sidst_opdateret": "2013-11-22T22:32:58.000Z",
+    "fejl_ved_indlaesning": false,
+    "naermeste_fremtidige_dato": null,
+    "fejl_beskrivelse": null,
+    "virknings_aktoer": "BT",
+    "septima_hash86": "Of1QXLSlipEJryM9NrEu+JrdSeyXsKQUXyhfdzs1n0On4/7UFAsmU9o0ljayuzLPtLdbxgR/9bVWuTnBkmbsGQ",
+    "septima_serial": "9"
+  },
+  {
+    "p_nummer": "1007315372",
+    "branche_ansvarskode": null,
+    "reklamebeskyttet": false,
+    "navne": [
+      {
+        "navn": "DELOITTE & TOUCHE",
+        "periode": {
+          "gyldigFra": "1991-01-01",
+          "gyldigTil": "2004-01-18"
+        },
+        "sidstOpdateret": "2013-11-22T22:52:26.000+01:00"
+      },
+      {
+        "navn": "DELOITTE STATSAUTORISERET REVISIONSAKTIESELSKAB",
+        "periode": {
+          "gyldigFra": "2004-01-19",
+          "gyldigTil": "2011-10-13"
+        },
+        "sidstOpdateret": "2013-11-22T22:55:56.000+01:00"
+      }
+    ],
+    "postadresse": [],
+    "beliggenhedsadresse": [
+      {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": "2007-01-01",
+            "gyldigTil": null
+          },
+          "kommuneKode": 851,
+          "kommuneNavn": "AALBORG",
+          "sidstOpdateret": "2006-11-13T00:00:00.000+01:00"
+        },
+        "periode": {
+          "gyldigFra": "1991-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "vejkode": 2827,
+        "vejnavn": "Gøteborgvej",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": "251b2b1e-7b03-4488-9505-2f054b428700",
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": 9200,
+        "husnummerFra": 18,
+        "husnummerTil": null,
+        "postdistrikt": "Aalborg SV",
+        "sidstOpdateret": "2013-11-22T23:32:58.000+01:00",
+        "sidstValideret": "2021-03-04T00:03:27.817+01:00"
+      }
+    ],
+    "telefon_nummer": [
+      {
+        "periode": {
+          "gyldigFra": "2004-06-08",
+          "gyldigTil": "2011-10-13"
+        },
+        "hemmelig": false,
+        "sidstOpdateret": "2013-11-22T23:01:39.000+01:00",
+        "kontaktoplysning": "98185233"
+      }
+    ],
+    "telefax_nummer": [
+      {
+        "periode": {
+          "gyldigFra": "2002-01-23",
+          "gyldigTil": "2004-02-23"
+        },
+        "hemmelig": false,
+        "sidstOpdateret": "2002-01-25T19:36:00.000+01:00",
+        "kontaktoplysning": "98796001"
+      }
+    ],
+    "elektronisk_post": [
+      {
+        "periode": {
+          "gyldigFra": "2002-09-18",
+          "gyldigTil": "2011-10-13"
+        },
+        "hemmelig": false,
+        "sidstOpdateret": "2013-11-22T23:01:39.000+01:00",
+        "kontaktoplysning": "aalborg@deloitte.dk"
+      }
+    ],
+    "livsforloeb": [
+      {
+        "periode": {
+          "gyldigFra": "1991-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "sidstOpdateret": "2000-01-04T11:49:28.000+01:00"
+      }
+    ],
+    "hovedbranche": [
+      {
+        "periode": {
+          "gyldigFra": "1991-01-01",
+          "gyldigTil": "2007-12-31"
+        },
+        "branchekode": "741200",
+        "branchetekst": "Revisions- og bogføringsvirksomhed",
+        "sidstOpdateret": "2013-11-22T23:05:42.000+01:00"
+      },
+      {
+        "periode": {
+          "gyldigFra": "2008-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "branchekode": "692000",
+        "branchetekst": "Bogføring og revision: skatterådgivning",
+        "sidstOpdateret": "2013-11-22T23:09:38.000+01:00"
+      }
+    ],
+    "bibranche1": [],
+    "bibranche2": [],
+    "bibranche3": [],
+    "aarsbeskaeftigelse": [
+      {
+        "aar": 2000,
+        "antalAnsatte": 75,
+        "antalAarsvaerk": 72,
+        "sidstOpdateret": "2002-06-04T20:16:50.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2001,
+        "antalAnsatte": 80,
+        "antalAarsvaerk": 75,
+        "sidstOpdateret": "2003-05-19T20:23:25.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2002,
+        "antalAnsatte": 76,
+        "antalAarsvaerk": 78,
+        "sidstOpdateret": "2004-06-25T20:37:15.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2003,
+        "antalAnsatte": 78,
+        "antalAarsvaerk": 74,
+        "sidstOpdateret": "2005-12-02T20:37:54.000+01:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2004,
+        "antalAnsatte": 78,
+        "antalAarsvaerk": 72,
+        "sidstOpdateret": "2006-05-18T19:51:10.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2005,
+        "antalAnsatte": 74,
+        "antalAarsvaerk": 72,
+        "sidstOpdateret": "2007-07-18T15:55:57.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2006,
+        "antalAnsatte": 76,
+        "antalAarsvaerk": 73,
+        "sidstOpdateret": "2008-10-03T14:52:01.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2007,
+        "antalAnsatte": 80,
+        "antalAarsvaerk": 72,
+        "sidstOpdateret": "2009-09-08T14:58:45.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2008,
+        "antalAnsatte": 89,
+        "antalAarsvaerk": 81,
+        "sidstOpdateret": "2010-09-23T14:51:46.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2011,
+        "antalAnsatte": 0,
+        "antalAarsvaerk": 54,
+        "sidstOpdateret": "2013-07-18T15:27:57.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_0_0",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      }
+    ],
+    "kvartalsbeskaeftigelse": [],
+    "erst_maanedsbeskaeftigelse": [],
+    "virksomhedsrelation": [
+      {
+        "periode": {
+          "gyldigFra": "1991-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "cvrNummer": 24213714,
+        "sidstOpdateret": "2000-01-04T11:49:28.000+01:00"
+      }
+    ],
+    "attributter": [],
+    "deltager_relation": [],
+    "produktions_enhed_metadata": {
+      "nyesteNavn": {
+        "navn": "DELOITTE STATSAUTORISERET REVISIONSAKTIESELSKAB",
+        "periode": {
+          "gyldigFra": "2004-01-19",
+          "gyldigTil": "2011-10-13"
+        },
+        "sidstOpdateret": "2013-11-22T22:55:56.000+01:00"
+      },
+      "sammensatStatus": "Ophørt",
+      "nyesteBibranche1": null,
+      "nyesteBibranche2": null,
+      "nyesteBibranche3": null,
+      "nyesteHovedbranche": {
+        "periode": {
+          "gyldigFra": "2008-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "branchekode": "692000",
+        "branchetekst": "Bogføring og revision: skatterådgivning",
+        "sidstOpdateret": "2013-11-22T23:09:38.000+01:00"
+      },
+      "nyesteCvrNummerRelation": 24213714,
+      "nyesteAarsbeskaeftigelse": {
+        "aar": 2011,
+        "antalAnsatte": 0,
+        "antalAarsvaerk": 54,
+        "sidstOpdateret": "2013-07-18T15:27:57.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_0_0",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      "nyesteKontaktoplysninger": [
+        "98185233",
+        "aalborg@deloitte.dk"
+      ],
+      "nyesteBeliggenhedsadresse": {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": "2007-01-01",
+            "gyldigTil": null
+          },
+          "kommuneKode": 851,
+          "kommuneNavn": "AALBORG",
+          "sidstOpdateret": "2006-11-13T00:00:00.000+01:00"
+        },
+        "periode": {
+          "gyldigFra": "1991-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "vejkode": 2827,
+        "vejnavn": "Gøteborgvej",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": "251b2b1e-7b03-4488-9505-2f054b428700",
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": 9200,
+        "husnummerFra": 18,
+        "husnummerTil": null,
+        "postdistrikt": "Aalborg SV",
+        "sidstOpdateret": "2013-11-22T23:32:58.000+01:00",
+        "sidstValideret": "2021-03-04T00:03:27.817+01:00"
+      },
+      "nyesteKvartalsbeskaeftigelse": null,
+      "nyesteErstMaanedsbeskaeftigelse": null
+    },
+    "samt_id": "6",
+    "fejl_registreret": false,
+    "data_adgang": "0",
+    "enheds_nummer": "39806",
+    "enhedstype": "PRODUKTIONSENHED",
+    "sidst_opdateret": "2013-11-22T22:32:58.000Z",
+    "fejl_ved_indlaesning": false,
+    "naermeste_fremtidige_dato": null,
+    "fejl_beskrivelse": null,
+    "virknings_aktoer": "BT",
+    "septima_hash86": "hQitTv3o9bIbBqCAgg+AlsVlPwum5849WJuwEAhDDm4CqPqafY7dTY1fUPlJ2wY1GhZhrIQeY5+p6YOzuB0VVg",
+    "septima_serial": "10"
+  },
+  {
+    "p_nummer": "1010321766",
+    "branche_ansvarskode": null,
+    "reklamebeskyttet": false,
+    "navne": [
+      {
+        "navn": "PRICE WATERHOUSE/SEIER-PETERSEN   STATSAUT. REVISIONSAKTIESELSKAB",
+        "periode": {
+          "gyldigFra": "2003-01-01",
+          "gyldigTil": "2003-12-31"
+        },
+        "sidstOpdateret": "2013-11-22T22:52:26.000+01:00"
+      },
+      {
+        "navn": "PRICEWATERHOUSECOOPERS            STATSAUT. REVISIONSAKTIESELSKAB",
+        "periode": {
+          "gyldigFra": "2004-01-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "sidstOpdateret": "2013-11-22T22:55:56.000+01:00"
+      }
+    ],
+    "postadresse": [],
+    "beliggenhedsadresse": [
+      {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": null,
+            "gyldigTil": "2006-12-31"
+          },
+          "kommuneKode": 373,
+          "kommuneNavn": "NÆSTVED",
+          "sidstOpdateret": "1999-10-15T00:00:00.000+02:00"
+        },
+        "periode": {
+          "gyldigFra": "2003-01-01",
+          "gyldigTil": "2006-12-31"
+        },
+        "vejkode": 8933,
+        "vejnavn": "Toldbuen",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": 4700,
+        "husnummerFra": 1,
+        "husnummerTil": null,
+        "postdistrikt": "Næstved",
+        "sidstOpdateret": "2013-11-22T23:26:49.000+01:00",
+        "sidstValideret": null
+      },
+      {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": "2007-01-01",
+            "gyldigTil": null
+          },
+          "kommuneKode": 370,
+          "kommuneNavn": "NÆSTVED",
+          "sidstOpdateret": "2006-11-13T00:00:00.000+01:00"
+        },
+        "periode": {
+          "gyldigFra": "2007-01-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "vejkode": 1737,
+        "vejnavn": "Toldbuen",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": "0a3f50b0-cc77-32b8-e044-0003ba298018",
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": 4700,
+        "husnummerFra": 1,
+        "husnummerTil": null,
+        "postdistrikt": "Næstved",
+        "sidstOpdateret": "2013-11-22T23:32:58.000+01:00",
+        "sidstValideret": "2021-03-05T11:31:07.216+01:00"
+      }
+    ],
+    "telefon_nummer": [],
+    "telefax_nummer": [],
+    "elektronisk_post": [],
+    "livsforloeb": [
+      {
+        "periode": {
+          "gyldigFra": "2003-01-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "sidstOpdateret": "2004-01-15T16:11:06.000+01:00"
+      }
+    ],
+    "hovedbranche": [
+      {
+        "periode": {
+          "gyldigFra": "2003-01-01",
+          "gyldigTil": "2005-09-30"
+        },
+        "branchekode": "741500",
+        "branchetekst": "Ikke-finansielle holdingselskaber",
+        "sidstOpdateret": "2013-11-22T23:05:42.000+01:00"
+      },
+      {
+        "periode": {
+          "gyldigFra": "2005-10-01",
+          "gyldigTil": "2007-12-31"
+        },
+        "branchekode": "741200",
+        "branchetekst": "Revisions- og bogføringsvirksomhed",
+        "sidstOpdateret": "2005-11-07T12:34:36.000+01:00"
+      },
+      {
+        "periode": {
+          "gyldigFra": "2008-01-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "branchekode": "692000",
+        "branchetekst": "Bogføring og revision: skatterådgivning",
+        "sidstOpdateret": "2013-11-22T23:09:38.000+01:00"
+      }
+    ],
+    "bibranche1": [],
+    "bibranche2": [],
+    "bibranche3": [],
+    "aarsbeskaeftigelse": [
+      {
+        "aar": 2003,
+        "antalAnsatte": 1,
+        "antalAarsvaerk": 1,
+        "sidstOpdateret": "2005-12-02T20:38:49.000+01:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_1_1",
+        "intervalKodeAntalAarsvaerk": "ANTAL_1_1",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2004,
+        "antalAnsatte": 1,
+        "antalAarsvaerk": 1,
+        "sidstOpdateret": "2006-05-18T19:52:24.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_1_1",
+        "intervalKodeAntalAarsvaerk": "ANTAL_1_1",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2005,
+        "antalAnsatte": 65,
+        "antalAarsvaerk": 13,
+        "sidstOpdateret": "2007-07-18T15:58:29.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_10_19",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2006,
+        "antalAnsatte": 93,
+        "antalAarsvaerk": 87,
+        "sidstOpdateret": "2008-10-03T14:55:36.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2007,
+        "antalAnsatte": 109,
+        "antalAarsvaerk": 100,
+        "sidstOpdateret": "2009-09-08T15:00:26.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_100_199",
+        "intervalKodeAntalAarsvaerk": "ANTAL_100_199",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2008,
+        "antalAnsatte": 108,
+        "antalAarsvaerk": 103,
+        "sidstOpdateret": "2010-09-23T14:53:00.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_100_199",
+        "intervalKodeAntalAarsvaerk": "ANTAL_100_199",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2011,
+        "antalAnsatte": 0,
+        "antalAarsvaerk": 35,
+        "sidstOpdateret": "2013-07-18T15:30:25.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_0_0",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      }
+    ],
+    "kvartalsbeskaeftigelse": [],
+    "erst_maanedsbeskaeftigelse": [],
+    "virksomhedsrelation": [
+      {
+        "periode": {
+          "gyldigFra": "2003-01-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "cvrNummer": 16994294,
+        "sidstOpdateret": "2004-01-15T16:11:06.000+01:00"
+      }
+    ],
+    "attributter": [],
+    "deltager_relation": [],
+    "produktions_enhed_metadata": {
+      "nyesteNavn": {
+        "navn": "PRICEWATERHOUSECOOPERS            STATSAUT. REVISIONSAKTIESELSKAB",
+        "periode": {
+          "gyldigFra": "2004-01-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "sidstOpdateret": "2013-11-22T22:55:56.000+01:00"
+      },
+      "sammensatStatus": "Ophørt",
+      "nyesteBibranche1": null,
+      "nyesteBibranche2": null,
+      "nyesteBibranche3": null,
+      "nyesteHovedbranche": {
+        "periode": {
+          "gyldigFra": "2008-01-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "branchekode": "692000",
+        "branchetekst": "Bogføring og revision: skatterådgivning",
+        "sidstOpdateret": "2013-11-22T23:09:38.000+01:00"
+      },
+      "nyesteCvrNummerRelation": 16994294,
+      "nyesteAarsbeskaeftigelse": {
+        "aar": 2011,
+        "antalAnsatte": 0,
+        "antalAarsvaerk": 35,
+        "sidstOpdateret": "2013-07-18T15:30:25.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_0_0",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      "nyesteKontaktoplysninger": [],
+      "nyesteBeliggenhedsadresse": {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": "2007-01-01",
+            "gyldigTil": null
+          },
+          "kommuneKode": 370,
+          "kommuneNavn": "NÆSTVED",
+          "sidstOpdateret": "2006-11-13T00:00:00.000+01:00"
+        },
+        "periode": {
+          "gyldigFra": "2007-01-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "vejkode": 1737,
+        "vejnavn": "Toldbuen",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": "0a3f50b0-cc77-32b8-e044-0003ba298018",
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": 4700,
+        "husnummerFra": 1,
+        "husnummerTil": null,
+        "postdistrikt": "Næstved",
+        "sidstOpdateret": "2013-11-22T23:32:58.000+01:00",
+        "sidstValideret": "2021-03-05T11:31:07.216+01:00"
+      },
+      "nyesteKvartalsbeskaeftigelse": null,
+      "nyesteErstMaanedsbeskaeftigelse": null
+    },
+    "samt_id": "9",
+    "fejl_registreret": false,
+    "data_adgang": "0",
+    "enheds_nummer": "51265",
+    "enhedstype": "PRODUKTIONSENHED",
+    "sidst_opdateret": "2013-11-22T22:32:58.000Z",
+    "fejl_ved_indlaesning": false,
+    "naermeste_fremtidige_dato": null,
+    "fejl_beskrivelse": null,
+    "virknings_aktoer": "BT",
+    "septima_hash86": "AATUQ8F3BQoEH0wSaWXVtdbPUSLNd64GBRO8QFWhKsCN0+RWt8ae5V+nekQYeb5bhTPKHjZf6diuaQau82JHQg",
+    "septima_serial": "11"
+  },
+  {
+    "p_nummer": "1007316387",
+    "branche_ansvarskode": null,
+    "reklamebeskyttet": false,
+    "navne": [
+      {
+        "navn": "DELOITTE & TOUCHE",
+        "periode": {
+          "gyldigFra": "1984-01-01",
+          "gyldigTil": "2004-01-18"
+        },
+        "sidstOpdateret": "2013-11-22T22:52:26.000+01:00"
+      },
+      {
+        "navn": "DELOITTE STATSAUTORISERET REVISIONSAKTIESELSKAB",
+        "periode": {
+          "gyldigFra": "2004-01-19",
+          "gyldigTil": "2011-10-13"
+        },
+        "sidstOpdateret": "2013-11-22T22:55:56.000+01:00"
+      }
+    ],
+    "postadresse": [],
+    "beliggenhedsadresse": [
+      {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": "2007-01-01",
+            "gyldigTil": null
+          },
+          "kommuneKode": 751,
+          "kommuneNavn": "AARHUS",
+          "sidstOpdateret": "2014-05-27T20:00:54.000+02:00"
+        },
+        "periode": {
+          "gyldigFra": "1984-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "vejkode": 9655,
+        "vejnavn": "Åboulevarden",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": "aaedc87e-602a-46a8-ab83-b4326ce331e5",
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": 8000,
+        "husnummerFra": 31,
+        "husnummerTil": null,
+        "postdistrikt": "Århus C",
+        "sidstOpdateret": "2013-11-22T23:32:58.000+01:00",
+        "sidstValideret": "2021-03-07T06:34:42.309+01:00"
+      }
+    ],
+    "telefon_nummer": [
+      {
+        "periode": {
+          "gyldigFra": "2000-01-23",
+          "gyldigTil": "2011-10-13"
+        },
+        "hemmelig": false,
+        "sidstOpdateret": "2013-11-22T23:01:39.000+01:00",
+        "kontaktoplysning": "89414141"
+      }
+    ],
+    "telefax_nummer": [
+      {
+        "periode": {
+          "gyldigFra": "2000-01-23",
+          "gyldigTil": "2004-02-23"
+        },
+        "hemmelig": false,
+        "sidstOpdateret": "2000-04-01T16:27:29.000+02:00",
+        "kontaktoplysning": "89414243"
+      },
+      {
+        "periode": {
+          "gyldigFra": "2004-06-08",
+          "gyldigTil": "2011-10-13"
+        },
+        "hemmelig": false,
+        "sidstOpdateret": "2013-11-22T23:01:39.000+01:00",
+        "kontaktoplysning": "89414243"
+      }
+    ],
+    "elektronisk_post": [
+      {
+        "periode": {
+          "gyldigFra": "2002-09-18",
+          "gyldigTil": "2011-10-13"
+        },
+        "hemmelig": false,
+        "sidstOpdateret": "2013-11-22T23:01:39.000+01:00",
+        "kontaktoplysning": "aarhus@deloitte.dk"
+      }
+    ],
+    "livsforloeb": [
+      {
+        "periode": {
+          "gyldigFra": "1984-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "sidstOpdateret": "2000-01-04T13:08:23.000+01:00"
+      }
+    ],
+    "hovedbranche": [
+      {
+        "periode": {
+          "gyldigFra": "1984-01-01",
+          "gyldigTil": "2000-01-03"
+        },
+        "branchekode": "980000",
+        "branchetekst": "Uoplyst",
+        "sidstOpdateret": "2013-11-22T23:05:42.000+01:00"
+      },
+      {
+        "periode": {
+          "gyldigFra": "2000-01-04",
+          "gyldigTil": "2007-12-31"
+        },
+        "branchekode": "741200",
+        "branchetekst": "Revisions- og bogføringsvirksomhed",
+        "sidstOpdateret": "2000-01-04T13:10:50.000+01:00"
+      },
+      {
+        "periode": {
+          "gyldigFra": "2008-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "branchekode": "692000",
+        "branchetekst": "Bogføring og revision: skatterådgivning",
+        "sidstOpdateret": "2013-11-22T23:09:38.000+01:00"
+      }
+    ],
+    "bibranche1": [],
+    "bibranche2": [],
+    "bibranche3": [],
+    "aarsbeskaeftigelse": [
+      {
+        "aar": 2000,
+        "antalAnsatte": 95,
+        "antalAarsvaerk": 87,
+        "sidstOpdateret": "2002-06-04T20:00:39.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2001,
+        "antalAnsatte": 99,
+        "antalAarsvaerk": 92,
+        "sidstOpdateret": "2003-05-19T20:06:33.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2002,
+        "antalAnsatte": 154,
+        "antalAarsvaerk": 125,
+        "sidstOpdateret": "2004-06-25T20:37:15.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_100_199",
+        "intervalKodeAntalAarsvaerk": "ANTAL_100_199",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2003,
+        "antalAnsatte": 159,
+        "antalAarsvaerk": 151,
+        "sidstOpdateret": "2005-12-02T20:37:54.000+01:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_100_199",
+        "intervalKodeAntalAarsvaerk": "ANTAL_100_199",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2004,
+        "antalAnsatte": 147,
+        "antalAarsvaerk": 143,
+        "sidstOpdateret": "2006-05-18T19:51:10.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_100_199",
+        "intervalKodeAntalAarsvaerk": "ANTAL_100_199",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2005,
+        "antalAnsatte": 143,
+        "antalAarsvaerk": 137,
+        "sidstOpdateret": "2007-07-18T15:55:57.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_100_199",
+        "intervalKodeAntalAarsvaerk": "ANTAL_100_199",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2006,
+        "antalAnsatte": 155,
+        "antalAarsvaerk": 139,
+        "sidstOpdateret": "2008-10-03T14:52:01.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_100_199",
+        "intervalKodeAntalAarsvaerk": "ANTAL_100_199",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2007,
+        "antalAnsatte": 170,
+        "antalAarsvaerk": 155,
+        "sidstOpdateret": "2009-09-08T14:58:47.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_100_199",
+        "intervalKodeAntalAarsvaerk": "ANTAL_100_199",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2008,
+        "antalAnsatte": 174,
+        "antalAarsvaerk": 161,
+        "sidstOpdateret": "2010-09-23T14:51:46.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_100_199",
+        "intervalKodeAntalAarsvaerk": "ANTAL_100_199",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2011,
+        "antalAnsatte": 0,
+        "antalAarsvaerk": 116,
+        "sidstOpdateret": "2013-07-18T15:27:57.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_0_0",
+        "intervalKodeAntalAarsvaerk": "ANTAL_100_199",
+        "intervalKodeAntalInklusivEjere": null
+      }
+    ],
+    "kvartalsbeskaeftigelse": [],
+    "erst_maanedsbeskaeftigelse": [],
+    "virksomhedsrelation": [
+      {
+        "periode": {
+          "gyldigFra": "1984-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "cvrNummer": 24213714,
+        "sidstOpdateret": "2000-01-04T13:08:23.000+01:00"
+      }
+    ],
+    "attributter": [],
+    "deltager_relation": [],
+    "produktions_enhed_metadata": {
+      "nyesteNavn": {
+        "navn": "DELOITTE STATSAUTORISERET REVISIONSAKTIESELSKAB",
+        "periode": {
+          "gyldigFra": "2004-01-19",
+          "gyldigTil": "2011-10-13"
+        },
+        "sidstOpdateret": "2013-11-22T22:55:56.000+01:00"
+      },
+      "sammensatStatus": "Ophørt",
+      "nyesteBibranche1": null,
+      "nyesteBibranche2": null,
+      "nyesteBibranche3": null,
+      "nyesteHovedbranche": {
+        "periode": {
+          "gyldigFra": "2008-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "branchekode": "692000",
+        "branchetekst": "Bogføring og revision: skatterådgivning",
+        "sidstOpdateret": "2013-11-22T23:09:38.000+01:00"
+      },
+      "nyesteCvrNummerRelation": 24213714,
+      "nyesteAarsbeskaeftigelse": {
+        "aar": 2011,
+        "antalAnsatte": 0,
+        "antalAarsvaerk": 116,
+        "sidstOpdateret": "2013-07-18T15:27:57.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_0_0",
+        "intervalKodeAntalAarsvaerk": "ANTAL_100_199",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      "nyesteKontaktoplysninger": [
+        "89414141",
+        "89414243",
+        "aarhus@deloitte.dk"
+      ],
+      "nyesteBeliggenhedsadresse": {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": "2007-01-01",
+            "gyldigTil": null
+          },
+          "kommuneKode": 751,
+          "kommuneNavn": "AARHUS",
+          "sidstOpdateret": "2014-05-27T20:00:54.000+02:00"
+        },
+        "periode": {
+          "gyldigFra": "1984-01-01",
+          "gyldigTil": "2011-10-13"
+        },
+        "vejkode": 9655,
+        "vejnavn": "Åboulevarden",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": "aaedc87e-602a-46a8-ab83-b4326ce331e5",
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": 8000,
+        "husnummerFra": 31,
+        "husnummerTil": null,
+        "postdistrikt": "Århus C",
+        "sidstOpdateret": "2013-11-22T23:32:58.000+01:00",
+        "sidstValideret": "2021-03-07T06:34:42.309+01:00"
+      },
+      "nyesteKvartalsbeskaeftigelse": null,
+      "nyesteErstMaanedsbeskaeftigelse": null
+    },
+    "samt_id": "8",
+    "fejl_registreret": false,
+    "data_adgang": "0",
+    "enheds_nummer": "82323",
+    "enhedstype": "PRODUKTIONSENHED",
+    "sidst_opdateret": "2014-05-27T18:00:54.000Z",
+    "fejl_ved_indlaesning": false,
+    "naermeste_fremtidige_dato": null,
+    "fejl_beskrivelse": null,
+    "virknings_aktoer": "BT",
+    "septima_hash86": "MSlFWUI1q2sC19YbIpKv7dwPUD6WVfsGWmnj+ybmjCUn8uGdd/WsJrUPNfa5MYYRN9ToHCreJCf+p+4NHauPog",
+    "septima_serial": "12"
+  },
+  {
+    "p_nummer": "1011804450",
+    "branche_ansvarskode": null,
+    "reklamebeskyttet": false,
+    "navne": [
+      {
+        "navn": "PRICEWATERHOUSECOOPERS            STATSAUT.REVISIONSAKTIESELSKAB",
+        "periode": {
+          "gyldigFra": "2005-10-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "sidstOpdateret": "2013-11-22T22:55:56.000+01:00"
+      }
+    ],
+    "postadresse": [],
+    "beliggenhedsadresse": [
+      {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": "2007-01-01",
+            "gyldigTil": null
+          },
+          "kommuneKode": 661,
+          "kommuneNavn": "HOLSTEBRO",
+          "sidstOpdateret": "2006-11-13T00:00:00.000+01:00"
+        },
+        "periode": {
+          "gyldigFra": "2005-10-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "vejkode": 2531,
+        "vejnavn": "Hjaltesvej",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": "eb8acf5e-e525-48e7-a836-5847f8068477",
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": 7500,
+        "husnummerFra": 16,
+        "husnummerTil": null,
+        "postdistrikt": "Holstebro",
+        "sidstOpdateret": "2013-11-22T23:32:58.000+01:00",
+        "sidstValideret": "2021-03-03T16:28:03.414+01:00"
+      }
+    ],
+    "telefon_nummer": [],
+    "telefax_nummer": [],
+    "elektronisk_post": [],
+    "livsforloeb": [
+      {
+        "periode": {
+          "gyldigFra": "2005-10-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "sidstOpdateret": "2005-11-07T10:46:46.000+01:00"
+      }
+    ],
+    "hovedbranche": [
+      {
+        "periode": {
+          "gyldigFra": "2005-10-01",
+          "gyldigTil": "2007-12-31"
+        },
+        "branchekode": "741200",
+        "branchetekst": "Revisions- og bogføringsvirksomhed",
+        "sidstOpdateret": "2013-11-22T23:05:42.000+01:00"
+      },
+      {
+        "periode": {
+          "gyldigFra": "2008-01-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "branchekode": "692000",
+        "branchetekst": "Bogføring og revision: skatterådgivning",
+        "sidstOpdateret": "2013-11-22T23:09:38.000+01:00"
+      }
+    ],
+    "bibranche1": [],
+    "bibranche2": [],
+    "bibranche3": [],
+    "aarsbeskaeftigelse": [
+      {
+        "aar": 2005,
+        "antalAnsatte": 62,
+        "antalAarsvaerk": 11,
+        "sidstOpdateret": "2007-07-18T16:00:05.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_10_19",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2006,
+        "antalAnsatte": 65,
+        "antalAarsvaerk": 62,
+        "sidstOpdateret": "2008-10-03T14:52:37.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2007,
+        "antalAnsatte": 71,
+        "antalAarsvaerk": 66,
+        "sidstOpdateret": "2009-09-08T15:00:53.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2008,
+        "antalAnsatte": 72,
+        "antalAarsvaerk": 70,
+        "sidstOpdateret": "2010-09-23T14:53:22.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_50_99",
+        "intervalKodeAntalAarsvaerk": "ANTAL_50_99",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2011,
+        "antalAnsatte": 0,
+        "antalAarsvaerk": 29,
+        "sidstOpdateret": "2013-07-18T15:31:27.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_0_0",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      }
+    ],
+    "kvartalsbeskaeftigelse": [],
+    "erst_maanedsbeskaeftigelse": [],
+    "virksomhedsrelation": [
+      {
+        "periode": {
+          "gyldigFra": "2005-10-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "cvrNummer": 16994294,
+        "sidstOpdateret": "2005-11-07T10:46:46.000+01:00"
+      }
+    ],
+    "attributter": [],
+    "deltager_relation": [],
+    "produktions_enhed_metadata": {
+      "nyesteNavn": {
+        "navn": "PRICEWATERHOUSECOOPERS            STATSAUT.REVISIONSAKTIESELSKAB",
+        "periode": {
+          "gyldigFra": "2005-10-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "sidstOpdateret": "2013-11-22T22:55:56.000+01:00"
+      },
+      "sammensatStatus": "Ophørt",
+      "nyesteBibranche1": null,
+      "nyesteBibranche2": null,
+      "nyesteBibranche3": null,
+      "nyesteHovedbranche": {
+        "periode": {
+          "gyldigFra": "2008-01-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "branchekode": "692000",
+        "branchetekst": "Bogføring og revision: skatterådgivning",
+        "sidstOpdateret": "2013-11-22T23:09:38.000+01:00"
+      },
+      "nyesteCvrNummerRelation": 16994294,
+      "nyesteAarsbeskaeftigelse": {
+        "aar": 2011,
+        "antalAnsatte": 0,
+        "antalAarsvaerk": 29,
+        "sidstOpdateret": "2013-07-18T15:31:27.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_0_0",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      "nyesteKontaktoplysninger": [],
+      "nyesteBeliggenhedsadresse": {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": "2007-01-01",
+            "gyldigTil": null
+          },
+          "kommuneKode": 661,
+          "kommuneNavn": "HOLSTEBRO",
+          "sidstOpdateret": "2006-11-13T00:00:00.000+01:00"
+        },
+        "periode": {
+          "gyldigFra": "2005-10-01",
+          "gyldigTil": "2011-09-30"
+        },
+        "vejkode": 2531,
+        "vejnavn": "Hjaltesvej",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": "eb8acf5e-e525-48e7-a836-5847f8068477",
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": 7500,
+        "husnummerFra": 16,
+        "husnummerTil": null,
+        "postdistrikt": "Holstebro",
+        "sidstOpdateret": "2013-11-22T23:32:58.000+01:00",
+        "sidstValideret": "2021-03-03T16:28:03.414+01:00"
+      },
+      "nyesteKvartalsbeskaeftigelse": null,
+      "nyesteErstMaanedsbeskaeftigelse": null
+    },
+    "samt_id": "5",
+    "fejl_registreret": false,
+    "data_adgang": "0",
+    "enheds_nummer": "124419",
+    "enhedstype": "PRODUKTIONSENHED",
+    "sidst_opdateret": "2013-11-22T22:32:58.000Z",
+    "fejl_ved_indlaesning": false,
+    "naermeste_fremtidige_dato": null,
+    "fejl_beskrivelse": null,
+    "virknings_aktoer": "BT",
+    "septima_hash86": "lBq9eEi3SdINNiauDC6lH+MF4+J6nxj6dbLdVY4dhWESFr5JpF+5oDkBqaOchNt3/gcOEjeDuy1NB8fz4hK6mQ",
+    "septima_serial": "14"
+  },
+  {
+    "p_nummer": "1007578519",
+    "branche_ansvarskode": null,
+    "reklamebeskyttet": false,
+    "navne": [
+      {
+        "navn": "Mortensen & Beierholm.            Statsautoriseret                  Revisionsaktieselskab",
+        "periode": {
+          "gyldigFra": "1999-01-01",
+          "gyldigTil": "2008-07-31"
+        },
+        "sidstOpdateret": "2013-11-22T22:52:26.000+01:00"
+      },
+      {
+        "navn": "Beierholm, Statsautoriseret Revisionsaktieselskab",
+        "periode": {
+          "gyldigFra": "2008-08-01",
+          "gyldigTil": "2010-10-15"
+        },
+        "sidstOpdateret": "2013-11-22T22:55:56.000+01:00"
+      }
+    ],
+    "postadresse": [],
+    "beliggenhedsadresse": [
+      {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": null,
+            "gyldigTil": "2006-12-31"
+          },
+          "kommuneKode": 823,
+          "kommuneNavn": "HOBRO",
+          "sidstOpdateret": "1999-10-15T00:00:00.000+02:00"
+        },
+        "periode": {
+          "gyldigFra": "1999-01-01",
+          "gyldigTil": "2006-12-31"
+        },
+        "vejkode": 7690,
+        "vejnavn": "Smedevej",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": 9500,
+        "husnummerFra": 1,
+        "husnummerTil": null,
+        "postdistrikt": "Hobro",
+        "sidstOpdateret": "2013-11-22T23:26:49.000+01:00",
+        "sidstValideret": null
+      },
+      {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": "2007-01-01",
+            "gyldigTil": null
+          },
+          "kommuneKode": 846,
+          "kommuneNavn": "MARIAGERFJORD",
+          "sidstOpdateret": "2006-11-13T00:00:00.000+01:00"
+        },
+        "periode": {
+          "gyldigFra": "2007-01-01",
+          "gyldigTil": "2010-10-15"
+        },
+        "vejkode": 1408,
+        "vejnavn": "Smedevej",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": 9500,
+        "husnummerFra": 1,
+        "husnummerTil": null,
+        "postdistrikt": "Hobro",
+        "sidstOpdateret": "2013-11-22T23:32:58.000+01:00",
+        "sidstValideret": "2021-03-04T22:04:31.916+01:00"
+      }
+    ],
+    "telefon_nummer": [
+      {
+        "periode": {
+          "gyldigFra": "2000-10-12",
+          "gyldigTil": "2010-10-15"
+        },
+        "hemmelig": false,
+        "sidstOpdateret": "2013-11-22T23:01:39.000+01:00",
+        "kontaktoplysning": "98520999"
+      }
+    ],
+    "telefax_nummer": [
+      {
+        "periode": {
+          "gyldigFra": "2000-10-12",
+          "gyldigTil": "2004-12-09"
+        },
+        "hemmelig": false,
+        "sidstOpdateret": "2000-10-30T19:32:19.000+01:00",
+        "kontaktoplysning": "98520512"
+      },
+      {
+        "periode": {
+          "gyldigFra": "2008-08-01",
+          "gyldigTil": "2010-10-15"
+        },
+        "hemmelig": false,
+        "sidstOpdateret": "2013-11-22T23:01:39.000+01:00",
+        "kontaktoplysning": "98520512"
+      }
+    ],
+    "elektronisk_post": [
+      {
+        "periode": {
+          "gyldigFra": "2004-06-08",
+          "gyldigTil": "2004-12-09"
+        },
+        "hemmelig": false,
+        "sidstOpdateret": "2004-06-17T19:57:02.000+02:00",
+        "kontaktoplysning": "hob@hlb.dk"
+      },
+      {
+        "periode": {
+          "gyldigFra": "2008-08-01",
+          "gyldigTil": "2010-10-15"
+        },
+        "hemmelig": false,
+        "sidstOpdateret": "2013-11-22T23:01:39.000+01:00",
+        "kontaktoplysning": "hob@beierholm.dk"
+      }
+    ],
+    "livsforloeb": [
+      {
+        "periode": {
+          "gyldigFra": "1999-01-01",
+          "gyldigTil": "2010-10-15"
+        },
+        "sidstOpdateret": "2000-05-02T18:00:33.000+02:00"
+      }
+    ],
+    "hovedbranche": [
+      {
+        "periode": {
+          "gyldigFra": "1999-01-01",
+          "gyldigTil": "2007-12-31"
+        },
+        "branchekode": "741200",
+        "branchetekst": "Revisions- og bogføringsvirksomhed",
+        "sidstOpdateret": "2013-11-22T23:05:42.000+01:00"
+      },
+      {
+        "periode": {
+          "gyldigFra": "2008-01-01",
+          "gyldigTil": "2010-10-15"
+        },
+        "branchekode": "692000",
+        "branchetekst": "Bogføring og revision: skatterådgivning",
+        "sidstOpdateret": "2013-11-22T23:09:38.000+01:00"
+      }
+    ],
+    "bibranche1": [],
+    "bibranche2": [],
+    "bibranche3": [],
+    "aarsbeskaeftigelse": [
+      {
+        "aar": 2000,
+        "antalAnsatte": 26,
+        "antalAarsvaerk": 24,
+        "sidstOpdateret": "2002-06-04T19:55:22.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_20_49",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2001,
+        "antalAnsatte": 27,
+        "antalAarsvaerk": 25,
+        "sidstOpdateret": "2003-05-19T20:03:39.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_20_49",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2002,
+        "antalAnsatte": 28,
+        "antalAarsvaerk": 27,
+        "sidstOpdateret": "2004-06-25T20:39:47.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_20_49",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2003,
+        "antalAnsatte": 30,
+        "antalAarsvaerk": 28,
+        "sidstOpdateret": "2005-12-02T20:37:58.000+01:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_20_49",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2004,
+        "antalAnsatte": 24,
+        "antalAarsvaerk": 26,
+        "sidstOpdateret": "2006-05-18T19:51:16.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_20_49",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2005,
+        "antalAnsatte": 24,
+        "antalAarsvaerk": 24,
+        "sidstOpdateret": "2007-07-18T15:56:04.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_20_49",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2006,
+        "antalAnsatte": 28,
+        "antalAarsvaerk": 25,
+        "sidstOpdateret": "2008-10-03T14:52:06.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_20_49",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2007,
+        "antalAnsatte": 30,
+        "antalAarsvaerk": 27,
+        "sidstOpdateret": "2009-09-08T14:58:47.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_20_49",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      {
+        "aar": 2008,
+        "antalAnsatte": 31,
+        "antalAarsvaerk": 30,
+        "sidstOpdateret": "2010-09-23T14:51:42.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_20_49",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      }
+    ],
+    "kvartalsbeskaeftigelse": [],
+    "erst_maanedsbeskaeftigelse": [],
+    "virksomhedsrelation": [
+      {
+        "periode": {
+          "gyldigFra": "1999-01-01",
+          "gyldigTil": "2010-10-15"
+        },
+        "cvrNummer": 24207501,
+        "sidstOpdateret": "2000-05-02T18:00:33.000+02:00"
+      }
+    ],
+    "attributter": [],
+    "deltager_relation": [],
+    "produktions_enhed_metadata": {
+      "nyesteNavn": {
+        "navn": "Beierholm, Statsautoriseret Revisionsaktieselskab",
+        "periode": {
+          "gyldigFra": "2008-08-01",
+          "gyldigTil": "2010-10-15"
+        },
+        "sidstOpdateret": "2013-11-22T22:55:56.000+01:00"
+      },
+      "sammensatStatus": "Ophørt",
+      "nyesteBibranche1": null,
+      "nyesteBibranche2": null,
+      "nyesteBibranche3": null,
+      "nyesteHovedbranche": {
+        "periode": {
+          "gyldigFra": "2008-01-01",
+          "gyldigTil": "2010-10-15"
+        },
+        "branchekode": "692000",
+        "branchetekst": "Bogføring og revision: skatterådgivning",
+        "sidstOpdateret": "2013-11-22T23:09:38.000+01:00"
+      },
+      "nyesteCvrNummerRelation": 24207501,
+      "nyesteAarsbeskaeftigelse": {
+        "aar": 2008,
+        "antalAnsatte": 31,
+        "antalAarsvaerk": 30,
+        "sidstOpdateret": "2010-09-23T14:51:42.000+02:00",
+        "antalInklusivEjere": null,
+        "intervalKodeAntalAnsatte": "ANTAL_20_49",
+        "intervalKodeAntalAarsvaerk": "ANTAL_20_49",
+        "intervalKodeAntalInklusivEjere": null
+      },
+      "nyesteKontaktoplysninger": [
+        "98520999",
+        "98520512",
+        "hob@beierholm.dk"
+      ],
+      "nyesteBeliggenhedsadresse": {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": {
+          "periode": {
+            "gyldigFra": "2007-01-01",
+            "gyldigTil": null
+          },
+          "kommuneKode": 846,
+          "kommuneNavn": "MARIAGERFJORD",
+          "sidstOpdateret": "2006-11-13T00:00:00.000+01:00"
+        },
+        "periode": {
+          "gyldigFra": "2007-01-01",
+          "gyldigTil": "2010-10-15"
+        },
+        "vejkode": 1408,
+        "vejnavn": "Smedevej",
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": 9500,
+        "husnummerFra": 1,
+        "husnummerTil": null,
+        "postdistrikt": "Hobro",
+        "sidstOpdateret": "2013-11-22T23:32:58.000+01:00",
+        "sidstValideret": "2021-03-04T22:04:31.916+01:00"
+      },
+      "nyesteKvartalsbeskaeftigelse": null,
+      "nyesteErstMaanedsbeskaeftigelse": null
+    },
+    "samt_id": "5",
+    "fejl_registreret": false,
+    "data_adgang": "0",
+    "enheds_nummer": "184829",
+    "enhedstype": "PRODUKTIONSENHED",
+    "sidst_opdateret": "2013-11-22T22:32:58.000Z",
+    "fejl_ved_indlaesning": false,
+    "naermeste_fremtidige_dato": null,
+    "fejl_beskrivelse": null,
+    "virknings_aktoer": "BT",
+    "septima_hash86": "eUYHO3Nf/moTGvbtr/cQKqXYljOQ4fEA2Pj9r/FwJdROSujbxfJCdth0deZjehv+AQuabT0gxCHUtz2cSF8emw",
+    "septima_serial": "15"
+  }
+]

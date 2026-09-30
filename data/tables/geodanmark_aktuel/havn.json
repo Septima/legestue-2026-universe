@@ -1,0 +1,1360 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.590026377,
+            57.117464993,
+            1.92
+          ],
+          [
+            8.590213548,
+            57.117503514,
+            1.92
+          ],
+          [
+            8.590165394,
+            57.11757226,
+            1.92
+          ],
+          [
+            8.590197511,
+            57.117580001,
+            1.92
+          ],
+          [
+            8.590347355,
+            57.117364709,
+            1.92
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1211262154",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Fotogrammetrisk ajourføring",
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2020-09-01T14:57:12.622Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2020-05-19T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Udpeget ajourføring 2020",
+        "havnetype": "Anløbsbro",
+        "underminimumhavn": true,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "405562",
+        "septima_hash86": "xGZ2/sw1xfpU4Ue+3Sx0smjzDA5tTWrIurrFEmOMpJDU5QLbbqIorgbOIBMqUUdi4VYtKEwlq3a3yeE4rUNRnA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.590314566,
+            57.117358044,
+            1.9
+          ],
+          [
+            8.590225803,
+            57.117485408,
+            1.9
+          ],
+          [
+            8.590037972,
+            57.117446884,
+            1.9
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1211262155",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Fotogrammetrisk ajourføring",
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2020-09-01T14:57:12.622Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2020-05-19T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Udpeget ajourføring 2020",
+        "havnetype": "Anløbsbro",
+        "underminimumhavn": true,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "405563",
+        "septima_hash86": "QjCY1ie8v1jkwa+7TI4zsxqiqEBZxnx9Mm8HObI36BrK+3pdp0j7H71ON56WYZLepPH+bZ05UmxOGrVLHLOjBg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.680453076,
+            55.611480764,
+            1.08
+          ],
+          [
+            12.680823944,
+            55.611522135,
+            1.7
+          ],
+          [
+            12.680839838,
+            55.611523906,
+            1.7
+          ],
+          [
+            12.68084837,
+            55.611494605,
+            1.7
+          ],
+          [
+            12.680655741,
+            55.611475124,
+            1.67
+          ],
+          [
+            12.680721905,
+            55.611277735,
+            1.77
+          ],
+          [
+            12.680384821,
+            55.611240834,
+            1.68
+          ],
+          [
+            12.680024974,
+            55.611203447,
+            1.75
+          ],
+          [
+            12.680138472,
+            55.610851767,
+            1.67
+          ],
+          [
+            12.68073248,
+            55.610916199,
+            1.68
+          ],
+          [
+            12.68074073,
+            55.610888974,
+            1.69
+          ],
+          [
+            12.68009924,
+            55.610817966,
+            1.06
+          ],
+          [
+            12.680089782,
+            55.610845857,
+            1.65
+          ],
+          [
+            12.680086279,
+            55.610855943,
+            1.67
+          ],
+          [
+            12.679976011,
+            55.61117938,
+            1.71
+          ],
+          [
+            12.67994454,
+            55.611165668,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1060008665",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Ukendt",
+        "registreringfra": "2019-11-06T21:20:11.831Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Ukendt",
+        "virkningfra": "2015-05-22T12:25:39.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Uspecificeret",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Uspecificeret",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "havnetype": "Kyst",
+        "underminimumhavn": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "405564",
+        "septima_hash86": "DLapSWqX7f5ZBsm2DnCM7ttuL3COKyvZazutBcCsdRcPyVDPElvpQpIv3NOIBU6oOD8y023RJUOaW+nIQm+E7w"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.223683312,
+            56.692965616,
+            2.43
+          ],
+          [
+            8.223647562,
+            56.693036638,
+            2.12
+          ],
+          [
+            8.222710893,
+            56.692883096,
+            2.12
+          ],
+          [
+            8.221526027,
+            56.692691072,
+            2.06
+          ],
+          [
+            8.221480582,
+            56.692772814,
+            1.53
+          ],
+          [
+            8.221391249,
+            56.692947808,
+            1.53
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1002997168",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "COWI",
+        "registreringfra": "2014-09-05T07:25:27.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "COWI",
+        "virkningfra": "2014-09-05T07:25:27.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "havnetype": "Kyst",
+        "underminimumhavn": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "405565",
+        "septima_hash86": "l8OL+D+lWXd34v6oItL5cyID9Po1AsazQvRoSCQPOdiQVBAsyQpXZG3wJCchqf7V+MNWJm3ASDy65xzW+xmGIw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.221379378,
+            56.693601968,
+            1.93
+          ],
+          [
+            8.22150072,
+            56.693355569,
+            0.54
+          ],
+          [
+            8.221461773,
+            56.693351822,
+            0.54
+          ],
+          [
+            8.221344064,
+            56.693596267,
+            1.93
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1002997169",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Fugro Aerial Mapping A/S",
+        "registreringfra": "2014-09-05T07:25:27.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Fugro Aerial Mapping A/S",
+        "virkningfra": "2014-09-05T07:25:27.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "havnetype": "Anløbsbro",
+        "underminimumhavn": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "405567",
+        "septima_hash86": "R3U3E2mmm9zzWz2/4mleBGOyphB4HeW+Y0TaV/pr6GOZD9BVcB/6+O0nr3bmQOjGnawBrYrvJGHZwG/h9ydS1g"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.146001562,
+            55.136391774,
+            0.06
+          ],
+          [
+            15.146025316,
+            55.136379677,
+            2.6
+          ],
+          [
+            15.146044409,
+            55.136366915,
+            2.6
+          ],
+          [
+            15.146063551,
+            55.136346316,
+            2.56
+          ],
+          [
+            15.146038985,
+            55.136336845,
+            2.56
+          ],
+          [
+            15.14602663,
+            55.136345394,
+            0.06
+          ],
+          [
+            15.145990493,
+            55.136321021,
+            0.06
+          ],
+          [
+            15.145891019,
+            55.136368016,
+            0.06
+          ],
+          [
+            15.145898124,
+            55.136412047,
+            0.06
+          ],
+          [
+            15.145792047,
+            55.136471262,
+            0.06
+          ],
+          [
+            15.145843886,
+            55.136336545,
+            0.06
+          ],
+          [
+            15.145918637,
+            55.136142501,
+            3.45
+          ],
+          [
+            15.14595507,
+            55.136132103,
+            0.06
+          ],
+          [
+            15.146457474,
+            55.135987905,
+            1.41
+          ],
+          [
+            15.146422784,
+            55.135947431,
+            1.41
+          ],
+          [
+            15.145938942,
+            55.136089699,
+            1.41
+          ],
+          [
+            15.145971268,
+            55.136007834,
+            2.71
+          ],
+          [
+            15.14597294,
+            55.135998295,
+            2.73
+          ],
+          [
+            15.145972642,
+            55.135995339,
+            2.73
+          ],
+          [
+            15.145970636,
+            55.135990488,
+            2.73
+          ],
+          [
+            15.145966714,
+            55.135986455,
+            2.73
+          ],
+          [
+            15.145961351,
+            55.135984295,
+            2.73
+          ],
+          [
+            15.145953282,
+            55.135981912,
+            2.73
+          ],
+          [
+            15.145946823,
+            55.135980798,
+            2.73
+          ],
+          [
+            15.145940589,
+            55.135980123,
+            2.73
+          ],
+          [
+            15.145936846,
+            55.135980313,
+            2.73
+          ],
+          [
+            15.145933287,
+            55.135980673,
+            2.73
+          ],
+          [
+            15.145928861,
+            55.135981527,
+            2.73
+          ],
+          [
+            15.145872004,
+            55.135998092,
+            2.71
+          ],
+          [
+            15.145860909,
+            55.136003606,
+            2.71
+          ],
+          [
+            15.145837294,
+            55.136019658,
+            2.68
+          ],
+          [
+            15.145787651,
+            55.136074846,
+            0.9
+          ],
+          [
+            15.145768234,
+            55.136096719,
+            0.95
+          ],
+          [
+            15.145759815,
+            55.13610939,
+            0.96
+          ],
+          [
+            15.145746939,
+            55.136132913,
+            0.96
+          ],
+          [
+            15.145694779,
+            55.136241083,
+            0.79
+          ],
+          [
+            15.145553034,
+            55.136298321,
+            0.76
+          ],
+          [
+            15.145392203,
+            55.13636634,
+            0.8
+          ],
+          [
+            15.145329531,
+            55.13617601,
+            0.9
+          ],
+          [
+            15.145282936,
+            55.136173506,
+            2.23
+          ],
+          [
+            15.145276603,
+            55.136156898,
+            2.41
+          ],
+          [
+            15.145182757,
+            55.136181277,
+            2.4
+          ],
+          [
+            15.14526547,
+            55.136451631,
+            1.26
+          ],
+          [
+            15.144860531,
+            55.136577655,
+            1.5
+          ],
+          [
+            15.144716992,
+            55.136620216,
+            1.89
+          ],
+          [
+            15.144629997,
+            55.136640106,
+            2.76
+          ],
+          [
+            15.144595083,
+            55.136630797,
+            2.82
+          ],
+          [
+            15.144465971,
+            55.136435635,
+            2.33
+          ],
+          [
+            15.144368728,
+            55.136284062,
+            2.51
+          ],
+          [
+            15.144334972,
+            55.136231294,
+            2.28
+          ],
+          [
+            15.144347019,
+            55.136209525,
+            2.28
+          ],
+          [
+            15.144466963,
+            55.13617194,
+            2.28
+          ],
+          [
+            15.144463659,
+            55.136165804,
+            2.28
+          ],
+          [
+            15.14448429,
+            55.136157917,
+            2.28
+          ],
+          [
+            15.14449053,
+            55.136163724,
+            2.28
+          ],
+          [
+            15.144514688,
+            55.136156289,
+            2.1
+          ],
+          [
+            15.144550695,
+            55.136149244,
+            2.1
+          ],
+          [
+            15.144547084,
+            55.136142133,
+            2.1
+          ],
+          [
+            15.144539923,
+            55.136142586,
+            2.1
+          ],
+          [
+            15.144516275,
+            55.136099301,
+            1.75
+          ],
+          [
+            15.144522316,
+            55.136098726,
+            1.75
+          ],
+          [
+            15.144496292,
+            55.136060424,
+            1.75
+          ],
+          [
+            15.144454123,
+            55.136060127,
+            1.69
+          ],
+          [
+            15.144108304,
+            55.136050703,
+            1.57
+          ],
+          [
+            15.144084105,
+            55.136032389,
+            1.57
+          ],
+          [
+            15.144126197,
+            55.135757969,
+            1.71
+          ],
+          [
+            15.144146047,
+            55.135626763,
+            1.85
+          ],
+          [
+            15.144640514,
+            55.135352593,
+            2.21
+          ],
+          [
+            15.144657596,
+            55.135329848,
+            2.41
+          ],
+          [
+            15.144720695,
+            55.135340522,
+            0.79
+          ],
+          [
+            15.144745439,
+            55.135297129,
+            0.06
+          ],
+          [
+            15.144943277,
+            55.135324395,
+            0.06
+          ],
+          [
+            15.144910498,
+            55.135399258,
+            0.71
+          ],
+          [
+            15.145070515,
+            55.135915119,
+            0.76
+          ],
+          [
+            15.145041455,
+            55.135957019,
+            0.79
+          ],
+          [
+            15.144711347,
+            55.136051522,
+            1.74
+          ],
+          [
+            15.144672322,
+            55.136004333,
+            1.83
+          ],
+          [
+            15.144625334,
+            55.136013554,
+            1.83
+          ],
+          [
+            15.144654723,
+            55.136069604,
+            1.87
+          ],
+          [
+            15.144660411,
+            55.136068776,
+            1.88
+          ],
+          [
+            15.14469297,
+            55.136122955,
+            2.65
+          ],
+          [
+            15.144701327,
+            55.136124153,
+            2.65
+          ],
+          [
+            15.145122583,
+            55.136000005,
+            2.67
+          ],
+          [
+            15.145135829,
+            55.136040034,
+            2.52
+          ],
+          [
+            15.145137751,
+            55.136041287,
+            2.51
+          ],
+          [
+            15.14514182,
+            55.136041172,
+            2.51
+          ],
+          [
+            15.145153539,
+            55.136038688,
+            2.51
+          ],
+          [
+            15.145228024,
+            55.136020241,
+            2.58
+          ],
+          [
+            15.145229945,
+            55.136018433,
+            2.57
+          ],
+          [
+            15.14523028,
+            55.136016525,
+            2.57
+          ],
+          [
+            15.145229284,
+            55.136014144,
+            2.57
+          ],
+          [
+            15.145227788,
+            55.136012599,
+            2.57
+          ],
+          [
+            15.145193513,
+            55.135980928,
+            2.68
+          ],
+          [
+            15.145389394,
+            55.135923112,
+            2.55
+          ],
+          [
+            15.145379497,
+            55.135910916,
+            2.62
+          ],
+          [
+            15.145358728,
+            55.135914849,
+            2.73
+          ],
+          [
+            15.145350543,
+            55.135881137,
+            0.06
+          ],
+          [
+            15.145371845,
+            55.13588168,
+            0.06
+          ],
+          [
+            15.145379551,
+            55.135879669,
+            0.06
+          ],
+          [
+            15.145395984,
+            55.135872084,
+            0.06
+          ],
+          [
+            15.145400837,
+            55.135867876,
+            0.06
+          ],
+          [
+            15.145403533,
+            55.135863958,
+            0.06
+          ],
+          [
+            15.145402761,
+            55.135858955,
+            0.06
+          ],
+          [
+            15.145399082,
+            55.135854459,
+            0.06
+          ],
+          [
+            15.145366933,
+            55.135835556,
+            0.06
+          ],
+          [
+            15.145359327,
+            55.13583414,
+            0.06
+          ],
+          [
+            15.14535369,
+            55.135833255,
+            0.06
+          ],
+          [
+            15.145339158,
+            55.13583381,
+            0.06
+          ],
+          [
+            15.145328843,
+            55.135791382,
+            0.06
+          ],
+          [
+            15.145357203,
+            55.135782653,
+            0.06
+          ],
+          [
+            15.145362899,
+            55.135779844,
+            0.06
+          ],
+          [
+            15.145366444,
+            55.135776333,
+            0.06
+          ],
+          [
+            15.145369475,
+            55.135770507,
+            0.06
+          ],
+          [
+            15.145371043,
+            55.135762323,
+            0.06
+          ],
+          [
+            15.145369899,
+            55.135754908,
+            0.06
+          ],
+          [
+            15.145367875,
+            55.135750958,
+            0.06
+          ],
+          [
+            15.1453626,
+            55.135748344,
+            0.06
+          ],
+          [
+            15.145350077,
+            55.135746637,
+            0.06
+          ],
+          [
+            15.145342495,
+            55.13574639,
+            0.06
+          ],
+          [
+            15.145335651,
+            55.135745836,
+            0.06
+          ],
+          [
+            15.145330509,
+            55.135745106,
+            0.06
+          ],
+          [
+            15.145316931,
+            55.135741651,
+            0.06
+          ],
+          [
+            15.145294745,
+            55.13564976,
+            0.06
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1068305346",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2023-01-06T13:46:23.401Z",
+        "registreringtil": null,
+        "virkningsaktoer": "DSM GEODATA (P) LTD",
+        "virkningfra": "2014-08-29T13:43:08.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "havnetype": "Kyst",
+        "underminimumhavn": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "405568",
+        "septima_hash86": "0loLiqmUOKTEUszi1EkTLM547t7/ptsC1IOImEu9e55isnYPxfVRZxVxjaVLk0m1/VIcncOedXLIOJ2ajoOolg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.221110122,
+            56.693143615,
+            1.49
+          ],
+          [
+            8.221256251,
+            56.693167618,
+            1.56
+          ],
+          [
+            8.222238632,
+            56.693329452,
+            2.03
+          ],
+          [
+            8.222248633,
+            56.693311636,
+            2.03
+          ],
+          [
+            8.221268666,
+            56.693151524,
+            1.6
+          ],
+          [
+            8.221120418,
+            56.693127328,
+            1.54
+          ],
+          [
+            8.221110122,
+            56.693143615,
+            1.49
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1003007820",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "COWI",
+        "registreringfra": "2014-09-05T07:25:27.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "COWI",
+        "virkningfra": "2014-09-05T07:25:27.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "havnetype": "Anløbsbro",
+        "underminimumhavn": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "405570",
+        "septima_hash86": "hZ5DGfuiTLdMHp/yk77GAqx/NyhLy9sPPtFR10bi28z5/9hyIRBkepdazqBuCJ7im03fqDVuJPEiy1txIhDfHg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.221124485,
+            56.693333632,
+            1.68
+          ],
+          [
+            8.22115366,
+            56.693280808,
+            1.25
+          ],
+          [
+            8.221189952,
+            56.693286605,
+            1.25
+          ],
+          [
+            8.222408581,
+            56.693481179,
+            1.3
+          ],
+          [
+            8.222419391,
+            56.693463727,
+            1.27
+          ],
+          [
+            8.22113204,
+            56.693260368,
+            1.43
+          ],
+          [
+            8.221096655,
+            56.693329236,
+            1.77
+          ],
+          [
+            8.221124485,
+            56.693333632,
+            1.68
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1003007825",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "COWI",
+        "registreringfra": "2014-09-05T07:25:27.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "COWI",
+        "virkningfra": "2014-09-05T07:25:27.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "havnetype": "Anløbsbro",
+        "underminimumhavn": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "405571",
+        "septima_hash86": "wKpFyn5JTLzL1ry83MVKOXwuA3iVKUMqFZCTAhitoaN+FQr/q49Z6SvIUgCH4mddvfaufaCWMVmhvDnxUjBlSA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.297053136,
+            56.565535392,
+            0.68
+          ],
+          [
+            8.297104585,
+            56.565551495,
+            0.61
+          ],
+          [
+            8.297094131,
+            56.565562397,
+            0.24
+          ],
+          [
+            8.297505636,
+            56.565695985,
+            0.43
+          ],
+          [
+            8.297990016,
+            56.565857564,
+            0.39
+          ],
+          [
+            8.298402776,
+            56.56599403,
+            0.31
+          ],
+          [
+            8.298429817,
+            56.565966152,
+            0.39
+          ],
+          [
+            8.297956039,
+            56.565811821,
+            0.54
+          ],
+          [
+            8.297495915,
+            56.565658555,
+            0.31
+          ],
+          [
+            8.297121805,
+            56.565535511,
+            0.35
+          ],
+          [
+            8.297114544,
+            56.56554095,
+            0.5
+          ],
+          [
+            8.297064233,
+            56.565524943,
+            0.73
+          ],
+          [
+            8.297053136,
+            56.565535392,
+            0.68
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1002997979",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Ukendt",
+        "registreringfra": "2014-09-05T07:25:27.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Ukendt",
+        "virkningfra": "2014-09-05T07:25:27.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Uspecificeret",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Uspecificeret",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "havnetype": "Anløbsbro",
+        "underminimumhavn": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "405572",
+        "septima_hash86": "gd4Z0BfLaEykJwi7b7q3R1fcChb9lFjaIour7Tqo5Viap7f6qURX3j9B7u702CTIJfoVeL0tS8nvz+Rxz8sNOQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.29666862,
+            56.56589439,
+            0.74
+          ],
+          [
+            8.296681337,
+            56.56588431,
+            0.74
+          ],
+          [
+            8.296734848,
+            56.5659033,
+            0.2
+          ],
+          [
+            8.296744739,
+            56.565896438,
+            0.28
+          ],
+          [
+            8.297032249,
+            56.56598602,
+            0.5
+          ],
+          [
+            8.29737619,
+            56.566095148,
+            0.58
+          ],
+          [
+            8.298060758,
+            56.566308171,
+            0.35
+          ],
+          [
+            8.298032401,
+            56.566336761,
+            0.31
+          ],
+          [
+            8.297337911,
+            56.566114697,
+            0.65
+          ],
+          [
+            8.296717751,
+            56.565921441,
+            0.35
+          ],
+          [
+            8.296727492,
+            56.56591386,
+            0.54
+          ],
+          [
+            8.29666862,
+            56.56589439,
+            0.74
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1002997981",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Ukendt",
+        "registreringfra": "2014-09-05T07:25:27.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Ukendt",
+        "virkningfra": "2014-09-05T07:25:27.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Uspecificeret",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Uspecificeret",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "havnetype": "Anløbsbro",
+        "underminimumhavn": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "405573",
+        "septima_hash86": "9q8/lmo5Q0+L/hs3fUMRuMuIOgwo4v53IB2a0Y3qYEohiFYpRrjmVwRFwoebpR/4ZU5DDsQhUb5cyzwZ89/0vQ"
+      }
+    }
+  ]
+}

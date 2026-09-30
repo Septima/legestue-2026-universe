@@ -1,0 +1,82 @@
+[
+  {
+    "_language": null,
+    "value": "DBC bibliotek kort",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150972",
+    "septima_serial": "1335941"
+  },
+  {
+    "_language": null,
+    "value": "DBC bibliotek short",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150972",
+    "septima_serial": "1335942"
+  },
+  {
+    "_language": null,
+    "value": "Dansk Centralbibliotek",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150973",
+    "septima_serial": "1335943"
+  },
+  {
+    "_language": null,
+    "value": "Centr. Dan. Library",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150973",
+    "septima_serial": "1335944"
+  },
+  {
+    "_language": null,
+    "value": "Husum Bibliotek",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150974",
+    "septima_serial": "1335945"
+  },
+  {
+    "_language": null,
+    "value": "Slesvig Bibliotek",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150975",
+    "septima_serial": "1335946"
+  },
+  {
+    "_language": null,
+    "value": "Fællesbiblioteket Egernførde",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150976",
+    "septima_serial": "1335947"
+  },
+  {
+    "_language": null,
+    "value": "Bogbusserne",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150977",
+    "septima_serial": "1335948"
+  },
+  {
+    "_language": null,
+    "value": "København",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150978",
+    "septima_serial": "1335949"
+  },
+  {
+    "_language": null,
+    "value": "Copenhagen",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150978",
+    "septima_serial": "1335950"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "regionnr": "1081",
+    "regionnr_tekst": "Region Nordjylland",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "h9uTh3FqlyTB0v5x0w1kl4jre83OcyzLjT4M29RxTGCqklWy4TBF8+J2X8RNYqgX9XFZTY6UsHdeOXZYLVrGOA",
+    "septima_serial": "2"
+  },
+  {
+    "regionnr": "1082",
+    "regionnr_tekst": "Region Midtjylland",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "hNWUz7op8EJ17bGe3wE7OJN0uMbc86BGirDtX6R4TXgH9MngI4Mnet7TmK519Wcf8xm6XvXObnqzEmFrnGVnrw",
+    "septima_serial": "3"
+  },
+  {
+    "regionnr": "1083",
+    "regionnr_tekst": "Region Syddanmark",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "QnU5mMagYxt03mI6+B6siJolE+TSFe63TO/xTEa/pxO4+5ldJjc1mpALXoC3iK94VauU+Ibczlc3ZOSQXplrZQ",
+    "septima_serial": "4"
+  },
+  {
+    "regionnr": "1084",
+    "regionnr_tekst": "Region Hovedstaden",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "KPlFUMexsMveLYiqxZY1nMk527HsSH1iNusIkLo8/yONcxkEDNWKd3xnXR/O9vHg0IAtqCahE+iXWn+QlnAT+g",
+    "septima_serial": "5"
+  },
+  {
+    "regionnr": "1085",
+    "regionnr_tekst": "Region Sjælland",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "PAk9rrc9Hh57y+9vYb2W2FmkEnumQ/qWlc6jXI2CHNoC7/Uoidef7lDJ8soRPybWFOXxb/dMmwXu8ClcCnFIiA",
+    "septima_serial": "6"
+  }
+]

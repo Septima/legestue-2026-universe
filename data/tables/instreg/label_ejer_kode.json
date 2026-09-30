@@ -1,0 +1,72 @@
+[
+  {
+    "ejer_kode": "0",
+    "ejer_kode_tekst": "Private",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "NS0YZcpPD+41f1jWIs+Xcr+7PO4wxInnELKC7qCPzvhDp+zzFfNU8DWpMCQG3FmmO6+MCrT6youCc72J76pO3g",
+    "septima_serial": "2"
+  },
+  {
+    "ejer_kode": "1",
+    "ejer_kode_tekst": "Statslige",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "Es52kfLs3oRKbRjB/4FleKa8nET2lFZ9AwSRgE9VEWq9jP2/OFoaof0zPGs+RHtOhy8UKfiKXNulQC3tL/wECg",
+    "septima_serial": "3"
+  },
+  {
+    "ejer_kode": "2",
+    "ejer_kode_tekst": "Kommunale",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "4Ce7OSYWh3IROQXKG3RlkwBMHX+cZ8m8tLsnK+jevCBa4S9TlV6loJBLUSBJu5KFQbD9TXnB4egEORr8+JTxGg",
+    "septima_serial": "4"
+  },
+  {
+    "ejer_kode": "3",
+    "ejer_kode_tekst": "Amtskommunale",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "7SHnqpGd8FPs4rI+tMC+9om1FRRtYuGFXpIF/PM0MfzM76JnX2izVBupk5DZWgfvXOxMO+qcq34WWHpOFFUQxA",
+    "septima_serial": "5"
+  },
+  {
+    "ejer_kode": "4",
+    "ejer_kode_tekst": "Selvejende, statslige",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "YX0PCQNzm2dHNPA+KXvC3ZECeVsS6UC0aHXsaSBazLPTi6TlQZ+U5B9OVZlVPo/IG6uFukBPY4AIdkzyH6bfOA",
+    "septima_serial": "6"
+  },
+  {
+    "ejer_kode": "5",
+    "ejer_kode_tekst": "Selvejende, private",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "Hl62ic/akIZqj8u9k4th4ib0v7oZBN6WsmSRLNXWLP4URhWrzKKnL/aQegACQR7O8ew7sEJTgLutS1IQdhnGGQ",
+    "septima_serial": "7"
+  },
+  {
+    "ejer_kode": "6",
+    "ejer_kode_tekst": "Selvejende, kommunale",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "sRfaU1ZKLSGoOcUpGKRqWQp7k4pnb5bpXxV5rzq9zK/Q0BwfZAKfw7rvTGnQwT4GnB9a4hOA/xghp5oxamDqNw",
+    "septima_serial": "8"
+  },
+  {
+    "ejer_kode": "7",
+    "ejer_kode_tekst": "Regionale",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "cmitHxQu+zdCO6sQBskNYXYch+OElGLSQF6GqeFM3tr7yoGNldjq63tc5J470LD5mjE+bEP804Gz1w/wE4rDHg",
+    "septima_serial": "9"
+  },
+  {
+    "ejer_kode": "8",
+    "ejer_kode_tekst": "Selvejende, regionale",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "KdsM2o51+Dr2nngBIWQiwkHuYJthMXskxxWP14ehIPU+7n48IOb62/p3e/qf9u/WsNE6nMPhdp5lEiuz9BI3TA",
+    "septima_serial": "10"
+  },
+  {
+    "ejer_kode": "9",
+    "ejer_kode_tekst": "Andre (Grønland, Færøerne og Tyskland)",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "S1Y4vwUmSX1A0ltYkZ7wL/vhHeUxJ3AgF4F8gxFHqbH9Cmar43Tx97ATCqVA7Mdb9FGtfKScIjsJYBm//7MxJA",
+    "septima_serial": "11"
+  }
+]

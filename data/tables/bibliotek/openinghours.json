@@ -1,0 +1,82 @@
+[
+  {
+    "_language": null,
+    "value": "mandag - onsdag kl. 10-16\r\ntorsdag 12-18\r\nfredag 10-16\r\nDen 26 oktober er alle afdelinger lukket p.g.a. Internt kursus",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150972",
+    "septima_serial": "975025"
+  },
+  {
+    "_language": null,
+    "value": "Hverdage 10-19. \nLørdage 10-14.",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150973",
+    "septima_serial": "975026"
+  },
+  {
+    "_language": null,
+    "value": "Monday-Friday 10-19\nSaturday 10-14",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150973",
+    "septima_serial": "975027"
+  },
+  {
+    "_language": null,
+    "value": "mandag: 12.00 - 18.00.\r\nonsdag og torsdag: 10.00 - 16.00 \r\n1/9 - 31/3: også lørdag: 10.00 - 13.00",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150974",
+    "septima_serial": "975028"
+  },
+  {
+    "_language": null,
+    "value": "mandag og torsdag: 11.00 - 18.00\r\ntirsdag og onsdag: 10.00 - 16.00\r\n1/9 - 31/3: også lørdag: 10.00 - 13.00",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150975",
+    "septima_serial": "975029"
+  },
+  {
+    "_language": null,
+    "value": "mandag og onsdag: 13.00 - 17.00",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150976",
+    "septima_serial": "975030"
+  },
+  {
+    "_language": null,
+    "value": "Opening hours\nSee opening hours on",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150978",
+    "septima_serial": "975031"
+  },
+  {
+    "_language": null,
+    "value": "Åbningstider\nSe åbningstider på:\nbibliotek.kk.dk/biblioteker",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150979",
+    "septima_serial": "975032"
+  },
+  {
+    "_language": null,
+    "value": "Opening hours\r\nSee opening hours on:\nbibliotek.kk.dk/biblioteker",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150979",
+    "septima_serial": "975033"
+  },
+  {
+    "_language": null,
+    "value": "Åbningstider\r\nSe åbningstider på:\r\nbibliotek.kk.dk/biblioteker/",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150980",
+    "septima_serial": "975034"
+  }
+]

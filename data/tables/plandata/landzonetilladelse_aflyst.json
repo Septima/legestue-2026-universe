@@ -1,0 +1,621 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": 37480,
+        "planid": 3891337,
+        "komnr": 540,
+        "kommunenavn": "Sønderborg",
+        "objektkode": 80,
+        "plantype": 80.1,
+        "lztnavn": "Landzonetilladelse til at etablere en sø på ca. 150 m²",
+        "lztnr": "16/29324",
+        "datoikraft": 20160831,
+        "datoudloeb": 20190831,
+        "doklink": "https://dokument.plandata.dk/80_3891337_1513772636367.pdf",
+        "aktuel": true,
+        "aenanvbyg": false,
+        "aenanvarea": false,
+        "tekanlaeg": false,
+        "andet": true,
+        "planstatus": "A",
+        "matrbetegn": "1550151:290",
+        "datotilbag": null,
+        "septima_transaktion_id": "109251558",
+        "septima_hash86": "XEUnrCMrPVOZDtnImo1VszBJWpAl1z2I0ERokzDEaJeP+WvGc3WSWzetrZBYZKIOk9yBSIwFhzKuDHTPeGuLqw",
+        "septima_serial": "7941"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": 37493,
+        "planid": 3905442,
+        "komnr": 550,
+        "kommunenavn": "Tønder",
+        "objektkode": 80,
+        "plantype": 80.1,
+        "lztnavn": "Landzonetilladelse til opstilling af 2 husstandsvindmøller",
+        "lztnr": "01.03.03-P19-486-15",
+        "datoikraft": 20160906,
+        "datoudloeb": 20190906,
+        "doklink": "https://dokument.plandata.dk/80_3905442_1513774632997.pdf",
+        "aktuel": true,
+        "aenanvbyg": false,
+        "aenanvarea": false,
+        "tekanlaeg": true,
+        "andet": null,
+        "planstatus": "A",
+        "matrbetegn": "1490551:115",
+        "datotilbag": null,
+        "septima_transaktion_id": "109251558",
+        "septima_hash86": "MkOwwEmfAwYC1ggCwezVYRfbPbgWTUdS0jUmMJpgbxcHJdRokZvwadPlklP7p0BgkFyPO+cmNq9DA+xv5nDiNg",
+        "septima_serial": "7954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": 38373,
+        "planid": 3922035,
+        "komnr": 250,
+        "kommunenavn": "Frederikssund",
+        "objektkode": 80,
+        "plantype": 80.1,
+        "lztnavn": "Udstykning",
+        "lztnr": "01.03.00-P19-84-16",
+        "datoikraft": 20160926,
+        "datoudloeb": 20190926,
+        "doklink": "https://dokument.plandata.dk/80_3922035_1513776905057.pdf",
+        "aktuel": true,
+        "aenanvbyg": false,
+        "aenanvarea": false,
+        "tekanlaeg": false,
+        "andet": true,
+        "planstatus": "A",
+        "matrbetegn": "81351:7",
+        "datotilbag": null,
+        "septima_transaktion_id": "109251558",
+        "septima_hash86": "5ljV4xfoFKTKeGY1mdQ08lG1QsQglCbvQStoP+Hw2T9gF3DMHJ8g6N2IwuJAaY/cTZgTbmN0nsLDYbkK/f1tkw",
+        "septima_serial": "8263"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": 39581,
+        "planid": 3945736,
+        "komnr": 820,
+        "kommunenavn": "Vesthimmerlands",
+        "objektkode": 80,
+        "plantype": 80.1,
+        "lztnavn": "Landzonetilladelse på ejendommen Øster Ørbækvej 8, 9670 Løgstør,",
+        "lztnr": "820-2016-53486",
+        "datoikraft": 20161028,
+        "datoudloeb": 20191028,
+        "doklink": "https://dokument.plandata.dk/80_3945736_1513780675324.pdf",
+        "aktuel": true,
+        "aenanvbyg": false,
+        "aenanvarea": false,
+        "tekanlaeg": false,
+        "andet": true,
+        "planstatus": "A",
+        "matrbetegn": "660452:4y",
+        "datotilbag": null,
+        "septima_transaktion_id": "109251558",
+        "septima_hash86": "KlgqswJKdn1EBi5ehQq2+hfNgJGPuSeoSwYc1JazQpsW3cqmFdqWTb5a29psgILE8SrhLzIhh9rNMxe5STp95Q",
+        "septima_serial": "8720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.891307883,
+                55.683278043
+              ],
+              [
+                11.891507597,
+                55.683235921
+              ],
+              [
+                11.891520982,
+                55.683099144
+              ],
+              [
+                11.891562591,
+                55.682858024
+              ],
+              [
+                11.890905219,
+                55.682886947
+              ],
+              [
+                11.890940455,
+                55.683089021
+              ],
+              [
+                11.890229319,
+                55.683270214
+              ],
+              [
+                11.890366089,
+                55.683476655
+              ],
+              [
+                11.891307883,
+                55.683278043
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": 27776,
+        "planid": 3850610,
+        "komnr": 350,
+        "kommunenavn": "Lejre",
+        "objektkode": 80,
+        "plantype": 80.1,
+        "lztnavn": "Landzonetilladelse",
+        "lztnr": "14/15515",
+        "datoikraft": 20150305,
+        "datoudloeb": 20180305,
+        "doklink": "https://dokument.plandata.dk/80_3850610_1513763843301.pdf",
+        "aktuel": true,
+        "aenanvbyg": false,
+        "aenanvarea": false,
+        "tekanlaeg": false,
+        "andet": true,
+        "planstatus": "A",
+        "matrbetegn": "60953:24",
+        "datotilbag": null,
+        "septima_transaktion_id": "110034540",
+        "septima_hash86": "cApTZsUU4uVlIm8gpqGoipkJ0UXcbFiW/SlcukIljS3ZoPT9zyM7mz5422h0ZT/5qavkfN2tOE/H4FDBJ9q4xw",
+        "septima_serial": "117361"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.872888928,
+                55.71155422
+              ],
+              [
+                11.872842005,
+                55.711530174
+              ],
+              [
+                11.872605159,
+                55.711404067
+              ],
+              [
+                11.873102412,
+                55.711221088
+              ],
+              [
+                11.873311782,
+                55.711402332
+              ],
+              [
+                11.872945633,
+                55.711559904
+              ],
+              [
+                11.872888928,
+                55.71155422
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": 27777,
+        "planid": 3850639,
+        "komnr": 350,
+        "kommunenavn": "Lejre",
+        "objektkode": 80,
+        "plantype": 80.1,
+        "lztnavn": "Landzonetilladelse",
+        "lztnr": "16/3909",
+        "datoikraft": 20160617,
+        "datoudloeb": 20190617,
+        "doklink": "https://dokument.plandata.dk/80_3850639_1513763857782.pdf",
+        "aktuel": true,
+        "aenanvbyg": false,
+        "aenanvarea": false,
+        "tekanlaeg": false,
+        "andet": true,
+        "planstatus": "A",
+        "matrbetegn": "60552:38c",
+        "datotilbag": null,
+        "septima_transaktion_id": "110034540",
+        "septima_hash86": "ZfzwomvjtZ37yx5GjnuOX7tPPkADLvwBKAOvjdiTMi4RnPl++E6sYdMUXs27jbhu77p7+3rDpsVTUMQAM0Qt+A",
+        "septima_serial": "117362"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.899850566,
+                55.601460168
+              ],
+              [
+                11.901147965,
+                55.600676923
+              ],
+              [
+                11.90239018,
+                55.600594378
+              ],
+              [
+                11.903733653,
+                55.60050508
+              ],
+              [
+                11.903740406,
+                55.600483875
+              ],
+              [
+                11.904398469,
+                55.60047788
+              ],
+              [
+                11.904775944,
+                55.600417656
+              ],
+              [
+                11.904813512,
+                55.600492602
+              ],
+              [
+                11.904983627,
+                55.600491303
+              ],
+              [
+                11.905084436,
+                55.600538311
+              ],
+              [
+                11.905123026,
+                55.600600019
+              ],
+              [
+                11.90517132,
+                55.600747204
+              ],
+              [
+                11.905405231,
+                55.600744337
+              ],
+              [
+                11.905435464,
+                55.600775489
+              ],
+              [
+                11.905472095,
+                55.600865866
+              ],
+              [
+                11.905495916,
+                55.600906915
+              ],
+              [
+                11.905513754,
+                55.600999095
+              ],
+              [
+                11.905508749,
+                55.601049286
+              ],
+              [
+                11.905478814,
+                55.601136809
+              ],
+              [
+                11.9054329,
+                55.601215452
+              ],
+              [
+                11.905364374,
+                55.601304385
+              ],
+              [
+                11.905285658,
+                55.601388651
+              ],
+              [
+                11.90501774,
+                55.601647964
+              ],
+              [
+                11.904818198,
+                55.601934207
+              ],
+              [
+                11.904799791,
+                55.601974099
+              ],
+              [
+                11.899850566,
+                55.601460168
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": 27778,
+        "planid": 3850708,
+        "komnr": 350,
+        "kommunenavn": "Lejre",
+        "objektkode": 80,
+        "plantype": 80.1,
+        "lztnavn": "Landzonetilladelse",
+        "lztnr": "15/14936",
+        "datoikraft": 20160519,
+        "datoudloeb": 20190519,
+        "doklink": "https://dokument.plandata.dk/80_3850708_1513763893531.pdf",
+        "aktuel": true,
+        "aenanvbyg": true,
+        "aenanvarea": false,
+        "tekanlaeg": false,
+        "andet": null,
+        "planstatus": "A",
+        "matrbetegn": "60652:12a",
+        "datotilbag": null,
+        "septima_transaktion_id": "110034540",
+        "septima_hash86": "muSa9/pq6gQuVxFAj6wU/yh6sW4adFD0qSl4SADZZEpJFxvTdl4WWiZHSbgVqDMwhGn7JTWr03BRGHTP7cggqg",
+        "septima_serial": "117363"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.879254491,
+                55.587563385
+              ],
+              [
+                11.879422739,
+                55.588081137
+              ],
+              [
+                11.878487754,
+                55.587816363
+              ],
+              [
+                11.878732713,
+                55.587740885
+              ],
+              [
+                11.879254491,
+                55.587563385
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": 27779,
+        "planid": 3850748,
+        "komnr": 350,
+        "kommunenavn": "Lejre",
+        "objektkode": 80,
+        "plantype": 80.1,
+        "lztnavn": "Landzonetilladelse",
+        "lztnr": "16/4340",
+        "datoikraft": 20160608,
+        "datoudloeb": 20190608,
+        "doklink": "https://dokument.plandata.dk/80_3850748_1513763912634.pdf",
+        "aktuel": true,
+        "aenanvbyg": false,
+        "aenanvarea": false,
+        "tekanlaeg": false,
+        "andet": true,
+        "planstatus": "A",
+        "matrbetegn": "60453:8m",
+        "datotilbag": null,
+        "septima_transaktion_id": "110034540",
+        "septima_hash86": "oIcgYCBDsD/mfb8Ixi468/sERMAMnVbnxhfiYyiwHZIA5wkPPvS7DRPBLgV+V7OZ8LfaX/Y7TycH4hWzC5JRQw",
+        "septima_serial": "117364"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.002501149,
+                55.58675965
+              ],
+              [
+                12.001848425,
+                55.586334101
+              ],
+              [
+                12.002037126,
+                55.586168152
+              ],
+              [
+                12.002399864,
+                55.585982815
+              ],
+              [
+                12.003532806,
+                55.585360211
+              ],
+              [
+                12.003974196,
+                55.585138375
+              ],
+              [
+                12.004508162,
+                55.584870009
+              ],
+              [
+                12.005686113,
+                55.585650549
+              ],
+              [
+                12.003291774,
+                55.587281128
+              ],
+              [
+                12.002902725,
+                55.587021279
+              ],
+              [
+                12.002501149,
+                55.58675965
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": 27780,
+        "planid": 3850718,
+        "komnr": 350,
+        "kommunenavn": "Lejre",
+        "objektkode": 80,
+        "plantype": 80.1,
+        "lztnavn": "Landzonetilladelse",
+        "lztnr": "16/5530",
+        "datoikraft": 20160526,
+        "datoudloeb": 20190526,
+        "doklink": "https://dokument.plandata.dk/80_3850718_1513763898655.pdf",
+        "aktuel": true,
+        "aenanvbyg": false,
+        "aenanvarea": false,
+        "tekanlaeg": false,
+        "andet": true,
+        "planstatus": "A",
+        "matrbetegn": "51051:11c",
+        "datotilbag": null,
+        "septima_transaktion_id": "110034540",
+        "septima_hash86": "q+YCnjAkikunvH8zBB4/FaCjdrrwjl+NC6BgPFyhCr5jqFyKLQ5HXsob9zEIYOcCsLJlE8S/CVHbPlV3OXg2CQ",
+        "septima_serial": "117365"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.915890109,
+                55.554411071
+              ],
+              [
+                11.916025372,
+                55.554511629
+              ],
+              [
+                11.915951509,
+                55.554627549
+              ],
+              [
+                11.915961997,
+                55.554735267
+              ],
+              [
+                11.916172098,
+                55.554783322
+              ],
+              [
+                11.916328427,
+                55.554820574
+              ],
+              [
+                11.916652898,
+                55.554873645
+              ],
+              [
+                11.916138526,
+                55.555217986
+              ],
+              [
+                11.915539292,
+                55.555131227
+              ],
+              [
+                11.91556389,
+                55.554958064
+              ],
+              [
+                11.91571413,
+                55.554517619
+              ],
+              [
+                11.915766516,
+                55.554406786
+              ],
+              [
+                11.91578511,
+                55.55434951
+              ],
+              [
+                11.915890109,
+                55.554411071
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": 27781,
+        "planid": 3850785,
+        "komnr": 350,
+        "kommunenavn": "Lejre",
+        "objektkode": 80,
+        "plantype": 80.1,
+        "lztnavn": "Landzonetilladelse",
+        "lztnr": "16/6083",
+        "datoikraft": 20160629,
+        "datoudloeb": 20190629,
+        "doklink": "https://dokument.plandata.dk/80_3850785_1513763929193.pdf",
+        "aktuel": true,
+        "aenanvbyg": false,
+        "aenanvarea": true,
+        "tekanlaeg": false,
+        "andet": null,
+        "planstatus": "A",
+        "matrbetegn": "61351:7c",
+        "datotilbag": null,
+        "septima_transaktion_id": "110034540",
+        "septima_hash86": "T6YYNQBL5/00IwVEtKvf9aCj5k1ki/tTut7AI8BE+3kqzJq4UNUCskoNvQ11lvLASnm40GTrQ+auR4tZcfpgaw",
+        "septima_serial": "117366"
+      }
+    }
+  ]
+}

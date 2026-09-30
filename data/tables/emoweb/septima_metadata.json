@@ -1,0 +1,17 @@
+[
+  {
+    "tabelnavn": "energy_labels",
+    "beskrivelse": "Energimærker fra Energimærkeordningen",
+    "kilde": "Hentes fra emoweb.dk, se https://emoweb.dk/emodata/api-docs/index.html?url=/emodata/api-docs/swagger.json",
+    "rettigheder": "Data kan anvedes frit (Der er PT ingen URL angående dette)",
+    "rettigheder_url": null,
+    "attributtering": "",
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads, hentning tager timer, indlæsning minutter"
+  }
+]

@@ -1,0 +1,177 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.750916652,
+          55.233887084,
+          0
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1200185710",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "SDFE",
+        "registreringfra": "2017-10-06T11:52:30.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2017-10-05T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Uspecificeret",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Uspecificeret",
+        "applikation": "SDFE",
+        "kommentar": "Prøvedata lavet til prøvereplikering.",
+        "vanduuid": "003981c9-5894-4870-ba85-043595024118",
+        "station": null,
+        "haendelsestype": "Stigbord",
+        "kote": null,
+        "link": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "373",
+        "septima_hash86": "rSAfwYNLmxdwtxXc35YBMe03b2w4z0KfTzZSBgmQ2Su3Q2ISH4u0TLCqPyCI8ZXATI5iivpmF7xZhD/3IGHAyw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.75097977,
+          55.233600687,
+          0
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1200185711",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "SDFE",
+        "registreringfra": "2017-10-06T11:52:33.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2017-10-05T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Uspecificeret",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Uspecificeret",
+        "applikation": "SDFE",
+        "kommentar": "Prøvedata lavet til prøvereplikering.",
+        "vanduuid": "dfa72ecc-3e30-420a-8fdc-97a9a5a9963c",
+        "station": null,
+        "haendelsestype": "Tværprofil",
+        "kote": null,
+        "link": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "374",
+        "septima_hash86": "SAji2L6XeXPYl8AvSTHwiOGYQcQrlBqFkmPPjoaGyLx7wCOM7tfmIL0WuakNe7c8U4rcFm9kjx6kklA7TqIamg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.750965994,
+          55.233654037,
+          0
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1200185712",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "SDFE",
+        "registreringfra": "2017-10-06T11:52:33.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2017-10-05T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Uspecificeret",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Uspecificeret",
+        "applikation": "SDFE",
+        "kommentar": "Prøvedata lavet til prøvereplikering.",
+        "vanduuid": "0bfedccc-8693-41a4-9d56-82508fcee60d",
+        "station": null,
+        "haendelsestype": "Målersted",
+        "kote": null,
+        "link": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "375",
+        "septima_hash86": "zxPZh46b031j7RgCAqWjEljdLyjHLCESX8Zgc5rdtFn+dqRHVcsiBQFq5ddsWWOWmw24og0zrfko6Dg/pYv1Iw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.751019434,
+          55.233425662,
+          0
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1200185713",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "SDFE",
+        "registreringfra": "2017-10-06T11:52:33.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2017-10-05T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Uspecificeret",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Uspecificeret",
+        "applikation": "SDFE",
+        "kommentar": "Prøvedata lavet til prøvereplikering.",
+        "vanduuid": "01a669ae-6316-4153-ae0c-10123e711c27",
+        "station": null,
+        "haendelsestype": "Andet",
+        "kote": null,
+        "link": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "376",
+        "septima_hash86": "ZwajnBYeumBSRv0Wpr2XUePuvMWLvhDfvfSFvPM0DOpVSt5kLXu6clh2OG3W+FPVRLL3DpOoUmZYnXxaYPRiaQ"
+      }
+    }
+  ]
+}

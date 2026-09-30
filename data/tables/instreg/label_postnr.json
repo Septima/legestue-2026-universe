@@ -1,0 +1,72 @@
+[
+  {
+    "postnr": "0555",
+    "postdistrikt": "Scanning",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "hvlwJysQxLEymRITSjNrrtEI7wtiWImCDpOJ7KBE9QGL/6QAJr304fTcW3G417GoPld0J1Bvtd2qy1vMCnDyhg",
+    "septima_serial": "2"
+  },
+  {
+    "postnr": "0800",
+    "postdistrikt": "Høje Taastrup",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "4iRDTZ2/Tin8bhFJZGVbibgpryC8k3YUikRntueiJV35eEPryzad9tcsRDDH/VBxQH48ww6tK+W0GXkbxzXGzw",
+    "septima_serial": "3"
+  },
+  {
+    "postnr": "0877",
+    "postdistrikt": "København C",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "w15ZLyx79BQKogR0JXHYs05EkoWLq3wGSGI7q3CHhdzZSxKNeD7KVulcwBLp9PGiWpe8joRQBrMHbWF8crcu/w",
+    "septima_serial": "4"
+  },
+  {
+    "postnr": "0892",
+    "postdistrikt": "Sjælland USF P",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "6FRc+mdKweOXJhiAUR9dsZ5my4/QrFXwU2WWHxPVeUbsryyTsrKzbp7GoR1XhKQR90qejVa/Bw7Dhc/mN2kRZQ",
+    "septima_serial": "5"
+  },
+  {
+    "postnr": "0893",
+    "postdistrikt": "Sjælland USF B",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "qAnTrm1It1mjUT70SdrnJYAypvOgBFe6axPqpZNsqn0L7h3g0sXBMD9K3MlCqsXeUZGp9xy1+6nIB1c4yGg6NQ",
+    "septima_serial": "6"
+  },
+  {
+    "postnr": "0897",
+    "postdistrikt": "eBrevsprækken",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "3CluZOT3TP+fJpJIY/JPiPkDsRIbPDtoIFYMA+b+BWpFEooIzzV/HGG+PLvSKppQi7r1BFdKtyghkHCm35QAuA",
+    "septima_serial": "7"
+  },
+  {
+    "postnr": "0899",
+    "postdistrikt": "Kommuneservice",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "1Fy1xC8S5on3Ko5EDYaDBqez2H+R0OnrBRWequDAjMBtoh3Vqej2qsn67escEx9nko3rSwmJ66quGKbF7yPjwg",
+    "septima_serial": "8"
+  },
+  {
+    "postnr": "0900",
+    "postdistrikt": "København C",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "I9LCBtFoP1IkDjxRNMcsl6rCXS0JpQPKlpiUt6o2Co3Mdh+duR+yw2eOdxVUb2fodbtahPNZ6mWn96y0Wa2Jiw",
+    "septima_serial": "9"
+  },
+  {
+    "postnr": "0910",
+    "postdistrikt": "København C",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "Kjl5jHIW+qZ5Bi2+UHf6B1NhSXD0tyiMOn8JT0UtM6+i3YAQnV7Tt5+Ht8shR5E4hkb1azMC+yINxM5rwI5DvQ",
+    "septima_serial": "10"
+  },
+  {
+    "postnr": "0929",
+    "postdistrikt": "København C",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "uER9Jpao+8+FUcVbXZWwSw3mF4tNEgdrVbvNpwX1mgCJBAZMtdbt5uKJnYhMjvDPq0uyJRutH+dBz63jAoFS5A",
+    "septima_serial": "11"
+  }
+]

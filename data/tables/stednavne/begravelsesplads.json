@@ -1,0 +1,3054 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.227242034,
+                55.9705241,
+                0
+              ],
+              [
+                12.226820381,
+                55.970500627,
+                0
+              ],
+              [
+                12.226613235,
+                55.970483039,
+                0
+              ],
+              [
+                12.226410953,
+                55.970468021,
+                0
+              ],
+              [
+                12.226424345,
+                55.970395927,
+                0
+              ],
+              [
+                12.226329942,
+                55.970390399,
+                0
+              ],
+              [
+                12.22631655,
+                55.970462493,
+                0
+              ],
+              [
+                12.226203863,
+                55.970439553,
+                0
+              ],
+              [
+                12.226210668,
+                55.970390377,
+                0
+              ],
+              [
+                12.226213687,
+                55.970374655,
+                0
+              ],
+              [
+                12.226222598,
+                55.970327672,
+                0
+              ],
+              [
+                12.226232337,
+                55.970244436,
+                0
+              ],
+              [
+                12.226259649,
+                55.970089267,
+                0
+              ],
+              [
+                12.226396282,
+                55.970093689,
+                0
+              ],
+              [
+                12.226433336,
+                55.970099731,
+                0
+              ],
+              [
+                12.226451589,
+                55.97003596,
+                0
+              ],
+              [
+                12.226774144,
+                55.970014923,
+                0
+              ],
+              [
+                12.226830463,
+                55.970009761,
+                0
+              ],
+              [
+                12.22711572,
+                55.969997072,
+                0
+              ],
+              [
+                12.227188761,
+                55.970029051,
+                0
+              ],
+              [
+                12.227268312,
+                55.970177644,
+                0
+              ],
+              [
+                12.227279263,
+                55.970203249,
+                0
+              ],
+              [
+                12.227289646,
+                55.970202797,
+                0
+              ],
+              [
+                12.227301308,
+                55.970202312,
+                0
+              ],
+              [
+                12.227299774,
+                55.970228154,
+                0
+              ],
+              [
+                12.227301676,
+                55.97030677,
+                0
+              ],
+              [
+                12.227298194,
+                55.970355409,
+                0
+              ],
+              [
+                12.227242034,
+                55.9705241,
+                0
+              ]
+            ],
+            [
+              [
+                12.226720703,
+                55.97031633,
+                0
+              ],
+              [
+                12.226977934,
+                55.970311657,
+                0
+              ],
+              [
+                12.227016875,
+                55.970290319,
+                0
+              ],
+              [
+                12.227036248,
+                55.970297723,
+                0
+              ],
+              [
+                12.227050782,
+                55.970287453,
+                0
+              ],
+              [
+                12.227028678,
+                55.970278053,
+                0
+              ],
+              [
+                12.227028649,
+                55.970252701,
+                0
+              ],
+              [
+                12.227044034,
+                55.970248791,
+                0
+              ],
+              [
+                12.227039075,
+                55.970239301,
+                0
+              ],
+              [
+                12.227022225,
+                55.970244868,
+                0
+              ],
+              [
+                12.226972766,
+                55.970222699,
+                0
+              ],
+              [
+                12.226815411,
+                55.970225473,
+                0
+              ],
+              [
+                12.226812096,
+                55.970183755,
+                0
+              ],
+              [
+                12.226728923,
+                55.970186025,
+                0
+              ],
+              [
+                12.226732819,
+                55.970227008,
+                0
+              ],
+              [
+                12.226715528,
+                55.970227282,
+                0
+              ],
+              [
+                12.226716615,
+                55.970248021,
+                0
+              ],
+              [
+                12.226652288,
+                55.970249436,
+                0
+              ],
+              [
+                12.226656965,
+                55.970301727,
+                0
+              ],
+              [
+                12.22671964,
+                55.970299726,
+                0
+              ],
+              [
+                12.226720703,
+                55.97031633,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "363107",
+        "gmlid": "sn.3acda388-ebfa-5b71-e053-d380220a2669.20160824T100723",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "3acda388-ebfa-5b71-e053-d380220a2669",
+        "registreringfra": "2016-08-24T08:07:23.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2016-08-24T08:07:23.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2016-08-24T08:07:23.000Z",
+        "navn_1_skrivemaade": "Alsønderup Kirkegård",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "3037",
+        "begravelsespladstype": "kristen",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "eUhodID/vtf2Ia4z9E62o3VzjFVYOpbNpzBCAEdtUXfd/d1coqif873WdkhpVSbn/xtYjnXQ9y78FZjdL1TdmA",
+        "septima_serial": "173672"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.61016011,
+                55.627795873,
+                0
+              ],
+              [
+                11.610101273,
+                55.627852407,
+                0
+              ],
+              [
+                11.610057494,
+                55.627867811,
+                0
+              ],
+              [
+                11.609676434,
+                55.627919249,
+                0
+              ],
+              [
+                11.609614006,
+                55.627907454,
+                0
+              ],
+              [
+                11.609558126,
+                55.627874666,
+                0
+              ],
+              [
+                11.609522877,
+                55.627779415,
+                0
+              ],
+              [
+                11.60949999,
+                55.627717159,
+                0
+              ],
+              [
+                11.609476368,
+                55.627653392,
+                0
+              ],
+              [
+                11.609527899,
+                55.627582541,
+                0
+              ],
+              [
+                11.609562379,
+                55.627558706,
+                0
+              ],
+              [
+                11.609665407,
+                55.627550311,
+                0
+              ],
+              [
+                11.609708058,
+                55.627546617,
+                0
+              ],
+              [
+                11.609935382,
+                55.62753189,
+                0
+              ],
+              [
+                11.609995745,
+                55.627536538,
+                0
+              ],
+              [
+                11.610242575,
+                55.627514114,
+                0
+              ],
+              [
+                11.610457754,
+                55.627488769,
+                0
+              ],
+              [
+                11.610518119,
+                55.627646317,
+                0
+              ],
+              [
+                11.610532384,
+                55.627722239,
+                0
+              ],
+              [
+                11.610534539,
+                55.627742687,
+                0
+              ],
+              [
+                11.61016011,
+                55.627795873,
+                0
+              ]
+            ],
+            [
+              [
+                11.609699551,
+                55.627662394,
+                0
+              ],
+              [
+                11.609716228,
+                55.627702939,
+                0
+              ],
+              [
+                11.609633856,
+                55.627713771,
+                0
+              ],
+              [
+                11.609659464,
+                55.627776328,
+                0
+              ],
+              [
+                11.609763568,
+                55.627762606,
+                0
+              ],
+              [
+                11.610022975,
+                55.627728589,
+                0
+              ],
+              [
+                11.609997567,
+                55.627666658,
+                0
+              ],
+              [
+                11.609800533,
+                55.627692515,
+                0
+              ],
+              [
+                11.609783656,
+                55.627651346,
+                0
+              ],
+              [
+                11.609699551,
+                55.627662394,
+                0
+              ]
+            ],
+            [
+              [
+                11.610428704,
+                55.627675457,
+                0
+              ],
+              [
+                11.61043694,
+                55.627718069,
+                0
+              ],
+              [
+                11.610519846,
+                55.627712888,
+                0
+              ],
+              [
+                11.610511775,
+                55.627670362,
+                0
+              ],
+              [
+                11.610428704,
+                55.627675457,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "362679",
+        "gmlid": "sn.39c699ca-dd59-a537-e053-d380220a87cb.20160811T081637",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "39c699ca-dd59-a537-e053-d380220a87cb",
+        "registreringfra": "2016-08-11T06:16:37.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2016-08-11T06:16:37.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2016-08-11T06:16:38.000Z",
+        "navn_1_skrivemaade": "Søndersted Kirkegård",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "1984",
+        "begravelsespladstype": "kristen",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "+6giWJFodOgwp7FqnKfmAGDHqiB5+AHcS6VUS998RMUYU9G/MsSiyOqN3BlDAz/hlY4epv1qfRmc/lvBL7dFYQ",
+        "septima_serial": "173673"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.668608023,
+                55.652414744,
+                0
+              ],
+              [
+                11.668580373,
+                55.652104236,
+                0
+              ],
+              [
+                11.668638699,
+                55.652134339,
+                0
+              ],
+              [
+                11.6686988,
+                55.652097075,
+                0
+              ],
+              [
+                11.668640473,
+                55.652066973,
+                0
+              ],
+              [
+                11.668752075,
+                55.652066971,
+                0
+              ],
+              [
+                11.668760275,
+                55.652065984,
+                0
+              ],
+              [
+                11.668777633,
+                55.652064078,
+                0
+              ],
+              [
+                11.668790411,
+                55.652062631,
+                0
+              ],
+              [
+                11.66880098,
+                55.652061413,
+                0
+              ],
+              [
+                11.668785367,
+                55.651876399,
+                0
+              ],
+              [
+                11.669303119,
+                55.651864233,
+                0
+              ],
+              [
+                11.669331931,
+                55.652100646,
+                0
+              ],
+              [
+                11.669358812,
+                55.652282987,
+                0
+              ],
+              [
+                11.669308616,
+                55.65234898,
+                0
+              ],
+              [
+                11.669221009,
+                55.652367516,
+                0
+              ],
+              [
+                11.669208725,
+                55.652369222,
+                0
+              ],
+              [
+                11.669198168,
+                55.65237062,
+                0
+              ],
+              [
+                11.668936762,
+                55.652400309,
+                0
+              ],
+              [
+                11.668860431,
+                55.652397656,
+                0
+              ],
+              [
+                11.668608023,
+                55.652414744,
+                0
+              ]
+            ],
+            [
+              [
+                11.668779455,
+                55.652277707,
+                0
+              ],
+              [
+                11.668902688,
+                55.652275744,
+                0
+              ],
+              [
+                11.669134379,
+                55.652271961,
+                0
+              ],
+              [
+                11.66913598,
+                55.652304826,
+                0
+              ],
+              [
+                11.669226971,
+                55.652303295,
+                0
+              ],
+              [
+                11.669221665,
+                55.65219734,
+                0
+              ],
+              [
+                11.668997277,
+                55.652200965,
+                0
+              ],
+              [
+                11.668994246,
+                55.652142423,
+                0
+              ],
+              [
+                11.668878633,
+                55.652144219,
+                0
+              ],
+              [
+                11.66888134,
+                55.652198005,
+                0
+              ],
+              [
+                11.668775416,
+                55.65219968,
+                0
+              ],
+              [
+                11.668779455,
+                55.652277707,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "362680",
+        "gmlid": "sn.39c699ca-dd5a-a537-e053-d380220a87cb.20160811T081731",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "39c699ca-dd5a-a537-e053-d380220a87cb",
+        "registreringfra": "2016-08-11T06:17:31.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2016-08-11T06:17:31.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2016-08-11T06:17:31.000Z",
+        "navn_1_skrivemaade": "Kvanløse Kirkegård",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "2074",
+        "begravelsespladstype": "kristen",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "dpUB8tX+q/G65GHU9rnrF+/IfEd9SykhgLc9D5Ui8gAOTjh327Ulaxm+Y4THZR7sXRosAdfEYMSY5HVu+SoM1g",
+        "septima_serial": "173674"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.699170413,
+                55.692829865,
+                0
+              ],
+              [
+                11.699178787,
+                55.692845142,
+                0
+              ],
+              [
+                11.699188387,
+                55.692871268,
+                0
+              ],
+              [
+                11.699227201,
+                55.692977204,
+                0
+              ],
+              [
+                11.698489394,
+                55.693097075,
+                0
+              ],
+              [
+                11.698337979,
+                55.692816711,
+                0
+              ],
+              [
+                11.698042962,
+                55.692858794,
+                0
+              ],
+              [
+                11.698000239,
+                55.692811552,
+                0
+              ],
+              [
+                11.697993241,
+                55.692797773,
+                0
+              ],
+              [
+                11.69795238,
+                55.692717501,
+                0
+              ],
+              [
+                11.697709969,
+                55.692160387,
+                0
+              ],
+              [
+                11.69871156,
+                55.691984291,
+                0
+              ],
+              [
+                11.699170413,
+                55.692829865,
+                0
+              ]
+            ],
+            [
+              [
+                11.698605688,
+                55.692810194,
+                0
+              ],
+              [
+                11.698675669,
+                55.692798048,
+                0
+              ],
+              [
+                11.698659448,
+                55.692768202,
+                0
+              ],
+              [
+                11.698826941,
+                55.692739259,
+                0
+              ],
+              [
+                11.698821855,
+                55.692730112,
+                0
+              ],
+              [
+                11.69890646,
+                55.692715397,
+                0
+              ],
+              [
+                11.698872548,
+                55.69265286,
+                0
+              ],
+              [
+                11.698784631,
+                55.692668008,
+                0
+              ],
+              [
+                11.698780615,
+                55.692660545,
+                0
+              ],
+              [
+                11.698568623,
+                55.692697298,
+                0
+              ],
+              [
+                11.698514053,
+                55.692706768,
+                0
+              ],
+              [
+                11.698556167,
+                55.692784406,
+                0
+              ],
+              [
+                11.69858872,
+                55.692778746,
+                0
+              ],
+              [
+                11.698605688,
+                55.692810194,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "362682",
+        "gmlid": "sn.39c699ca-dd5c-a537-e053-d380220a87cb.20160811T081921",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "39c699ca-dd5c-a537-e053-d380220a87cb",
+        "registreringfra": "2016-08-11T06:19:21.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2016-08-11T06:19:21.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2016-08-11T06:19:22.000Z",
+        "navn_1_skrivemaade": "Tveje Merløse Kirkegård",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "6960",
+        "begravelsespladstype": "kristen",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "vPOMUCMqs67FdrIKXXbvxg1NdwQ6lSfXMJSLPHggcf0Ijr1mGKQ0Chg2M8FSeXjmx9N1FfwJRp0LuoJqTCYa2g",
+        "septima_serial": "173675"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.311201913,
+                56.123529507,
+                0
+              ],
+              [
+                12.310943939,
+                56.123567355,
+                0
+              ],
+              [
+                12.310860175,
+                56.123579672,
+                0
+              ],
+              [
+                12.310567731,
+                56.123622849,
+                0
+              ],
+              [
+                12.310517136,
+                56.123629691,
+                0
+              ],
+              [
+                12.310384366,
+                56.123648626,
+                0
+              ],
+              [
+                12.31032746,
+                56.123653209,
+                0
+              ],
+              [
+                12.310260847,
+                56.123621641,
+                0
+              ],
+              [
+                12.310088648,
+                56.123412198,
+                0
+              ],
+              [
+                12.310067281,
+                56.123378967,
+                0
+              ],
+              [
+                12.310033725,
+                56.12330129,
+                0
+              ],
+              [
+                12.310022684,
+                56.123249622,
+                0
+              ],
+              [
+                12.310018193,
+                56.123139339,
+                0
+              ],
+              [
+                12.310036064,
+                56.123096335,
+                0
+              ],
+              [
+                12.310042324,
+                56.123081153,
+                0
+              ],
+              [
+                12.310185703,
+                56.12303775,
+                0
+              ],
+              [
+                12.310458231,
+                56.122952043,
+                0
+              ],
+              [
+                12.310638523,
+                56.123059047,
+                0
+              ],
+              [
+                12.310640389,
+                56.123060166,
+                0
+              ],
+              [
+                12.310656707,
+                56.123070247,
+                0
+              ],
+              [
+                12.310658574,
+                56.123071366,
+                0
+              ],
+              [
+                12.310802773,
+                56.123166662,
+                0
+              ],
+              [
+                12.310831162,
+                56.123182353,
+                0
+              ],
+              [
+                12.311445359,
+                56.123043874,
+                0
+              ],
+              [
+                12.311455855,
+                56.123212702,
+                0
+              ],
+              [
+                12.311469663,
+                56.123485552,
+                0
+              ],
+              [
+                12.311372611,
+                56.123500563,
+                0
+              ],
+              [
+                12.311280163,
+                56.123516709,
+                0
+              ],
+              [
+                12.311201913,
+                56.123529507,
+                0
+              ]
+            ],
+            [
+              [
+                12.311280163,
+                56.123516709,
+                0
+              ],
+              [
+                12.311269394,
+                56.123492544,
+                0
+              ],
+              [
+                12.311061669,
+                56.123521402,
+                0
+              ],
+              [
+                12.311072431,
+                56.123545477,
+                0
+              ],
+              [
+                12.311280163,
+                56.123516709,
+                0
+              ]
+            ],
+            [
+              [
+                12.31102281,
+                56.123535571,
+                0
+              ],
+              [
+                12.310992224,
+                56.123539268,
+                0
+              ],
+              [
+                12.310983265,
+                56.123511818,
+                0
+              ],
+              [
+                12.310903153,
+                56.123519811,
+                0
+              ],
+              [
+                12.310917337,
+                56.123559348,
+                0
+              ],
+              [
+                12.310997915,
+                56.123551163,
+                0
+              ],
+              [
+                12.311000709,
+                56.123555583,
+                0
+              ],
+              [
+                12.311028274,
+                56.123552326,
+                0
+              ],
+              [
+                12.31102281,
+                56.123535571,
+                0
+              ]
+            ],
+            [
+              [
+                12.310122089,
+                56.123295684,
+                0
+              ],
+              [
+                12.310214473,
+                56.123297521,
+                0
+              ],
+              [
+                12.310217951,
+                56.123242496,
+                0
+              ],
+              [
+                12.310191026,
+                56.12324196,
+                0
+              ],
+              [
+                12.310191434,
+                56.123235476,
+                0
+              ],
+              [
+                12.310426665,
+                56.123240134,
+                0
+              ],
+              [
+                12.310478713,
+                56.123233344,
+                0
+              ],
+              [
+                12.310507129,
+                56.123211904,
+                0
+              ],
+              [
+                12.310512945,
+                56.123185945,
+                0
+              ],
+              [
+                12.310485897,
+                56.123163385,
+                0
+              ],
+              [
+                12.310438792,
+                56.123152781,
+                0
+              ],
+              [
+                12.310132941,
+                56.123146691,
+                0
+              ],
+              [
+                12.31012739,
+                56.123233777,
+                0
+              ],
+              [
+                12.310135611,
+                56.123233916,
+                0
+              ],
+              [
+                12.310135309,
+                56.123239768,
+                0
+              ],
+              [
+                12.310125635,
+                56.123239578,
+                0
+              ],
+              [
+                12.310122089,
+                56.123295684,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "363116",
+        "gmlid": "sn.3acda388-ec03-5b71-e053-d380220a2669.20160824T101422",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "3acda388-ec03-5b71-e053-d380220a2669",
+        "registreringfra": "2016-08-24T08:14:22.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2016-08-24T08:14:22.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2016-08-24T08:14:22.000Z",
+        "navn_1_skrivemaade": "Gilleleje Gamle Kirkegård",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "4529",
+        "begravelsespladstype": "kristen",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "YJq8fR0jiY4MfusWnsa+SaltmnM06p3nK7llfSSxJ/IX9MNYoAfnJL6bRg2MWzxNR2WLungx1ye1eGfXEalmdA",
+        "septima_serial": "173676"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.486581238,
+                55.512583012,
+                0
+              ],
+              [
+                11.486113181,
+                55.512005826,
+                0
+              ],
+              [
+                11.486391357,
+                55.5119333,
+                0
+              ],
+              [
+                11.486479341,
+                55.511909311,
+                0
+              ],
+              [
+                11.486734351,
+                55.511848761,
+                0
+              ],
+              [
+                11.48675426,
+                55.511875593,
+                0
+              ],
+              [
+                11.486840866,
+                55.511854867,
+                0
+              ],
+              [
+                11.486801738,
+                55.511802089,
+                0
+              ],
+              [
+                11.486962265,
+                55.511760447,
+                0
+              ],
+              [
+                11.487528631,
+                55.51161357,
+                0
+              ],
+              [
+                11.487937275,
+                55.511507649,
+                0
+              ],
+              [
+                11.488085489,
+                55.511469221,
+                0
+              ],
+              [
+                11.488090636,
+                55.511467948,
+                0
+              ],
+              [
+                11.488186926,
+                55.51149026,
+                0
+              ],
+              [
+                11.488354224,
+                55.511533331,
+                0
+              ],
+              [
+                11.48838083,
+                55.511565869,
+                0
+              ],
+              [
+                11.488393365,
+                55.511581255,
+                0
+              ],
+              [
+                11.488396134,
+                55.511584974,
+                0
+              ],
+              [
+                11.488398219,
+                55.511587897,
+                0
+              ],
+              [
+                11.488545009,
+                55.511787879,
+                0
+              ],
+              [
+                11.488350177,
+                55.511828063,
+                0
+              ],
+              [
+                11.488373371,
+                55.511864266,
+                0
+              ],
+              [
+                11.488121718,
+                55.51191774,
+                0
+              ],
+              [
+                11.488111729,
+                55.5119201,
+                0
+              ],
+              [
+                11.488097367,
+                55.511923448,
+                0
+              ],
+              [
+                11.487386408,
+                55.512095917,
+                0
+              ],
+              [
+                11.487558038,
+                55.51233063,
+                0
+              ],
+              [
+                11.487456838,
+                55.512356057,
+                0
+              ],
+              [
+                11.487084886,
+                55.512451164,
+                0
+              ],
+              [
+                11.487081427,
+                55.51244656,
+                0
+              ],
+              [
+                11.487095936,
+                55.51244303,
+                0
+              ],
+              [
+                11.487063662,
+                55.512400989,
+                0
+              ],
+              [
+                11.48693811,
+                55.512432124,
+                0
+              ],
+              [
+                11.486970378,
+                55.512474074,
+                0
+              ],
+              [
+                11.487053042,
+                55.512453609,
+                0
+              ],
+              [
+                11.487056501,
+                55.512458213,
+                0
+              ],
+              [
+                11.486581238,
+                55.512583012,
+                0
+              ]
+            ],
+            [
+              [
+                11.487682025,
+                55.511903215,
+                0
+              ],
+              [
+                11.487822153,
+                55.511877177,
+                0
+              ],
+              [
+                11.487787457,
+                55.511816848,
+                0
+              ],
+              [
+                11.487944335,
+                55.511787683,
+                0
+              ],
+              [
+                11.487898805,
+                55.511708789,
+                0
+              ],
+              [
+                11.487713271,
+                55.51174321,
+                0
+              ],
+              [
+                11.487689608,
+                55.511702074,
+                0
+              ],
+              [
+                11.487599425,
+                55.511718827,
+                0
+              ],
+              [
+                11.487623089,
+                55.511759964,
+                0
+              ],
+              [
+                11.487601795,
+                55.511763903,
+                0
+              ],
+              [
+                11.48760553,
+                55.511770388,
+                0
+              ],
+              [
+                11.487504076,
+                55.511789259,
+                0
+              ],
+              [
+                11.487544621,
+                55.511859446,
+                0
+              ],
+              [
+                11.487613199,
+                55.511846726,
+                0
+              ],
+              [
+                11.487619252,
+                55.5118573,
+                0
+              ],
+              [
+                11.487652128,
+                55.511851149,
+                0
+              ],
+              [
+                11.487682025,
+                55.511903215,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "362702",
+        "gmlid": "sn.39c7b94a-84be-45e3-e053-d480220adb21.20160811T093312",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "39c7b94a-84be-45e3-e053-d480220adb21",
+        "registreringfra": "2016-08-11T07:33:12.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2016-08-11T07:33:12.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2016-08-11T07:33:12.000Z",
+        "navn_1_skrivemaade": "Tersløse Kirkegård",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "8139",
+        "begravelsespladstype": "kristen",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "cepFnswh3rfdgzXyWImnzO03lCshF64+YZlR7pIziSvrZXKlm5MctC2OEmQ+xVb9CYihHik9eOqI8Wsd+THubg",
+        "septima_serial": "173677"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.240538222,
+                55.867643132,
+                0
+              ],
+              [
+                12.240537452,
+                55.8676454,
+                0
+              ],
+              [
+                12.24040089,
+                55.867635603,
+                0
+              ],
+              [
+                12.240386459,
+                55.867633196,
+                0
+              ],
+              [
+                12.240359562,
+                55.867630848,
+                0
+              ],
+              [
+                12.240355549,
+                55.867632573,
+                0
+              ],
+              [
+                12.239216092,
+                55.867556595,
+                0
+              ],
+              [
+                12.239228366,
+                55.867281703,
+                0
+              ],
+              [
+                12.239227672,
+                55.867250345,
+                0
+              ],
+              [
+                12.239228998,
+                55.867147279,
+                0
+              ],
+              [
+                12.239243298,
+                55.867117414,
+                0
+              ],
+              [
+                12.239269039,
+                55.867109723,
+                0
+              ],
+              [
+                12.239320259,
+                55.86711233,
+                0
+              ],
+              [
+                12.239519351,
+                55.867147272,
+                0
+              ],
+              [
+                12.240424134,
+                55.867331293,
+                0
+              ],
+              [
+                12.240479084,
+                55.867340274,
+                0
+              ],
+              [
+                12.240640918,
+                55.867373229,
+                0
+              ],
+              [
+                12.240538222,
+                55.867643132,
+                0
+              ]
+            ],
+            [
+              [
+                12.239523959,
+                55.867394479,
+                0
+              ],
+              [
+                12.239575073,
+                55.867397717,
+                0
+              ],
+              [
+                12.239576586,
+                55.867390935,
+                0
+              ],
+              [
+                12.23959169,
+                55.867389907,
+                0
+              ],
+              [
+                12.239601038,
+                55.867386964,
+                0
+              ],
+              [
+                12.239612779,
+                55.867378204,
+                0
+              ],
+              [
+                12.239615574,
+                55.867367611,
+                0
+              ],
+              [
+                12.239607947,
+                55.867356664,
+                0
+              ],
+              [
+                12.239591958,
+                55.867348994,
+                0
+              ],
+              [
+                12.239585079,
+                55.867347017,
+                0
+              ],
+              [
+                12.239585637,
+                55.867344126,
+                0
+              ],
+              [
+                12.239524071,
+                55.867340173,
+                0
+              ],
+              [
+                12.23952544,
+                55.867333574,
+                0
+              ],
+              [
+                12.23945937,
+                55.867329291,
+                0
+              ],
+              [
+                12.239466668,
+                55.867292148,
+                0
+              ],
+              [
+                12.239379541,
+                55.867286532,
+                0
+              ],
+              [
+                12.239371662,
+                55.867326297,
+                0
+              ],
+              [
+                12.239342083,
+                55.867324379,
+                0
+              ],
+              [
+                12.23933012,
+                55.867384211,
+                0
+              ],
+              [
+                12.239374648,
+                55.867387084,
+                0
+              ],
+              [
+                12.239358349,
+                55.867467798,
+                0
+              ],
+              [
+                12.239507354,
+                55.867477269,
+                0
+              ],
+              [
+                12.239523959,
+                55.867394479,
+                0
+              ]
+            ],
+            [
+              [
+                12.240434241,
+                55.867481347,
+                0
+              ],
+              [
+                12.240531008,
+                55.867493272,
+                0
+              ],
+              [
+                12.240532845,
+                55.867488458,
+                0
+              ],
+              [
+                12.240559824,
+                55.867491793,
+                0
+              ],
+              [
+                12.240576145,
+                55.867449737,
+                0
+              ],
+              [
+                12.240543841,
+                55.867445823,
+                0
+              ],
+              [
+                12.240544749,
+                55.867443282,
+                0
+              ],
+              [
+                12.240453322,
+                55.867432116,
+                0
+              ],
+              [
+                12.240434241,
+                55.867481347,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "363163",
+        "gmlid": "sn.3acda388-ec30-5b71-e053-d380220a2669.20160824T111748",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "3acda388-ec30-5b71-e053-d380220a2669",
+        "registreringfra": "2016-08-24T09:17:48.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2016-08-24T09:17:48.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2016-08-24T09:17:48.000Z",
+        "navn_1_skrivemaade": "Uvelse Kirkegård",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "3308",
+        "begravelsespladstype": "kristen",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "GYdbAEv47P7KAg7850XuShKGhIddkSkB0fFdZQnZeroBTIiq0TEMMR+O0GyYz+yGAn+abxRf3nXK9o43RFSBdQ",
+        "septima_serial": "173678"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.877830128,
+                55.743485716,
+                0
+              ],
+              [
+                11.877146602,
+                55.74346362,
+                0
+              ],
+              [
+                11.877192385,
+                55.743137488,
+                0
+              ],
+              [
+                11.877452431,
+                55.743141462,
+                0
+              ],
+              [
+                11.87745113,
+                55.74315192,
+                0
+              ],
+              [
+                11.877477219,
+                55.743155624,
+                0
+              ],
+              [
+                11.877500816,
+                55.743157947,
+                0
+              ],
+              [
+                11.877503152,
+                55.743142071,
+                0
+              ],
+              [
+                11.877539396,
+                55.74314302,
+                0
+              ],
+              [
+                11.877884356,
+                55.743163971,
+                0
+              ],
+              [
+                11.877869696,
+                55.743250523,
+                0
+              ],
+              [
+                11.877830128,
+                55.743485716,
+                0
+              ]
+            ],
+            [
+              [
+                11.877275545,
+                55.743321082,
+                0
+              ],
+              [
+                11.877407205,
+                55.743325817,
+                0
+              ],
+              [
+                11.877402848,
+                55.743364034,
+                0
+              ],
+              [
+                11.87748066,
+                55.743366796,
+                0
+              ],
+              [
+                11.877484857,
+                55.743328582,
+                0
+              ],
+              [
+                11.877555642,
+                55.743331148,
+                0
+              ],
+              [
+                11.877556711,
+                55.743321864,
+                0
+              ],
+              [
+                11.877636603,
+                55.743324756,
+                0
+              ],
+              [
+                11.877642965,
+                55.743268333,
+                0
+              ],
+              [
+                11.877564989,
+                55.743265486,
+                0
+              ],
+              [
+                11.877566178,
+                55.743253502,
+                0
+              ],
+              [
+                11.877506423,
+                55.743251396,
+                0
+              ],
+              [
+                11.877510514,
+                55.743216062,
+                0
+              ],
+              [
+                11.877423277,
+                55.743212982,
+                0
+              ],
+              [
+                11.877419446,
+                55.743245344,
+                0
+              ],
+              [
+                11.877284591,
+                55.743240504,
+                0
+              ],
+              [
+                11.877275545,
+                55.743321082,
+                0
+              ]
+            ],
+            [
+              [
+                11.87716443,
+                55.743446032,
+                0
+              ],
+              [
+                11.877204281,
+                55.743446177,
+                0
+              ],
+              [
+                11.877204665,
+                55.74341893,
+                0
+              ],
+              [
+                11.877216304,
+                55.743419017,
+                0
+              ],
+              [
+                11.877216751,
+                55.743379632,
+                0
+              ],
+              [
+                11.87716542,
+                55.743379397,
+                0
+              ],
+              [
+                11.87716443,
+                55.743446032,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "363175",
+        "gmlid": "sn.3acda388-ec3c-5b71-e053-d380220a2669.20160824T115034",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "3acda388-ec3c-5b71-e053-d380220a2669",
+        "registreringfra": "2016-08-24T09:50:34.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2016-08-24T09:50:34.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2016-08-24T09:50:34.000Z",
+        "navn_1_skrivemaade": "Vellerup Kirkegård",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "1329",
+        "begravelsespladstype": "kristen",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "FNcg7iF5G1sdWhHVtd/yKd45QaHAjEBKKvVpaJwOJoses6RW4aLaWjILM/mh/t+by3Qp0kDXcVHlrS47Ts7EvQ",
+        "septima_serial": "173679"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.873595944,
+                55.63741397,
+                0
+              ],
+              [
+                11.873195835,
+                55.637408424,
+                0
+              ],
+              [
+                11.872626428,
+                55.637406664,
+                0
+              ],
+              [
+                11.872692354,
+                55.637178403,
+                0
+              ],
+              [
+                11.872692381,
+                55.637176604,
+                0
+              ],
+              [
+                11.872691738,
+                55.637150459,
+                0
+              ],
+              [
+                11.872696177,
+                55.637126443,
+                0
+              ],
+              [
+                11.872740732,
+                55.637127197,
+                0
+              ],
+              [
+                11.87273872,
+                55.636902235,
+                0
+              ],
+              [
+                11.872768236,
+                55.636901633,
+                0
+              ],
+              [
+                11.872768458,
+                55.63689165,
+                0
+              ],
+              [
+                11.872768727,
+                55.636882294,
+                0
+              ],
+              [
+                11.872771681,
+                55.636775069,
+                0
+              ],
+              [
+                11.872797271,
+                55.636649245,
+                0
+              ],
+              [
+                11.872869355,
+                55.636485564,
+                0
+              ],
+              [
+                11.872943456,
+                55.636366783,
+                0
+              ],
+              [
+                11.873162524,
+                55.636382955,
+                0
+              ],
+              [
+                11.873211346,
+                55.636387744,
+                0
+              ],
+              [
+                11.873616574,
+                55.636428588,
+                0
+              ],
+              [
+                11.87368918,
+                55.636564966,
+                0
+              ],
+              [
+                11.873657285,
+                55.636823805,
+                0
+              ],
+              [
+                11.873621431,
+                55.637128403,
+                0
+              ],
+              [
+                11.87361647,
+                55.63715396,
+                0
+              ],
+              [
+                11.873625404,
+                55.637178292,
+                0
+              ],
+              [
+                11.873595944,
+                55.63741397,
+                0
+              ]
+            ],
+            [
+              [
+                11.873018675,
+                55.636773237,
+                0
+              ],
+              [
+                11.873083895,
+                55.636771889,
+                0
+              ],
+              [
+                11.873098973,
+                55.636771625,
+                0
+              ],
+              [
+                11.873099222,
+                55.636777193,
+                0
+              ],
+              [
+                11.873180314,
+                55.636775562,
+                0
+              ],
+              [
+                11.873183513,
+                55.636823582,
+                0
+              ],
+              [
+                11.873296969,
+                55.636821192,
+                0
+              ],
+              [
+                11.873293955,
+                55.636773528,
+                0
+              ],
+              [
+                11.873336487,
+                55.636772711,
+                0
+              ],
+              [
+                11.873338497,
+                55.636804487,
+                0
+              ],
+              [
+                11.87342879,
+                55.636802641,
+                0
+              ],
+              [
+                11.873426767,
+                55.636770685,
+                0
+              ],
+              [
+                11.873472789,
+                55.636769787,
+                0
+              ],
+              [
+                11.873467831,
+                55.636691244,
+                0
+              ],
+              [
+                11.873235042,
+                55.63669607,
+                0
+              ],
+              [
+                11.873231705,
+                55.636644009,
+                0
+              ],
+              [
+                11.873074131,
+                55.636647252,
+                0
+              ],
+              [
+                11.873077598,
+                55.636701108,
+                0
+              ],
+              [
+                11.873014124,
+                55.636702416,
+                0
+              ],
+              [
+                11.873018675,
+                55.636773237,
+                0
+              ]
+            ],
+            [
+              [
+                11.873301898,
+                55.637114137,
+                0
+              ],
+              [
+                11.873604832,
+                55.637114409,
+                0
+              ],
+              [
+                11.873604931,
+                55.637048513,
+                0
+              ],
+              [
+                11.873302005,
+                55.637048331,
+                0
+              ],
+              [
+                11.873301898,
+                55.637114137,
+                0
+              ]
+            ],
+            [
+              [
+                11.873446223,
+                55.637361744,
+                0
+              ],
+              [
+                11.873536079,
+                55.637364762,
+                0
+              ],
+              [
+                11.873545868,
+                55.637270591,
+                0
+              ],
+              [
+                11.873456012,
+                55.637267573,
+                0
+              ],
+              [
+                11.873446223,
+                55.637361744,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "363207",
+        "gmlid": "sn.3acda388-ec5b-5b71-e053-d380220a2669.20160824T122513",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "3acda388-ec5b-5b71-e053-d380220a2669",
+        "registreringfra": "2016-08-24T10:25:13.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2016-08-24T10:25:13.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2016-08-24T10:25:14.000Z",
+        "navn_1_skrivemaade": "Kirke Såby Kirkegård",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "5724",
+        "begravelsespladstype": "kristen",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "MTyDbfvXB+l7Z/DqgCsXlxn519tEiHLYXDWMavAsbJ3xx7HBvAVH6Krd+xiETlZKcGDSwRL0Yyrmq+nqMgUJ3A",
+        "septima_serial": "173680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.865453387,
+                55.592488083,
+                0
+              ],
+              [
+                11.865614035,
+                55.59269702,
+                0
+              ],
+              [
+                11.865690517,
+                55.592801039,
+                0
+              ],
+              [
+                11.865297641,
+                55.592851399,
+                0
+              ],
+              [
+                11.865134939,
+                55.592873363,
+                0
+              ],
+              [
+                11.865104939,
+                55.59287775,
+                0
+              ],
+              [
+                11.864939866,
+                55.592899859,
+                0
+              ],
+              [
+                11.864906742,
+                55.592904948,
+                0
+              ],
+              [
+                11.864715124,
+                55.592928756,
+                0
+              ],
+              [
+                11.864683228,
+                55.592933277,
+                0
+              ],
+              [
+                11.864593727,
+                55.592946786,
+                0
+              ],
+              [
+                11.864577515,
+                55.592948694,
+                0
+              ],
+              [
+                11.864550783,
+                55.592952195,
+                0
+              ],
+              [
+                11.864536473,
+                55.592954058,
+                0
+              ],
+              [
+                11.864290059,
+                55.592624686,
+                0
+              ],
+              [
+                11.86421097,
+                55.592515333,
+                0
+              ],
+              [
+                11.864188289,
+                55.592485119,
+                0
+              ],
+              [
+                11.864143054,
+                55.59250047,
+                0
+              ],
+              [
+                11.864119563,
+                55.592507042,
+                0
+              ],
+              [
+                11.863984819,
+                55.592548847,
+                0
+              ],
+              [
+                11.863693938,
+                55.592563287,
+                0
+              ],
+              [
+                11.863677897,
+                55.592567527,
+                0
+              ],
+              [
+                11.863654068,
+                55.592573837,
+                0
+              ],
+              [
+                11.86365033,
+                55.592574824,
+                0
+              ],
+              [
+                11.863559199,
+                55.592579021,
+                0
+              ],
+              [
+                11.863546396,
+                55.592560172,
+                0
+              ],
+              [
+                11.863472268,
+                55.592346784,
+                0
+              ],
+              [
+                11.863465856,
+                55.592328505,
+                0
+              ],
+              [
+                11.863464242,
+                55.592323778,
+                0
+              ],
+              [
+                11.863425374,
+                55.592206473,
+                0
+              ],
+              [
+                11.863519626,
+                55.592186291,
+                0
+              ],
+              [
+                11.863492294,
+                55.592142342,
+                0
+              ],
+              [
+                11.863591577,
+                55.592121503,
+                0
+              ],
+              [
+                11.863413733,
+                55.59183107,
+                0
+              ],
+              [
+                11.863439633,
+                55.591827048,
+                0
+              ],
+              [
+                11.863485931,
+                55.591819764,
+                0
+              ],
+              [
+                11.863538972,
+                55.591811332,
+                0
+              ],
+              [
+                11.864032809,
+                55.591861279,
+                0
+              ],
+              [
+                11.864231873,
+                55.591880898,
+                0
+              ],
+              [
+                11.864239344,
+                55.591896275,
+                0
+              ],
+              [
+                11.8641225,
+                55.59192229,
+                0
+              ],
+              [
+                11.864149631,
+                55.5919613,
+                0
+              ],
+              [
+                11.864266475,
+                55.591935285,
+                0
+              ],
+              [
+                11.864277847,
+                55.5919432,
+                0
+              ],
+              [
+                11.86429948,
+                55.591939458,
+                0
+              ],
+              [
+                11.864970212,
+                55.591842061,
+                0
+              ],
+              [
+                11.865257933,
+                55.59180396,
+                0
+              ],
+              [
+                11.865517394,
+                55.591763642,
+                0
+              ],
+              [
+                11.865407934,
+                55.591991032,
+                0
+              ],
+              [
+                11.865477475,
+                55.592093505,
+                0
+              ],
+              [
+                11.865573843,
+                55.592259087,
+                0
+              ],
+              [
+                11.865675042,
+                55.592440828,
+                0
+              ],
+              [
+                11.865453387,
+                55.592488083,
+                0
+              ]
+            ],
+            [
+              [
+                11.863797714,
+                55.592427635,
+                0
+              ],
+              [
+                11.863881997,
+                55.592414428,
+                0
+              ],
+              [
+                11.863862051,
+                55.592373812,
+                0
+              ],
+              [
+                11.864050224,
+                55.592344153,
+                0
+              ],
+              [
+                11.86401351,
+                55.592269499,
+                0
+              ],
+              [
+                11.863665726,
+                55.592324283,
+                0
+              ],
+              [
+                11.863576423,
+                55.592338326,
+                0
+              ],
+              [
+                11.863610908,
+                55.592408538,
+                0
+              ],
+              [
+                11.863702878,
+                55.592394073,
+                0
+              ],
+              [
+                11.863705674,
+                55.592399761,
+                0
+              ],
+              [
+                11.863778341,
+                55.592388354,
+                0
+              ],
+              [
+                11.863797714,
+                55.592427635,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "_id": null,
+        "objectid": "363208",
+        "gmlid": "sn.3acda388-ec5c-5b71-e053-d380220a2669.20160824T122724",
+        "dataansvarligmyndighed": "GST",
+        "forretningshaendelse": "stednavneAjourføring",
+        "forretningsomraade": "52.20.20.20",
+        "forretningsproces": "DSSYSeditor",
+        "id_namespace": "http://data.gov.dk/stednavne",
+        "id_lokalid": "3acda388-ec5c-5b71-e053-d380220a2669",
+        "registreringfra": "2016-08-24T10:27:24.000Z",
+        "registreringtil": null,
+        "registreringsaktoer": "redigeringsklient",
+        "status": "iBrug",
+        "virkningfra": "2016-08-24T10:27:24.000Z",
+        "virkningsaktoer": "Ukendt",
+        "navn_1_aktualitet": "iAnvendelse",
+        "navn_1_brugsprioritet": "primær",
+        "navn_1_navnefoelgenummer": "1",
+        "navn_1_navnestatus": "officielt",
+        "navn_1_oprettelsesdato": "2016-08-24T10:27:24.000Z",
+        "navn_1_skrivemaade": "Hvalsø Kirkegård",
+        "navn_1_sprog": "Danish",
+        "navn_2_aktualitet": null,
+        "navn_2_brugsprioritet": null,
+        "navn_2_navnefoelgenummer": null,
+        "navn_2_navnestatus": null,
+        "navn_2_oprettelsesdato": null,
+        "navn_2_skrivemaade": null,
+        "navn_2_sprog": null,
+        "navn_3_aktualitet": null,
+        "navn_3_brugsprioritet": null,
+        "navn_3_navnefoelgenummer": null,
+        "navn_3_navnestatus": null,
+        "navn_3_oprettelsesdato": null,
+        "navn_3_skrivemaade": null,
+        "navn_3_sprog": null,
+        "navn_4_aktualitet": null,
+        "navn_4_brugsprioritet": null,
+        "navn_4_navnefoelgenummer": null,
+        "navn_4_navnestatus": null,
+        "navn_4_oprettelsesdato": null,
+        "navn_4_skrivemaade": null,
+        "navn_4_sprog": null,
+        "navn_5_aktualitet": null,
+        "navn_5_brugsprioritet": null,
+        "navn_5_navnefoelgenummer": null,
+        "navn_5_navnestatus": null,
+        "navn_5_oprettelsesdato": null,
+        "navn_5_skrivemaade": null,
+        "navn_5_sprog": null,
+        "areal": "12507",
+        "begravelsespladstype": "kristen",
+        "septima_transaktion_id": "126061727",
+        "septima_hash86": "I078VcfwQWb1sHhH2ErBdD/D5yJIX+il8rSR+HlMV/bfH/w/SJUlM8jI55bBpbvrNsgwr67pBjMwY03IclfQxg",
+        "septima_serial": "173681"
+      }
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.984929925,
+          55.853655683,
+          48.99
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1000265075",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Maskinel fejlrettelse",
+        "registreringsaktoer": "BLOMINFO A/S",
+        "registreringfra": "2024-06-10T11:25:03.512Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFI",
+        "virkningfra": "2023-04-21T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "FME og GeoDKeditorKlient",
+        "kommentar": "Datavask ifm. spec. 6.02",
+        "bbruuid": null,
+        "medietype": "Ikke tildelt",
+        "underminimumtelemast": false,
+        "septima_transaktion_id": "129818021",
+        "septima_serial": "621515",
+        "septima_hash86": "jdvz2dKQ8Ljdu7giQh+HL5QrTAz4Ud0mwc3uMXd18T9/SjyOxVQLSO9X31rKmmbPr0ldHKqdTFhIxCiCUBlwcg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.937209697,
+          55.815249426,
+          30.23
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1000265076",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Maskinel fejlrettelse",
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2024-06-10T11:25:03.512Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFI",
+        "virkningfra": "2023-04-21T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "FME og GeoDKeditorKlient",
+        "kommentar": "Datavask ifm. spec. 6.02",
+        "bbruuid": null,
+        "medietype": "Ikke tildelt",
+        "underminimumtelemast": false,
+        "septima_transaktion_id": "129818021",
+        "septima_serial": "621516",
+        "septima_hash86": "0+1gIHz4Gmf8Lc5RpFYmsmGEsDecIdjWiLp28PtUYh5q7vNRiHm81wU+NH0r6cckZPxCQ5GAFDYxV+zaH39IQg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.982755235,
+          55.842082111,
+          69.23
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1000265080",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Maskinel fejlrettelse",
+        "registreringsaktoer": "Simmons Aerofilms",
+        "registreringfra": "2024-06-10T11:25:03.512Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFI",
+        "virkningfra": "2023-04-21T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "FME og GeoDKeditorKlient",
+        "kommentar": "Datavask ifm. spec. 6.02",
+        "bbruuid": null,
+        "medietype": "Ikke tildelt",
+        "underminimumtelemast": false,
+        "septima_transaktion_id": "129818021",
+        "septima_serial": "621517",
+        "septima_hash86": "9Z9gcveXIWxtC8bEE1+mKtPCgt3qfTOpkpuBZCTeX6puiRvUdX7khlEC66mMvWH0Fc4Dr2o74N9fjjDONCttlg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.922726013,
+          55.92402369,
+          59.18
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1000265081",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Maskinel fejlrettelse",
+        "registreringsaktoer": "Simmons Aerofilms",
+        "registreringfra": "2024-06-10T11:25:03.512Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFI",
+        "virkningfra": "2015-11-24T08:43:51.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "FME og GeoDKeditorKlient",
+        "kommentar": "Datavask ifm. spec. 6.02",
+        "bbruuid": null,
+        "medietype": "Ikke tildelt",
+        "underminimumtelemast": false,
+        "septima_transaktion_id": "129818021",
+        "septima_serial": "621518",
+        "septima_hash86": "6JOc4mp1Pm/rIjX4CnTfHJNGhwlECl8+ImZ85+CGD6M2s9g6XfaBR1islp54WjDvEjyetqlyOgFZLb52OgM12A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.881214986,
+          55.811025585,
+          24.85
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1000265082",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Maskinel fejlrettelse",
+        "registreringsaktoer": "Simmons Aerofilms",
+        "registreringfra": "2024-06-10T11:25:03.512Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFI",
+        "virkningfra": "2022-04-27T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "FME og GeoDKeditorKlient",
+        "kommentar": "Datavask ifm. spec. 6.02",
+        "bbruuid": null,
+        "medietype": "Ikke tildelt",
+        "underminimumtelemast": false,
+        "septima_transaktion_id": "129818021",
+        "septima_serial": "621519",
+        "septima_hash86": "ewppbq1U+H9lF3DyQJ0ve2rgCP0f9jSgqUDGnbC6PxLy75eg6X9aejdieDHntY7q0taOuNu1ctV8cl7yIs6dRA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.966836214,
+          55.752829056,
+          24.64
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1000309799",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Maskinel fejlrettelse",
+        "registreringsaktoer": "GEOMASTERS",
+        "registreringfra": "2024-06-10T11:25:03.512Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFI",
+        "virkningfra": "2023-04-21T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "FME og GeoDKeditorKlient",
+        "kommentar": "Datavask ifm. spec. 6.02",
+        "bbruuid": null,
+        "medietype": "Ikke tildelt",
+        "underminimumtelemast": false,
+        "septima_transaktion_id": "129818021",
+        "septima_serial": "621520",
+        "septima_hash86": "rJZcEDjVnR10qU7wbYGBRwAawoOqjfjY1x7NAd90LHwOtA8hRk45MttPGkFJaFEM3fXFIrU18tLTYJy8L7Mn8w"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.961407172,
+          55.745767798,
+          43.79
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1000309801",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Maskinel fejlrettelse",
+        "registreringsaktoer": "GEOMASTERS",
+        "registreringfra": "2024-06-10T11:25:03.512Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFI",
+        "virkningfra": "2023-04-21T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "FME og GeoDKeditorKlient",
+        "kommentar": "Datavask ifm. spec. 6.02",
+        "bbruuid": null,
+        "medietype": "Ikke tildelt",
+        "underminimumtelemast": false,
+        "septima_transaktion_id": "129818021",
+        "septima_serial": "621521",
+        "septima_hash86": "bxeKe3QLL0WH+X96q4f1wrEGbYBjFSCibctfzKwcWIY7XnSpOrQwqK6YoCCUR0BhGKjzkFB40rnwtT40T0NCgA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.776441809,
+          56.351552045,
+          81.67
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1008380024",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Maskinel fejlrettelse",
+        "registreringsaktoer": "Fugro Aerial Mapping A/S",
+        "registreringfra": "2024-06-10T11:25:03.512Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFI",
+        "virkningfra": "2015-10-22T00:52:46.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "FME og GeoDKeditorKlient",
+        "kommentar": "Datavask ifm. spec. 6.02",
+        "bbruuid": null,
+        "medietype": "Ikke tildelt",
+        "underminimumtelemast": false,
+        "septima_transaktion_id": "129818021",
+        "septima_serial": "621522",
+        "septima_hash86": "cj99vTp10yNUlBAj2EHU7AdQW/0X3b6rVZ5KyFI3wxg7hnokst42BHvZjLD1JTzc5biI42JMwO7ZdlhLANHooA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.76499759,
+          56.346441555,
+          67.99
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1008380493",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Maskinel fejlrettelse",
+        "registreringsaktoer": "Cil",
+        "registreringfra": "2024-06-10T11:25:03.512Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFI",
+        "virkningfra": "2015-10-22T00:52:46.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "FME og GeoDKeditorKlient",
+        "kommentar": "Datavask ifm. spec. 6.02",
+        "bbruuid": null,
+        "medietype": "Ikke tildelt",
+        "underminimumtelemast": false,
+        "septima_transaktion_id": "129818021",
+        "septima_serial": "621523",
+        "septima_hash86": "euU3LUfwb9NgUuSHiMLD2ovo4BRfBSgKdLoJn7ks0TbsCn8umf4HxsXxkYNblC8c2LFilgQ46kj3PhIt4dHVeA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.862818783,
+          56.421440118,
+          76.75
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1008383862",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Maskinel fejlrettelse",
+        "registreringsaktoer": "Cil",
+        "registreringfra": "2024-06-10T11:25:03.512Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFI",
+        "virkningfra": "2015-10-22T00:52:46.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "FME og GeoDKeditorKlient",
+        "kommentar": "Datavask ifm. spec. 6.02",
+        "bbruuid": "3e8e32b5-c317-4748-80f6-edec1b47b341",
+        "medietype": "Ikke tildelt",
+        "underminimumtelemast": false,
+        "septima_transaktion_id": "129818021",
+        "septima_serial": "621524",
+        "septima_hash86": "bBUPWoy569dXRNWbt/OZ4DfJMakz2oQ1YkJ7XUuJszhHzzYxihs4OAUcakJxqt6qqhy/B2gxL623ctjRVlAVsg"
+      }
+    }
+  ]
+}

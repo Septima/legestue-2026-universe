@@ -1,0 +1,355 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.146602905,
+            56.332485479,
+            0
+          ],
+          [
+            8.146783336,
+            56.332539229,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100095998",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "335",
+        "registreringfra": "2018-06-02T15:37:40.412000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2015-01-27T12:02:50.273000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "lokalid": "100269682",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Nullinje",
+        "septima_hash86": "DqezWZpgUiEiMZ86w4VUhk6jPtSu4I1t9SE67Fymx0yhwgPoJGb8L/ONIfCzBDSjepyw0Tr+oM8C7Qt326aAIg",
+        "septima_serial": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.147576502,
+            56.332775517,
+            0
+          ],
+          [
+            8.148551657,
+            56.333066008,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100095998",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "334",
+        "registreringfra": "2018-06-02T15:37:40.429000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2015-01-27T12:02:50.273000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "lokalid": "100269681",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Nullinje",
+        "septima_hash86": "7LL+bPrWWM/fM+vjvKqL0eEMqutEAFF2smQO0PCzUkRTB9mJPFhO1U7/SNQrwXhsHck25FY7NXoONj4r3ad3Rw",
+        "septima_serial": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.156299023,
+            56.335373418,
+            0
+          ],
+          [
+            8.163966219,
+            56.33643391,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100095998",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "180",
+        "registreringfra": "2018-06-02T15:37:40.429000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2015-01-27T12:02:50.273000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "lokalid": "6562411",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Nullinje",
+        "septima_hash86": "pNxl6dX8pthxO2hwT9SlzOet62iNfXt+Mtx09q1dBbjqzUdcBDUgdofYrE/5mBVKZ14/LKWFpE4bRwkrLXxcCA",
+        "septima_serial": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.163966219,
+            56.33643391,
+            0
+          ],
+          [
+            8.170588196,
+            56.337777881,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100095998",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "179",
+        "registreringfra": "2018-06-02T15:37:40.429000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2015-01-27T12:02:50.273000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "lokalid": "6562412",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Nullinje",
+        "septima_hash86": "Wt3NbFgkA8BQP2DhHl5GfF7x5hkMxh5AcMEMD3wvp+h6lAuwe6jEpsWuA2VfETG0f/HBkDzV3A3zaANb2gi5Ag",
+        "septima_serial": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.173100557,
+            56.396204517,
+            0
+          ],
+          [
+            8.177427904,
+            56.392404253,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100095998",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "164",
+        "registreringfra": "2018-06-02T15:37:40.430000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2015-01-27T12:02:50.273000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "lokalid": "6561896",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Nullinje",
+        "septima_hash86": "fW1vR4qe5DGAbtJfc/28jfV5n9eQeOTZU+eCbVkelMxeNpElORCtSwJCz4YQGfHWkZpGP7fo3G8nBUnZ8TKIzQ",
+        "septima_serial": "6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.145559689,
+            56.332174692,
+            0
+          ],
+          [
+            8.146602905,
+            56.332485479,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100095998",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "73",
+        "registreringfra": "2018-06-02T15:37:40.430000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2015-01-27T12:02:50.273000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "lokalid": "6562408",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Nullinje",
+        "septima_hash86": "kut3xFiSqffuCNXNxd4lQwrXR+nIPT4IDryiVljI4WtLGRKIISzsOak9ylQfkyYpu4eqYMwCDCtUlzNVmlTQ1A",
+        "septima_serial": "7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.146783336,
+            56.332539229,
+            0
+          ],
+          [
+            8.147576502,
+            56.332775517,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100095998",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "72",
+        "registreringfra": "2018-06-02T15:37:40.430000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2015-01-27T12:02:50.273000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "lokalid": "6562409",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Nullinje",
+        "septima_hash86": "B5/y6uwXjPMbkC2wZCCuSbbInCTkI48JvoFQElmDoJklB/UZtTeL9er+eipv+3BLuKmmFncajmfc7bQDCHEoMA",
+        "septima_serial": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.148551657,
+            56.333066008,
+            0
+          ],
+          [
+            8.156299023,
+            56.335373418,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100095998",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "71",
+        "registreringfra": "2018-06-02T15:37:40.430000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2015-01-27T12:02:50.273000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "lokalid": "6562410",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Nullinje",
+        "septima_hash86": "ylC2N40ECYVJE/zc2jJdgkqGIq/qJ/P2R7rVbl1sEPapWSgx34teISaZIn+iYFxxLYMCvvB47gmafBjFDuVipA",
+        "septima_serial": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.158646569,
+            56.433781985,
+            0
+          ],
+          [
+            8.159177151,
+            56.435537694,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100094602",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "379",
+        "registreringfra": "2018-06-02T15:37:40.430000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2014-12-08T15:20:48.372000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "lokalid": "100269816",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Nullinje",
+        "septima_hash86": "tGu2amPqaBGKjSZusSGc5T7Kn4S1uPApVp/zBsEv74wWueMzDZxiL8AkYqt0NZLS1hacKxl9lUSxA2W6tU494g",
+        "septima_serial": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.159177151,
+            56.435537694,
+            0
+          ],
+          [
+            8.159993649,
+            56.435587778,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100094602",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "378",
+        "registreringfra": "2018-06-02T15:37:40.430000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2014-12-08T15:20:48.372000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "lokalid": "100269815",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Nullinje",
+        "septima_hash86": "rk99QPSAj1yK0XASG3qhExz881OkQeRuaiLMCx3ZWw36BJEvk4KcMUJfnHjegkJs40ydOqQDGx+fBPpEwFnKvg",
+        "septima_serial": "11"
+      }
+    }
+  ]
+}

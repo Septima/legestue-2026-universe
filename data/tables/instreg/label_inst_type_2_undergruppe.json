@@ -1,0 +1,72 @@
+[
+  {
+    "inst_type_2_undergruppe": "12",
+    "inst_type_2_undergruppe_tekst": "Grundskoler mv.",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "bbIuIzHViEfdKS8TmjYO0/JgWov9phMpGIVIEwvUXWgEVgUSdKGnGxgtVT37pWNG3opU3GuV8u8/0OxtjNbkvw",
+    "septima_serial": "2"
+  },
+  {
+    "inst_type_2_undergruppe": "13",
+    "inst_type_2_undergruppe_tekst": "Gymnasieskoler mv.",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "7AkB0nFoUp5zrVDppUyDNx03ZSvZtI2p2z/lv6EBEWYxov33ww/asgaHQdCVL0wpEUjM8+1yVdK4i1z4nE4QTg",
+    "septima_serial": "3"
+  },
+  {
+    "inst_type_2_undergruppe": "14",
+    "inst_type_2_undergruppe_tekst": "Højskoler mv.",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "Z0UhqAp0qnOzJhaWS+A0PyN+p5nDctXjHeiQkelVpZBaIQf2XrWxeaXpz8lo2GfGYpyD9ozlsbIw+/IbcnbpKQ",
+    "septima_serial": "4"
+  },
+  {
+    "inst_type_2_undergruppe": "22",
+    "inst_type_2_undergruppe_tekst": "Institutioner med musik og kunsthåndværk",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "2yFN+DHmGcY9mlNcg7nVkhcRNpWDcrTaOdcVq/eOshyDbRsImclpQN6sZQ+8LPglwWWC2lgE94EhvPxZweiN5g",
+    "septima_serial": "5"
+  },
+  {
+    "inst_type_2_undergruppe": "24",
+    "inst_type_2_undergruppe_tekst": "Institutioner med erhvervsrettede uddannelser",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "w4+m//h/fmWzx7vO50YmJHZ73WUDkbQFwBdn3Fd4o1Nzi84riCxMYuKL1f8LQZBks5XJR/IVDk8LWWqfdZsE7Q",
+    "septima_serial": "6"
+  },
+  {
+    "inst_type_2_undergruppe": "26",
+    "inst_type_2_undergruppe_tekst": "Institutioner med landbrugs- og levnedsmiddeluddannelser",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "qIv3lRipmiMD1MBY0o65xxTyz78jSItE6XSfe9+2PgkkalL9OrJGY5PVcjPPI9gnlp4N1dx2NNvidEzO+7FzCQ",
+    "septima_serial": "7"
+  },
+  {
+    "inst_type_2_undergruppe": "27",
+    "inst_type_2_undergruppe_tekst": "Institutioner med transportuddannelser",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "68N9de8uNYyQc4og2Q2OJ22B9NN2iwtlm0EvXfYbNbhES++ziqKQFD19QWhbfdKcbLoCX5iRM6HJoKBumUBfig",
+    "septima_serial": "8"
+  },
+  {
+    "inst_type_2_undergruppe": "28",
+    "inst_type_2_undergruppe_tekst": "Institutioner med sundhedsuddannelser",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "tp2z0by8tJSgw6l9tCpcqsCNS2PnkNkwK3vv/tvfQIWwagjTJtcOrKrWg/BBn1fqhtubQjadsFocXyJkBfbJPg",
+    "septima_serial": "9"
+  },
+  {
+    "inst_type_2_undergruppe": "29",
+    "inst_type_2_undergruppe_tekst": "Institutioner med udd. vedrørende offentlig sikkerhed",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "BggM4dnVdZ44XhzI+O0HDWY4B72agXcwkG9FOG08D982aiGfkFtQAe42sYqsjkeAnL4+L4ePHAHexdk/qu56rA",
+    "septima_serial": "10"
+  },
+  {
+    "inst_type_2_undergruppe": "30",
+    "inst_type_2_undergruppe_tekst": "Universiteter, professionshøjskoler og erhvervsakademier",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "11VqTg0JhgfABBy1E2CIM81xNgIdj6qv8Yg761z22K8xNqbEXUSWrJhVIdJfXvPMpc/T3K0EMrm6O6rJUYbJNw",
+    "septima_serial": "11"
+  }
+]

@@ -1,0 +1,315 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.921084155,
+          56.150384663,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "7879615",
+        "forretningsproces": "Matrikulær sag",
+        "id": "1209141",
+        "registreringfra": "2018-06-03T07:51:22.978000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1999-06-11T13:53:59.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "jordstykkelokalid": "449373",
+        "lokalid": "1341317",
+        "ejerlavskode": "990652",
+        "matrikelnummer": "18cb",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+        "septima_hash86": "gglkfNo8E/yRrtCmBwLEl4OkoBB3diE0xIdgeH6A0Fh5IyEFyftvibGl7rN1bPnWazb5MwgmQHej127bUX6DYg",
+        "septima_serial": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.804870075,
+          55.626776883,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "7357326",
+        "forretningsproces": "Anden sagskategori",
+        "id": "1279830",
+        "registreringfra": "2018-06-03T07:55:51.066000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1997-01-22T09:19:05.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "jordstykkelokalid": "1866120",
+        "lokalid": "4222133",
+        "ejerlavskode": "2006758",
+        "matrikelnummer": "1ac",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+        "septima_hash86": "L5C4AZPumi+WrtOCIiNQm4LUJN5vw6qguAuLoIRKHS3C274bqU3yn9CezOHsx2eNbGdiOfC7zKXkqI5SV53X4g",
+        "septima_serial": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.994809773,
+          54.977257888,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "20175985",
+        "forretningsproces": "Matrikulær sag",
+        "id": "1895209",
+        "registreringfra": "2018-06-03T06:06:42.747000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2004-09-30T07:36:17.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "jordstykkelokalid": "2622078",
+        "lokalid": "6050096",
+        "ejerlavskode": "2002053",
+        "matrikelnummer": "8ep",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+        "septima_hash86": "5igG76ABdut3ll/B7sPMLSYkboxa3OlGF7rKeNMuZmBApt8OI6KJ497akuGTzCjyHz1XNbbFsZriIputyUx84A",
+        "septima_serial": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.043885403,
+          55.185013853,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "7788425",
+        "forretningsproces": "Anden sagskategori",
+        "id": "2275066",
+        "registreringfra": "2018-06-03T06:36:14.169000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1998-09-29T12:04:53.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "jordstykkelokalid": "92028",
+        "lokalid": "419441",
+        "ejerlavskode": "390360",
+        "matrikelnummer": "12",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+        "septima_hash86": "7UyJ0d+gZ871qKLth6r94WuV45ucvR/9vssq3w+Wb6d32DXaEnwqnD9fwyZ+zCoG7nKEf2pEKXBGgmzx4JI5nw",
+        "septima_serial": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.451688119,
+          55.241442319,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100200821",
+        "forretningsproces": "Matrikulær sag",
+        "id": "3122481",
+        "registreringfra": "2023-09-18T09:40:02.580000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2023-09-18T09:40:02.580000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "jordstykkelokalid": "100632413",
+        "lokalid": "100656561",
+        "ejerlavskode": "420851",
+        "matrikelnummer": "10by",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+        "septima_hash86": "EbLVl2pypTaYWcnCHlOtG9ll9i3EarIHYLmTtN0lSlS5sjMpYFb1U3AASJTtHopsPN9ypVcs0Lp6SUEqDfDtTA",
+        "septima_serial": "6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.159584906,
+          55.647035979,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "7517161",
+        "forretningsproces": "Anden sagskategori",
+        "id": "1530665",
+        "registreringfra": "2018-06-03T01:54:47.727000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2005-11-24T14:28:35.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "jordstykkelokalid": "2314341",
+        "lokalid": "5083653",
+        "ejerlavskode": "180652",
+        "matrikelnummer": "3ad",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+        "septima_hash86": "E2fnbZ1aTAPZxkXQoBqTl3AMWPFewnVvhspPz1nmfvjCTw8TGZjutJBobW26Rb6JyBLUZHci9IM26x3tt1Ik0g",
+        "septima_serial": "7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.948901223,
+          55.454500543,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "20165456",
+        "forretningsproces": "Anden sagskategori",
+        "id": "1846077",
+        "registreringfra": "2018-06-03T06:01:25.213000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2004-06-09T11:40:21.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "jordstykkelokalid": "32394",
+        "lokalid": "189518",
+        "ejerlavskode": "400451",
+        "matrikelnummer": "7000aq",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+        "septima_hash86": "7kBAntLy74Cv0H/Q1+vL7N41W/kNnMnKrkHOsIMzvLnwSZJvzyqYPMNbIpheCOPQ3zGebHr/MyRdvn6H/E0keQ",
+        "septima_serial": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.032069694,
+          55.702758988,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "7660220",
+        "forretningsproces": "Anden sagskategori",
+        "id": "1558794",
+        "registreringfra": "2018-06-03T03:40:23.255000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1996-02-13T08:20:25.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "jordstykkelokalid": "1143393",
+        "lokalid": "2841324",
+        "ejerlavskode": "180457",
+        "matrikelnummer": "5ig",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+        "septima_hash86": "27DSMlfmihtlPclVHgfPwvNVMhChBBu9E8mcgsrPX6eC0q9oW8gAP+ouFAenJMXrlfQvpIEU1rfjO6BaPWLMGA",
+        "septima_serial": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.552547629,
+          55.504419439,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "20167304",
+        "forretningsproces": "Matrikulær sag",
+        "id": "515169",
+        "registreringfra": "2018-06-03T07:12:55.347000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2004-03-09T13:18:22.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "jordstykkelokalid": "2612795",
+        "lokalid": "6032667",
+        "ejerlavskode": "1150951",
+        "matrikelnummer": "4bf",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+        "septima_hash86": "EYsxVuS4YccHmKBQv/tIY4z6peI2uGJeQtakDKS3eJy818gOUWQ5XyQ6sfEL0+8eDwcjcPQt0nS7J5GcpG3jGQ",
+        "septima_serial": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.133729695,
+          55.407574332,
+          0
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "7801878",
+        "forretningsproces": "Anden sagskategori",
+        "id": "737187",
+        "registreringfra": "2018-06-03T07:23:36.075000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1995-11-20T11:51:18.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "jordstykkelokalid": "1007834",
+        "lokalid": "2472427",
+        "ejerlavskode": "310557",
+        "matrikelnummer": "14bø",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+        "septima_hash86": "MCQe+JGzPkASyUbZA7fPQWvIqQqkGB72Moo6a4XnETAk1Wyt9Cr4QgaLFtw4ImeqDuf4Y2LX4dPK9ty18yDKQA",
+        "septima_serial": "11"
+      }
+    }
+  ]
+}

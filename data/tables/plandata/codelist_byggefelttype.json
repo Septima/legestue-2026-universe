@@ -1,0 +1,30 @@
+[
+  {
+    "code": 1,
+    "text": "Byggefelt med begrænsende byggeret",
+    "septima_transaktion_id": "109251558",
+    "septima_hash86": "IZuVCxJHbiZw3SM9N+61YMKgrGwP3u4wmSOnlvzzjtVoRDAlxhGiazBvpPtuKCgNUsha8mXiikgXJGPnE2aXpw",
+    "septima_serial": "2"
+  },
+  {
+    "code": 2,
+    "text": "Byggefelt med delvist begrænsende byggeret",
+    "septima_transaktion_id": "109251558",
+    "septima_hash86": "/NymTvWwpT3J8r8DcmSyu3yAaH6pkasDyOEzKnz20BKiC/QV2Ynlp9x6pRsWs7C/nAUyZ6TReQU2WXlSfmlYjQ",
+    "septima_serial": "3"
+  },
+  {
+    "code": 3,
+    "text": "Vejledende byggefelt",
+    "septima_transaktion_id": "109251558",
+    "septima_hash86": "l6xOvFNVhoVCQuZBQ+H4+0JZ4Ax4Mxx+KcG8k95I/NsDEsVzlkm6byV+tEDg9ylVFb4c21bCJpd/aGdnSeoMSw",
+    "septima_serial": "4"
+  },
+  {
+    "code": 4,
+    "text": "Særligt udpeget byggefelt",
+    "septima_transaktion_id": "109251558",
+    "septima_hash86": "SwYgJ9B/4P4hrLCdvqv0mrBtMNrG5W2RcXa5OiZe4OQ/f3rtjjs4cI7FFLtAtbUim/323YXY7dKM2LxdM47dlg",
+    "septima_serial": "5"
+  }
+]

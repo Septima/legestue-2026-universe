@@ -1,0 +1,17 @@
+[
+  {
+    "tabelnavn": "ejendomsbeliggenhed",
+    "beskrivelse": "Ejendomsbeliggenhed er i hovedreglen en reference mellem ejendommen og den adresse, der skal anvendes som beliggenhedsadresse. I tilfælde hvor der ikke eksisterer en adresse for en ejendom, er der i Ejendomsbeliggenhedregisteret (EBR) en beliggenhedsbetegnelse til anvendelse i stedet for en faktisk adresse. Beliggenhedsbetegnelsen er en tekst dannet på baggrund af blandt andet informationer i Danmarks Administrative og Geografiske Inddelinger (DAGI). I Ejendomsbeliggenhedregisteret er der desuden information om, hvilken kommune der har det administrative ansvar for informationen i Ejendomsbeliggenhed.",
+    "kilde": "Ejendomsbeliggenhed (EBR)",
+    "rettigheder": "DAF EBR linker til ejerfortegnelsen.. så rettigheder kan ikke findes.",
+    "rettigheder_url": "-",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "Kubernetes Cronjob",
+    "opdateringsinterval": {
+      "days": 1
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank."
+  }
+]

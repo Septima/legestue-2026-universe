@@ -1,0 +1,65 @@
+[
+  {
+    "aktiv_kode": "0",
+    "aktiv_kode_tekst": "Uden for statistiske tællinger (eksempelvis kommuner)",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "foMilPbXrxe25Y60B1S91sXG9ute5zF1SAn4WIV6+qM8nzB6gViW6vZaWJwD9Jo8lJkx3jtzNVNMSZXfTLZrew",
+    "septima_serial": "2"
+  },
+  {
+    "aktiv_kode": "1",
+    "aktiv_kode_tekst": "Aktiv tællingsmæssigt for Danmarks Statistik",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "Y2PheEiM188AqmbTExGQkTNlOIsxLik0AwfqoPrn9G39Yn9v6rBjyz/yAAGjo/QMBPOhKjBSj+KGLWBRghCAKw",
+    "septima_serial": "3"
+  },
+  {
+    "aktiv_kode": "2",
+    "aktiv_kode_tekst": "Aktiv institution medtælles dog ikke i Danmarks Statistiks statistikker",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "3HpBWKIB0yamb21mopI2kNJIl/N7C4cdarPbPYrtanDIFlsdmDSiKD4DiJVjBjOckeNrKb1Ja4pKSbec706ZSQ",
+    "septima_serial": "4"
+  },
+  {
+    "aktiv_kode": "3",
+    "aktiv_kode_tekst": "Nedlagt institution ",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "bZY20c47hI6it/WNo3XSnaUgsh455g1Y8pYlbEIGQJnLzx95OC/sGbb+duzvY0WrIUM2qkgtSt/nGZhclTDsAg",
+    "septima_serial": "5"
+  },
+  {
+    "aktiv_kode": "4",
+    "aktiv_kode_tekst": "Aktiv juridisk tællingsmæssigt for Danmarks Statistik",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "nXLUbLSKEErHDPM0L4HzJMK8yILC/oLB2bVftmmyc5rwSrQnQaZGZkzUcfUiFSkoQH6fgvmaHvt5miMmnEmXWw",
+    "septima_serial": "6"
+  },
+  {
+    "aktiv_kode": "5",
+    "aktiv_kode_tekst": "Nedlagt juridisk institution",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "SRldWwR4GakJmPnzxq8ySP81TEh/d4RWgoKpD0csxdSOJwJci/3WEnZSgIWzVQYoIRMhn11UPg+VfRsUR8VKVA",
+    "septima_serial": "7"
+  },
+  {
+    "aktiv_kode": "7",
+    "aktiv_kode_tekst": "Under afvikling",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "Ji7FfP5v268WamQlzarACiCI8U4BFHVJZrsFaK9Sb3QBYzqgXfX/g00DAL8GGfiQfKsvsHxoYnEknZ2uovqZ1g",
+    "septima_serial": "8"
+  },
+  {
+    "aktiv_kode": "8",
+    "aktiv_kode_tekst": "Slettet reserveret kode",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "hfjuWea1sJip4ZkkLhktfmSnNH0W2csSvr7ypg8tqBrBlvg0BDhd7wwaPIcq0mGmWmbEvJH0HNU3elzx40+LeQ",
+    "septima_serial": "9"
+  },
+  {
+    "aktiv_kode": "9",
+    "aktiv_kode_tekst": "Reserveret kode",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "yC0KNtHgSfSXZbKLQrBNg4AoVHMJAnSjBrT/N2QNsDmSZpRSMXIAJXHjjlLXYGqBTwRdOtVECi+nrNJQv6+r4A",
+    "septima_serial": "10"
+  }
+]

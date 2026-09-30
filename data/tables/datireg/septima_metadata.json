@@ -1,0 +1,47 @@
+[
+  {
+    "tabelnavn": "alternativadresse",
+    "beskrivelse": "Daginstitutioner fra Dagtilbudregisteret fra STIL",
+    "kilde": "Hentes fra dagtilbudsregister.stil.dk",
+    "rettigheder": "Oplysningerne stammer fra Dagtilbudsregisteret som Styrelsen for It og Læring (STIL) er ansvarlig myndighed for. Registerets oplysninger er frit tilgængelige.",
+    "rettigheder_url": "https://viden.stil.dk/pages/viewpage.action?pageId=52592722",
+    "attributtering": "Styrelsen for IT og Læring",
+    "attributtering_url": "https://www.stil.dk/",
+    "opdateringsmetode": "manuelt",
+    "opdateringsinterval": {
+      "months": 6
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "anvisningsenhed",
+    "beskrivelse": "Daginstitutioner fra Dagtilbudregisteret fra STIL",
+    "kilde": "Hentes fra dagtilbudsregister.stil.dk",
+    "rettigheder": "Oplysningerne stammer fra Dagtilbudsregisteret som Styrelsen for It og Læring (STIL) er ansvarlig myndighed for. Registerets oplysninger er frit tilgængelige.",
+    "rettigheder_url": "https://viden.stil.dk/pages/viewpage.action?pageId=52592722",
+    "attributtering": "Styrelsen for IT og Læring",
+    "attributtering_url": "https://www.stil.dk/",
+    "opdateringsmetode": "manuelt",
+    "opdateringsinterval": {
+      "months": 6
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "daginstitution",
+    "beskrivelse": "Daginstitutioner fra Dagtilbudregisteret fra STIL",
+    "kilde": "Hentes fra dagtilbudsregister.stil.dk",
+    "rettigheder": "Oplysningerne stammer fra Dagtilbudsregisteret som Styrelsen for It og Læring (STIL) er ansvarlig myndighed for. Registerets oplysninger er frit tilgængelige.",
+    "rettigheder_url": "https://viden.stil.dk/pages/viewpage.action?pageId=52592722",
+    "attributtering": "Styrelsen for IT og Læring",
+    "attributtering_url": "https://www.stil.dk/",
+    "opdateringsmetode": "manuelt",
+    "opdateringsinterval": {
+      "months": 6
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  }
+]

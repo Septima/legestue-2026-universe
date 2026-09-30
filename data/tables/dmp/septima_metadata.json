@@ -1,0 +1,152 @@
+[
+  {
+    "tabelnavn": "beskyttede_naturtyper",
+    "beskrivelse": "Registrering af naturtyper, som er beskyttet efter naturbeskyttelseslovens § 3. Disse er: · søer og vandhuller med et areal på mindst 100 m2, · moser, enge, strandenge, strandsumpe, heder og overdrev med et areal på mindst 2500 m2, · \"mosaikker\" af ovennævnte naturtyper med et areal på mindst 2500 m2, · visse udpegede vandløb & · alle moser i f. m. beskyttede vandhuller, søer eller vandløb.",
+    "kilde": "Hentes fra https://arealdata.miljoeportal.dk/",
+    "rettigheder": "Oplysningerne stammer fra ArealData som Danmarks Miljøportal er ansvarlig for. Registerets oplysninger er frit tilgængelige. Danmarks Miljøportal giver verdensomspændende, gratis, ikke-eksklusiv og ubegrænset brugsret til vores åbne data. Disse data kan bl.a.: kopieres, distribueres og offentliggøres, ændres og sammensættes med andet materiale, bruges kommercielt og ikke-kommercielt. Data må ikke bruges på en måde, så det kan fremstå som, at Danmarks Miljøportal godkender, støtter, anbefaler eller markedsfører brugeren, brugerens produkter eller tjenester. Ved brug af data skal følgende tekst indsættes: “Indeholder data, som benyttes i henhold til vilkår for brug af danske offentlige data”.",
+    "rettigheder_url": "https://miljoeportal.dk/dataansvar/vilkaar-for-brug",
+    "attributtering": "Danmarks Miljøportal",
+    "attributtering_url": "https://arealdata.miljoeportal.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": ""
+  },
+  {
+    "tabelnavn": "beskyttede_sten_jorddiger",
+    "beskrivelse": "Datasæt omfatter sten- og jorddiger, som er beskyttet mod tilstandsændringer, jf. museumsloven.",
+    "kilde": "Hentes fra https://arealdata.miljoeportal.dk/",
+    "rettigheder": "Oplysningerne stammer fra ArealData som Danmarks Miljøportal er ansvarlig for. Registerets oplysninger er frit tilgængelige. Danmarks Miljøportal giver verdensomspændende, gratis, ikke-eksklusiv og ubegrænset brugsret til vores åbne data. Disse data kan bl.a.: kopieres, distribueres og offentliggøres, ændres og sammensættes med andet materiale, bruges kommercielt og ikke-kommercielt. Data må ikke bruges på en måde, så det kan fremstå som, at Danmarks Miljøportal godkender, støtter, anbefaler eller markedsfører brugeren, brugerens produkter eller tjenester. Ved brug af data skal følgende tekst indsættes: “Indeholder data, som benyttes i henhold til vilkår for brug af danske offentlige data”.",
+    "rettigheder_url": "https://miljoeportal.dk/dataansvar/vilkaar-for-brug",
+    "attributtering": "Danmarks Miljøportal",
+    "attributtering_url": "https://arealdata.miljoeportal.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": ""
+  },
+  {
+    "tabelnavn": "beskyttede_vandloeb",
+    "beskrivelse": "Temaet indeholder registreringer af de vandløb, som er beskyttet efter naturbeskyttelseslovens § 3. Tilstandsændring af beskyttet natur kræver kommunens dispensation. Modsat de øvrige beskyttede naturtyper, er vandløb udpeget som beskyttede.",
+    "kilde": "Hentes fra https://arealdata.miljoeportal.dk/",
+    "rettigheder": "Oplysningerne stammer fra ArealData som Danmarks Miljøportal er ansvarlig for. Registerets oplysninger er frit tilgængelige. Danmarks Miljøportal giver verdensomspændende, gratis, ikke-eksklusiv og ubegrænset brugsret til vores åbne data. Disse data kan bl.a.: kopieres, distribueres og offentliggøres, ændres og sammensættes med andet materiale, bruges kommercielt og ikke-kommercielt. Data må ikke bruges på en måde, så det kan fremstå som, at Danmarks Miljøportal godkender, støtter, anbefaler eller markedsfører brugeren, brugerens produkter eller tjenester. Ved brug af data skal følgende tekst indsættes: “Indeholder data, som benyttes i henhold til vilkår for brug af danske offentlige data”.",
+    "rettigheder_url": "https://miljoeportal.dk/dataansvar/vilkaar-for-brug",
+    "attributtering": "Danmarks Miljøportal",
+    "attributtering_url": "https://arealdata.miljoeportal.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": ""
+  },
+  {
+    "tabelnavn": "fredede_omraader",
+    "beskrivelse": "Temaet indeholder arealer eller lokaliteter, som er fredet ved gennemførelse af en fredningssag efter bestemmelserne i naturbeskyttelseslovens kapitel 6 (eller ældre naturfredningslove), samt i visse tilfælde fredninger af ældre dato gennemført ved fx tinglyst deklaration.",
+    "kilde": "Hentes fra https://arealdata.miljoeportal.dk/",
+    "rettigheder": "Oplysningerne stammer fra ArealData som Danmarks Miljøportal er ansvarlig for. Registerets oplysninger er frit tilgængelige. Danmarks Miljøportal giver verdensomspændende, gratis, ikke-eksklusiv og ubegrænset brugsret til vores åbne data. Disse data kan bl.a.: kopieres, distribueres og offentliggøres, ændres og sammensættes med andet materiale, bruges kommercielt og ikke-kommercielt. Data må ikke bruges på en måde, så det kan fremstå som, at Danmarks Miljøportal godkender, støtter, anbefaler eller markedsfører brugeren, brugerens produkter eller tjenester. Ved brug af data skal følgende tekst indsættes: “Indeholder data, som benyttes i henhold til vilkår for brug af danske offentlige data”.",
+    "rettigheder_url": "https://miljoeportal.dk/dataansvar/vilkaar-for-brug",
+    "attributtering": "Danmarks Miljøportal",
+    "attributtering_url": "https://arealdata.miljoeportal.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": ""
+  },
+  {
+    "tabelnavn": "fredede_omraader_forslag",
+    "beskrivelse": "Datasættet indeholder arealer eller lokaliteter, som er foreslået fredet ved gennemførelse af en fredningssag efter bestemmelserne i naturbeskyttelseslovens kapitel 6. Forslagets bestemmelser har retsvirkning, indtil der er truffet en endelig afgørelse om fredning.",
+    "kilde": "Hentes fra https://arealdata.miljoeportal.dk/",
+    "rettigheder": "Oplysningerne stammer fra ArealData som Danmarks Miljøportal er ansvarlig for. Registerets oplysninger er frit tilgængelige. Danmarks Miljøportal giver verdensomspændende, gratis, ikke-eksklusiv og ubegrænset brugsret til vores åbne data. Disse data kan bl.a.: kopieres, distribueres og offentliggøres, ændres og sammensættes med andet materiale, bruges kommercielt og ikke-kommercielt. Data må ikke bruges på en måde, så det kan fremstå som, at Danmarks Miljøportal godkender, støtter, anbefaler eller markedsfører brugeren, brugerens produkter eller tjenester. Ved brug af data skal følgende tekst indsættes: “Indeholder data, som benyttes i henhold til vilkår for brug af danske offentlige data”.",
+    "rettigheder_url": "https://miljoeportal.dk/dataansvar/vilkaar-for-brug",
+    "attributtering": "Danmarks Miljøportal",
+    "attributtering_url": "https://arealdata.miljoeportal.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": ""
+  },
+  {
+    "tabelnavn": "fugle_beskyttede_omraader",
+    "beskrivelse": "Et EF-fuglebeskyttelsesområde er ét af tre slags internationale naturbeskyttelsesområder: EF-fuglebeskyttelsesområder, EF-habitatområder samt Ramsarområder. De to førstnævnte betegnes samlet Natura 2000 områder. Levestederne for mange fuglearter forringes eller er direkte truede. Fuglebeskyttelsesområder er med til at opretholde og sikre levestederne. I Danmark er områderne især vigtige for mange vandfugle. Hvert område er udpeget for at beskytte bestemte fuglearter.",
+    "kilde": "Hentes fra https://arealdata.miljoeportal.dk/",
+    "rettigheder": "Oplysningerne stammer fra ArealData som Danmarks Miljøportal er ansvarlig for. Registerets oplysninger er frit tilgængelige. Danmarks Miljøportal giver verdensomspændende, gratis, ikke-eksklusiv og ubegrænset brugsret til vores åbne data. Disse data kan bl.a.: kopieres, distribueres og offentliggøres, ændres og sammensættes med andet materiale, bruges kommercielt og ikke-kommercielt. Data må ikke bruges på en måde, så det kan fremstå som, at Danmarks Miljøportal godkender, støtter, anbefaler eller markedsfører brugeren, brugerens produkter eller tjenester. Ved brug af data skal følgende tekst indsættes: “Indeholder data, som benyttes i henhold til vilkår for brug af danske offentlige data”.",
+    "rettigheder_url": "https://miljoeportal.dk/dataansvar/vilkaar-for-brug",
+    "attributtering": "Danmarks Miljøportal",
+    "attributtering_url": "https://arealdata.miljoeportal.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": ""
+  },
+  {
+    "tabelnavn": "habitat_omraade",
+    "beskrivelse": "Et EF-habitatområde er ét af tre slags internationale naturbeskyttelsesområder: EF-fuglebeskyttelsesområder, EF-habitatområder samt Ramsarområder. De to førstnævnte betegnes samlet Natura 2000 områder.",
+    "kilde": "Hentes fra https://arealdata.miljoeportal.dk/",
+    "rettigheder": "Oplysningerne stammer fra ArealData som Danmarks Miljøportal er ansvarlig for. Registerets oplysninger er frit tilgængelige. Danmarks Miljøportal giver verdensomspændende, gratis, ikke-eksklusiv og ubegrænset brugsret til vores åbne data. Disse data kan bl.a.: kopieres, distribueres og offentliggøres, ændres og sammensættes med andet materiale, bruges kommercielt og ikke-kommercielt. Data må ikke bruges på en måde, så det kan fremstå som, at Danmarks Miljøportal godkender, støtter, anbefaler eller markedsfører brugeren, brugerens produkter eller tjenester. Ved brug af data skal følgende tekst indsættes: “Indeholder data, som benyttes i henhold til vilkår for brug af danske offentlige data”.",
+    "rettigheder_url": "https://miljoeportal.dk/dataansvar/vilkaar-for-brug",
+    "attributtering": "Danmarks Miljøportal",
+    "attributtering_url": "https://arealdata.miljoeportal.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": ""
+  },
+  {
+    "tabelnavn": "jordforurening_nuancering",
+    "beskrivelse": "Nuancering af kortlægning på V2, på baggrund af den risiko, den kortlagte forurening udgør eller kan udgøre for den aktuelle anvendelse til boligformål. DK-Jord indeholder data vedrørende jordforurening.",
+    "kilde": "Hentes fra https://arealdata.miljoeportal.dk/",
+    "rettigheder": "Oplysningerne stammer fra ArealData som Danmarks Miljøportal er ansvarlig for. Registerets oplysninger er frit tilgængelige. Danmarks Miljøportal giver verdensomspændende, gratis, ikke-eksklusiv og ubegrænset brugsret til vores åbne data. Disse data kan bl.a.: kopieres, distribueres og offentliggøres, ændres og sammensættes med andet materiale, bruges kommercielt og ikke-kommercielt. Data må ikke bruges på en måde, så det kan fremstå som, at Danmarks Miljøportal godkender, støtter, anbefaler eller markedsfører brugeren, brugerens produkter eller tjenester. Ved brug af data skal følgende tekst indsættes: “Indeholder data, som benyttes i henhold til vilkår for brug af danske offentlige data”.",
+    "rettigheder_url": "https://miljoeportal.dk/dataansvar/vilkaar-for-brug",
+    "attributtering": "Danmarks Miljøportal",
+    "attributtering_url": "https://arealdata.miljoeportal.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": ""
+  },
+  {
+    "tabelnavn": "jordforurening_v1",
+    "beskrivelse": "Et areal betegnes som kortlagt på vidensniveau 1 (V1), hvis der er tilvejebragt en faktisk viden om aktiviteter på arealet eller aktiviteter på andre arealer, der kan have været kilde til jordforurening på arealet. DK-Jord indeholder data vedrørende jordforurening.",
+    "kilde": "Hentes fra https://arealdata.miljoeportal.dk/",
+    "rettigheder": "Oplysningerne stammer fra ArealData som Danmarks Miljøportal er ansvarlig for. Registerets oplysninger er frit tilgængelige. Danmarks Miljøportal giver verdensomspændende, gratis, ikke-eksklusiv og ubegrænset brugsret til vores åbne data. Disse data kan bl.a.: kopieres, distribueres og offentliggøres, ændres og sammensættes med andet materiale, bruges kommercielt og ikke-kommercielt. Data må ikke bruges på en måde, så det kan fremstå som, at Danmarks Miljøportal godkender, støtter, anbefaler eller markedsfører brugeren, brugerens produkter eller tjenester. Ved brug af data skal følgende tekst indsættes: “Indeholder data, som benyttes i henhold til vilkår for brug af danske offentlige data”.",
+    "rettigheder_url": "https://miljoeportal.dk/dataansvar/vilkaar-for-brug",
+    "attributtering": "Danmarks Miljøportal",
+    "attributtering_url": "https://arealdata.miljoeportal.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": ""
+  },
+  {
+    "tabelnavn": "jordforurening_v2",
+    "beskrivelse": "Et areal betegnes som kortlagt på vidensniveau 2 (V2), hvis der er tilvejebragt et dokumentationsgrundlag, der gør, at det med høj grad af sikkerhed kan lægges til grund, at der på arealet er en jordforurening af en sådan art og koncentration, at forurening kan have skadelig virkning på mennesker og miljø. DK-Jord indeholder data vedrørende jordforurening.",
+    "kilde": "Hentes fra https://arealdata.miljoeportal.dk/",
+    "rettigheder": "Oplysningerne stammer fra ArealData som Danmarks Miljøportal er ansvarlig for. Registerets oplysninger er frit tilgængelige. Danmarks Miljøportal giver verdensomspændende, gratis, ikke-eksklusiv og ubegrænset brugsret til vores åbne data. Disse data kan bl.a.: kopieres, distribueres og offentliggøres, ændres og sammensættes med andet materiale, bruges kommercielt og ikke-kommercielt. Data må ikke bruges på en måde, så det kan fremstå som, at Danmarks Miljøportal godkender, støtter, anbefaler eller markedsfører brugeren, brugerens produkter eller tjenester. Ved brug af data skal følgende tekst indsættes: “Indeholder data, som benyttes i henhold til vilkår for brug af danske offentlige data”.",
+    "rettigheder_url": "https://miljoeportal.dk/dataansvar/vilkaar-for-brug",
+    "attributtering": "Danmarks Miljøportal",
+    "attributtering_url": "https://arealdata.miljoeportal.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": ""
+  }
+]

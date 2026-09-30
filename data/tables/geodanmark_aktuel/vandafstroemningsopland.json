@@ -1,0 +1,142 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.686069978,
+              55.21155974,
+              0
+            ],
+            [
+              11.719468395,
+              55.213453308,
+              0
+            ],
+            [
+              11.707753804,
+              55.244444049,
+              0
+            ],
+            [
+              11.711791962,
+              55.251085641,
+              0
+            ],
+            [
+              11.741897146,
+              55.264168153,
+              0
+            ],
+            [
+              11.737313742,
+              55.279489778,
+              0
+            ],
+            [
+              11.72887015,
+              55.31333547,
+              0
+            ],
+            [
+              11.736701675,
+              55.345060656,
+              0
+            ],
+            [
+              11.722591179,
+              55.371423038,
+              0
+            ],
+            [
+              11.689679538,
+              55.393808819,
+              0
+            ],
+            [
+              11.643530235,
+              55.418813434,
+              0
+            ],
+            [
+              11.568154901,
+              55.422761135,
+              0
+            ],
+            [
+              11.514997497,
+              55.412160303,
+              0
+            ],
+            [
+              11.460391593,
+              55.386055846,
+              0
+            ],
+            [
+              11.481169141,
+              55.35666418,
+              0
+            ],
+            [
+              11.515844211,
+              55.320252143,
+              0
+            ],
+            [
+              11.574179785,
+              55.293868134,
+              0
+            ],
+            [
+              11.646399495,
+              55.284714514,
+              0
+            ],
+            [
+              11.686069978,
+              55.21155974,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1200185709",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "SDFE",
+        "registreringfra": "2017-10-06T11:55:16.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2017-10-05T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Uspecificeret",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Uspecificeret",
+        "applikation": "SDFE",
+        "kommentar": "Prøvedata lavet til prøvereplikering.",
+        "vanduuid": "8fb945d7-ded5-4bee-83cc-b1bda54d77cb",
+        "afvandertil": "Næstved fjord",
+        "oplandstype": "Land",
+        "oplandsordenskode": "Næstved12345",
+        "link": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "94",
+        "septima_hash86": "bLMEEyHmZZFtJ7+kc1pVhP26BsMBHxWvzjzsO4rukQq49lWtxV/24IPwXoaSqoChNUBvL6EjmgB/WA0ZPnkHDQ"
+      }
+    }
+  ]
+}

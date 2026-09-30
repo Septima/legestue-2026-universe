@@ -1,0 +1,895 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.346189455,
+                55.615243166,
+                0
+              ],
+              [
+                12.346156486,
+                55.615163354,
+                0
+              ],
+              [
+                12.346242908,
+                55.615080254,
+                0
+              ],
+              [
+                12.346267694,
+                55.615056623,
+                0
+              ],
+              [
+                12.346221606,
+                55.615013564,
+                0
+              ],
+              [
+                12.346160684,
+                55.614947067,
+                0
+              ],
+              [
+                12.346157703,
+                55.614868494,
+                0
+              ],
+              [
+                12.346215714,
+                55.61477601,
+                0
+              ],
+              [
+                12.346306135,
+                55.614695472,
+                0
+              ],
+              [
+                12.346411211,
+                55.614592684,
+                0
+              ],
+              [
+                12.346542188,
+                55.614526493,
+                0
+              ],
+              [
+                12.346733095,
+                55.614468609,
+                0
+              ],
+              [
+                12.346893223,
+                55.614425529,
+                0
+              ],
+              [
+                12.34702355,
+                55.614414327,
+                0
+              ],
+              [
+                12.347068493,
+                55.614435954,
+                0
+              ],
+              [
+                12.347130558,
+                55.614478783,
+                0
+              ],
+              [
+                12.347164502,
+                55.614515798,
+                0
+              ],
+              [
+                12.347164033,
+                55.614548484,
+                0
+              ],
+              [
+                12.3471444,
+                55.614593589,
+                0
+              ],
+              [
+                12.347082261,
+                55.614698927,
+                0
+              ],
+              [
+                12.347003829,
+                55.614823725,
+                0
+              ],
+              [
+                12.346906715,
+                55.61495504,
+                0
+              ],
+              [
+                12.346792978,
+                55.615087043,
+                0
+              ],
+              [
+                12.34667944,
+                55.615209644,
+                0
+              ],
+              [
+                12.346660082,
+                55.615204149,
+                0
+              ],
+              [
+                12.34661766,
+                55.615249355,
+                0
+              ],
+              [
+                12.346638106,
+                55.615255504,
+                0
+              ],
+              [
+                12.346581027,
+                55.61527322,
+                0
+              ],
+              [
+                12.346449904,
+                55.615298775,
+                0
+              ],
+              [
+                12.346307615,
+                55.615286917,
+                0
+              ],
+              [
+                12.346189455,
+                55.615243166,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "7800266",
+        "forretningsproces": "Anden sagskategori",
+        "id": "24899654",
+        "registreringfra": "2018-06-03T06:03:08.735000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1979-05-02T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "2129692",
+        "arbejderbolig": false,
+        "erfaelleslod": false,
+        "hovedejendomopdeltiejerlejligheder": false,
+        "landbrugsnotering": null,
+        "udskiltvej": false,
+        "lokalid": "2129692",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/SamletFastEjendom",
+        "septima_hash86": "SEzbbNlr0e1yA2rJR5AYs2Qd7tE+r5PCuotyLa/DN387sM9VyOrvE6cOUWPpy1h1bDMlJQsCEADob8aSsBg/Lw",
+        "septima_serial": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.654167176,
+                55.457705468,
+                0
+              ],
+              [
+                10.654063986,
+                55.457664057,
+                0
+              ],
+              [
+                10.654699229,
+                55.457207724,
+                0
+              ],
+              [
+                10.654886338,
+                55.457291874,
+                0
+              ],
+              [
+                10.655039702,
+                55.457359127,
+                0
+              ],
+              [
+                10.655195856,
+                55.457424274,
+                0
+              ],
+              [
+                10.654601998,
+                55.457851363,
+                0
+              ],
+              [
+                10.654490205,
+                55.457817924,
+                0
+              ],
+              [
+                10.654380398,
+                55.457782445,
+                0
+              ],
+              [
+                10.65427269,
+                55.457744942,
+                0
+              ],
+              [
+                10.654167176,
+                55.457705468,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "7800319",
+        "forretningsproces": "Anden sagskategori",
+        "id": "24899655",
+        "registreringfra": "2018-06-03T06:03:08.736000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1979-05-02T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "5446821",
+        "arbejderbolig": false,
+        "erfaelleslod": false,
+        "hovedejendomopdeltiejerlejligheder": false,
+        "landbrugsnotering": null,
+        "udskiltvej": false,
+        "lokalid": "5446821",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/SamletFastEjendom",
+        "septima_hash86": "gqb0LXXie29cH0ePTKnt5X7gw2U6SBMNcVZn/eu9LM+YcG2qx2gK6qhtSDDDZ+aLA18GqzUJaCXHatLJ9bfAEQ",
+        "septima_serial": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.654741409,
+                55.457889435,
+                0
+              ],
+              [
+                10.654601998,
+                55.457851363,
+                0
+              ],
+              [
+                10.655195856,
+                55.457424274,
+                0
+              ],
+              [
+                10.655361487,
+                55.457489859,
+                0
+              ],
+              [
+                10.655530006,
+                55.457553023,
+                0
+              ],
+              [
+                10.65570127,
+                55.457613751,
+                0
+              ],
+              [
+                10.655303126,
+                55.458012357,
+                0
+              ],
+              [
+                10.65502766,
+                55.457955978,
+                0
+              ],
+              [
+                10.654883361,
+                55.457924326,
+                0
+              ],
+              [
+                10.654741409,
+                55.457889435,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "7800319",
+        "forretningsproces": "Anden sagskategori",
+        "id": "24899656",
+        "registreringfra": "2018-06-03T06:03:08.737000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1979-05-02T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "5446912",
+        "arbejderbolig": false,
+        "erfaelleslod": false,
+        "hovedejendomopdeltiejerlejligheder": false,
+        "landbrugsnotering": null,
+        "udskiltvej": false,
+        "lokalid": "5446912",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/SamletFastEjendom",
+        "septima_hash86": "durM6QOjOln/d+OkBY0AOOEerDydd51BHjzVYEtlIiKLPSUklNuVUXktPZObIy4Q9FB27GxL5vxiqHOTYZaETg",
+        "septima_serial": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.252200468,
+                55.198353056,
+                0
+              ],
+              [
+                10.252185789,
+                55.198349891,
+                0
+              ],
+              [
+                10.25230822,
+                55.198119307,
+                0
+              ],
+              [
+                10.252718293,
+                55.198208973,
+                0
+              ],
+              [
+                10.252589869,
+                55.19840324,
+                0
+              ],
+              [
+                10.252518082,
+                55.198421762,
+                0
+              ],
+              [
+                10.252200468,
+                55.198353056,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "7800347",
+        "forretningsproces": "Anden sagskategori",
+        "id": "24899657",
+        "registreringfra": "2018-06-03T06:03:08.737000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1979-05-02T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "3064864",
+        "arbejderbolig": false,
+        "erfaelleslod": false,
+        "hovedejendomopdeltiejerlejligheder": false,
+        "landbrugsnotering": null,
+        "udskiltvej": false,
+        "lokalid": "3064864",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/SamletFastEjendom",
+        "septima_hash86": "Qn3YnGD1O7GM+qAVxZdQ+TwxqguaFWCP/+nN7oD/ktOd6wZ7g4WlhPYukkmI4XwKqkt8T+IuDwuN5CMUSbtAgQ",
+        "septima_serial": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.251822979,
+                55.198357983,
+                0
+              ],
+              [
+                10.251914465,
+                55.198194624,
+                0
+              ],
+              [
+                10.251997872,
+                55.198044721,
+                0
+              ],
+              [
+                10.252202321,
+                55.198096157,
+                0
+              ],
+              [
+                10.25230822,
+                55.198119307,
+                0
+              ],
+              [
+                10.252185789,
+                55.198349891,
+                0
+              ],
+              [
+                10.252200468,
+                55.198353056,
+                0
+              ],
+              [
+                10.252166244,
+                55.198417493,
+                0
+              ],
+              [
+                10.251822979,
+                55.198357983,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "7800347",
+        "forretningsproces": "Anden sagskategori",
+        "id": "24899658",
+        "registreringfra": "2018-06-03T06:03:08.738000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1979-05-02T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "3064865",
+        "arbejderbolig": false,
+        "erfaelleslod": false,
+        "hovedejendomopdeltiejerlejligheder": false,
+        "landbrugsnotering": null,
+        "udskiltvej": false,
+        "lokalid": "3064865",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/SamletFastEjendom",
+        "septima_hash86": "ZZg4DO4RziNf4sI2kIuALiFi9XJk7vb1pqlORzSuAHR3ZVM+B61R/6Rm+l8RyjojQVP6v+LyfnWD3cxo+Hj4jw",
+        "septima_serial": "6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.251667261,
+                55.198663023,
+                0
+              ],
+              [
+                10.251790443,
+                55.19841816,
+                0
+              ],
+              [
+                10.251822979,
+                55.198357983,
+                0
+              ],
+              [
+                10.252166244,
+                55.198417493,
+                0
+              ],
+              [
+                10.252118207,
+                55.198507918,
+                0
+              ],
+              [
+                10.252011667,
+                55.198709266,
+                0
+              ],
+              [
+                10.251935029,
+                55.198698343,
+                0
+              ],
+              [
+                10.251667261,
+                55.198663023,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "7800347",
+        "forretningsproces": "Anden sagskategori",
+        "id": "24899659",
+        "registreringfra": "2018-06-03T06:03:08.738000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1979-05-02T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "3064866",
+        "arbejderbolig": false,
+        "erfaelleslod": false,
+        "hovedejendomopdeltiejerlejligheder": false,
+        "landbrugsnotering": null,
+        "udskiltvej": false,
+        "lokalid": "3064866",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/SamletFastEjendom",
+        "septima_hash86": "pGjKByHxuyoUnNiKvLSWeXEwdDNaH4bf2JVlYYt0hQWAoig327lTST+zmWhBSowujZgTAJoCJcteTNVFhV8CeQ",
+        "septima_serial": "7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.252118474,
+                55.198724741,
+                0
+              ],
+              [
+                10.252011667,
+                55.198709266,
+                0
+              ],
+              [
+                10.252118207,
+                55.198507918,
+                0
+              ],
+              [
+                10.252587669,
+                55.198609466,
+                0
+              ],
+              [
+                10.252430443,
+                55.198847283,
+                0
+              ],
+              [
+                10.252375265,
+                55.198834315,
+                0
+              ],
+              [
+                10.252118474,
+                55.198724741,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "7800347",
+        "forretningsproces": "Anden sagskategori",
+        "id": "24899660",
+        "registreringfra": "2018-06-03T06:03:08.739000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1979-05-02T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "3064867",
+        "arbejderbolig": false,
+        "erfaelleslod": false,
+        "hovedejendomopdeltiejerlejligheder": false,
+        "landbrugsnotering": null,
+        "udskiltvej": false,
+        "lokalid": "3064867",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/SamletFastEjendom",
+        "septima_hash86": "9+fK5+2E1MaI8QcCfie6im1dCSllZivWvWX+NiN2aiO80R4OHcd6qvgjsVm+d6xO7aM9JYNhVrTgMn20s2ZTzw",
+        "septima_serial": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.855564329,
+                56.236878108,
+                0
+              ],
+              [
+                9.855525805,
+                56.236650219,
+                0
+              ],
+              [
+                9.855619096,
+                56.236588368,
+                0
+              ],
+              [
+                9.856644726,
+                56.236542314,
+                0
+              ],
+              [
+                9.85671494,
+                56.237027358,
+                0
+              ],
+              [
+                9.856722721,
+                56.237081061,
+                0
+              ],
+              [
+                9.855612523,
+                56.23713081,
+                0
+              ],
+              [
+                9.855578037,
+                56.23696037,
+                0
+              ],
+              [
+                9.855564329,
+                56.236878108,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "7800354",
+        "forretningsproces": "Anden sagskategori",
+        "id": "24899661",
+        "registreringfra": "2018-06-03T06:03:08.739000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1979-05-02T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "4275276",
+        "arbejderbolig": false,
+        "erfaelleslod": false,
+        "hovedejendomopdeltiejerlejligheder": false,
+        "landbrugsnotering": null,
+        "udskiltvej": false,
+        "lokalid": "4275276",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/SamletFastEjendom",
+        "septima_hash86": "GC7j0bS9fIJeB8puh66mqRG8be1gGq4/HjjpB8KpH602fWbr0NS0GuEc1SV36zBM67Q4eiGHJujD2kKjojKkaA",
+        "septima_serial": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.600633071,
+                55.254048592,
+                0
+              ],
+              [
+                11.600632643,
+                55.254036745,
+                0
+              ],
+              [
+                11.600628182,
+                55.253918127,
+                0
+              ],
+              [
+                11.600621952,
+                55.253751005,
+                0
+              ],
+              [
+                11.60223579,
+                55.253582336,
+                0
+              ],
+              [
+                11.603903133,
+                55.253560791,
+                0
+              ],
+              [
+                11.604110609,
+                55.253768699,
+                0
+              ],
+              [
+                11.602416084,
+                55.253786485,
+                0
+              ],
+              [
+                11.602427322,
+                55.254020452,
+                0
+              ],
+              [
+                11.601344578,
+                55.254037441,
+                0
+              ],
+              [
+                11.600633071,
+                55.254048592,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "7800381",
+        "forretningsproces": "Anden sagskategori",
+        "id": "24899662",
+        "registreringfra": "2018-06-03T06:03:08.740000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1979-05-02T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "2525587",
+        "arbejderbolig": false,
+        "erfaelleslod": false,
+        "hovedejendomopdeltiejerlejligheder": false,
+        "landbrugsnotering": null,
+        "udskiltvej": false,
+        "lokalid": "2525587",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/SamletFastEjendom",
+        "septima_hash86": "n/ChbPoETVphICGrBvQ29EkIZ9RW29UX7j3Nsr1B4vPdlPpn199ltbGjTPlZvwvbRNy+20v2XJ27h4CCSzevRg",
+        "septima_serial": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.749121537,
+                54.697716653,
+                0
+              ],
+              [
+                11.749284684,
+                54.697521789,
+                0
+              ],
+              [
+                11.749854249,
+                54.697633896,
+                0
+              ],
+              [
+                11.749693849,
+                54.697820922,
+                0
+              ],
+              [
+                11.749121537,
+                54.697716653,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "7800384",
+        "forretningsproces": "Anden sagskategori",
+        "id": "24899663",
+        "registreringfra": "2018-06-03T06:03:08.741000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1979-05-02T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "3082128",
+        "arbejderbolig": false,
+        "erfaelleslod": false,
+        "hovedejendomopdeltiejerlejligheder": false,
+        "landbrugsnotering": null,
+        "udskiltvej": false,
+        "lokalid": "3082128",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/SamletFastEjendom",
+        "septima_hash86": "8JGhN2iJA+MRCiGG+NKoaMfYAnEZtz0aXb3soL7vb/7EuZxnc2jceBqI2EElASEVdjOBh/LokErRzGLUacF93A",
+        "septima_serial": "11"
+      }
+    }
+  ]
+}

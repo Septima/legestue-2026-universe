@@ -1,0 +1,17 @@
+[
+  {
+    "tabelnavn": "servicecenter",
+    "beskrivelse": "Oversigt over Borgerservicecentre via NemID-website",
+    "kilde": "Hentes fra nemid.nu",
+    "rettigheder": "Oplysningerne stammer fra NemID's oversigt over kommunale borgerservicecentre. NemID oplyser at kommunerne har ansvaret for oplysningerne i oversigten, som er tilgængelig her: https://service.nemid.nu/dk-da/support/find_dit_borgerservicecenter/borgerservicecentre.html",
+    "rettigheder_url": "-",
+    "attributtering": "NemID",
+    "attributtering_url": "https://www.nemid.nu/",
+    "opdateringsmetode": "Opdateres ikke\n",
+    "opdateringsinterval": {
+      "years": 100
+    },
+    "opdateringsbeskrivelse": "",
+    "note": "Opdateres ikke længere"
+  }
+]

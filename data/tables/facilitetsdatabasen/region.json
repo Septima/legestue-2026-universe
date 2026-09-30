@@ -1,0 +1,92 @@
+[
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "name": "Hovedstaden",
+    "importeddate": "0001-01-01T00:00:00.000Z",
+    "updateddate": "0001-01-01T00:00:00.000Z",
+    "septima_parent_tab": "commune",
+    "septima_parent_id": "19664846",
+    "septima_serial": "19664846"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "name": "Hovedstaden",
+    "importeddate": "0001-01-01T00:00:00.000Z",
+    "updateddate": "0001-01-01T00:00:00.000Z",
+    "septima_parent_tab": "commune",
+    "septima_parent_id": "19664847",
+    "septima_serial": "19664847"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "name": "Syddanmark",
+    "importeddate": "0001-01-01T00:00:00.000Z",
+    "updateddate": "0001-01-01T00:00:00.000Z",
+    "septima_parent_tab": "commune",
+    "septima_parent_id": "19664848",
+    "septima_serial": "19664848"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "name": "Midtjylland",
+    "importeddate": "0001-01-01T00:00:00.000Z",
+    "updateddate": "0001-01-01T00:00:00.000Z",
+    "septima_parent_tab": "commune",
+    "septima_parent_id": "19664849",
+    "septima_serial": "19664849"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "name": "Hovedstaden",
+    "importeddate": "0001-01-01T00:00:00.000Z",
+    "updateddate": "0001-01-01T00:00:00.000Z",
+    "septima_parent_tab": "commune",
+    "septima_parent_id": "19664850",
+    "septima_serial": "19664850"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "name": "Midtjylland",
+    "importeddate": "0001-01-01T00:00:00.000Z",
+    "updateddate": "0001-01-01T00:00:00.000Z",
+    "septima_parent_tab": "commune",
+    "septima_parent_id": "19664851",
+    "septima_serial": "19664851"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "name": "Hovedstaden",
+    "importeddate": "0001-01-01T00:00:00.000Z",
+    "updateddate": "0001-01-01T00:00:00.000Z",
+    "septima_parent_tab": "commune",
+    "septima_parent_id": "19664852",
+    "septima_serial": "19664852"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "name": "Sjælland",
+    "importeddate": "0001-01-01T00:00:00.000Z",
+    "updateddate": "0001-01-01T00:00:00.000Z",
+    "septima_parent_tab": "commune",
+    "septima_parent_id": "19664853",
+    "septima_serial": "19664853"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "name": "Nordjylland",
+    "importeddate": "0001-01-01T00:00:00.000Z",
+    "updateddate": "0001-01-01T00:00:00.000Z",
+    "septima_parent_tab": "commune",
+    "septima_parent_id": "19664854",
+    "septima_serial": "19664854"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "name": "Nordjylland",
+    "importeddate": "0001-01-01T00:00:00.000Z",
+    "updateddate": "0001-01-01T00:00:00.000Z",
+    "septima_parent_tab": "commune",
+    "septima_parent_id": "19664855",
+    "septima_serial": "19664855"
+  }
+]

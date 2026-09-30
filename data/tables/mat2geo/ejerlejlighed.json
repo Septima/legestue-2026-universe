@@ -1,0 +1,1374 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.471329164,
+                55.812162329,
+                0
+              ],
+              [
+                12.47126438,
+                55.812234858,
+                0
+              ],
+              [
+                12.471194581,
+                55.81221508,
+                0
+              ],
+              [
+                12.47122539,
+                55.812180591,
+                0
+              ],
+              [
+                12.471209714,
+                55.812176152,
+                0
+              ],
+              [
+                12.471243673,
+                55.812138121,
+                0
+              ],
+              [
+                12.471329164,
+                55.812162329,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Ejerlejlighed tilkommet",
+        "senestesaglokalid": "100133175",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "115419",
+        "registreringfra": "2019-02-23T00:40:02.778000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1970-10-31T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "208216",
+        "samletfastejendomlokalid": "2096069",
+        "ejerlejlighedsnummer": "17",
+        "fordelingstalnaevner": "1000",
+        "fordelingstaltaeller": "16",
+        "ibygningpaafremmedgrund": false,
+        "samletareal": "65",
+        "lokalid": "208216",
+        "ejerlejlighedskort": null,
+        "bygningpaafremmedgrundlokalid": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Ejerlejlighed",
+        "septima_hash86": "XG+YBXgJsqdK5Ex+RScYwTV/dbnQA2ine88oq1KG2Av4nXiBe/iE7+74iS3Df9b+z48NvtjFG/yiusHFRlqwxA",
+        "septima_serial": "7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.470630395,
+                55.812055302,
+                0
+              ],
+              [
+                12.47069518,
+                55.811982773,
+                0
+              ],
+              [
+                12.470588329,
+                55.811952515,
+                0
+              ],
+              [
+                12.470554369,
+                55.811990537,
+                0
+              ],
+              [
+                12.470570177,
+                55.811995017,
+                0
+              ],
+              [
+                12.470539367,
+                55.812029515,
+                0
+              ],
+              [
+                12.470630395,
+                55.812055302,
+                0
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                12.47074566,
+                55.812043792,
+                0
+              ],
+              [
+                12.470767656,
+                55.812019164,
+                0
+              ],
+              [
+                12.470757664,
+                55.812016335,
+                0
+              ],
+              [
+                12.470763965,
+                55.81200927,
+                0
+              ],
+              [
+                12.470748583,
+                55.812004912,
+                0
+              ],
+              [
+                12.470742283,
+                55.812011977,
+                0
+              ],
+              [
+                12.470730603,
+                55.812008666,
+                0
+              ],
+              [
+                12.470736904,
+                55.812001609,
+                0
+              ],
+              [
+                12.470721523,
+                55.811997252,
+                0
+              ],
+              [
+                12.470715205,
+                55.812004308,
+                0
+              ],
+              [
+                12.470705541,
+                55.812001569,
+                0
+              ],
+              [
+                12.470683544,
+                55.812026198,
+                0
+              ],
+              [
+                12.47074566,
+                55.812043792,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Ejerlejlighed tilkommet",
+        "senestesaglokalid": "100133175",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "115437",
+        "registreringfra": "2019-02-23T00:40:02.778000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1970-10-31T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "208234",
+        "samletfastejendomlokalid": "2096069",
+        "ejerlejlighedsnummer": "33",
+        "fordelingstalnaevner": "1000",
+        "fordelingstaltaeller": "15",
+        "ibygningpaafremmedgrund": false,
+        "samletareal": "63",
+        "lokalid": "208234",
+        "ejerlejlighedskort": null,
+        "bygningpaafremmedgrundlokalid": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Ejerlejlighed",
+        "septima_hash86": "NkELuUrGgTRv77eDa9PbBVKwRlSoGx5xv786h/PQBs/Bp1jPJfybbdReDF+fZX3jouV9ctZmURlhpM+sFzsGwg",
+        "septima_serial": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.409098269,
+                55.761343783,
+                0
+              ],
+              [
+                12.409068353,
+                55.761369879,
+                0
+              ],
+              [
+                12.409162,
+                55.761403962,
+                0
+              ],
+              [
+                12.409191916,
+                55.761377866,
+                0
+              ],
+              [
+                12.409098269,
+                55.761343783,
+                0
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                12.409258947,
+                55.76162461,
+                0
+              ],
+              [
+                12.409277417,
+                55.761633689,
+                0
+              ],
+              [
+                12.409264595,
+                55.761641986,
+                0
+              ],
+              [
+                12.409363378,
+                55.761690492,
+                0
+              ],
+              [
+                12.409449032,
+                55.761635066,
+                0
+              ],
+              [
+                12.409333088,
+                55.761578135,
+                0
+              ],
+              [
+                12.409320052,
+                55.761586517,
+                0
+              ],
+              [
+                12.409318976,
+                55.761585989,
+                0
+              ],
+              [
+                12.409258947,
+                55.76162461,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Ejerlejlighed tilkommet",
+        "senestesaglokalid": "100133175",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "130377",
+        "registreringfra": "2019-02-23T01:13:02.928000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1986-01-24T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "223174",
+        "samletfastejendomlokalid": "2133416",
+        "ejerlejlighedsnummer": "1",
+        "fordelingstalnaevner": "100",
+        "fordelingstaltaeller": "25",
+        "ibygningpaafremmedgrund": false,
+        "samletareal": "130",
+        "lokalid": "223174",
+        "ejerlejlighedskort": null,
+        "bygningpaafremmedgrundlokalid": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Ejerlejlighed",
+        "septima_hash86": "4bxAuTe2vf9aekJn/W/twwEd/KRotbT96qVmHHmGwx1sbbd0rlztsLckBx8W59GQj45mXgOGv6Ykme2FudK9CQ",
+        "septima_serial": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.409068353,
+                55.761369879,
+                0
+              ],
+              [
+                12.409039504,
+                55.761395046,
+                0
+              ],
+              [
+                12.409133167,
+                55.761429129,
+                0
+              ],
+              [
+                12.409162,
+                55.761403962,
+                0
+              ],
+              [
+                12.409068353,
+                55.761369879,
+                0
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                12.409207673,
+                55.761616683,
+                0
+              ],
+              [
+                12.409220207,
+                55.761622898,
+                0
+              ],
+              [
+                12.409221285,
+                55.761622202,
+                0
+              ],
+              [
+                12.409233761,
+                55.761628366,
+                0
+              ],
+              [
+                12.409235138,
+                55.761627519,
+                0
+              ],
+              [
+                12.409248332,
+                55.761633986,
+                0
+              ],
+              [
+                12.409287378,
+                55.761608895,
+                0
+              ],
+              [
+                12.409286178,
+                55.761608299,
+                0
+              ],
+              [
+                12.409333088,
+                55.761578135,
+                0
+              ],
+              [
+                12.409231826,
+                55.761528079,
+                0
+              ],
+              [
+                12.409144517,
+                55.76158427,
+                0
+              ],
+              [
+                12.409157045,
+                55.761590461,
+                0
+              ],
+              [
+                12.409155977,
+                55.761591145,
+                0
+              ],
+              [
+                12.409207673,
+                55.761616683,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Ejerlejlighed tilkommet",
+        "senestesaglokalid": "100133175",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "130378",
+        "registreringfra": "2019-02-23T01:13:02.928000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1986-01-24T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "223175",
+        "samletfastejendomlokalid": "2133416",
+        "ejerlejlighedsnummer": "2",
+        "fordelingstalnaevner": "100",
+        "fordelingstaltaeller": "25",
+        "ibygningpaafremmedgrund": false,
+        "samletareal": "127",
+        "lokalid": "223175",
+        "ejerlejlighedskort": null,
+        "bygningpaafremmedgrundlokalid": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Ejerlejlighed",
+        "septima_hash86": "GEZeGKc8c+Zyuzt34ierRuBa+ylWKKkCg+PVqTOpp29E703hMNDGEarNtFhDsyH/Vn+4khkMNvYQGjINesiNcw",
+        "septima_serial": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.409133167,
+                55.761429129,
+                0
+              ],
+              [
+                12.409039504,
+                55.761395046,
+                0
+              ],
+              [
+                12.40901067,
+                55.761420212,
+                0
+              ],
+              [
+                12.409104334,
+                55.761454295,
+                0
+              ],
+              [
+                12.409133167,
+                55.761429129,
+                0
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                12.409044872,
+                55.761645659,
+                0
+              ],
+              [
+                12.409047273,
+                55.761646851,
+                0
+              ],
+              [
+                12.409021417,
+                55.761663574,
+                0
+              ],
+              [
+                12.409021423,
+                55.761663576,
+                0
+              ],
+              [
+                12.409021282,
+                55.761663667,
+                0
+              ],
+              [
+                12.409110518,
+                55.761707674,
+                0
+              ],
+              [
+                12.409233761,
+                55.761628366,
+                0
+              ],
+              [
+                12.409144517,
+                55.76158427,
+                0
+              ],
+              [
+                12.409118598,
+                55.761600969,
+                0
+              ],
+              [
+                12.409116245,
+                55.761599801,
+                0
+              ],
+              [
+                12.409100508,
+                55.761609858,
+                0
+              ],
+              [
+                12.409102892,
+                55.761611051,
+                0
+              ],
+              [
+                12.409077385,
+                55.761627522,
+                0
+              ],
+              [
+                12.409063008,
+                55.761636784,
+                0
+              ],
+              [
+                12.409060626,
+                55.761635601,
+                0
+              ],
+              [
+                12.409044872,
+                55.761645659,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Ejerlejlighed tilkommet",
+        "senestesaglokalid": "100133175",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "130379",
+        "registreringfra": "2019-02-23T01:13:02.928000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1986-01-24T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "223176",
+        "samletfastejendomlokalid": "2133416",
+        "ejerlejlighedsnummer": "3",
+        "fordelingstalnaevner": "100",
+        "fordelingstaltaeller": "25",
+        "ibygningpaafremmedgrund": false,
+        "samletareal": "150",
+        "lokalid": "223176",
+        "ejerlejlighedskort": null,
+        "bygningpaafremmedgrundlokalid": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Ejerlejlighed",
+        "septima_hash86": "tgPvym3+my7UdUIS8hQfDAsf0OWs/Oigha3Np7OSk8cERy2snaUa5XtWAdYL1URASYK8+y/9j8/RYjlvCFrXxA",
+        "septima_serial": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.40901067,
+                55.761420212,
+                0
+              ],
+              [
+                12.408980762,
+                55.761446398,
+                0
+              ],
+              [
+                12.409074425,
+                55.761480481,
+                0
+              ],
+              [
+                12.409104334,
+                55.761454295,
+                0
+              ],
+              [
+                12.40901067,
+                55.761420212,
+                0
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                12.4091093,
+                55.761708517,
+                0
+              ],
+              [
+                12.409110518,
+                55.761707674,
+                0
+              ],
+              [
+                12.409098126,
+                55.761701562,
+                0
+              ],
+              [
+                12.409098302,
+                55.761701449,
+                0
+              ],
+              [
+                12.409085672,
+                55.761695236,
+                0
+              ],
+              [
+                12.409034079,
+                55.761669786,
+                0
+              ],
+              [
+                12.409033909,
+                55.761669894,
+                0
+              ],
+              [
+                12.409021282,
+                55.761663667,
+                0
+              ],
+              [
+                12.408934298,
+                55.76171958,
+                0
+              ],
+              [
+                12.408982577,
+                55.761743414,
+                0
+              ],
+              [
+                12.408986358,
+                55.761741062,
+                0
+              ],
+              [
+                12.409053863,
+                55.761774343,
+                0
+              ],
+              [
+                12.409063393,
+                55.761768217,
+                0
+              ],
+              [
+                12.409164631,
+                55.761818201,
+                0
+              ],
+              [
+                12.409223832,
+                55.761780143,
+                0
+              ],
+              [
+                12.409157818,
+                55.761747509,
+                0
+              ],
+              [
+                12.409171059,
+                55.76173899,
+                0
+              ],
+              [
+                12.4091093,
+                55.761708517,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Ejerlejlighed tilkommet",
+        "senestesaglokalid": "100133175",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "130380",
+        "registreringfra": "2019-02-23T01:13:02.928000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2016-02-04T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "223177",
+        "samletfastejendomlokalid": "2133416",
+        "ejerlejlighedsnummer": "4",
+        "fordelingstalnaevner": "100",
+        "fordelingstaltaeller": "25",
+        "ibygningpaafremmedgrund": false,
+        "samletareal": "200",
+        "lokalid": "223177",
+        "ejerlejlighedskort": null,
+        "bygningpaafremmedgrundlokalid": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Ejerlejlighed",
+        "septima_hash86": "FroJbAGc+icnbzOaYSiQMNCNFNoYIoeaKFHkezJXwqoMpunSHpdecBOq5YnlcnewXGcrK0L8QL0BvxGqSffLnw",
+        "septima_serial": "12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.306281894,
+                55.929986885,
+                0
+              ],
+              [
+                12.306285814,
+                55.929999996,
+                0
+              ],
+              [
+                12.306343913,
+                55.929994506,
+                0
+              ],
+              [
+                12.306327638,
+                55.929940172,
+                0
+              ],
+              [
+                12.306269489,
+                55.929945439,
+                0
+              ],
+              [
+                12.306281894,
+                55.929986885,
+                0
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                12.306169414,
+                55.930009156,
+                0
+              ],
+              [
+                12.306189382,
+                55.930078458,
+                0
+              ],
+              [
+                12.306363472,
+                55.930061635,
+                0
+              ],
+              [
+                12.306349729,
+                55.930014453,
+                0
+              ],
+              [
+                12.306343072,
+                55.930015081,
+                0
+              ],
+              [
+                12.306272232,
+                55.930021767,
+                0
+              ],
+              [
+                12.306265722,
+                55.930000068,
+                0
+              ],
+              [
+                12.306169414,
+                55.930009156,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Ejerlejlighed tilkommet",
+        "senestesaglokalid": "100133175",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "159764",
+        "registreringfra": "2019-02-23T02:22:17.117000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "1985-10-11T00:00:00.000000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "252561",
+        "samletfastejendomlokalid": "5326654",
+        "ejerlejlighedsnummer": "1",
+        "fordelingstalnaevner": "100",
+        "fordelingstaltaeller": "75",
+        "ibygningpaafremmedgrund": false,
+        "samletareal": "440",
+        "lokalid": "252561",
+        "ejerlejlighedskort": null,
+        "bygningpaafremmedgrundlokalid": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Ejerlejlighed",
+        "septima_hash86": "di7zoZxE2Wi+yTcRcIzgekAgL1UJM0tkWu7PaEkh1uxIdKmZtL6uQSmW5Wx+Jxa3VAyGlaD0a2lArn3SVj275Q",
+        "septima_serial": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.281747443,
+                55.426347236,
+                0
+              ],
+              [
+                9.281704731,
+                55.426313521,
+                0
+              ],
+              [
+                9.28180356,
+                55.426273028,
+                0
+              ],
+              [
+                9.281812904,
+                55.42628041,
+                0
+              ],
+              [
+                9.281830502,
+                55.426273235,
+                0
+              ],
+              [
+                9.281882306,
+                55.426318899,
+                0
+              ],
+              [
+                9.281794442,
+                55.426354865,
+                0
+              ],
+              [
+                9.281772021,
+                55.42633716,
+                0
+              ],
+              [
+                9.281747443,
+                55.426347236,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Ejerlejlighed tilkommet",
+        "senestesaglokalid": "100133175",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "id": "230349",
+        "registreringfra": "2019-02-23T09:25:26.317000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2018-08-15T00:00:00.000000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "323147",
+        "samletfastejendomlokalid": "5028849",
+        "ejerlejlighedsnummer": "9",
+        "fordelingstalnaevner": "28",
+        "fordelingstaltaeller": "3",
+        "ibygningpaafremmedgrund": false,
+        "samletareal": "86",
+        "lokalid": "323147",
+        "ejerlejlighedskort": null,
+        "bygningpaafremmedgrundlokalid": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Ejerlejlighed",
+        "septima_hash86": "qyX2FbyAUVjq+yM08n/BqAQS+1+njNPrY6/LZ+Z6jHXes8aCrf+vSvboE3qtvYOj/78u5dQTQ/t5wYfxw+Q/ew",
+        "septima_serial": "26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.491854797,
+                55.707176733,
+                0
+              ],
+              [
+                12.491985405,
+                55.707117987,
+                0
+              ],
+              [
+                12.4919854,
+                55.707117984,
+                0
+              ],
+              [
+                12.491986032,
+                55.7071177,
+                0
+              ],
+              [
+                12.491949518,
+                55.707091854,
+                0
+              ],
+              [
+                12.491907684,
+                55.707110579,
+                0
+              ],
+              [
+                12.491890805,
+                55.707098657,
+                0
+              ],
+              [
+                12.491931989,
+                55.707080125,
+                0
+              ],
+              [
+                12.491931737,
+                55.707079946,
+                0
+              ],
+              [
+                12.491932362,
+                55.707079665,
+                0
+              ],
+              [
+                12.491891422,
+                55.707050619,
+                0
+              ],
+              [
+                12.491760426,
+                55.707109465,
+                0
+              ],
+              [
+                12.491760983,
+                55.707109862,
+                0
+              ],
+              [
+                12.49176068,
+                55.707109997,
+                0
+              ],
+              [
+                12.491807601,
+                55.707143267,
+                0
+              ],
+              [
+                12.491781498,
+                55.707154992,
+                0
+              ],
+              [
+                12.491828708,
+                55.707188445,
+                0
+              ],
+              [
+                12.49185478,
+                55.707176721,
+                0
+              ],
+              [
+                12.491854797,
+                55.707176733,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Ejerlejlighed tilkommet",
+        "senestesaglokalid": "100142451",
+        "forretningsproces": "Ejerlejlighedssag",
+        "id": "337734",
+        "registreringfra": "2019-03-25T14:20:11.821000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2019-03-25T14:20:00.977000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "100149204",
+        "samletfastejendomlokalid": "6007127",
+        "ejerlejlighedsnummer": "3",
+        "fordelingstalnaevner": "4",
+        "fordelingstaltaeller": "1",
+        "ibygningpaafremmedgrund": false,
+        "samletareal": "199",
+        "lokalid": "100149204",
+        "ejerlejlighedskort": null,
+        "bygningpaafremmedgrundlokalid": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Ejerlejlighed",
+        "septima_hash86": "q0s7VhnmVOSQEuK+EmaCwfPcq7QTGLEBJlfMkDgK7tTDNl3xUMz1IKzH5eUdDiTmt5qcPlpr7rnJsfn96IT6ag",
+        "septima_serial": "46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.491880346,
+                55.707163957,
+                0
+              ],
+              [
+                12.491891446,
+                55.707158965,
+                0
+              ],
+              [
+                12.491892431,
+                55.707159657,
+                0
+              ],
+              [
+                12.491908231,
+                55.707152553,
+                0
+              ],
+              [
+                12.491907246,
+                55.707151862,
+                0
+              ],
+              [
+                12.491922204,
+                55.707145142,
+                0
+              ],
+              [
+                12.49192319,
+                55.707145833,
+                0
+              ],
+              [
+                12.491939005,
+                55.707138729,
+                0
+              ],
+              [
+                12.491938004,
+                55.707138039,
+                0
+              ],
+              [
+                12.491982959,
+                55.707117877,
+                0
+              ],
+              [
+                12.491969203,
+                55.707108108,
+                0
+              ],
+              [
+                12.491970442,
+                55.707107533,
+                0
+              ],
+              [
+                12.491957863,
+                55.70709863,
+                0
+              ],
+              [
+                12.491956608,
+                55.707099205,
+                0
+              ],
+              [
+                12.491947764,
+                55.707092893,
+                0
+              ],
+              [
+                12.491925288,
+                55.707102975,
+                0
+              ],
+              [
+                12.491925287,
+                55.707102974,
+                0
+              ],
+              [
+                12.491907311,
+                55.707111039,
+                0
+              ],
+              [
+                12.491890179,
+                55.707098938,
+                0
+              ],
+              [
+                12.491908154,
+                55.707090874,
+                0
+              ],
+              [
+                12.491908149,
+                55.70709087,
+                0
+              ],
+              [
+                12.49193187,
+                55.707080218,
+                0
+              ],
+              [
+                12.491931274,
+                55.707079786,
+                0
+              ],
+              [
+                12.491930036,
+                55.70708036,
+                0
+              ],
+              [
+                12.491917091,
+                55.707071108,
+                0
+              ],
+              [
+                12.491918337,
+                55.707070623,
+                0
+              ],
+              [
+                12.49190575,
+                55.70706163,
+                0
+              ],
+              [
+                12.491904512,
+                55.707062205,
+                0
+              ],
+              [
+                12.491891011,
+                55.707052609,
+                0
+              ],
+              [
+                12.491846065,
+                55.70707286,
+                0
+              ],
+              [
+                12.491845079,
+                55.707072169,
+                0
+              ],
+              [
+                12.491829279,
+                55.707079272,
+                0
+              ],
+              [
+                12.491830265,
+                55.707079963,
+                0
+              ],
+              [
+                12.491815306,
+                55.707086683,
+                0
+              ],
+              [
+                12.491814321,
+                55.707085992,
+                0
+              ],
+              [
+                12.491798505,
+                55.707093096,
+                0
+              ],
+              [
+                12.491799506,
+                55.707093787,
+                0
+              ],
+              [
+                12.49178531,
+                55.707100125,
+                0
+              ],
+              [
+                12.491784309,
+                55.707099434,
+                0
+              ],
+              [
+                12.491737894,
+                55.707120357,
+                0
+              ],
+              [
+                12.491738895,
+                55.707121048,
+                0
+              ],
+              [
+                12.49173479,
+                55.707122873,
+                0
+              ],
+              [
+                12.491780847,
+                55.70715555,
+                0
+              ],
+              [
+                12.491807722,
+                55.707143469,
+                0
+              ],
+              [
+                12.491830934,
+                55.707159699,
+                0
+              ],
+              [
+                12.491857442,
+                55.707147738,
+                0
+              ],
+              [
+                12.491880346,
+                55.707163957,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Ejerlejlighed tilkommet",
+        "senestesaglokalid": "100142451",
+        "forretningsproces": "Ejerlejlighedssag",
+        "id": "337736",
+        "registreringfra": "2019-03-25T14:20:11.821000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2019-03-25T14:20:00.977000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "bfenummer": "100149205",
+        "samletfastejendomlokalid": "6007127",
+        "ejerlejlighedsnummer": "4",
+        "fordelingstalnaevner": "4",
+        "fordelingstaltaeller": "1",
+        "ibygningpaafremmedgrund": false,
+        "samletareal": "130",
+        "lokalid": "100149205",
+        "ejerlejlighedskort": null,
+        "bygningpaafremmedgrundlokalid": null,
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Ejerlejlighed",
+        "septima_hash86": "dZ5mck8uDJzL9g6WaZlKan/FOz2+i5jTTgg1nrn7M3Ik9PZ/5H2tC8FSvnsHw+ONNqWm31eOihcDkBNVWo6Z6Q",
+        "septima_serial": "47"
+      }
+    }
+  ]
+}

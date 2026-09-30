@@ -1,0 +1,595 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.961755919,
+            54.588726864,
+            -999
+          ],
+          [
+            11.961847131,
+            54.58854598,
+            -999
+          ],
+          [
+            11.961904431,
+            54.588556894,
+            -999
+          ],
+          [
+            11.96181409,
+            54.588732722,
+            -999
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1216646375",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Guldborgsund kommune",
+        "registreringfra": "2021-08-30T07:29:00.135Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Guldborgsund kommune",
+        "virkningfra": "2021-08-26T11:36:08.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.50",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "brugesher": "Generel",
+        "hindring": "Vej",
+        "kategori": "Åbent vandløb",
+        "dimension": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "2219758",
+        "septima_hash86": "mPpgxU71gGhMH0uxvApqVEXkRCGIUnh/jDAFgoKR7VUvF2xal6prmsTsjcxhm6vAv8FuM8n8NGyAw02ruRQ6DQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.957352403,
+            54.597375587,
+            -999
+          ],
+          [
+            11.957440292,
+            54.597206026,
+            -999
+          ],
+          [
+            11.957481427,
+            54.597211674,
+            -999
+          ],
+          [
+            11.957393414,
+            54.597379529,
+            -999
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1216646410",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Guldborgsund kommune",
+        "registreringfra": "2021-08-30T07:29:00.135Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Guldborgsund kommune",
+        "virkningfra": "2021-08-26T11:47:34.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.50",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "0.50",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "brugesher": "Generel",
+        "hindring": "Vej",
+        "kategori": "Åbent vandløb",
+        "dimension": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "2219759",
+        "septima_hash86": "5g5eod4jlVit0ff9AYAaC6/5P8jVTWWwrwKXr3OZicdOqn0mWPNNCRdXjnV0SlFwhxWlgsADIxJjgS2qMqhewA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.944520056,
+            54.603438977,
+            0.1
+          ],
+          [
+            11.944084938,
+            54.603484992,
+            0.07
+          ],
+          [
+            11.944101779,
+            54.603546619,
+            0.29
+          ],
+          [
+            11.944533575,
+            54.60350608,
+            0.28
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1200001221",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "NIRAS",
+        "registreringfra": "2021-08-30T07:29:00.135Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Guldborgsund kommune",
+        "virkningfra": "2015-05-01T09:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.50",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "0.10",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Tilpasset til DHM/Terræn2015",
+        "brugesher": "Generel",
+        "hindring": "Vej",
+        "kategori": "Åbent vandløb",
+        "dimension": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "2219760",
+        "septima_hash86": "yesLYgdXKoPab8a/nZ8NXiBMx+vcFze/tT20NE04cvpSliV1pyQOQqy4Pv2yGOSf3Cc9WZ4QSywaxnQigqQLUw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.941327793,
+            54.606645116,
+            -0.11
+          ],
+          [
+            11.94138336,
+            54.606552328,
+            0.06
+          ],
+          [
+            11.941512071,
+            54.606573833,
+            -0.21
+          ],
+          [
+            11.941453206,
+            54.606668141,
+            -0.2
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1200002238",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "NIRAS",
+        "registreringfra": "2021-08-30T07:29:00.135Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Guldborgsund kommune",
+        "virkningfra": "2015-05-01T09:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.50",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "0.10",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Tilpasset til DHM/Terræn2015",
+        "brugesher": "Generel",
+        "hindring": "Vej",
+        "kategori": "Åbent vandløb",
+        "dimension": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "2219761",
+        "septima_hash86": "Sk8AbWxrCOVoLvKbOlgcXrZ9hAGkm9dzRinnAKlh1LnIgxbioX/BWDpzLRiBt4iaGJ4WbAHinSx15J5VKwZoWw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.535042825,
+            55.330397063,
+            -999
+          ],
+          [
+            10.53531911,
+            55.330692951,
+            -999
+          ],
+          [
+            10.535354986,
+            55.330683063,
+            -999
+          ],
+          [
+            10.535084185,
+            55.330386298,
+            -999
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1209057223",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Odense kommune",
+        "registreringfra": "2020-09-01T13:22:06.653Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Odense kommune",
+        "virkningfra": "2019-12-11T08:50:43.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.50",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "brugesher": "Generel",
+        "hindring": "Vej",
+        "kategori": "Ikke vandløb",
+        "dimension": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "2219762",
+        "septima_hash86": "sFODGuEcQOWOZIiZVxKQyT1ObyDeAHFbRH6K6uL4xbyK5oy3hAZC66Dy7JTLVCAPBw6w4KKnpPxZvXBwwbuxkA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.318393746,
+            55.598346807,
+            1.93
+          ],
+          [
+            12.318366116,
+            55.598108125,
+            0.96
+          ],
+          [
+            12.318441151,
+            55.598107261,
+            0.89
+          ],
+          [
+            12.318486679,
+            55.598351033,
+            2.78
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1200001062",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "NIRAS",
+        "registreringfra": "2022-11-08T13:23:49.005Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2015-05-01T09:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.50",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "0.10",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Tilpasset til DHM/Terræn2015",
+        "brugesher": "Generel",
+        "hindring": "Vej",
+        "kategori": "Ikke vandløb",
+        "dimension": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "2219765",
+        "septima_hash86": "D2P3a/Kc54tS8temljfmSrwkg+A5NhKPDaEsTU8Yq3/zhhASY5NPnNdoWkoHSDJzdgTucfzyDs9X+DQP9md0Ug"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.262794697,
+            55.584515084,
+            8.06
+          ],
+          [
+            12.262063568,
+            55.584882233,
+            8.18
+          ],
+          [
+            12.26196328,
+            55.584813786,
+            8.71
+          ],
+          [
+            12.262737302,
+            55.58445089,
+            5.85
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1200001063",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "NIRAS",
+        "registreringfra": "2022-11-08T13:23:49.005Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2015-05-01T09:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.50",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "0.10",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Tilpasset til DHM/Terræn2015",
+        "brugesher": "Generel",
+        "hindring": "Vej",
+        "kategori": "Ikke vandløb",
+        "dimension": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "2219766",
+        "septima_hash86": "rN06LYnrl7tVnzxfqpDzRu4SzgXKQv1J6adBgAC6mYoAUFva6MCCXPHRTzoOeAEHC1rmWCrjNxqqPxA46i8EBw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.33986081,
+            55.603448023,
+            4.38
+          ],
+          [
+            12.340201105,
+            55.60387688,
+            3.04
+          ],
+          [
+            12.340276272,
+            55.603860624,
+            2.96
+          ],
+          [
+            12.339928245,
+            55.603426764,
+            3.58
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1200001067",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "NIRAS",
+        "registreringfra": "2022-11-08T13:23:49.005Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2015-05-01T09:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.50",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "0.10",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Tilpasset til DHM/Terræn2015",
+        "brugesher": "Generel",
+        "hindring": "Vej",
+        "kategori": "Ikke vandløb",
+        "dimension": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "2219767",
+        "septima_hash86": "5ot1lsBFcXLqIdAel21X3/1uH45+ym6YEf7vWmZ8QM92aLWkJLjSDq2jhcPttzpWSGobNl1ddsyC7siiOOVxBg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.402677947,
+            54.685442808,
+            4.2
+          ],
+          [
+            11.402900494,
+            54.685716618,
+            4.11
+          ],
+          [
+            11.402606777,
+            54.6858296,
+            4.18
+          ],
+          [
+            11.402396026,
+            54.685555824,
+            4.61
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1200000497",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "NIRAS",
+        "registreringfra": "2019-01-23T15:48:56.865Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2015-05-01T09:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.50",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "0.10",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Tilpasset til DHM/Terræn2015",
+        "brugesher": "Generel",
+        "hindring": "Vej",
+        "kategori": "Ikke vandløb",
+        "dimension": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "2219768",
+        "septima_hash86": "HsuhsKErnLFSBSmzGJ9kB+lnNEfnUlcEWiJrJIDvepV+YqB57JO3yZ4PlrCvEKbQRc4NLwpMz9J9oaxEHN+AhQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.223544755,
+            55.47705425,
+            21.9
+          ],
+          [
+            10.224403005,
+            55.477101834,
+            21.86
+          ],
+          [
+            10.224401596,
+            55.477158463,
+            21.72
+          ],
+          [
+            10.223555916,
+            55.477108057,
+            21.54
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1200005969",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Fotogrammetrisk ajourføring",
+        "registreringsaktoer": "NIRAS",
+        "registreringfra": "2018-12-18T12:37:34.096Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2018-05-09T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Ajourføring 2018",
+        "brugesher": "Generel",
+        "hindring": "Vej",
+        "kategori": "Åbent vandløb",
+        "dimension": null,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "2219769",
+        "septima_hash86": "bE6xlTi6u7EremkGrutQJv0fE228GM9qYjeVR7HQYkW/mfxIzDjREeofjc72v3OkCcZsQaIsMKyaXxfJ3KSSxA"
+      }
+    }
+  ]
+}

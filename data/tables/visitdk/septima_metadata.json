@@ -1,0 +1,152 @@
+[
+  {
+    "tabelnavn": "address",
+    "beskrivelse": "Visitdk produkter som indbefatter museer, forlystelsesparker, zoo'er m.m.",
+    "kilde": "Hentes fra visitdenmark.dk",
+    "rettigheder": "Oplysningerne stammer fra GuideDanmark databasen som driftes af VisitDenmark. Septima har via en aftale med GuideDanmark fået adgang til at anvende oplysningerne i denne datatjeneste. Oplysningerne må ikke vidergives til tredjepart.",
+    "rettigheder_url": "https://www.visitdenmark.dk/corporate/aktiviteter/guidedanmark",
+    "attributtering": "Visitdenmark",
+    "attributtering_url": "https://www.visitdenmark.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "bookinglinks",
+    "beskrivelse": "Visitdk produkter som indbefatter museer, forlystelsesparker, zoo'er m.m.",
+    "kilde": "Hentes fra visitdenmark.dk",
+    "rettigheder": "Oplysningerne stammer fra GuideDanmark databasen som driftes af VisitDenmark. Septima har via en aftale med GuideDanmark fået adgang til at anvende oplysningerne i denne datatjeneste. Oplysningerne må ikke vidergives til tredjepart.",
+    "rettigheder_url": "https://www.visitdenmark.dk/corporate/aktiviteter/guidedanmark",
+    "attributtering": "Visitdenmark",
+    "attributtering_url": "https://www.visitdenmark.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "category",
+    "beskrivelse": "Visitdk produkter som indbefatter museer, forlystelsesparker, zoo'er m.m.",
+    "kilde": "Hentes fra visitdenmark.dk",
+    "rettigheder": "Oplysningerne stammer fra GuideDanmark databasen som driftes af VisitDenmark. Septima har via en aftale med GuideDanmark fået adgang til at anvende oplysningerne i denne datatjeneste. Oplysningerne må ikke vidergives til tredjepart.",
+    "rettigheder_url": "https://www.visitdenmark.dk/corporate/aktiviteter/guidedanmark",
+    "attributtering": "Visitdenmark",
+    "attributtering_url": "https://www.visitdenmark.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "contactinformation",
+    "beskrivelse": "Visitdk produkter som indbefatter museer, forlystelsesparker, zoo'er m.m.",
+    "kilde": "Hentes fra visitdenmark.dk",
+    "rettigheder": "Oplysningerne stammer fra GuideDanmark databasen som driftes af VisitDenmark. Septima har via en aftale med GuideDanmark fået adgang til at anvende oplysningerne i denne datatjeneste. Oplysningerne må ikke vidergives til tredjepart.",
+    "rettigheder_url": "https://www.visitdenmark.dk/corporate/aktiviteter/guidedanmark",
+    "attributtering": "Visitdenmark",
+    "attributtering_url": "https://www.visitdenmark.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "descriptions",
+    "beskrivelse": "Visitdk produkter som indbefatter museer, forlystelsesparker, zoo'er m.m.",
+    "kilde": "Hentes fra visitdenmark.dk",
+    "rettigheder": "Oplysningerne stammer fra GuideDanmark databasen som driftes af VisitDenmark. Septima har via en aftale med GuideDanmark fået adgang til at anvende oplysningerne i denne datatjeneste. Oplysningerne må ikke vidergives til tredjepart.",
+    "rettigheder_url": "https://www.visitdenmark.dk/corporate/aktiviteter/guidedanmark",
+    "attributtering": "Visitdenmark",
+    "attributtering_url": "https://www.visitdenmark.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "distances",
+    "beskrivelse": "Visitdk produkter som indbefatter museer, forlystelsesparker, zoo'er m.m.",
+    "kilde": "Hentes fra visitdenmark.dk",
+    "rettigheder": "Oplysningerne stammer fra GuideDanmark databasen som driftes af VisitDenmark. Septima har via en aftale med GuideDanmark fået adgang til at anvende oplysningerne i denne datatjeneste. Oplysningerne må ikke vidergives til tredjepart.",
+    "rettigheder_url": "https://www.visitdenmark.dk/corporate/aktiviteter/guidedanmark",
+    "attributtering": "Visitdenmark",
+    "attributtering_url": "https://www.visitdenmark.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "externallinks",
+    "beskrivelse": "Visitdk produkter som indbefatter museer, forlystelsesparker, zoo'er m.m.",
+    "kilde": "Hentes fra visitdenmark.dk",
+    "rettigheder": "Oplysningerne stammer fra GuideDanmark databasen som driftes af VisitDenmark. Septima har via en aftale med GuideDanmark fået adgang til at anvende oplysningerne i denne datatjeneste. Oplysningerne må ikke vidergives til tredjepart.",
+    "rettigheder_url": "https://www.visitdenmark.dk/corporate/aktiviteter/guidedanmark",
+    "attributtering": "Visitdenmark",
+    "attributtering_url": "https://www.visitdenmark.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "features",
+    "beskrivelse": "Visitdk produkter som indbefatter museer, forlystelsesparker, zoo'er m.m.",
+    "kilde": "Hentes fra visitdenmark.dk",
+    "rettigheder": "Oplysningerne stammer fra GuideDanmark databasen som driftes af VisitDenmark. Septima har via en aftale med GuideDanmark fået adgang til at anvende oplysningerne i denne datatjeneste. Oplysningerne må ikke vidergives til tredjepart.",
+    "rettigheder_url": "https://www.visitdenmark.dk/corporate/aktiviteter/guidedanmark",
+    "attributtering": "Visitdenmark",
+    "attributtering_url": "https://www.visitdenmark.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "files",
+    "beskrivelse": "Visitdk produkter som indbefatter museer, forlystelsesparker, zoo'er m.m.",
+    "kilde": "Hentes fra visitdenmark.dk",
+    "rettigheder": "Oplysningerne stammer fra GuideDanmark databasen som driftes af VisitDenmark. Septima har via en aftale med GuideDanmark fået adgang til at anvende oplysningerne i denne datatjeneste. Oplysningerne må ikke vidergives til tredjepart.",
+    "rettigheder_url": "https://www.visitdenmark.dk/corporate/aktiviteter/guidedanmark",
+    "attributtering": "Visitdenmark",
+    "attributtering_url": "https://www.visitdenmark.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "geocoordinate",
+    "beskrivelse": "Visitdk produkter som indbefatter museer, forlystelsesparker, zoo'er m.m.",
+    "kilde": "Hentes fra visitdenmark.dk",
+    "rettigheder": "Oplysningerne stammer fra GuideDanmark databasen som driftes af VisitDenmark. Septima har via en aftale med GuideDanmark fået adgang til at anvende oplysningerne i denne datatjeneste. Oplysningerne må ikke vidergives til tredjepart.",
+    "rettigheder_url": "https://www.visitdenmark.dk/corporate/aktiviteter/guidedanmark",
+    "attributtering": "Visitdenmark",
+    "attributtering_url": "https://www.visitdenmark.dk/",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  }
+]

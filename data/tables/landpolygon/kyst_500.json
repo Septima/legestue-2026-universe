@@ -1,0 +1,593 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.506081982,
+            57.017125546
+          ],
+          [
+            9.506447296,
+            57.017599931
+          ],
+          [
+            9.509806435,
+            57.018154692
+          ],
+          [
+            9.511128944,
+            57.01804572
+          ],
+          [
+            9.513740004,
+            57.017265768
+          ],
+          [
+            9.51364184,
+            57.017002502
+          ],
+          [
+            9.511703198,
+            57.016363619
+          ],
+          [
+            9.510199447,
+            57.016125401
+          ],
+          [
+            9.506865686,
+            57.016272976
+          ],
+          [
+            9.506081982,
+            57.017125546
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": 332,
+        "id_lokalid": "433ffd83-2714-458f-8bee-e0b1525f2776",
+        "registreringfra": "2021-03-01T11:56:06.000Z",
+        "registreringtil": null,
+        "septima_hash86": "MHYZzdg9yXPb5F7L1I7LGisYrRpwMDpUpO6QByPb9fGiDtcf6uoFQqmQmgFOjYb0+dVlxarfV9iPVD8GiG/txA",
+        "septima_serial": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.633919733,
+            56.683149551
+          ],
+          [
+            8.632297549,
+            56.684907527
+          ],
+          [
+            8.634701933,
+            56.68691031
+          ],
+          [
+            8.636526737,
+            56.685840531
+          ],
+          [
+            8.637045241,
+            56.687583863
+          ],
+          [
+            8.634909473,
+            56.688946337
+          ],
+          [
+            8.635789114,
+            56.689841113
+          ],
+          [
+            8.638030058,
+            56.687608559
+          ],
+          [
+            8.63766442,
+            56.686278042
+          ],
+          [
+            8.635538111,
+            56.684322128
+          ],
+          [
+            8.633919733,
+            56.683149551
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": 333,
+        "id_lokalid": "59e4c9f4-1924-4b2a-b6a8-821fd94ba922",
+        "registreringfra": "2021-03-01T11:56:06.000Z",
+        "registreringtil": null,
+        "septima_hash86": "lmupGZhDFHjC/kK0Q6oPB+uloJYGIuoW0zbAKje8RZ6QzhvNudFzroLQpLBio00w5/u1SvMF+5vIs4NmI7g0gA",
+        "septima_serial": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.541678857,
+            56.715430789
+          ],
+          [
+            8.5404407,
+            56.715735729
+          ],
+          [
+            8.540901251,
+            56.716111071
+          ],
+          [
+            8.540779241,
+            56.717529827
+          ],
+          [
+            8.541437453,
+            56.719225826
+          ],
+          [
+            8.541915317,
+            56.718503831
+          ],
+          [
+            8.541544489,
+            56.716471183
+          ],
+          [
+            8.543002014,
+            56.714662124
+          ],
+          [
+            8.544038944,
+            56.713430799
+          ],
+          [
+            8.544798755,
+            56.712821406
+          ],
+          [
+            8.542117105,
+            56.714294215
+          ],
+          [
+            8.541678857,
+            56.715430789
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": 318,
+        "id_lokalid": "fdfe5d70-9ca0-4ffa-a58d-32f186107959",
+        "registreringfra": "2021-03-01T11:56:06.000Z",
+        "registreringtil": null,
+        "septima_hash86": "wktYd3X7xNZiNIsGZwYPADmf4dnn084P133BB4ItU69dUu2U/W6sd4Gj4xnDTZYTmzFNNdY+7ZvJajmzdtF9SA",
+        "septima_serial": "7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.970257886,
+            57.216663681
+          ],
+          [
+            10.971220091,
+            57.217246735
+          ],
+          [
+            10.971136264,
+            57.218090969
+          ],
+          [
+            10.972133585,
+            57.219607316
+          ],
+          [
+            10.974855502,
+            57.218049872
+          ],
+          [
+            10.975785674,
+            57.216851326
+          ],
+          [
+            10.974595659,
+            57.216646039
+          ],
+          [
+            10.974328235,
+            57.215524646
+          ],
+          [
+            10.973180202,
+            57.216101672
+          ],
+          [
+            10.97071797,
+            57.216213212
+          ],
+          [
+            10.970257886,
+            57.216663681
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": 320,
+        "id_lokalid": "9416336a-d286-4e48-9dc1-b76883d9e698",
+        "registreringfra": "2021-03-01T11:56:06.000Z",
+        "registreringtil": null,
+        "septima_hash86": "mlr4L4pGNU5RiZSPwevSCKxoreW7N2vPKvAMuDwuIw82A1798ZqZshN+VvVlo/jZPP1zyyzyN2zkbwfp3CJ9Tw",
+        "septima_serial": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.825693343,
+            57.081588986
+          ],
+          [
+            9.824956772,
+            57.082231683
+          ],
+          [
+            9.825428206,
+            57.082687918
+          ],
+          [
+            9.827195009,
+            57.083108029
+          ],
+          [
+            9.828762423,
+            57.083108546
+          ],
+          [
+            9.832092734,
+            57.082467051
+          ],
+          [
+            9.833227185,
+            57.081922555
+          ],
+          [
+            9.832245997,
+            57.081553104
+          ],
+          [
+            9.828564049,
+            57.081226413
+          ],
+          [
+            9.825693343,
+            57.081588986
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": 321,
+        "id_lokalid": "df184124-07d3-4b61-9f42-69584c38df8d",
+        "registreringfra": "2021-03-01T11:56:06.000Z",
+        "registreringtil": null,
+        "septima_hash86": "IKz3Vxi4PdPqPhF2wSHJ7zkIIlYoIIs1jbNj/tSxFI7aPE2BwIbXnmZVv97q4vrUgTBixaEUsKhQ3ibYdck8wg",
+        "septima_serial": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.169724359,
+            55.913859971
+          ],
+          [
+            8.168628677,
+            55.913526949
+          ],
+          [
+            8.168832485,
+            55.915427213
+          ],
+          [
+            8.169837274,
+            55.91668449
+          ],
+          [
+            8.172039345,
+            55.917466486
+          ],
+          [
+            8.172063501,
+            55.916746018
+          ],
+          [
+            8.172357213,
+            55.915839656
+          ],
+          [
+            8.171600639,
+            55.915026692
+          ],
+          [
+            8.171488246,
+            55.914505141
+          ],
+          [
+            8.169724359,
+            55.913859971
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": 323,
+        "id_lokalid": "af9577d3-6311-4f61-a465-5c31677b1a9d",
+        "registreringfra": "2021-03-01T11:56:06.000Z",
+        "registreringtil": null,
+        "septima_hash86": "3pvtI4k7/kcVr31S7j2ZE3FoIEsHpTJpSwNCXRr9hFFJXPuuuSYE13pUefY96vRe7+W7CJJdIv8DL1IhJiGIfw",
+        "septima_serial": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.696643207,
+            55.154458314
+          ],
+          [
+            11.696380756,
+            55.154851936
+          ],
+          [
+            11.696727294,
+            55.155501589
+          ],
+          [
+            11.699818758,
+            55.155658401
+          ],
+          [
+            11.701406518,
+            55.155464358
+          ],
+          [
+            11.703675323,
+            55.154792753
+          ],
+          [
+            11.703561603,
+            55.154123839
+          ],
+          [
+            11.701481512,
+            55.15313752
+          ],
+          [
+            11.700584197,
+            55.153042526
+          ],
+          [
+            11.696643207,
+            55.154458314
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": 325,
+        "id_lokalid": "071f8016-2433-438e-99bc-83eecb3fdb13",
+        "registreringfra": "2021-03-01T11:56:06.000Z",
+        "registreringtil": null,
+        "septima_hash86": "tdeAMePXhvhf0MlN8J7KtClya2icH99fUePlpQSawBZYt8cZD/72lzSaHCpl1xwm0ZFciL8uRt+Cwl/eiPfg9A",
+        "septima_serial": "12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.65653489,
+            54.648937797
+          ],
+          [
+            11.654722417,
+            54.650302344
+          ],
+          [
+            11.655897661,
+            54.652620023
+          ],
+          [
+            11.656820425,
+            54.653735319
+          ],
+          [
+            11.657136075,
+            54.654710922
+          ],
+          [
+            11.658734589,
+            54.655984071
+          ],
+          [
+            11.65931908,
+            54.655603177
+          ],
+          [
+            11.659127358,
+            54.653485267
+          ],
+          [
+            11.656666871,
+            54.649772332
+          ],
+          [
+            11.65653489,
+            54.648937797
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": 327,
+        "id_lokalid": "5cd729f1-e735-4d86-b382-d77e67039782",
+        "registreringfra": "2021-03-01T11:56:06.000Z",
+        "registreringtil": null,
+        "septima_hash86": "x7n0B+tNOLfCLPH/3HmICVCn+aCh6Gwiv5kNyi/9KeFpca1Buai+OsnczpLCcW5KaxLdDMWuY6REa5jKGsKTGg",
+        "septima_serial": "13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.570728196,
+            54.89807287
+          ],
+          [
+            10.570691821,
+            54.90023129
+          ],
+          [
+            10.574958216,
+            54.902027976
+          ],
+          [
+            10.576904998,
+            54.902427034
+          ],
+          [
+            10.578186571,
+            54.901302118
+          ],
+          [
+            10.581980954,
+            54.900369455
+          ],
+          [
+            10.584709763,
+            54.897862894
+          ],
+          [
+            10.582038711,
+            54.895307262
+          ],
+          [
+            10.578685312,
+            54.895358076
+          ],
+          [
+            10.573419363,
+            54.896822726
+          ],
+          [
+            10.570728196,
+            54.89807287
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": 328,
+        "id_lokalid": "90e45c47-56ca-45d4-b9b9-b56df4892c1f",
+        "registreringfra": "2021-03-01T11:56:06.000Z",
+        "registreringtil": null,
+        "septima_hash86": "74TG0F/NRWRMJE9mCrguwcY/faQw8fWar/nzQk3Za+91i76gle9goezdHPz+PHCqVM153hOWl6rxxyiZgaeBtA",
+        "septima_serial": "14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.753046511,
+            55.088568055
+          ],
+          [
+            11.754998553,
+            55.089106702
+          ],
+          [
+            11.757217992,
+            55.090452666
+          ],
+          [
+            11.756095168,
+            55.091435246
+          ],
+          [
+            11.7599931,
+            55.093374504
+          ],
+          [
+            11.762453581,
+            55.094063953
+          ],
+          [
+            11.762113705,
+            55.092402604
+          ],
+          [
+            11.758135171,
+            55.091816867
+          ],
+          [
+            11.757841361,
+            55.090047664
+          ],
+          [
+            11.756372693,
+            55.08739934
+          ],
+          [
+            11.753842051,
+            55.087810732
+          ],
+          [
+            11.753046511,
+            55.088568055
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": 380,
+        "id_lokalid": "1c25031b-74e3-4995-b8a6-45c8587f421f",
+        "registreringfra": "2021-03-01T11:56:06.000Z",
+        "registreringtil": null,
+        "septima_hash86": "a2AgA4+8yRylxy5h6YFPPRopIZf9qz7HPNkyNcLyOTHdWaurVXnu491t1wqZF0fJPv43DqfacxTBfea3bAme6w",
+        "septima_serial": "16"
+      }
+    }
+  ]
+}

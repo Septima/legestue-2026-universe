@@ -1,0 +1,965 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.126917224,
+                56.471439748,
+                0
+              ],
+              [
+                8.126874674,
+                56.470949785,
+                0
+              ],
+              [
+                8.127068858,
+                56.470055945,
+                0
+              ],
+              [
+                8.130313029,
+                56.470011082,
+                0
+              ],
+              [
+                8.130428237,
+                56.470286227,
+                0
+              ],
+              [
+                8.130687367,
+                56.470803455,
+                0
+              ],
+              [
+                8.130849252,
+                56.471185062,
+                0
+              ],
+              [
+                8.130912774,
+                56.471374896,
+                0
+              ],
+              [
+                8.130910402,
+                56.471404527,
+                0
+              ],
+              [
+                8.130553858,
+                56.47526611,
+                0
+              ],
+              [
+                8.130319935,
+                56.475284675,
+                0
+              ],
+              [
+                8.129788579,
+                56.475314627,
+                0
+              ],
+              [
+                8.129163687,
+                56.475360515,
+                0
+              ],
+              [
+                8.12909788,
+                56.475026256,
+                0
+              ],
+              [
+                8.128308647,
+                56.474997268,
+                0
+              ],
+              [
+                8.128017242,
+                56.474864118,
+                0
+              ],
+              [
+                8.127756315,
+                56.474652189,
+                0
+              ],
+              [
+                8.127305928,
+                56.474014788,
+                0
+              ],
+              [
+                8.126836924,
+                56.474029227,
+                0
+              ],
+              [
+                8.126841145,
+                56.473500285,
+                0
+              ],
+              [
+                8.126841358,
+                56.472888467,
+                0
+              ],
+              [
+                8.126881611,
+                56.472313777,
+                0
+              ],
+              [
+                8.126888323,
+                56.472217967,
+                0
+              ],
+              [
+                8.126917224,
+                56.471439748,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "124289",
+        "lokalid": "100053788_6416",
+        "registreringfra": "2018-06-04T05:46:35.380000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2012-05-22T15:44:54.246000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Matrikulær sag",
+        "senestesaglokalid": "100045259",
+        "temafladeid": "6416",
+        "tematype": "Klitfredning",
+        "jordstykkelokalid": "100053788",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "septima_hash86": "vR0wdc9UQEZXwW4zImWc5Ji3mOClmol7LvgDoa1CFzEq88iSyP8FU7y0DS1e9t2No3fv5cwepNO/074/5jVSMA",
+        "septima_serial": "16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.124385047,
+                56.477819067,
+                0
+              ],
+              [
+                8.125697321,
+                56.477345657,
+                0
+              ],
+              [
+                8.126307902,
+                56.477134907,
+                0
+              ],
+              [
+                8.126761654,
+                56.476963365,
+                0
+              ],
+              [
+                8.127434351,
+                56.476730845,
+                0
+              ],
+              [
+                8.127619328,
+                56.476682225,
+                0
+              ],
+              [
+                8.12767254,
+                56.476802149,
+                0
+              ],
+              [
+                8.127695653,
+                56.477060027,
+                0
+              ],
+              [
+                8.12768898,
+                56.477181785,
+                0
+              ],
+              [
+                8.127645953,
+                56.477302309,
+                0
+              ],
+              [
+                8.127554247,
+                56.477408115,
+                0
+              ],
+              [
+                8.127410636,
+                56.477501229,
+                0
+              ],
+              [
+                8.127225022,
+                56.477581658,
+                0
+              ],
+              [
+                8.126887168,
+                56.477697404,
+                0
+              ],
+              [
+                8.126610485,
+                56.47780411,
+                0
+              ],
+              [
+                8.126452883,
+                56.477891186,
+                0
+              ],
+              [
+                8.125758023,
+                56.478415007,
+                0
+              ],
+              [
+                8.124385047,
+                56.477819067,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "124290",
+        "lokalid": "100053789_6416",
+        "registreringfra": "2018-06-04T05:46:35.406000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2012-05-22T15:44:54.246000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Matrikulær sag",
+        "senestesaglokalid": "100045259",
+        "temafladeid": "6416",
+        "tematype": "Klitfredning",
+        "jordstykkelokalid": "100053789",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "septima_hash86": "Qnzy/47Mnadn1uhfkb6d/zZB33VnZSzCN9G0dK1DZgWHst4V/LIDzQ2zpqFx6PfeF6PkgFyuev905Ge61q/IgA",
+        "septima_serial": "17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.232737438,
+                56.787311582,
+                0
+              ],
+              [
+                8.232780298,
+                56.787151712,
+                0
+              ],
+              [
+                8.232924649,
+                56.786561625,
+                0
+              ],
+              [
+                8.232989997,
+                56.786960823,
+                0
+              ],
+              [
+                8.233014759,
+                56.787085351,
+                0
+              ],
+              [
+                8.233051566,
+                56.787202793,
+                0
+              ],
+              [
+                8.232951154,
+                56.787667454,
+                0
+              ],
+              [
+                8.232737438,
+                56.787311582,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "124431",
+        "lokalid": "100060330_6089",
+        "registreringfra": "2018-06-04T05:47:24.687000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2012-11-23T09:39:33.467000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Matrikulær sag",
+        "senestesaglokalid": "100069343",
+        "temafladeid": "6089",
+        "tematype": "Klitfredning",
+        "jordstykkelokalid": "100060330",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "septima_hash86": "FHFy/Ye+sOs8EBLZ3S1zQ3QqyLbOQt8qD459S3xvBbgWUTwvpGvnx6HqMh3kV9TGgWXO3V5GOjMZ97R4na0iAQ",
+        "septima_serial": "19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.171527432,
+                55.533930974,
+                0
+              ],
+              [
+                8.172344115,
+                55.533708358,
+                0
+              ],
+              [
+                8.172961273,
+                55.536617873,
+                0
+              ],
+              [
+                8.172620243,
+                55.536669319,
+                0
+              ],
+              [
+                8.17203246,
+                55.536761444,
+                0
+              ],
+              [
+                8.171527432,
+                55.533930974,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "109366",
+        "lokalid": "1422496_6553",
+        "registreringfra": "2018-06-04T04:52:50.793000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2016-02-05T15:36:25.156000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Matrikulær sag",
+        "senestesaglokalid": "100099062",
+        "temafladeid": "6553",
+        "tematype": "Klitfredning",
+        "jordstykkelokalid": "1422496",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "septima_hash86": "xhjh8fINJDQVO02rmTxPhyZ5R3+4Nv/IgyqraH7cR+cMGWoPo1Uqiwot/m1XH+IGn4LlYKes72ke4Qo7cvMpjQ",
+        "septima_serial": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.155136571,
+                56.627385914,
+                0
+              ],
+              [
+                8.155102862,
+                56.627275788,
+                0
+              ],
+              [
+                8.155845507,
+                56.626635315,
+                0
+              ],
+              [
+                8.156003505,
+                56.626572822,
+                0
+              ],
+              [
+                8.156283525,
+                56.626536375,
+                0
+              ],
+              [
+                8.156830605,
+                56.626511755,
+                0
+              ],
+              [
+                8.156895278,
+                56.626540368,
+                0
+              ],
+              [
+                8.157124124,
+                56.627089347,
+                0
+              ],
+              [
+                8.157154989,
+                56.627192742,
+                0
+              ],
+              [
+                8.157209453,
+                56.627306503,
+                0
+              ],
+              [
+                8.157228401,
+                56.627381481,
+                0
+              ],
+              [
+                8.157312683,
+                56.627576204,
+                0
+              ],
+              [
+                8.15735692,
+                56.627631821,
+                0
+              ],
+              [
+                8.157705935,
+                56.628470919,
+                0
+              ],
+              [
+                8.157276205,
+                56.628548924,
+                0
+              ],
+              [
+                8.1569402,
+                56.628603475,
+                0
+              ],
+              [
+                8.156606057,
+                56.628328984,
+                0
+              ],
+              [
+                8.156452787,
+                56.627991416,
+                0
+              ],
+              [
+                8.155859132,
+                56.627953304,
+                0
+              ],
+              [
+                8.155628656,
+                56.627746537,
+                0
+              ],
+              [
+                8.155475907,
+                56.627605847,
+                0
+              ],
+              [
+                8.155281832,
+                56.627628931,
+                0
+              ],
+              [
+                8.155226774,
+                56.627374182,
+                0
+              ],
+              [
+                8.155136571,
+                56.627385914,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "111361",
+        "lokalid": "1531196_6427",
+        "registreringfra": "2018-06-04T04:59:37.773000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2015-12-07T15:16:17.980000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Matrikulær sag",
+        "senestesaglokalid": "100098736",
+        "temafladeid": "6427",
+        "tematype": "Klitfredning",
+        "jordstykkelokalid": "1531196",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "septima_hash86": "t0cCemLD6gjLuz+kuPYpJb8lUWTfp811h9+fDPS330POmyqQOLmPdsSb9Xui8dOrF7IrQvMsGlslIhQHvcu1aw",
+        "septima_serial": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.53991936,
+                55.268676825,
+                0
+              ],
+              [
+                8.539984147,
+                55.268535835,
+                0
+              ],
+              [
+                8.540165508,
+                55.268394591,
+                0
+              ],
+              [
+                8.540224156,
+                55.26834892,
+                0
+              ],
+              [
+                8.540267354,
+                55.268362858,
+                0
+              ],
+              [
+                8.540482714,
+                55.268432359,
+                0
+              ],
+              [
+                8.540530082,
+                55.268447652,
+                0
+              ],
+              [
+                8.540471761,
+                55.268512698,
+                0
+              ],
+              [
+                8.540284502,
+                55.268631868,
+                0
+              ],
+              [
+                8.540116521,
+                55.268670622,
+                0
+              ],
+              [
+                8.53991936,
+                55.268676825,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "110981",
+        "lokalid": "1565062_6578",
+        "registreringfra": "2018-06-04T04:58:14.068000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2011-10-13T07:11:46.275000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Matrikulær sag",
+        "senestesaglokalid": "100053469",
+        "temafladeid": "6578",
+        "tematype": "Klitfredning",
+        "jordstykkelokalid": "1565062",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "septima_hash86": "VAqlmO7aHe9wmpReWuTauZca1yZTlXiNGf9HibmrMRlnNbCt2gprrnQE2vksJmTyWxI/8beVITKQi8Ori6RUCg",
+        "septima_serial": "28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.155616697,
+                55.555223653,
+                0
+              ],
+              [
+                8.155659259,
+                55.55522343,
+                0
+              ],
+              [
+                8.155930223,
+                55.555449514,
+                0
+              ],
+              [
+                8.156277289,
+                55.555541467,
+                0
+              ],
+              [
+                8.156311491,
+                55.5555444,
+                0
+              ],
+              [
+                8.15639326,
+                55.555634425,
+                0
+              ],
+              [
+                8.157282997,
+                55.556666525,
+                0
+              ],
+              [
+                8.156532136,
+                55.556753394,
+                0
+              ],
+              [
+                8.155692542,
+                55.555720699,
+                0
+              ],
+              [
+                8.155616697,
+                55.555223653,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "214142",
+        "lokalid": "1425494_6565",
+        "registreringfra": "2020-08-12T07:10:24.992000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2020-08-12T07:10:03.014000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Matrikulær sag",
+        "senestesaglokalid": "100159307",
+        "temafladeid": "6565",
+        "tematype": "Klitfredning",
+        "jordstykkelokalid": "1425494",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "septima_hash86": "HQCxzJIHicpCw05EfL1+ilo2FHokxmbUt8qXnE9m4vcNO74rI44fsBC4MimarqnEvgVet5uQHWRIVYQMPIBrdQ",
+        "septima_serial": "32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.110227964,
+                56.120273411,
+                0
+              ],
+              [
+                8.110137543,
+                56.120103802,
+                0
+              ],
+              [
+                8.110502025,
+                56.120060595,
+                0
+              ],
+              [
+                8.110503625,
+                56.120076006,
+                0
+              ],
+              [
+                8.110524669,
+                56.12017897,
+                0
+              ],
+              [
+                8.110483412,
+                56.120202632,
+                0
+              ],
+              [
+                8.110227964,
+                56.120273411,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "69052",
+        "lokalid": "1093212_6385",
+        "registreringfra": "2018-06-04T03:38:36.484000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2009-11-11T12:36:42.371000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Matrikulær sag",
+        "senestesaglokalid": "100001285",
+        "temafladeid": "6385",
+        "tematype": "Klitfredning",
+        "jordstykkelokalid": "1093212",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "septima_hash86": "OISKT/2FGLgKjsAGl/fLfJG8jz9vu7sYNFRTX3Fid/GVlrIsn05vm2i9a7Lz1k6ueIZohNBfneuP+gTgcTyu/Q",
+        "septima_serial": "34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.10936217,
+                56.119119396,
+                0
+              ],
+              [
+                8.109389764,
+                56.119116899,
+                0
+              ],
+              [
+                8.109365089,
+                56.119020885,
+                0
+              ],
+              [
+                8.109608511,
+                56.119002567,
+                0
+              ],
+              [
+                8.109600708,
+                56.119015189,
+                0
+              ],
+              [
+                8.109650387,
+                56.119213886,
+                0
+              ],
+              [
+                8.109623203,
+                56.119220914,
+                0
+              ],
+              [
+                8.109561531,
+                56.119229509,
+                0
+              ],
+              [
+                8.109490579,
+                56.119238746,
+                0
+              ],
+              [
+                8.109404555,
+                56.119245278,
+                0
+              ],
+              [
+                8.10936217,
+                56.119119396,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "69057",
+        "lokalid": "1093254_6385",
+        "registreringfra": "2018-06-04T03:38:36.793000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2017-03-30T10:54:18.338000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Matrikulær sag",
+        "senestesaglokalid": "100116444",
+        "temafladeid": "6385",
+        "tematype": "Klitfredning",
+        "jordstykkelokalid": "1093254",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "septima_hash86": "rfXNdTfUD8wCWohiWh2TEdbEyJpHwI4gFsvjUzfL8sLcOH5vStruepypKarGc3rMj28Z63j0fyAfiTRkzNQU5g",
+        "septima_serial": "38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.105904731,
+                56.112667719,
+                0
+              ],
+              [
+                8.105826177,
+                56.112387397,
+                0
+              ],
+              [
+                8.111211771,
+                56.113008733,
+                0
+              ],
+              [
+                8.111234615,
+                56.113062417,
+                0
+              ],
+              [
+                8.111215288,
+                56.113065022,
+                0
+              ],
+              [
+                8.11089947,
+                56.113029764,
+                0
+              ],
+              [
+                8.110619136,
+                56.113004672,
+                0
+              ],
+              [
+                8.110532751,
+                56.113187069,
+                0
+              ],
+              [
+                8.105904731,
+                56.112667719,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "69229",
+        "lokalid": "1093286_6385",
+        "registreringfra": "2018-06-04T03:38:48.654000+02:00",
+        "registreringtil": null,
+        "virkningfra": "2013-10-11T13:12:52.457000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "forretningshaendelse": "Afledt ændring",
+        "forretningsproces": "Kvalitetsforbedring af matriklen",
+        "senestesaglokalid": "100071605",
+        "temafladeid": "6385",
+        "tematype": "Klitfredning",
+        "jordstykkelokalid": "1093286",
+        "status": "Gældende",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/JordstykkeTemaflade",
+        "septima_hash86": "WQOE/MIIN2oyHIUuSxOk8iOS/LN8LzltIY8M3+WK6RX3TSJ3FqMAQ/GFw80EuTJ17vDZt8rgHkSJ/YZvI5c8ZA",
+        "septima_serial": "50"
+      }
+    }
+  ]
+}

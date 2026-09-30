@@ -1,0 +1,1085 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.532059043,
+                55.667154161,
+                0
+              ],
+              [
+                12.531995257,
+                55.666984888,
+                0
+              ],
+              [
+                12.531994668,
+                55.666983646,
+                0
+              ],
+              [
+                12.532031649,
+                55.666979164,
+                0
+              ],
+              [
+                12.532016634,
+                55.666939673,
+                0
+              ],
+              [
+                12.531979803,
+                55.666944061,
+                0
+              ],
+              [
+                12.531952187,
+                55.666870676,
+                0
+              ],
+              [
+                12.532080612,
+                55.666855287,
+                0
+              ],
+              [
+                12.532076866,
+                55.666845504,
+                0
+              ],
+              [
+                12.532089931,
+                55.666843958,
+                0
+              ],
+              [
+                12.532106006,
+                55.666886386,
+                0
+              ],
+              [
+                12.532200433,
+                55.666875033,
+                0
+              ],
+              [
+                12.532201676,
+                55.666878234,
+                0
+              ],
+              [
+                12.532194125,
+                55.666879171,
+                0
+              ],
+              [
+                12.532196859,
+                55.666886556,
+                0
+              ],
+              [
+                12.532194971,
+                55.66688679,
+                0
+              ],
+              [
+                12.532206886,
+                55.666918367,
+                0
+              ],
+              [
+                12.532208624,
+                55.666918227,
+                0
+              ],
+              [
+                12.532211764,
+                55.666926589,
+                0
+              ],
+              [
+                12.532209876,
+                55.666926823,
+                0
+              ],
+              [
+                12.532221617,
+                55.666958225,
+                0
+              ],
+              [
+                12.532223505,
+                55.666957991,
+                0
+              ],
+              [
+                12.532226495,
+                55.666966447,
+                0
+              ],
+              [
+                12.532224765,
+                55.666966676,
+                0
+              ],
+              [
+                12.532236514,
+                55.666998168,
+                0
+              ],
+              [
+                12.532238402,
+                55.666997934,
+                0
+              ],
+              [
+                12.532241384,
+                55.6670063,
+                0
+              ],
+              [
+                12.532239496,
+                55.667006535,
+                0
+              ],
+              [
+                12.532251419,
+                55.667038201,
+                0
+              ],
+              [
+                12.532253307,
+                55.667037967,
+                0
+              ],
+              [
+                12.53225644,
+                55.667046239,
+                0
+              ],
+              [
+                12.53225471,
+                55.667046469,
+                0
+              ],
+              [
+                12.532266475,
+                55.66707814,
+                0
+              ],
+              [
+                12.532268213,
+                55.667078,
+                0
+              ],
+              [
+                12.532271097,
+                55.66708529,
+                0
+              ],
+              [
+                12.532274572,
+                55.66708501,
+                0
+              ],
+              [
+                12.532277449,
+                55.667092211,
+                0
+              ],
+              [
+                12.532273832,
+                55.667092675,
+                0
+              ],
+              [
+                12.53228205,
+                55.667115007,
+                0
+              ],
+              [
+                12.532285834,
+                55.667114628,
+                0
+              ],
+              [
+                12.53228856,
+                55.667121923,
+                0
+              ],
+              [
+                12.532284784,
+                55.667122391,
+                0
+              ],
+              [
+                12.532292994,
+                55.667144634,
+                0
+              ],
+              [
+                12.532296786,
+                55.667144345,
+                0
+              ],
+              [
+                12.532299504,
+                55.66715155,
+                0
+              ],
+              [
+                12.532295728,
+                55.667152018,
+                0
+              ],
+              [
+                12.532304097,
+                55.667174256,
+                0
+              ],
+              [
+                12.532307723,
+                55.667173882,
+                0
+              ],
+              [
+                12.532310465,
+                55.667181356,
+                0
+              ],
+              [
+                12.532306839,
+                55.66718173,
+                0
+              ],
+              [
+                12.532315058,
+                55.667204062,
+                0
+              ],
+              [
+                12.532318834,
+                55.667203594,
+                0
+              ],
+              [
+                12.53232117,
+                55.66721009,
+                0
+              ],
+              [
+                12.532196059,
+                55.667225204,
+                0
+              ],
+              [
+                12.532173861,
+                55.667166049,
+                0
+              ],
+              [
+                12.532090293,
+                55.6671761,
+                0
+              ],
+              [
+                12.532068265,
+                55.667178802,
+                0
+              ],
+              [
+                12.532059043,
+                55.667154161,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100150848",
+        "forretningsproces": "Ejerlejlighedssag",
+        "id": "19694",
+        "registreringfra": "2019-12-11T12:20:29.996000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2019-12-11T12:20:03.076000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "ejerlejlighedlokalid": "428474",
+        "etagebetegnelse": "0",
+        "lodareal": "535",
+        "lodbeliggenhedstekst": "Lejlighed/erhverv",
+        "lodlitra": "a",
+        "lokalid": "100010347",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Ejerlejlighedslod",
+        "septima_hash86": "mGevAK2UKVTYANmnvTIE9DHoXiQ5Uzr9WKjOL2PI0nbdIbxj8GcvwlpsuSeMQwOKBXygvsvOKrCNwWQdLD8bBA",
+        "septima_serial": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.531912793,
+                55.666911913,
+                0
+              ],
+              [
+                12.531737154,
+                55.666932978,
+                0
+              ],
+              [
+                12.531665549,
+                55.666941605,
+                0
+              ],
+              [
+                12.531677679,
+                55.666973805,
+                0
+              ],
+              [
+                12.531675633,
+                55.666974044,
+                0
+              ],
+              [
+                12.531622129,
+                55.66698053,
+                0
+              ],
+              [
+                12.531622344,
+                55.666981154,
+                0
+              ],
+              [
+                12.531638228,
+                55.667023227,
+                0
+              ],
+              [
+                12.531618397,
+                55.667025596,
+                0
+              ],
+              [
+                12.531612299,
+                55.667009137,
+                0
+              ],
+              [
+                12.531606458,
+                55.66699375,
+                0
+              ],
+              [
+                12.531529029,
+                55.667003084,
+                0
+              ],
+              [
+                12.531499723,
+                55.666925071,
+                0
+              ],
+              [
+                12.531878217,
+                55.66687955,
+                0
+              ],
+              [
+                12.531879002,
+                55.666879438,
+                0
+              ],
+              [
+                12.531952178,
+                55.666870586,
+                0
+              ],
+              [
+                12.531952813,
+                55.666870568,
+                0
+              ],
+              [
+                12.531956906,
+                55.66687009,
+                0
+              ],
+              [
+                12.531984523,
+                55.666943476,
+                0
+              ],
+              [
+                12.531988458,
+                55.666943003,
+                0
+              ],
+              [
+                12.532003322,
+                55.666982587,
+                0
+              ],
+              [
+                12.531998603,
+                55.666983173,
+                0
+              ],
+              [
+                12.53199818,
+                55.666982016,
+                0
+              ],
+              [
+                12.531941836,
+                55.666988764,
+                0
+              ],
+              [
+                12.531941024,
+                55.66698681,
+                0
+              ],
+              [
+                12.531912793,
+                55.666911913,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100150848",
+        "forretningsproces": "Ejerlejlighedssag",
+        "id": "19696",
+        "registreringfra": "2019-12-11T12:20:29.996000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2019-12-11T12:20:03.076000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "ejerlejlighedlokalid": "428473",
+        "etagebetegnelse": "-2",
+        "lodareal": "199",
+        "lodbeliggenhedstekst": "Lejlighed/erhverv",
+        "lodlitra": "e",
+        "lokalid": "100010346",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Ejerlejlighedslod",
+        "septima_hash86": "oqKEG1dzBwZXKb+O7/UjsD25MpOhlfuSEFbhCpzeTO6SlbGqV62gfxdYsyAvKFspDWiLJUP0z5Zz3XTf9vt9ZA",
+        "septima_serial": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.531953237,
+                55.667243979,
+                0
+              ],
+              [
+                12.53202689,
+                55.667235113,
+                0
+              ],
+              [
+                12.532013922,
+                55.667200689,
+                0
+              ],
+              [
+                12.532076874,
+                55.667193121,
+                0
+              ],
+              [
+                12.532105113,
+                55.667268107,
+                0
+              ],
+              [
+                12.532101964,
+                55.667268467,
+                0
+              ],
+              [
+                12.531917201,
+                55.667290695,
+                0
+              ],
+              [
+                12.531902353,
+                55.667251289,
+                0
+              ],
+              [
+                12.53190193,
+                55.667250133,
+                0
+              ],
+              [
+                12.531952293,
+                55.667244096,
+                0
+              ],
+              [
+                12.531953237,
+                55.667243979,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100150848",
+        "forretningsproces": "Ejerlejlighedssag",
+        "id": "19698",
+        "registreringfra": "2019-12-11T12:20:29.996000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2019-12-11T12:20:03.076000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "ejerlejlighedlokalid": "428473",
+        "etagebetegnelse": "-2",
+        "lodareal": "72",
+        "lodbeliggenhedstekst": "Lejlighed/erhverv",
+        "lodlitra": "d",
+        "lokalid": "100010345",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Ejerlejlighedslod",
+        "septima_hash86": "+4ubbKyG2oxz/iH2Vj9brT2fTED6MyUg57ikhlqB35GjIvgzlUuxaXsRiJMcp+zbO/AFxTgKiGyi9vIFMQxFNQ",
+        "septima_serial": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.532135874,
+                55.667217587,
+                0
+              ],
+              [
+                12.532140896,
+                55.66723093,
+                0
+              ],
+              [
+                12.532201484,
+                55.667223609,
+                0
+              ],
+              [
+                12.532212818,
+                55.667254034,
+                0
+              ],
+              [
+                12.532121539,
+                55.667265026,
+                0
+              ],
+              [
+                12.532105025,
+                55.667221263,
+                0
+              ],
+              [
+                12.53210723,
+                55.66722102,
+                0
+              ],
+              [
+                12.532135874,
+                55.667217587,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100150848",
+        "forretningsproces": "Ejerlejlighedssag",
+        "id": "19700",
+        "registreringfra": "2019-12-11T12:20:29.996000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2019-12-11T12:20:03.076000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "ejerlejlighedlokalid": "428473",
+        "etagebetegnelse": "-1",
+        "lodareal": "23",
+        "lodbeliggenhedstekst": "Lejlighed/erhverv",
+        "lodlitra": "c",
+        "lokalid": "100010344",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Ejerlejlighedslod",
+        "septima_hash86": "uP+GlWiKocnygMeDL3ue5uLKPD1i33rQuuPk1aF7EgXuq55yTWnLpRgyJ0halTAalhZUIOyptX5YIVOu0cOu6w",
+        "septima_serial": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.920157815,
+                57.040229846,
+                0
+              ],
+              [
+                9.920132124,
+                57.040243915,
+                0
+              ],
+              [
+                9.920169258,
+                57.040264062,
+                0
+              ],
+              [
+                9.920170427,
+                57.040264701,
+                0
+              ],
+              [
+                9.920131013,
+                57.040286282,
+                0
+              ],
+              [
+                9.92013569,
+                57.040288817,
+                0
+              ],
+              [
+                9.92011356,
+                57.040300937,
+                0
+              ],
+              [
+                9.920027667,
+                57.040254331,
+                0
+              ],
+              [
+                9.920114918,
+                57.04020656,
+                0
+              ],
+              [
+                9.920157815,
+                57.040229846,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100148995",
+        "forretningsproces": "Ejerlejlighedssag",
+        "id": "20130",
+        "registreringfra": "2019-12-17T14:10:24.178000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2019-12-17T14:10:02.243000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "ejerlejlighedlokalid": "100200194",
+        "etagebetegnelse": "0",
+        "lodareal": "46",
+        "lodbeliggenhedstekst": "stuen",
+        "lodlitra": "a",
+        "lokalid": "100007420",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Ejerlejlighedslod",
+        "septima_hash86": "cX02h6sDf76fYOCWAU0h0qEZuWfhi6r66fVTRsOEB6gc0Iicl2jT9HA9woa6s8Z1YH32QMC8V13sN88frd3cNQ",
+        "septima_serial": "6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.9206383,
+                57.040511303,
+                0
+              ],
+              [
+                9.920532276,
+                57.040535018,
+                0
+              ],
+              [
+                9.92048516,
+                57.040472405,
+                0
+              ],
+              [
+                9.920511694,
+                57.040466469,
+                0
+              ],
+              [
+                9.920512308,
+                57.0404673,
+                0
+              ],
+              [
+                9.920591798,
+                57.040449521,
+                0
+              ],
+              [
+                9.9206383,
+                57.040511303,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100148995",
+        "forretningsproces": "Ejerlejlighedssag",
+        "id": "20132",
+        "registreringfra": "2019-12-17T14:10:24.178000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2019-12-17T14:10:02.243000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "ejerlejlighedlokalid": "100200322",
+        "etagebetegnelse": "5",
+        "lodareal": "52",
+        "lodbeliggenhedstekst": "5.sal",
+        "lodlitra": "a",
+        "lokalid": "100007468",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Ejerlejlighedslod",
+        "septima_hash86": "GStIFM2UlNXyweFaZ3gpPd/gPSlRz4sFKHNypetQUoVw9m5TZAaqZW5fn8fv0Nsh1PSP2NvpLBFIlG23b660jQ",
+        "septima_serial": "7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.92011356,
+                57.040300937,
+                0
+              ],
+              [
+                9.920027667,
+                57.040254331,
+                0
+              ],
+              [
+                9.92016495,
+                57.04017916,
+                0
+              ],
+              [
+                9.920246166,
+                57.040223232,
+                0
+              ],
+              [
+                9.920131013,
+                57.040286282,
+                0
+              ],
+              [
+                9.92013569,
+                57.040288817,
+                0
+              ],
+              [
+                9.92011356,
+                57.040300937,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100148995",
+        "forretningsproces": "Ejerlejlighedssag",
+        "id": "20134",
+        "registreringfra": "2019-12-17T14:10:24.178000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2019-12-17T14:10:02.243000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "ejerlejlighedlokalid": "100200195",
+        "etagebetegnelse": "1",
+        "lodareal": "83",
+        "lodbeliggenhedstekst": "1.sal",
+        "lodlitra": "a",
+        "lokalid": "100007421",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Ejerlejlighedslod",
+        "septima_hash86": "EXt/K/h34eCcrRupU4JoukClc9u/Ttq8t1cymC3n5mIJ7EANLx+t5PLtzkBQixW4w0jKZGdhU89tT85VPDW/gA",
+        "septima_serial": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.920545329,
+                57.040387774,
+                0
+              ],
+              [
+                9.920591798,
+                57.040449521,
+                0
+              ],
+              [
+                9.920512308,
+                57.0404673,
+                0
+              ],
+              [
+                9.920511694,
+                57.040466469,
+                0
+              ],
+              [
+                9.920501061,
+                57.040452344,
+                0
+              ],
+              [
+                9.920473002,
+                57.040458614,
+                0
+              ],
+              [
+                9.920437781,
+                57.040411824,
+                0
+              ],
+              [
+                9.920545329,
+                57.040387774,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100148995",
+        "forretningsproces": "Ejerlejlighedssag",
+        "id": "20136",
+        "registreringfra": "2019-12-17T14:10:24.178000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2019-12-17T14:10:02.243000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "ejerlejlighedlokalid": "100200323",
+        "etagebetegnelse": "5",
+        "lodareal": "49",
+        "lodbeliggenhedstekst": "5.sal",
+        "lodlitra": "a",
+        "lokalid": "100007469",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Ejerlejlighedslod",
+        "septima_hash86": "4GausvMEYURq+WEYTDNXG4CcZED2z9sCrtVJoEqvrPKhGgvosyVdrtrSRvDI3D4BIha097d8QWqeIHEzxa4O+w",
+        "septima_serial": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.92013569,
+                57.040288817,
+                0
+              ],
+              [
+                9.920131013,
+                57.040286282,
+                0
+              ],
+              [
+                9.920246166,
+                57.040223232,
+                0
+              ],
+              [
+                9.920321837,
+                57.040264298,
+                0
+              ],
+              [
+                9.9202067,
+                57.040327348,
+                0
+              ],
+              [
+                9.92013569,
+                57.040288817,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100148995",
+        "forretningsproces": "Ejerlejlighedssag",
+        "id": "20138",
+        "registreringfra": "2019-12-17T14:10:24.178000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2019-12-17T14:10:02.243000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "ejerlejlighedlokalid": "100200196",
+        "etagebetegnelse": "1",
+        "lodareal": "64",
+        "lodbeliggenhedstekst": "1.sal",
+        "lodlitra": "a",
+        "lokalid": "100007422",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Ejerlejlighedslod",
+        "septima_hash86": "ip7V/FFp11x1CxS3Kb8LVJbnbdKMDPNs6xQS7q7MoBlUkNMNBgHZt2OtpV8pGsMy+m6fd9pJFHimKUdTXBs/zg",
+        "septima_serial": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.920201557,
+                57.040464624,
+                0
+              ],
+              [
+                9.920342015,
+                57.040433209,
+                0
+              ],
+              [
+                9.920377254,
+                57.040480025,
+                0
+              ],
+              [
+                9.920347982,
+                57.040486574,
+                0
+              ],
+              [
+                9.920359246,
+                57.040501531,
+                0
+              ],
+              [
+                9.920248042,
+                57.040526406,
+                0
+              ],
+              [
+                9.920201557,
+                57.040464624,
+                0
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100148995",
+        "forretningsproces": "Ejerlejlighedssag",
+        "id": "20140",
+        "registreringfra": "2019-12-17T14:10:24.178000+01:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2019-12-17T14:10:02.243000+01:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "ejerlejlighedlokalid": "100200324",
+        "etagebetegnelse": "0",
+        "lodareal": "65",
+        "lodbeliggenhedstekst": "stuen",
+        "lodlitra": "a",
+        "lokalid": "100007470",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/Ejerlejlighedslod",
+        "septima_hash86": "glRFWVxxrmvREr2MMrPOpbjaD79uDL/MLHHjhO1ibFDDVIdrM7gb5ByO7WHBSNlG38VLUZbUvBHMU0Nr5/8GXg",
+        "septima_serial": "11"
+      }
+    }
+  ]
+}

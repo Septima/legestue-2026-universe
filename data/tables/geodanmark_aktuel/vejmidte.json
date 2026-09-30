@@ -1,0 +1,620 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.573102004,
+            55.41688932,
+            46.72
+          ],
+          [
+            11.573104154,
+            55.416895657,
+            46.63
+          ],
+          [
+            11.573120329,
+            55.416945116,
+            45.93
+          ],
+          [
+            11.57314164,
+            55.417022512,
+            45.72
+          ],
+          [
+            11.573348748,
+            55.417842626,
+            43.17
+          ],
+          [
+            11.573366647,
+            55.417911285,
+            43.05
+          ],
+          [
+            11.573412566,
+            55.418099718,
+            43.04
+          ],
+          [
+            11.573412219,
+            55.418138108,
+            43.05
+          ],
+          [
+            11.573391976,
+            55.418154894,
+            43.15
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1210559599",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Fotogrammetrisk ajourføring",
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2020-03-27T07:01:17.435Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2018-05-09T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": "Ajourføring 2018",
+        "vejmidtetype": "Vej",
+        "vejmyndighed": "Ikke tildelt",
+        "cvfadmnr": "0",
+        "kommunekode": "0340",
+        "vejkode": "0680",
+        "vejkategori": "Lille vej",
+        "trafikart": "Al færdsel",
+        "niveau": null,
+        "overflade": "Befæstet",
+        "tilogfrakoersel": false,
+        "rundkoersel": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "237250823",
+        "septima_hash86": "c3OKKZ9gvYCO/TERwmvIi4rB+KdzFrTnQzo7822VPM68Kv5z6z6FA9rn16H/WdUx/bJtPH+XFJls2lS8vKgMng"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.573391976,
+            55.418154894,
+            43.15
+          ],
+          [
+            11.573365071,
+            55.418166427,
+            43.18
+          ],
+          [
+            11.573318381,
+            55.418172623,
+            43.2
+          ],
+          [
+            11.573150653,
+            55.418186311,
+            43.27
+          ],
+          [
+            11.572786321,
+            55.41821681,
+            43.3
+          ],
+          [
+            11.572725036,
+            55.418222145,
+            43.32
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1210559600",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Fotogrammetrisk ajourføring",
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringfra": "2020-03-27T07:01:17.435Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2018-05-09T00:00:00.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": "Ajourføring 2018",
+        "vejmidtetype": "Vej",
+        "vejmyndighed": "Ikke tildelt",
+        "cvfadmnr": "0",
+        "kommunekode": "0340",
+        "vejkode": "0469",
+        "vejkategori": "Lille vej",
+        "trafikart": "Al færdsel",
+        "niveau": null,
+        "overflade": "Befæstet",
+        "tilogfrakoersel": false,
+        "rundkoersel": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "237250824",
+        "septima_hash86": "NsO77LNsTjDHaw5eJXcnotBWBkDeTgnLuC4VETN1xFJQ/9Fekjrq8qKeOsIB4rVkStXeUHvTCDSagROaDwoDnw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.33654673,
+            55.409478393,
+            26.98
+          ],
+          [
+            11.336873891,
+            55.409571552,
+            27.17
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1109258762",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2017-08-17T07:00:11.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2017-08-17T07:00:11.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "vejmidtetype": "Sti",
+        "vejmyndighed": "Ikke tildelt",
+        "cvfadmnr": "0",
+        "kommunekode": "0330",
+        "vejkode": null,
+        "vejkategori": "Mindre sti",
+        "trafikart": "Sti",
+        "niveau": null,
+        "overflade": "Befæstet",
+        "tilogfrakoersel": false,
+        "rundkoersel": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "237250825",
+        "septima_hash86": "+yiEBqSKH+amGX/39PIxE72vnzV2yJ5wfcSCaueykFfrPRbPxFw1HkguQMmnhRjqe9Ze7+uUcuy8eeNAnY0QcQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.144686254,
+            55.147284907,
+            6.65
+          ],
+          [
+            11.144600059,
+            55.147009312,
+            6.06
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1109258308",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2017-08-17T07:00:11.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2017-08-17T07:00:11.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "vejmidtetype": "Sti",
+        "vejmyndighed": "Ikke tildelt",
+        "cvfadmnr": "0",
+        "kommunekode": "0330",
+        "vejkode": null,
+        "vejkategori": "Mindre sti",
+        "trafikart": "Sti",
+        "niveau": null,
+        "overflade": "Ubefæstet",
+        "tilogfrakoersel": false,
+        "rundkoersel": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "237250826",
+        "septima_hash86": "zrBg4c8uHn76G2JzI21m+QNsXu//PYDoI1iJukzQWJMRd4UnZAUXlSNEIfh/tHxmd24Lu99NekLVxLY9/Sg6Xg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.346903544,
+            55.389599604,
+            56.8
+          ],
+          [
+            11.346089104,
+            55.389464412,
+            56.23
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1109258942",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2017-08-17T07:00:11.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2017-08-17T07:00:11.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "vejmidtetype": "Sti",
+        "vejmyndighed": "Ikke tildelt",
+        "cvfadmnr": "0",
+        "kommunekode": "0330",
+        "vejkode": null,
+        "vejkategori": "Mindre sti",
+        "trafikart": "Sti",
+        "niveau": null,
+        "overflade": "Befæstet",
+        "tilogfrakoersel": false,
+        "rundkoersel": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "237250827",
+        "septima_hash86": "v+IXHFqWcO7FaFJPa5fo1pUug8mn1olyn75RAJQ4LBX5UcrpnWHwd4Zc8jjkf/lgeOJnQfXV5svHWzRQtHZMTQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.346089104,
+            55.389464412,
+            56.23
+          ],
+          [
+            11.345962322,
+            55.389715288,
+            55.08
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1109258943",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2017-08-17T07:00:11.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2017-08-17T07:00:11.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "vejmidtetype": "Sti",
+        "vejmyndighed": "Ikke tildelt",
+        "cvfadmnr": "0",
+        "kommunekode": "0330",
+        "vejkode": null,
+        "vejkategori": "Mindre sti",
+        "trafikart": "Sti",
+        "niveau": null,
+        "overflade": "Befæstet",
+        "tilogfrakoersel": false,
+        "rundkoersel": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "237250828",
+        "septima_hash86": "e/R5j5lO9l3O1gkIBxrp7C8b6Wri4IatYodP6YTaqbTraL6C0Dy3pq8napgcryRBvZg1EU6wbu3OIzwkbORvCw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.356828492,
+            55.404839962,
+            47.95
+          ],
+          [
+            11.356383975,
+            55.405182365,
+            46.88
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1109261248",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2017-08-17T07:00:11.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2017-08-17T07:00:11.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "vejmidtetype": "Vej",
+        "vejmyndighed": "Ikke tildelt",
+        "cvfadmnr": "0",
+        "kommunekode": "0330",
+        "vejkode": null,
+        "vejkategori": "Anden vej",
+        "trafikart": "Al færdsel",
+        "niveau": null,
+        "overflade": "Befæstet",
+        "tilogfrakoersel": false,
+        "rundkoersel": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "237250829",
+        "septima_hash86": "pUKB3QI7ATmk22l51QCA5tIYRYcU/YMR9G9O7IL/x/+PKG87Jt6yu8iuW4Ux4FrGWnMB176OptcNErmLkKli7w"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.131806224,
+            55.343241201,
+            2.22
+          ],
+          [
+            11.131819603,
+            55.343223081,
+            2.15
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1109259539",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2017-08-17T07:00:11.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2017-08-17T07:00:11.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "vejmidtetype": "Sti",
+        "vejmyndighed": "Ikke tildelt",
+        "cvfadmnr": "0",
+        "kommunekode": "0330",
+        "vejkode": null,
+        "vejkategori": "Mindre sti",
+        "trafikart": "Sti",
+        "niveau": null,
+        "overflade": "Befæstet",
+        "tilogfrakoersel": false,
+        "rundkoersel": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "237250830",
+        "septima_hash86": "IxXbuUTIlHqQsXQnDxwn2Sep+Me/ls5ndVU5+LPRLMQLooFsDybx6+bEDmCdvJFuzU4FnI63UuZd7VgfKm0tfg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.367753823,
+            55.411788676,
+            46.38
+          ],
+          [
+            11.367692054,
+            55.41176767,
+            46.46
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1109261941",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2017-08-17T07:00:11.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2017-08-17T07:00:11.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "vejmidtetype": "Sti",
+        "vejmyndighed": "Ikke tildelt",
+        "cvfadmnr": "0",
+        "kommunekode": "0330",
+        "vejkode": null,
+        "vejkategori": "Mindre sti",
+        "trafikart": "Sti",
+        "niveau": null,
+        "overflade": "Befæstet",
+        "tilogfrakoersel": false,
+        "rundkoersel": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "237250831",
+        "septima_hash86": "V6Rtq5/fq66MgN62AMNN2Zy/O0eHCd4RApTQ4Y76GSkRB+x4ueRX3lOYwyKXAWRX446whkMcAoONGrn2xZVicA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.29595588,
+            55.249937097,
+            4.48
+          ],
+          [
+            11.29585376,
+            55.250008051,
+            4.34
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1109262798",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Cowi",
+        "registreringfra": "2017-08-17T07:00:11.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Cowi",
+        "virkningfra": "2017-08-17T07:00:11.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "0.15",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "vertikalnoejagtighed": "0.20",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "applikation": "Ikke tildelt",
+        "kommentar": null,
+        "vejmidtetype": "Sti",
+        "vejmyndighed": "Ikke tildelt",
+        "cvfadmnr": "0",
+        "kommunekode": "0330",
+        "vejkode": null,
+        "vejkategori": "Mindre sti",
+        "trafikart": "Sti",
+        "niveau": null,
+        "overflade": "Befæstet",
+        "tilogfrakoersel": false,
+        "rundkoersel": false,
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "237250832",
+        "septima_hash86": "V7B49KEx51eiJFOyrd1cBlIyV3Z2x54xYARj0iGPwF1Prbe9mmV8SLRP39obZyZ/9KVDk9S6EykFi3ZVYJdTrA"
+      }
+    }
+  ]
+}

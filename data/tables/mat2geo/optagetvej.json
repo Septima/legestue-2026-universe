@@ -1,0 +1,395 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.56751704,
+            55.629957812,
+            0
+          ],
+          [
+            12.567499478,
+            55.629750414,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100166012",
+        "forretningsproces": "Matrikulær sag",
+        "id": "44586326",
+        "registreringfra": "2022-04-21T10:50:02.726000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2022-04-21T10:50:02.726000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "produktionsmetode": "Ukendt - UK",
+        "transformationsid": null,
+        "vejbredde": null,
+        "vejtype": null,
+        "lokalid": "100960269",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/OptagetVej",
+        "septima_hash86": "nPDYdpYht5vGKRhjOuEj0OFCLeIzZ9GMXvHpEjrDiM8XZNM5AvMMj2PCu4zcNgFMOmTmyWBvzNT/4WNJfhdj7A",
+        "septima_serial": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.433543273,
+            55.530255231,
+            0
+          ],
+          [
+            9.433528588,
+            55.530696104,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100180522",
+        "forretningsproces": "Matrikulær sag",
+        "id": "44595707",
+        "registreringfra": "2022-04-29T07:20:02.364000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2022-04-29T07:20:02.364000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "produktionsmetode": "Indlagt vha. digitalisering af et økort - MK",
+        "transformationsid": null,
+        "vejbredde": null,
+        "vejtype": null,
+        "lokalid": "46151573",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/OptagetVej",
+        "septima_hash86": "fArNI2jZbYx87dxvaSygtJu54VbtYedijIBGsjyqR2CqPeByv4SI6mx2GKeWs1cGhKLFCGEP+MNlH3XvZ5hoJA",
+        "septima_serial": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.427652589,
+            55.529935463,
+            0
+          ],
+          [
+            9.427996657,
+            55.530010245,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100180522",
+        "forretningsproces": "Matrikulær sag",
+        "id": "44595641",
+        "registreringfra": "2022-04-29T07:20:02.364000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2022-04-29T07:20:02.364000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "produktionsmetode": "Indlagt vha. digitalisering af et økort - MK",
+        "transformationsid": null,
+        "vejbredde": null,
+        "vejtype": null,
+        "lokalid": "46159458",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/OptagetVej",
+        "septima_hash86": "DnN6QKUACQGx/Qqp1o73tAkFuoEa9NrTQla02tZU1Nwj3gHNQcOJSc1hF2J5j9wDUAM5oATXrGDgTj4z0wr5qQ",
+        "septima_serial": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.437462806,
+            55.528190782,
+            0
+          ],
+          [
+            9.437373348,
+            55.528219371,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100180522",
+        "forretningsproces": "Matrikulær sag",
+        "id": "44595806",
+        "registreringfra": "2022-04-29T07:20:02.364000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2022-04-29T07:20:02.364000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "produktionsmetode": "Indlagt vha. digitalisering af et økort - MK",
+        "transformationsid": null,
+        "vejbredde": null,
+        "vejtype": null,
+        "lokalid": "47222430",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/OptagetVej",
+        "septima_hash86": "6Eq+KhRWBzJyjWFxa6RZ1dr+leqJ8odob0qN7dusfRXQe8Jurz1jjsr+77eQ+PDVxe3CzfDcMCnWwU7ubRaRFQ",
+        "septima_serial": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.438039598,
+            55.528137925,
+            0
+          ],
+          [
+            9.437450919,
+            55.528046092,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100180522",
+        "forretningsproces": "Matrikulær sag",
+        "id": "44595809",
+        "registreringfra": "2022-04-29T07:20:02.364000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2022-04-29T07:20:02.364000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "produktionsmetode": "Indlagt vha. digitalisering af et økort - MK",
+        "transformationsid": null,
+        "vejbredde": null,
+        "vejtype": null,
+        "lokalid": "47221086",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/OptagetVej",
+        "septima_hash86": "9YBIh1kNex2SlX4/KtNYIb6bNr4QXWWSoY/8qVgsDAD6b/R7bbxTABeJ9vMYgd5ASA6X+pFOK7qQB+Zf10UvPA",
+        "septima_serial": "21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.437450919,
+            55.528046092,
+            0
+          ],
+          [
+            9.437462806,
+            55.528190782,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100180522",
+        "forretningsproces": "Matrikulær sag",
+        "id": "44595779",
+        "registreringfra": "2022-04-29T07:20:02.364000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2022-04-29T07:20:02.364000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "produktionsmetode": "Indlagt vha. digitalisering af et økort - MK",
+        "transformationsid": null,
+        "vejbredde": null,
+        "vejtype": null,
+        "lokalid": "47222106",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/OptagetVej",
+        "septima_hash86": "zphvhVTdAhVKsgrr1UUtFLxcSrs/yhOCJPV/5i/x34yD2CcLjOkFlkAK/D9nMwauHOLCitzQx5JCUi8Aazs2eQ",
+        "septima_serial": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.437373364,
+            55.528219389,
+            0
+          ],
+          [
+            9.437307902,
+            55.528240362,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100180522",
+        "forretningsproces": "Matrikulær sag",
+        "id": "44595764",
+        "registreringfra": "2022-04-29T07:20:02.364000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2022-04-29T07:20:02.364000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "produktionsmetode": "Indlagt vha. digitalisering af et økort - MK",
+        "transformationsid": null,
+        "vejbredde": null,
+        "vejtype": null,
+        "lokalid": "46154592",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/OptagetVej",
+        "septima_hash86": "qsutJbh/Qh17Pn1JDzZ7GhTswgF5h6ZJFUx+4DmNwjupkfzzEtpS6RWXVcYa+/EzkMzmFhehzBAAb1itZHrs0g",
+        "septima_serial": "34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.43755553,
+            55.52797128,
+            0
+          ],
+          [
+            9.437431611,
+            55.527887913,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100180522",
+        "forretningsproces": "Matrikulær sag",
+        "id": "44595821",
+        "registreringfra": "2022-04-29T07:20:02.364000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2022-04-29T07:20:02.364000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "produktionsmetode": "Indlagt vha. digitalisering af et økort - MK",
+        "transformationsid": null,
+        "vejbredde": null,
+        "vejtype": null,
+        "lokalid": "47221410",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/OptagetVej",
+        "septima_hash86": "BcmRwwFtkUqRDGMkguQEaUrxiH0vcTEwdOuh4uYjYCtsa3SjXWghGejRN/yO1kvr7Mw3+HcU3O/PVLds5ckH9A",
+        "septima_serial": "45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.437431611,
+            55.527887913,
+            0
+          ],
+          [
+            9.437251317,
+            55.526773669,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100180522",
+        "forretningsproces": "Matrikulær sag",
+        "id": "44595824",
+        "registreringfra": "2022-04-29T07:20:02.364000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2022-04-29T07:20:02.364000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "produktionsmetode": "Indlagt vha. digitalisering af et økort - MK",
+        "transformationsid": null,
+        "vejbredde": null,
+        "vejtype": "Markvej",
+        "lokalid": "47222105",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/OptagetVej",
+        "septima_hash86": "nb+9puqpQJt1XqfCntgL+ASpGpQZnYV7gzgBTAD7fHuN7VO7ZvD/CJSw3tZ+a8Rtn2LSAGWpm6OvHM2poicwWg",
+        "septima_serial": "46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.437367854,
+            55.528181039,
+            0
+          ],
+          [
+            9.437282743,
+            55.528214474,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "forretningshaendelse": "Afledt ændring",
+        "senestesaglokalid": "100180522",
+        "forretningsproces": "Matrikulær sag",
+        "id": "44595668",
+        "registreringfra": "2022-04-29T07:20:02.364000+02:00",
+        "registreringtil": null,
+        "status": "Gældende",
+        "virkningfra": "2022-04-29T07:20:02.364000+02:00",
+        "virkningtil": null,
+        "virkningsaktoer": "Geodatastyrelsen",
+        "produktionsmetode": "Indlagt vha. digitalisering af et økort - MK",
+        "transformationsid": null,
+        "vejbredde": null,
+        "vejtype": null,
+        "lokalid": "46159801",
+        "paataenkthandling": null,
+        "id_namespace": "http://data.gov.dk/Matriklen/OptagetVej",
+        "septima_hash86": "qasmDcVsC2riPCUC/vGwViD52BO3FihHGOQIAbIgcQAVXujiwE87OEBl0df44yvEDitAOzd8VdfFv3PRzf27Dw",
+        "septima_serial": "48"
+      }
+    }
+  ]
+}

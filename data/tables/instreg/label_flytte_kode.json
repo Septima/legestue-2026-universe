@@ -1,0 +1,16 @@
+[
+  {
+    "flytte_kode": "1",
+    "flytte_kode_tekst": "Flyttet fra institutionsnummer i flyttet institution",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "d6I52Gxq4RSJXxKCBQyUCXlU6xge+X3ArA0xgZkPh2iakJwwy2MpB3AT1kMSf0dsDrCOPBgguBNZARjcWnHYqw",
+    "septima_serial": "2"
+  },
+  {
+    "flytte_kode": "2",
+    "flytte_kode_tekst": "Flyttet til institutionsnummer i flyttet institution",
+    "septima_transaktion_id": "107258333",
+    "septima_hash86": "p6uSKYkp5BM7KPY1aWh8tx2uAEZJ5hkbEKDrb2SJcq8qksTq6BeiusOjauSmRVYn68F+q0wU5LTh6NtAbtoGiA",
+    "septima_serial": "3"
+  }
+]

@@ -1,0 +1,1010 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.307599256,
+              56.550744001,
+              0.88
+            ],
+            [
+              8.307556672,
+              56.550759935,
+              0.86
+            ],
+            [
+              8.307413477,
+              56.550762732,
+              0.95
+            ],
+            [
+              8.307290258,
+              56.550740482,
+              0.82
+            ],
+            [
+              8.30717407,
+              56.550689522,
+              0.87
+            ],
+            [
+              8.307087619,
+              56.550613572,
+              0.85
+            ],
+            [
+              8.307131188,
+              56.550543736,
+              0.95
+            ],
+            [
+              8.307167167,
+              56.550533155,
+              1.06
+            ],
+            [
+              8.307280856,
+              56.550542773,
+              1.03
+            ],
+            [
+              8.307397568,
+              56.550564986,
+              1.04
+            ],
+            [
+              8.307523645,
+              56.550608814,
+              1.09
+            ],
+            [
+              8.30766888,
+              56.550672513,
+              1.07
+            ],
+            [
+              8.307599256,
+              56.550744001,
+              0.88
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1114544602",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Lemvig",
+        "registreringfra": "2020-09-09T08:16:04.336Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2018-02-05T09:01:33.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "parkeringsid": null,
+        "placering": "Overflade",
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "6258",
+        "septima_hash86": "EgIL1NtlyWvL6ynIDLc4rqgGMJPW68i2RTSRNIReWIa9ldIXeGzVJ8L1Ja+glnqXef92sZMI5sijzvCWbUhCow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.179711027,
+              55.458125758,
+              3.06
+            ],
+            [
+              12.179708379,
+              55.458112521,
+              3.21
+            ],
+            [
+              12.179646836,
+              55.458043814,
+              3.21
+            ],
+            [
+              12.179640959,
+              55.458045495,
+              3.21
+            ],
+            [
+              12.179593015,
+              55.457988482,
+              3.2
+            ],
+            [
+              12.179600141,
+              55.457986589,
+              3.2
+            ],
+            [
+              12.179561706,
+              55.457941556,
+              3.2
+            ],
+            [
+              12.179467294,
+              55.457967656,
+              3.2
+            ],
+            [
+              12.179356311,
+              55.457996255,
+              3.2
+            ],
+            [
+              12.179163289,
+              55.45779197,
+              3.19
+            ],
+            [
+              12.179221061,
+              55.457774555,
+              3.18
+            ],
+            [
+              12.179249635,
+              55.4577659,
+              3.19
+            ],
+            [
+              12.179312042,
+              55.457747105,
+              3.18
+            ],
+            [
+              12.179475358,
+              55.457922403,
+              3.15
+            ],
+            [
+              12.179523407,
+              55.457908027,
+              2.94
+            ],
+            [
+              12.179355728,
+              55.457733562,
+              3.03
+            ],
+            [
+              12.179346643,
+              55.457736676,
+              3.03
+            ],
+            [
+              12.179284339,
+              55.457664392,
+              3
+            ],
+            [
+              12.179349365,
+              55.45764472,
+              2.99
+            ],
+            [
+              12.179329295,
+              55.457623394,
+              2.98
+            ],
+            [
+              12.179470046,
+              55.457581345,
+              2.97
+            ],
+            [
+              12.179485442,
+              55.457597667,
+              2.96
+            ],
+            [
+              12.179521916,
+              55.457586919,
+              2.96
+            ],
+            [
+              12.17959698,
+              55.457564198,
+              2.95
+            ],
+            [
+              12.179657606,
+              55.457651001,
+              2.94
+            ],
+            [
+              12.179663498,
+              55.457649499,
+              2.94
+            ],
+            [
+              12.179778263,
+              55.457850603,
+              2.91
+            ],
+            [
+              12.179823193,
+              55.457842692,
+              2.91
+            ],
+            [
+              12.179705819,
+              55.457634732,
+              3.09
+            ],
+            [
+              12.179783701,
+              55.457619491,
+              3.09
+            ],
+            [
+              12.179779018,
+              55.45761242,
+              3.09
+            ],
+            [
+              12.17965955,
+              55.457635846,
+              3.08
+            ],
+            [
+              12.17958651,
+              55.457524552,
+              3.08
+            ],
+            [
+              12.179711804,
+              55.457500795,
+              3.05
+            ],
+            [
+              12.179698711,
+              55.457481626,
+              3.05
+            ],
+            [
+              12.1797242,
+              55.457475928,
+              2.73
+            ],
+            [
+              12.17977502,
+              55.457464537,
+              3.05
+            ],
+            [
+              12.17985361,
+              55.457605446,
+              3.04
+            ],
+            [
+              12.179868385,
+              55.457602274,
+              3.04
+            ],
+            [
+              12.179816089,
+              55.45751085,
+              3.02
+            ],
+            [
+              12.17995727,
+              55.457482005,
+              3.02
+            ],
+            [
+              12.180007461,
+              55.457568899,
+              2.97
+            ],
+            [
+              12.179897143,
+              55.457590018,
+              2.96
+            ],
+            [
+              12.179901812,
+              55.45759691,
+              2.95
+            ],
+            [
+              12.179994736,
+              55.457579839,
+              2.89
+            ],
+            [
+              12.180095393,
+              55.457833635,
+              2.98
+            ],
+            [
+              12.179985706,
+              55.457854739,
+              2.87
+            ],
+            [
+              12.179943295,
+              55.457862495,
+              2.83
+            ],
+            [
+              12.179798903,
+              55.457888816,
+              2.83
+            ],
+            [
+              12.179696298,
+              55.457907488,
+              2.83
+            ],
+            [
+              12.179722856,
+              55.457954358,
+              2.74
+            ],
+            [
+              12.179763484,
+              55.458020732,
+              3.14
+            ],
+            [
+              12.179806512,
+              55.458091358,
+              3.21
+            ],
+            [
+              12.17982016,
+              55.458099724,
+              3.06
+            ],
+            [
+              12.179766914,
+              55.458112437,
+              3.06
+            ],
+            [
+              12.179711027,
+              55.458125758,
+              3.06
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1112526688",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "GST",
+        "registreringfra": "2017-11-08T13:23:13.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "GST",
+        "virkningfra": "2017-11-08T13:23:13.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "Ikke tildelt",
+        "kommentar": "GST editering",
+        "parkeringsid": null,
+        "placering": "Overflade",
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "6259",
+        "septima_hash86": "njBQdR3IQRpOqf+AFTgldkdnN1rSM0ETZCn/TrlA8HfjFxGoXt9N510tV4HcZBf+j5S+3IZOXHrqEkMkXvadlg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.204524725,
+              56.696277294,
+              -999
+            ],
+            [
+              8.20445581,
+              56.696293026,
+              -999
+            ],
+            [
+              8.203357394,
+              56.694798212,
+              -999
+            ],
+            [
+              8.203426307,
+              56.694782481,
+              -999
+            ],
+            [
+              8.204524725,
+              56.696277294,
+              -999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1114533836",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Lemvig",
+        "registreringfra": "2018-01-31T07:48:05.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Lemvig",
+        "virkningfra": "2018-01-31T07:48:05.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "Redigeret via GeoDanmarkEditor.Septima.Dk",
+        "kommentar": null,
+        "parkeringsid": null,
+        "placering": "Overflade",
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "6260",
+        "septima_hash86": "bwtxArXTWfJHYOULrdlmOS+S9tQcrocqGLF+UGWBVxT0T9QGr7eosruAcHzq5KjuvScSNH+0QFMu7kc/3myeNw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.203584197,
+              56.694775135,
+              -999
+            ],
+            [
+              8.203715416,
+              56.694747224,
+              -999
+            ],
+            [
+              8.203931578,
+              56.695027118,
+              -999
+            ],
+            [
+              8.203797093,
+              56.695055008,
+              -999
+            ],
+            [
+              8.203584197,
+              56.694775135,
+              -999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1114533838",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Lemvig",
+        "registreringfra": "2018-01-31T07:48:05.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Lemvig",
+        "virkningfra": "2018-01-31T07:48:05.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "Redigeret via GeoDanmarkEditor.Septima.Dk",
+        "kommentar": null,
+        "parkeringsid": null,
+        "placering": "Overflade",
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "6261",
+        "septima_hash86": "cWZKwdlMX23co/aQPidJnCAkG4e2EljGloFu8WYqKA9v0n8fQEbMOB0sTvcn8/UuOQQa6Hb/DCJaE34WXHWFqw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.871207972,
+              55.450822579,
+              37.26
+            ],
+            [
+              11.871066132,
+              55.450838404,
+              37.26
+            ],
+            [
+              11.871014707,
+              55.450705394,
+              37.33
+            ],
+            [
+              11.871152537,
+              55.450693169,
+              37.41
+            ],
+            [
+              11.871207972,
+              55.450822579,
+              37.26
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1215995570",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Ringsted kommune",
+        "registreringfra": "2022-01-19T15:11:02.329Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2021-06-04T11:46:22.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "parkeringsid": null,
+        "placering": "Overflade",
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "6262",
+        "septima_hash86": "v6q8Zs9+CDWHiY6lsbjIJBRjkuDx8CNxjvCqHurYI+Acd2KsspDaaahD34XImMZxGex3CWMXz6R6ZIKcC7jpow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.306484246,
+              56.550162784,
+              -999
+            ],
+            [
+              8.306560672,
+              56.550075163,
+              -999
+            ],
+            [
+              8.306836085,
+              56.550135996,
+              -999
+            ],
+            [
+              8.306749441,
+              56.550248717,
+              -999
+            ],
+            [
+              8.306484246,
+              56.550162784,
+              -999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1114542095",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Lemvig",
+        "registreringfra": "2018-02-02T08:54:02.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Lemvig",
+        "virkningfra": "2018-02-02T08:54:02.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "Redigeret via GeoDanmarkEditor.Septima.Dk",
+        "kommentar": null,
+        "parkeringsid": null,
+        "placering": "Overflade",
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "6263",
+        "septima_hash86": "F5uEcXEUnt/056Y9OhFchJ5nxyr/uLF38CsQgG2DaQnWFx9EjP6dvSCjf8Cl2pCOJdfZP8pYVU+3zxIVnmjvCw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.303904053,
+              56.550076758,
+              -999
+            ],
+            [
+              8.303903504,
+              56.549929411,
+              -999
+            ],
+            [
+              8.30402396,
+              56.549924695,
+              -999
+            ],
+            [
+              8.304105546,
+              56.549910776,
+              -999
+            ],
+            [
+              8.304150691,
+              56.549932592,
+              -999
+            ],
+            [
+              8.304449429,
+              56.549963013,
+              -999
+            ],
+            [
+              8.304437199,
+              56.550097711,
+              -999
+            ],
+            [
+              8.303904053,
+              56.550076758,
+              -999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1114544527",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "registreringsaktoer": "Lemvig",
+        "registreringfra": "2018-02-05T08:44:26.000Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Lemvig",
+        "virkningfra": "2018-02-05T08:44:26.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "Redigeret via GeoDanmarkEditor.Septima.Dk",
+        "kommentar": null,
+        "parkeringsid": null,
+        "placering": "Overflade",
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "6264",
+        "septima_hash86": "TJf+6QgTLBf9s0bZe9Q36lC1QYwEu0FMwhQWev0a0z5V/c41lhzj8sfFc0AnSghtZE7JBWmD8GAdHz3AVPjM8A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.121408807,
+              56.120271797,
+              -999
+            ],
+            [
+              8.120701256,
+              56.120384109,
+              -999
+            ],
+            [
+              8.120570582,
+              56.120852385,
+              -999
+            ],
+            [
+              8.120730807,
+              56.121063059,
+              -999
+            ],
+            [
+              8.121138052,
+              56.120965413,
+              -999
+            ],
+            [
+              8.121259937,
+              56.120882449,
+              -999
+            ],
+            [
+              8.121727546,
+              56.120768518,
+              -999
+            ],
+            [
+              8.121556561,
+              56.120373392,
+              -999
+            ],
+            [
+              8.121408807,
+              56.120271797,
+              -999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1220279444",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Ringkøbing-skjern kommune",
+        "registreringfra": "2022-05-25T12:33:27.869Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Ringkøbing-skjern kommune",
+        "virkningfra": "2022-05-25T11:50:36.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "parkeringsid": null,
+        "placering": "Overflade",
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "6265",
+        "septima_hash86": "bRFW8IS1bZv2AGGEVVuW8R7N6UC7vIxOonR7lGdu+y8u13wb5h0GzTuxXHXh4tZyCZKu8GoBGlOvgc3zfkKVyA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.121283427,
+              56.119851927,
+              -999
+            ],
+            [
+              8.121202946,
+              56.120094404,
+              -999
+            ],
+            [
+              8.121665967,
+              56.120181438,
+              -999
+            ],
+            [
+              8.122044315,
+              56.120695294,
+              -999
+            ],
+            [
+              8.122556379,
+              56.120606744,
+              -999
+            ],
+            [
+              8.122760255,
+              56.120214372,
+              -999
+            ],
+            [
+              8.122793761,
+              56.120063749,
+              -999
+            ],
+            [
+              8.12254137,
+              56.119944701,
+              -999
+            ],
+            [
+              8.121764455,
+              56.119805031,
+              -999
+            ],
+            [
+              8.121283427,
+              56.119851927,
+              -999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1220279461",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "Ringkøbing-skjern kommune",
+        "registreringfra": "2022-05-25T12:33:27.869Z",
+        "registreringtil": null,
+        "virkningsaktoer": "Ringkøbing-skjern kommune",
+        "virkningfra": "2022-05-25T11:51:50.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "parkeringsid": null,
+        "placering": "Overflade",
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "6266",
+        "septima_hash86": "xUO3kO5JHHzu1Iu9JM3Y/b1mDhkv8hUb2Cjy6wuH9RxFl+WP0mFsHd1I1DbNUaxip37xlYOO7gQkvkZ7XyFlJQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.629967345,
+              56.090615997,
+              37.87
+            ],
+            [
+              8.62994806,
+              56.090599137,
+              37.81
+            ],
+            [
+              8.629844944,
+              56.09050871,
+              37.47
+            ],
+            [
+              8.629922508,
+              56.090481628,
+              37.47
+            ],
+            [
+              8.630006199,
+              56.090452499,
+              37.47
+            ],
+            [
+              8.630130068,
+              56.090557633,
+              37.67
+            ],
+            [
+              8.629967345,
+              56.090615997,
+              37.87
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "id_lokalid": "1212869378",
+        "tempid": null,
+        "status": "Anlagt",
+        "geometristatus": "Endelig",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Nyt objekt",
+        "forretningsomraade": "1",
+        "forretningsproces": "Løbende ajourføring",
+        "registreringsaktoer": "SDFE",
+        "registreringfra": "2020-11-03T16:32:54.881Z",
+        "registreringtil": null,
+        "virkningsaktoer": "SDFE",
+        "virkningfra": "2020-11-02T08:18:49.000Z",
+        "virkningtil": null,
+        "plannoejagtighed": "10.00",
+        "planstedfaestelsesmetode": "Manuel",
+        "vertikalnoejagtighed": "10.00",
+        "vertikalstedfaestelsesmetode": "Manuel",
+        "applikation": "GeoDanmark Klient",
+        "kommentar": null,
+        "parkeringsid": null,
+        "placering": "Overflade",
+        "septima_transaktion_id": "126106293",
+        "septima_serial": "6267",
+        "septima_hash86": "FCYM+litAT+AVhNFISfRTRIptMFkkF/jF3/+JDsgs04F/L2/Vm78PXdm82XKoNN6KTo3rt97HGNJK3gj9eRIOg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1745 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.151768476,
+                57.164669758
+              ],
+              [
+                10.152083507,
+                57.164656185
+              ],
+              [
+                10.152290195,
+                57.16464728
+              ],
+              [
+                10.152374417,
+                57.16464001
+              ],
+              [
+                10.152456325,
+                57.164626258
+              ],
+              [
+                10.15253333,
+                57.164600729
+              ],
+              [
+                10.152643137,
+                57.164560083
+              ],
+              [
+                10.15274865,
+                57.164487789
+              ],
+              [
+                10.152841785,
+                57.164439517
+              ],
+              [
+                10.153348775,
+                57.164191482
+              ],
+              [
+                10.153004483,
+                57.163440807
+              ],
+              [
+                10.152916556,
+                57.163505312
+              ],
+              [
+                10.152799768,
+                57.163594185
+              ],
+              [
+                10.152683301,
+                57.163673047
+              ],
+              [
+                10.15259373,
+                57.163722535
+              ],
+              [
+                10.152451536,
+                57.163821345
+              ],
+              [
+                10.152406725,
+                57.16385426
+              ],
+              [
+                10.152064906,
+                57.164176089
+              ],
+              [
+                10.15196834,
+                57.164258533
+              ],
+              [
+                10.151869235,
+                57.164405754
+              ],
+              [
+                10.151794173,
+                57.164519274
+              ],
+              [
+                10.151729069,
+                57.164641506
+              ],
+              [
+                10.151730018,
+                57.164655557
+              ],
+              [
+                10.151743235,
+                57.164668993
+              ],
+              [
+                10.151768476,
+                57.164669758
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "uuid": "00166ab90174401a94538b244e13b86a",
+        "temakode": 1101,
+        "temanavn": "Byzone og sommerhusområder",
+        "objekt_id": 12125866,
+        "systid_fra": null,
+        "systid_til": null,
+        "oprettet": null,
+        "oprindkode": null,
+        "oprindelse": null,
+        "statuskode": null,
+        "status": "V",
+        "cvr_kode": null,
+        "cvrname": null,
+        "link": "https://bronderslev.viewer.dkplan.niras.dk/plan/111#/52519",
+        "plannr": "9",
+        "lovgivning": "Planloven: § 11a, 1",
+        "komplan_id": 12105503,
+        "komtil_id": null,
+        "plangrund": "Kommuneplan 2025",
+        "datostart": 20250918,
+        "datoslut": 20251116,
+        "datoforsl": 20250917,
+        "datovedt": 20251217,
+        "datoikraft": 20251219,
+        "datoaflyst": null,
+        "sp_datoafl": null,
+        "komnr": 810,
+        "bem": "1.1.3 Arealer til byudvikling (alle byerne) - Nye blandet bolig- og erhvervsudlæg og 01-D-05",
+        "kp_kpt_doklink": null,
+        "type1101": null,
+        "vaerdi1101": null,
+        "septima_transaktion_id": "147154113",
+        "septima_hash86": "p56qVqBU204UK6z13aychKjchvhDDZaZHCjETZuR2+7w3IL5JwfSYJm7XAkHiyOfiebTwoL+owOSmlQ+ix6NUw",
+        "septima_serial": "7046540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.64282927,
+                55.634030216
+              ],
+              [
+                9.642829211,
+                55.634030201
+              ],
+              [
+                9.642829157,
+                55.634030204
+              ],
+              [
+                9.642663862,
+                55.63406326
+              ],
+              [
+                9.641964413,
+                55.634203217
+              ],
+              [
+                9.641964359,
+                55.634203228
+              ],
+              [
+                9.641863668,
+                55.63422345
+              ],
+              [
+                9.64186361,
+                55.634223463
+              ],
+              [
+                9.641863559,
+                55.634223488
+              ],
+              [
+                9.641863517,
+                55.634223516
+              ],
+              [
+                9.641863486,
+                55.634223548
+              ],
+              [
+                9.641863465,
+                55.634223582
+              ],
+              [
+                9.641863458,
+                55.634223618
+              ],
+              [
+                9.64186346,
+                55.634223655
+              ],
+              [
+                9.641863482,
+                55.634223689
+              ],
+              [
+                9.642133286,
+                55.634590075
+              ],
+              [
+                9.642311764,
+                55.634859915
+              ],
+              [
+                9.642302886,
+                55.63489293
+              ],
+              [
+                9.642296297,
+                55.634917712
+              ],
+              [
+                9.64229629,
+                55.634917746
+              ],
+              [
+                9.642296287,
+                55.63491778
+              ],
+              [
+                9.642296324,
+                55.634917814
+              ],
+              [
+                9.642296355,
+                55.634917844
+              ],
+              [
+                9.642296395,
+                55.63491787
+              ],
+              [
+                9.642296445,
+                55.634917891
+              ],
+              [
+                9.642296501,
+                55.634917907
+              ],
+              [
+                9.642296559,
+                55.634917915
+              ],
+              [
+                9.642296621,
+                55.634917918
+              ],
+              [
+                9.642296683,
+                55.634917916
+              ],
+              [
+                9.64229674,
+                55.634917903
+              ],
+              [
+                9.642530865,
+                55.634859359
+              ],
+              [
+                9.643283575,
+                55.634674358
+              ],
+              [
+                9.643283526,
+                55.634674334
+              ],
+              [
+                9.64282944,
+                55.634030312
+              ],
+              [
+                9.642829414,
+                55.634030281
+              ],
+              [
+                9.642829369,
+                55.634030256
+              ],
+              [
+                9.642829323,
+                55.634030234
+              ],
+              [
+                9.64282927,
+                55.634030216
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "uuid": "00244b02c85e4c18a1b48b5aa957fa7e",
+        "temakode": 1101,
+        "temanavn": "Byzone og sommerhusområder",
+        "objekt_id": 11718540,
+        "systid_fra": null,
+        "systid_til": null,
+        "oprettet": null,
+        "oprindkode": null,
+        "oprindelse": null,
+        "statuskode": null,
+        "status": "V",
+        "cvr_kode": null,
+        "cvrname": null,
+        "link": null,
+        "plannr": "162",
+        "lovgivning": "Planloven: § 11a, 1",
+        "komplan_id": 11303212,
+        "komtil_id": null,
+        "plangrund": "Kommuneplan 2025 - 2037",
+        "datostart": 20250204,
+        "datoslut": 20250401,
+        "datoforsl": 20241211,
+        "datovedt": 20251001,
+        "datoikraft": 20251028,
+        "datoaflyst": null,
+        "sp_datoafl": null,
+        "komnr": 630,
+        "bem": null,
+        "kp_kpt_doklink": null,
+        "type1101": null,
+        "vaerdi1101": null,
+        "septima_transaktion_id": "147154113",
+        "septima_hash86": "gnw/5WhhJW5+5Q/yrjjzP97H6dwbyh19jypqgqDXio12vGnVPBaFOLE9hEbyJ63bZq69BrVDGJ9O1/XwC3kH6w",
+        "septima_serial": "7046541"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.738986766,
+                55.31742238
+              ],
+              [
+                11.73867493,
+                55.316825457
+              ],
+              [
+                11.737987242,
+                55.316949925
+              ],
+              [
+                11.738347289,
+                55.317798016
+              ],
+              [
+                11.739107783,
+                55.317698162
+              ],
+              [
+                11.738986766,
+                55.31742238
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "uuid": "0039578fa49b4934a69b4d8621631d14",
+        "temakode": 1101,
+        "temanavn": "Byzone og sommerhusområder",
+        "objekt_id": 11907869,
+        "systid_fra": null,
+        "systid_til": null,
+        "oprettet": null,
+        "oprindkode": null,
+        "oprindelse": null,
+        "statuskode": null,
+        "status": "V",
+        "cvr_kode": null,
+        "cvrname": null,
+        "link": "https://naestved.viewer.dkplan.niras.dk/dkplan/dkplan.aspx?pageId=1548",
+        "plannr": "29",
+        "lovgivning": "Planloven: § 11a, 1",
+        "komplan_id": 11430386,
+        "komtil_id": null,
+        "plangrund": "Kommuneplan 2025",
+        "datostart": 20250507,
+        "datoslut": 20250801,
+        "datoforsl": 20250429,
+        "datovedt": 20251007,
+        "datoikraft": 20251031,
+        "datoaflyst": null,
+        "sp_datoafl": null,
+        "komnr": 370,
+        "bem": "Bem fra KP17: Del af ramme 4.2 E3 ligger i landzone - Oprindelse KP 2009-21 - Lokalcenter Herlufmagle/Gelsted",
+        "kp_kpt_doklink": null,
+        "type1101": null,
+        "vaerdi1101": null,
+        "septima_transaktion_id": "147154113",
+        "septima_hash86": "Mg5x74JZXjzCRS6qjgWfyNhqk92q/ILhmeGSj8heRGTrZ2Gm0aYACsKFdBEz2Jjb5XwSLaz+yFNZ9/TSqNJMsw",
+        "septima_serial": "7046543"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.368049215,
+                57.280850892
+              ],
+              [
+                10.36698905,
+                57.28091551
+              ],
+              [
+                10.36683294,
+                57.280759567
+              ],
+              [
+                10.366697721,
+                57.280624686
+              ],
+              [
+                10.366549307,
+                57.280628365
+              ],
+              [
+                10.364526027,
+                57.280674324
+              ],
+              [
+                10.364336413,
+                57.280684646
+              ],
+              [
+                10.367613181,
+                57.283090796
+              ],
+              [
+                10.369654015,
+                57.282932048
+              ],
+              [
+                10.370141087,
+                57.282893776
+              ],
+              [
+                10.370594438,
+                57.282761645
+              ],
+              [
+                10.368049215,
+                57.280850892
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "uuid": "00511f1420af11e58f4900000a1e0542",
+        "temakode": 1101,
+        "temanavn": "Byzone og sommerhusområder",
+        "objekt_id": 2908996,
+        "systid_fra": null,
+        "systid_til": null,
+        "oprettet": null,
+        "oprindkode": null,
+        "oprindelse": null,
+        "statuskode": null,
+        "status": "V",
+        "cvr_kode": null,
+        "cvrname": null,
+        "link": "http://kommuneplan.frederikshavn.dk",
+        "plannr": "byzone_12",
+        "lovgivning": "Planloven: § 11a, 1",
+        "komplan_id": 2673954,
+        "komtil_id": null,
+        "plangrund": "Kommuneplan 2015",
+        "datostart": 20140630,
+        "datoslut": 20140827,
+        "datoforsl": 20140430,
+        "datovedt": 20150325,
+        "datoikraft": 20150325,
+        "datoaflyst": null,
+        "sp_datoafl": null,
+        "komnr": 813,
+        "bem": "Rammer fra PlanDK2",
+        "kp_kpt_doklink": null,
+        "type1101": null,
+        "vaerdi1101": null,
+        "septima_transaktion_id": "147154113",
+        "septima_hash86": "fgncEcTzEfAWDSuhhQBixkglQKUbKuPO7N/PZONQqHES3eFIeAUExq6JNvM8IdqVMHmvjdahcDPbiqyFdmty0Q",
+        "septima_serial": "7046544"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.495594142,
+                56.338638062
+              ],
+              [
+                8.493550339,
+                56.335875448
+              ],
+              [
+                8.491183456,
+                56.336319492
+              ],
+              [
+                8.490479752,
+                56.336306044
+              ],
+              [
+                8.490095315,
+                56.336222991
+              ],
+              [
+                8.489837664,
+                56.336167331
+              ],
+              [
+                8.489349783,
+                56.336061927
+              ],
+              [
+                8.489288818,
+                56.336048765
+              ],
+              [
+                8.488923201,
+                56.335969002
+              ],
+              [
+                8.488557861,
+                56.335889302
+              ],
+              [
+                8.488348455,
+                56.335842715
+              ],
+              [
+                8.488116941,
+                56.335791212
+              ],
+              [
+                8.487986896,
+                56.335762283
+              ],
+              [
+                8.487774183,
+                56.335716328
+              ],
+              [
+                8.487773848,
+                56.335716254
+              ],
+              [
+                8.487550736,
+                56.335668891
+              ],
+              [
+                8.48746697,
+                56.335648186
+              ],
+              [
+                8.487250091,
+                56.335594576
+              ],
+              [
+                8.487249269,
+                56.335594368
+              ],
+              [
+                8.487150495,
+                56.335569951
+              ],
+              [
+                8.486781241,
+                56.335478675
+              ],
+              [
+                8.486635168,
+                56.335442563
+              ],
+              [
+                8.486564495,
+                56.335523787
+              ],
+              [
+                8.486494717,
+                56.335621439
+              ],
+              [
+                8.486447474,
+                56.335698268
+              ],
+              [
+                8.486396505,
+                56.335795989
+              ],
+              [
+                8.486364634,
+                56.335874787
+              ],
+              [
+                8.486334337,
+                56.33596404
+              ],
+              [
+                8.486279962,
+                56.336090084
+              ],
+              [
+                8.485828562,
+                56.337376683
+              ],
+              [
+                8.485842499,
+                56.337392742
+              ],
+              [
+                8.485857682,
+                56.337399193
+              ],
+              [
+                8.485886023,
+                56.337401503
+              ],
+              [
+                8.488095883,
+                56.337430579
+              ],
+              [
+                8.488907573,
+                56.337369393
+              ],
+              [
+                8.490275635,
+                56.337266277
+              ],
+              [
+                8.492180505,
+                56.337803245
+              ],
+              [
+                8.491440995,
+                56.338634826
+              ],
+              [
+                8.491443621,
+                56.33863561
+              ],
+              [
+                8.490497379,
+                56.339705131
+              ],
+              [
+                8.491195083,
+                56.339879714
+              ],
+              [
+                8.492543744,
+                56.340338959
+              ],
+              [
+                8.493331888,
+                56.340625138
+              ],
+              [
+                8.494489989,
+                56.339597456
+              ],
+              [
+                8.495594142,
+                56.338638062
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "uuid": "0094e6f773bd4d2d8b748a65676cb5c4",
+        "temakode": 1101,
+        "temanavn": "Byzone og sommerhusområder",
+        "objekt_id": 11493839,
+        "systid_fra": null,
+        "systid_til": null,
+        "oprettet": null,
+        "oprindkode": null,
+        "oprindelse": null,
+        "statuskode": null,
+        "status": "V",
+        "cvr_kode": null,
+        "cvrname": null,
+        "link": "https://holstebro.viewer.dkplan.niras.dk/plan/12#/4674",
+        "plannr": "PFB16",
+        "lovgivning": "Planloven: § 11a, 1",
+        "komplan_id": 11308544,
+        "komtil_id": null,
+        "plangrund": "Kommuneplan 2025-2037",
+        "datostart": 20250106,
+        "datoslut": 20250303,
+        "datoforsl": 20250106,
+        "datovedt": 20250624,
+        "datoikraft": 20250701,
+        "datoaflyst": null,
+        "sp_datoafl": null,
+        "komnr": 661,
+        "bem": "Potentielt fremtidigt område til byzone",
+        "kp_kpt_doklink": null,
+        "type1101": null,
+        "vaerdi1101": null,
+        "septima_transaktion_id": "147154113",
+        "septima_hash86": "jGAdUqRjem+Xb2Pr9PqkrVRw9Cm0nbVyZYvP09zKIIQMZxXhGNJpxMz4GYLW1+WmIe2Ibez5+EeOIb4WlVXvVA",
+        "septima_serial": "7046546"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.339954866,
+                56.498688195
+              ],
+              [
+                9.339333399,
+                56.499872944
+              ],
+              [
+                9.339029814,
+                56.50045802
+              ],
+              [
+                9.338948838,
+                56.50061322
+              ],
+              [
+                9.339306192,
+                56.50059185
+              ],
+              [
+                9.339133969,
+                56.500916114
+              ],
+              [
+                9.338830018,
+                56.501588877
+              ],
+              [
+                9.338450287,
+                56.501543014
+              ],
+              [
+                9.338101658,
+                56.502217245
+              ],
+              [
+                9.338094146,
+                56.502231191
+              ],
+              [
+                9.338135611,
+                56.502253808
+              ],
+              [
+                9.338889795,
+                56.502153016
+              ],
+              [
+                9.340091916,
+                56.501986307
+              ],
+              [
+                9.340795255,
+                56.501905049
+              ],
+              [
+                9.34183836,
+                56.501778829
+              ],
+              [
+                9.342648515,
+                56.501689899
+              ],
+              [
+                9.342660142,
+                56.501592118
+              ],
+              [
+                9.342681512,
+                56.501565914
+              ],
+              [
+                9.342718546,
+                56.501547395
+              ],
+              [
+                9.342809219,
+                56.50153223
+              ],
+              [
+                9.343898021,
+                56.501431293
+              ],
+              [
+                9.344353921,
+                56.501402628
+              ],
+              [
+                9.344548596,
+                56.501391397
+              ],
+              [
+                9.345151571,
+                56.501333481
+              ],
+              [
+                9.345223491,
+                56.501310731
+              ],
+              [
+                9.345250388,
+                56.501267262
+              ],
+              [
+                9.34526394,
+                56.501203257
+              ],
+              [
+                9.345271714,
+                56.501004054
+              ],
+              [
+                9.345268688,
+                56.500974953
+              ],
+              [
+                9.345241989,
+                56.500718346
+              ],
+              [
+                9.345238365,
+                56.50065915
+              ],
+              [
+                9.345231799,
+                56.500544349
+              ],
+              [
+                9.345214701,
+                56.49991397
+              ],
+              [
+                9.345187074,
+                56.499698065
+              ],
+              [
+                9.345182894,
+                56.499577687
+              ],
+              [
+                9.345180853,
+                56.499513994
+              ],
+              [
+                9.345196483,
+                56.499410542
+              ],
+              [
+                9.345211661,
+                56.499311133
+              ],
+              [
+                9.345208214,
+                56.499110524
+              ],
+              [
+                9.345208029,
+                56.498803981
+              ],
+              [
+                9.343824617,
+                56.498956238
+              ],
+              [
+                9.343301517,
+                56.498969184
+              ],
+              [
+                9.342831442,
+                56.498953772
+              ],
+              [
+                9.341578304,
+                56.498908619
+              ],
+              [
+                9.341328305,
+                56.498871841
+              ],
+              [
+                9.340495962,
+                56.498726065
+              ],
+              [
+                9.339984285,
+                56.498653795
+              ],
+              [
+                9.339954866,
+                56.498688195
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "uuid": "00b82ad515ad43f7b9354c39b837a191",
+        "temakode": 1101,
+        "temanavn": "Byzone og sommerhusområder",
+        "objekt_id": 11460266,
+        "systid_fra": null,
+        "systid_til": null,
+        "oprettet": null,
+        "oprindkode": null,
+        "oprindelse": null,
+        "statuskode": null,
+        "status": "V",
+        "cvr_kode": null,
+        "cvrname": null,
+        "link": "https://viborg.viewer.dkplan.niras.dk/plan/541#/30805",
+        "plannr": "Pl. byzone/sommerhusomr",
+        "lovgivning": "Planloven: § 11a, 1",
+        "komplan_id": 11335193,
+        "komtil_id": null,
+        "plangrund": "Kommuneplan 2025-2036",
+        "datostart": 20241128,
+        "datoslut": 20250123,
+        "datoforsl": 20241113,
+        "datovedt": 20250521,
+        "datoikraft": 20250619,
+        "datoaflyst": null,
+        "sp_datoafl": null,
+        "komnr": 791,
+        "bem": "Overfør til byzone ved lokalplanlægning",
+        "kp_kpt_doklink": null,
+        "type1101": null,
+        "vaerdi1101": null,
+        "septima_transaktion_id": "147154113",
+        "septima_hash86": "bajlPoZKyFcLw2dY80Nw+gZsl+8JNNIOWK4Rhv0SG4G+SjQ3u0gArAHvQ/hWrhvn9G7mgB6wf0v5aNxFkHovZg",
+        "septima_serial": "7046547"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.450924868,
+                57.316239396
+              ],
+              [
+                10.451049161,
+                57.314723619
+              ],
+              [
+                10.450905678,
+                57.314706321
+              ],
+              [
+                10.450696428,
+                57.314701729
+              ],
+              [
+                10.450405615,
+                57.314677237
+              ],
+              [
+                10.44994912,
+                57.314680164
+              ],
+              [
+                10.449773745,
+                57.314680479
+              ],
+              [
+                10.449389011,
+                57.314739526
+              ],
+              [
+                10.449176569,
+                57.314737303
+              ],
+              [
+                10.448994076,
+                57.31470635
+              ],
+              [
+                10.448801885,
+                57.314964831
+              ],
+              [
+                10.448705056,
+                57.315228592
+              ],
+              [
+                10.448561135,
+                57.315680537
+              ],
+              [
+                10.448458378,
+                57.316138296
+              ],
+              [
+                10.448426857,
+                57.316287228
+              ],
+              [
+                10.450924868,
+                57.316239396
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "uuid": "00ba1a1520af11e58f4900000a1e0542",
+        "temakode": 1101,
+        "temanavn": "Byzone og sommerhusområder",
+        "objekt_id": 2908998,
+        "systid_fra": null,
+        "systid_til": null,
+        "oprettet": null,
+        "oprindkode": null,
+        "oprindelse": null,
+        "statuskode": null,
+        "status": "V",
+        "cvr_kode": null,
+        "cvrname": null,
+        "link": "http://kommuneplan.frederikshavn.dk",
+        "plannr": "byzone_14",
+        "lovgivning": "Planloven: § 11a, 1",
+        "komplan_id": 2673954,
+        "komtil_id": null,
+        "plangrund": "Kommuneplan 2015",
+        "datostart": 20140630,
+        "datoslut": 20140827,
+        "datoforsl": 20140430,
+        "datovedt": 20150325,
+        "datoikraft": 20150325,
+        "datoaflyst": null,
+        "sp_datoafl": null,
+        "komnr": 813,
+        "bem": "Rammer fra PlanDK2",
+        "kp_kpt_doklink": null,
+        "type1101": null,
+        "vaerdi1101": null,
+        "septima_transaktion_id": "147154113",
+        "septima_hash86": "4JTSduqDHildJo+PK+pI4kpEQ0YGcdiXYtbgc2jnKafC8ieFQwsltnHL/GKYGHUJXtfphzjnAbxh7dbh7YK4Zw",
+        "septima_serial": "7046548"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.87034113,
+                54.976904348
+              ],
+              [
+                8.870301017,
+                54.97667924
+              ],
+              [
+                8.867554213,
+                54.976801796
+              ],
+              [
+                8.867613024,
+                54.977212996
+              ],
+              [
+                8.867753262,
+                54.978093823
+              ],
+              [
+                8.867806898,
+                54.978434219
+              ],
+              [
+                8.869009788,
+                54.978290868
+              ],
+              [
+                8.868859329,
+                54.977335998
+              ],
+              [
+                8.869042861,
+                54.977154707
+              ],
+              [
+                8.869269094,
+                54.977034107
+              ],
+              [
+                8.869594424,
+                54.976945059
+              ],
+              [
+                8.869969519,
+                54.976923897
+              ],
+              [
+                8.87034113,
+                54.976904348
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "uuid": "00eb16f51e7c481fb2c8051b40aef496",
+        "temakode": 1101,
+        "temanavn": "Byzone og sommerhusområder",
+        "objekt_id": 9435226,
+        "systid_fra": null,
+        "systid_til": null,
+        "oprettet": null,
+        "oprindkode": null,
+        "oprindelse": null,
+        "statuskode": null,
+        "status": "V",
+        "cvr_kode": null,
+        "cvrname": null,
+        "link": null,
+        "plannr": "105",
+        "lovgivning": "Planloven: § 11a, 1",
+        "komplan_id": 9431212,
+        "komtil_id": null,
+        "plangrund": "Kommuneplan 2017-2029",
+        "datostart": 20180704,
+        "datoslut": 20181001,
+        "datoforsl": 20180628,
+        "datovedt": 20190228,
+        "datoikraft": 20190510,
+        "datoaflyst": null,
+        "sp_datoafl": null,
+        "komnr": 550,
+        "bem": null,
+        "kp_kpt_doklink": null,
+        "type1101": null,
+        "vaerdi1101": null,
+        "septima_transaktion_id": "147154113",
+        "septima_hash86": "gvN3hpyD1p+MriKpAK9CZvvzcYbFjSNV57iuH1hGo60gSkMOKrL9qyKsE6ZpyQIlkZRQJeAHEMOZC/wrFtyj7g",
+        "septima_serial": "7046549"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.515911393,
+                55.524057818
+              ],
+              [
+                9.515837044,
+                55.523999825
+              ],
+              [
+                9.515571379,
+                55.52376388
+              ],
+              [
+                9.515419306,
+                55.523639501
+              ],
+              [
+                9.514651765,
+                55.522999696
+              ],
+              [
+                9.514429899,
+                55.522817507
+              ],
+              [
+                9.514125224,
+                55.522563518
+              ],
+              [
+                9.513361908,
+                55.521933473
+              ],
+              [
+                9.512560942,
+                55.521258868
+              ],
+              [
+                9.511752066,
+                55.520577983
+              ],
+              [
+                9.511688729,
+                55.520492693
+              ],
+              [
+                9.511651504,
+                55.520427798
+              ],
+              [
+                9.51152244,
+                55.520418222
+              ],
+              [
+                9.507807785,
+                55.520142411
+              ],
+              [
+                9.507285166,
+                55.520668294
+              ],
+              [
+                9.507232617,
+                55.520799413
+              ],
+              [
+                9.507162396,
+                55.520974624
+              ],
+              [
+                9.506964909,
+                55.521317602
+              ],
+              [
+                9.506900315,
+                55.521478768
+              ],
+              [
+                9.506861471,
+                55.521897711
+              ],
+              [
+                9.506853381,
+                55.52198496
+              ],
+              [
+                9.506677619,
+                55.522760755
+              ],
+              [
+                9.50677296,
+                55.52304193
+              ],
+              [
+                9.507963068,
+                55.523197239
+              ],
+              [
+                9.510459619,
+                55.523522999
+              ],
+              [
+                9.510837181,
+                55.523583144
+              ],
+              [
+                9.511078407,
+                55.523621571
+              ],
+              [
+                9.511280105,
+                55.5236537
+              ],
+              [
+                9.511422751,
+                55.523688445
+              ],
+              [
+                9.514651429,
+                55.524129789
+              ],
+              [
+                9.515083394,
+                55.524188829
+              ],
+              [
+                9.515086693,
+                55.524188347
+              ],
+              [
+                9.515750297,
+                55.524091288
+              ],
+              [
+                9.515779019,
+                55.52408532
+              ],
+              [
+                9.515911393,
+                55.524057818
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "uuid": "00f095765ebe4dc6b597bd43d8ad17cc",
+        "temakode": 1101,
+        "temanavn": "Byzone og sommerhusområder",
+        "objekt_id": 11719459,
+        "systid_fra": null,
+        "systid_til": null,
+        "oprettet": null,
+        "oprindkode": null,
+        "oprindelse": null,
+        "statuskode": null,
+        "status": "V",
+        "cvr_kode": null,
+        "cvrname": null,
+        "link": "https://kommuneplan2025.kolding.dk/retningslinjer/2-byerne/21-byudvikling/211-arealer-til-byudvikling/",
+        "plannr": "0514-B5",
+        "lovgivning": "Planloven: § 11a, 1",
+        "komplan_id": 11297563,
+        "komtil_id": null,
+        "plangrund": "Kommuneplan 2025-2037",
+        "datostart": 20250204,
+        "datoslut": 20250401,
+        "datoforsl": 20241217,
+        "datovedt": 20250617,
+        "datoikraft": 20250627,
+        "datoaflyst": null,
+        "sp_datoafl": null,
+        "komnr": 621,
+        "bem": "2025",
+        "kp_kpt_doklink": null,
+        "type1101": null,
+        "vaerdi1101": null,
+        "septima_transaktion_id": "147154113",
+        "septima_hash86": "4uXcedj+kGdx6SPWIaL0jTbpxDfmbacDbnxVyV7SMZurjn9bcT90fjCwsUVq9wsqxWdSpeZcTYi16DnItY2ebg",
+        "septima_serial": "7046550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.623322484,
+                55.5218626
+              ],
+              [
+                9.623637023,
+                55.521864773
+              ],
+              [
+                9.623693343,
+                55.521841756
+              ],
+              [
+                9.623748699,
+                55.521832131
+              ],
+              [
+                9.623875558,
+                55.521818099
+              ],
+              [
+                9.623959094,
+                55.521806444
+              ],
+              [
+                9.623959011,
+                55.521834205
+              ],
+              [
+                9.623996543,
+                55.521828982
+              ],
+              [
+                9.6241174,
+                55.521807075
+              ],
+              [
+                9.624274208,
+                55.521770789
+              ],
+              [
+                9.624404072,
+                55.521732035
+              ],
+              [
+                9.624440829,
+                55.52171909
+              ],
+              [
+                9.624996456,
+                55.521522741
+              ],
+              [
+                9.625039575,
+                55.521507428
+              ],
+              [
+                9.625030243,
+                55.521478997
+              ],
+              [
+                9.625328455,
+                55.521374248
+              ],
+              [
+                9.625338306,
+                55.521402498
+              ],
+              [
+                9.625720296,
+                55.521268662
+              ],
+              [
+                9.625897977,
+                55.521206394
+              ],
+              [
+                9.626115908,
+                55.521129185
+              ],
+              [
+                9.626525405,
+                55.520984246
+              ],
+              [
+                9.626908814,
+                55.520858036
+              ],
+              [
+                9.626941832,
+                55.520848254
+              ],
+              [
+                9.627305023,
+                55.520740204
+              ],
+              [
+                9.627377834,
+                55.520719617
+              ],
+              [
+                9.627420218,
+                55.520707541
+              ],
+              [
+                9.627789599,
+                55.520602871
+              ],
+              [
+                9.628017523,
+                55.520538546
+              ],
+              [
+                9.628259489,
+                55.520470284
+              ],
+              [
+                9.628361034,
+                55.520441643
+              ],
+              [
+                9.62830171,
+                55.520308625
+              ],
+              [
+                9.628291711,
+                55.520287654
+              ],
+              [
+                9.627685878,
+                55.519001643
+              ],
+              [
+                9.627475038,
+                55.518489376
+              ],
+              [
+                9.627242426,
+                55.517929875
+              ],
+              [
+                9.627046165,
+                55.517454996
+              ],
+              [
+                9.627014243,
+                55.517377448
+              ],
+              [
+                9.626811748,
+                55.516887956
+              ],
+              [
+                9.626790833,
+                55.516837394
+              ],
+              [
+                9.626657499,
+                55.516755153
+              ],
+              [
+                9.626303888,
+                55.516798198
+              ],
+              [
+                9.626007343,
+                55.516832865
+              ],
+              [
+                9.625830341,
+                55.516870784
+              ],
+              [
+                9.625661046,
+                55.516917107
+              ],
+              [
+                9.625425622,
+                55.517009767
+              ],
+              [
+                9.625252631,
+                55.517119626
+              ],
+              [
+                9.624782894,
+                55.517408343
+              ],
+              [
+                9.624618961,
+                55.517513124
+              ],
+              [
+                9.62438534,
+                55.517670547
+              ],
+              [
+                9.624171658,
+                55.517817177
+              ],
+              [
+                9.62382618,
+                55.518086122
+              ],
+              [
+                9.623598813,
+                55.518168675
+              ],
+              [
+                9.623598411,
+                55.518168048
+              ],
+              [
+                9.623598146,
+                55.51816778
+              ],
+              [
+                9.623597887,
+                55.518167961
+              ],
+              [
+                9.623449471,
+                55.518321175
+              ],
+              [
+                9.623482249,
+                55.51838713
+              ],
+              [
+                9.623492571,
+                55.518412233
+              ],
+              [
+                9.623557064,
+                55.518567777
+              ],
+              [
+                9.623596963,
+                55.518720662
+              ],
+              [
+                9.623498016,
+                55.51895484
+              ],
+              [
+                9.623566069,
+                55.519029869
+              ],
+              [
+                9.623540166,
+                55.51926655
+              ],
+              [
+                9.623483928,
+                55.519368895
+              ],
+              [
+                9.623435231,
+                55.519526902
+              ],
+              [
+                9.623422172,
+                55.519642593
+              ],
+              [
+                9.623455251,
+                55.519678001
+              ],
+              [
+                9.623479562,
+                55.519704021
+              ],
+              [
+                9.62349501,
+                55.519821992
+              ],
+              [
+                9.623493462,
+                55.519831433
+              ],
+              [
+                9.623441308,
+                55.519886501
+              ],
+              [
+                9.623418565,
+                55.519967922
+              ],
+              [
+                9.623419748,
+                55.520042753
+              ],
+              [
+                9.623375323,
+                55.520140635
+              ],
+              [
+                9.623332646,
+                55.520274714
+              ],
+              [
+                9.623312079,
+                55.520460788
+              ],
+              [
+                9.623322484,
+                55.5218626
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "uuid": "00f7b04c2f3c4eb4b352ecbe918cf2e8",
+        "temakode": 1101,
+        "temanavn": "Byzone og sommerhusområder",
+        "objekt_id": 12109667,
+        "systid_fra": null,
+        "systid_til": null,
+        "oprettet": null,
+        "oprindkode": null,
+        "oprindelse": null,
+        "statuskode": null,
+        "status": "V",
+        "cvr_kode": null,
+        "cvrname": null,
+        "link": "https://fredericia.viewer.dkplan.niras.dk/plan/102#/62383",
+        "plannr": "1101-017",
+        "lovgivning": "Planloven: § 11a, 1",
+        "komplan_id": 11285978,
+        "komtil_id": null,
+        "plangrund": "Kommuneplan 2025 - 2037",
+        "datostart": 20250204,
+        "datoslut": 20250401,
+        "datoforsl": 20250204,
+        "datovedt": 20250901,
+        "datoikraft": 20250908,
+        "datoaflyst": null,
+        "sp_datoafl": null,
+        "komnr": 607,
+        "bem": "Retningsllnje 1.1.1 (F) Byudvikling og Retningsllinje 1.1.2 (T) Arealer til byvækst",
+        "kp_kpt_doklink": null,
+        "type1101": null,
+        "vaerdi1101": null,
+        "septima_transaktion_id": "147154113",
+        "septima_hash86": "ZFrOY058dNsjpaMLSK/aG3OpBYU83ghOC0YAi2NMOnmJaO6H/KMArEsA0zKBY7g28BDUhzhLdGrbmYQPJJZzgA",
+        "septima_serial": "7046551"
+      }
+    }
+  ]
+}

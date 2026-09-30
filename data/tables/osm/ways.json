@@ -1,0 +1,213 @@
+[
+  {
+    "id": "2862",
+    "refs": [
+      "125429",
+      "716767714"
+    ],
+    "tags": {
+      "lanes": "2",
+      "oneway": "yes",
+      "highway": "tertiary",
+      "surface": "asphalt",
+      "maxspeed": "50",
+      "sidewalk": "separate",
+      "placement": "middle_of:2",
+      "turn:lanes": "left|",
+      "cycleway:right": "no"
+    },
+    "septima_serial": "9",
+    "septima_hash86": "3l1bXfGeyHaSjMS/nevky4c0wbPADznXAElkt0bARQ/Vdpoma5zg01lfdcvIher/oK1L+GCG27o1pLrtZqGHmQ"
+  },
+  {
+    "id": "53800",
+    "refs": [
+      "904202",
+      "5240299239",
+      "5240299235",
+      "1913278317",
+      "1061191"
+    ],
+    "tags": {
+      "lit": "yes",
+      "name": "Skolegade",
+      "lanes": "1",
+      "oneway": "yes",
+      "highway": "tertiary",
+      "surface": "asphalt",
+      "cycleway": "no",
+      "maxspeed": "50",
+      "source:maxspeed": "DK:urban"
+    },
+    "septima_serial": "56",
+    "septima_hash86": "lsn9MMEHoxIGxUcnGsWcvxq+HPleQHNk7y705oShOe9Sc9DhKV+CgNUthBhh+k/nNCag22Gol0jcd/Cbe3gTYQ"
+  },
+  {
+    "id": "53813",
+    "refs": [
+      "691257175",
+      "1203068123",
+      "1203068276",
+      "1203198465"
+    ],
+    "tags": {
+      "lit": "yes",
+      "ref": "447",
+      "name": "Frodesgade",
+      "lanes": "1",
+      "oneway": "yes",
+      "highway": "secondary",
+      "surface": "asphalt",
+      "maxspeed": "50",
+      "source:maxspeed": "DK:urban"
+    },
+    "septima_serial": "58",
+    "septima_hash86": "pe47krG/Yq4r2KiJHnZt0herrdRRHgO2IlrBzjQlYLrQpJ7Uqlv7eM7c8rHd/wGkuSB1ffKl+gkWlMH+JGs4Ug"
+  },
+  {
+    "id": "86403",
+    "refs": [
+      "1060535",
+      "7832732363",
+      "1021783399",
+      "344669039",
+      "5077689",
+      "4333442",
+      "4897956525"
+    ],
+    "tags": {
+      "lit": "yes",
+      "name": "Torvegade",
+      "lanes": "2",
+      "highway": "tertiary",
+      "surface": "asphalt",
+      "maxspeed": "50",
+      "source:maxspeed": "DK:urban",
+      "maxspeed:advisory": "30"
+    },
+    "septima_serial": "61",
+    "septima_hash86": "0LpaWx4b+g3hkk5LX8RmnhUmiYMih1efBe+J7NA5fkEI3BPZlCHq/ZG5URe/ba5X252nwh/BLCZ9LTMr4Nx6AQ"
+  },
+  {
+    "id": "144718",
+    "refs": [
+      "4343152",
+      "4343151",
+      "2236847684",
+      "4343149",
+      "4343148",
+      "4343146",
+      "4343145",
+      "4343143",
+      "4343137",
+      "7104048320",
+      "4343139",
+      "1315949",
+      "1315947",
+      "7104048319",
+      "1315944",
+      "21455756",
+      "2236847667",
+      "1315938",
+      "1315864"
+    ],
+    "tags": {
+      "lit": "no",
+      "name": "Søndre Kjersingvej",
+      "oneway": "no",
+      "highway": "unclassified",
+      "surface": "asphalt",
+      "maxspeed": "80",
+      "source:maxspeed": "DK:rural"
+    },
+    "septima_serial": "66",
+    "septima_hash86": "2ACy9VYL+T4PGl3gQkVcwUmq4uw+HOCSxQIM6GOHpGuZ5jrQ5sFX2khqEJXcIhFueWchJDyqCQA9fNJPHKyzKQ"
+  },
+  {
+    "id": "259069",
+    "refs": [
+      "1062327",
+      "26200185"
+    ],
+    "tags": {
+      "name": "Remisevej",
+      "highway": "unclassified",
+      "surface": "asphalt"
+    },
+    "septima_serial": "72",
+    "septima_hash86": "mYeVck6NwYKh/cb4oqcocJ+RYynEiQ1wheriYmlCN+bmK76UhMuw2U7PdgY3vrXVcx+zDpheDvfbMKWO/wR9CA"
+  },
+  {
+    "id": "259094",
+    "refs": [
+      "1877031",
+      "1023047046"
+    ],
+    "tags": {
+      "name": "Sportsvej",
+      "highway": "tertiary",
+      "surface": "asphalt",
+      "maxspeed": "50",
+      "source:maxspeed": "DK:urban"
+    },
+    "septima_serial": "81",
+    "septima_hash86": "4snxSLEwnRPF6/dcLDhdvIYnWjj7nIg+546ApaIEXEiqlvMDSdLJSvbfo2BQr+J/ZrTWTIieeyZxJa5U1P2UAg"
+  },
+  {
+    "id": "1753961",
+    "refs": [
+      "7483181",
+      "7483183"
+    ],
+    "tags": {
+      "lit": "yes",
+      "name": "Krogvej",
+      "highway": "residential",
+      "surface": "asphalt"
+    },
+    "septima_serial": "108",
+    "septima_hash86": "S+qoz7QaH176QEp23EVt5a8vrgS6mN3s1cjqehSFDLALrhvLQy0zWj8XMn5FAuW4/5eTY6sD6k/luLJjIg1qiw"
+  },
+  {
+    "id": "367996",
+    "refs": [
+      "2384952",
+      "4098420402",
+      "2384955",
+      "4098420401",
+      "1907399508"
+    ],
+    "tags": {
+      "lit": "yes",
+      "name": "Valdemarsgade",
+      "highway": "residential",
+      "surface": "asphalt"
+    },
+    "septima_serial": "130",
+    "septima_hash86": "AUXwVoijBY2lDSSM3WGIoPHe6lEBD8ij5fvXrhWrAOhF/0btYORn64Vd00bctw+q0pGukXm05IozDjr8+1dSpA"
+  },
+  {
+    "id": "368000",
+    "refs": [
+      "1062342",
+      "7616814552",
+      "2384980"
+    ],
+    "tags": {
+      "lit": "yes",
+      "name": "Spangsbjerg Kirkevej",
+      "lanes": "4",
+      "highway": "tertiary",
+      "surface": "asphalt",
+      "cycleway": "lane",
+      "maxspeed": "50",
+      "sidewalk": "both",
+      "lanes:forward": "1",
+      "lanes:backward": "3",
+      "source:maxspeed": "DK:urban",
+      "turn:lanes:backward": "left||right"
+    },
+    "septima_serial": "133",
+    "septima_hash86": "2KePUBpOGcfQscvs88QwkjILtmwftbt3Tabw93OJr7+e88PN1NlqHtXZvfupJVdDV51z5Ivx/jjJl2xStHu36A"
+  }
+]

@@ -1,0 +1,1081 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.626679214,
+                56.315667689
+              ],
+              [
+                10.625723313,
+                56.319871429
+              ],
+              [
+                10.616215358,
+                56.319920101
+              ],
+              [
+                10.62124311,
+                56.315577127
+              ],
+              [
+                10.612198306,
+                56.318330466
+              ],
+              [
+                10.604673263,
+                56.315568528
+              ],
+              [
+                10.604086427,
+                56.313719296
+              ],
+              [
+                10.600724746,
+                56.307177426
+              ],
+              [
+                10.601943098,
+                56.306023077
+              ],
+              [
+                10.603904841,
+                56.305148613
+              ],
+              [
+                10.624888346,
+                56.301751309
+              ],
+              [
+                10.636729579,
+                56.294071463
+              ],
+              [
+                10.642673482,
+                56.294278863
+              ],
+              [
+                10.642424567,
+                56.310862534
+              ],
+              [
+                10.627245508,
+                56.312788005
+              ],
+              [
+                10.626679214,
+                56.315667689
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1965015",
+        "id_lokalid": "1700671081",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Stabrand",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "kommunekode": "0706",
+        "kommunelokalid": "1700389186",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700671081",
+        "septima_hash86": "dva78JWBRFefUdVH2Vtr5PATo33JXmKNivpKAhrp5ZRFu4GYxKHWn/IeqF/TGYOIDmvOFukI5grQuIKGcT/TCA",
+        "septima_serial": "1773756"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.258507351,
+                56.78282221
+              ],
+              [
+                8.253516038,
+                56.779834786
+              ],
+              [
+                8.25838643,
+                56.77940259
+              ],
+              [
+                8.263396281,
+                56.78022449
+              ],
+              [
+                8.2629765,
+                56.781159502
+              ],
+              [
+                8.262235016,
+                56.781448181
+              ],
+              [
+                8.261722227,
+                56.781933343
+              ],
+              [
+                8.260788292,
+                56.781886845
+              ],
+              [
+                8.258507351,
+                56.78282221
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1959873",
+        "id_lokalid": "1700697887",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Tåbel",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "kommunekode": "0787",
+        "kommunelokalid": "1700389198",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700697887",
+        "septima_hash86": "eVvamfljAr4WKmFRgd+3GRNbrioDRRYhrx2Z27jzs7jVKSu44s4g5S0HpCGWn0qox+j5PtmDEBCL7CPD7Ff4Vg",
+        "septima_serial": "1773757"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.304708045,
+                55.284268878
+              ],
+              [
+                11.298617939,
+                55.286705277
+              ],
+              [
+                11.291157864,
+                55.287309876
+              ],
+              [
+                11.281219412,
+                55.281413315
+              ],
+              [
+                11.282234333,
+                55.280362372
+              ],
+              [
+                11.287045265,
+                55.280924618
+              ],
+              [
+                11.292929272,
+                55.280023952
+              ],
+              [
+                11.294693638,
+                55.278327825
+              ],
+              [
+                11.300841546,
+                55.279480637
+              ],
+              [
+                11.302754391,
+                55.27790752
+              ],
+              [
+                11.304873115,
+                55.280604184
+              ],
+              [
+                11.304708045,
+                55.284268878
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1966614",
+        "id_lokalid": "1700658052",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Øster Bøgebjerg",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "kommunekode": "0330",
+        "kommunelokalid": "1700389144",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700658052",
+        "septima_hash86": "WaBBGw4WlT9sp0yiTgrnX5KLoxCRN/oPGBsPETBDLqolOFK43RXChLvztduVsmvIKn9WsGdhvz7WWdo2D+IcAg",
+        "septima_serial": "1773758"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.898368748,
+                55.629403769
+              ],
+              [
+                11.89974257,
+                55.629296306
+              ],
+              [
+                11.904557601,
+                55.626344724
+              ],
+              [
+                11.91180888,
+                55.624526051
+              ],
+              [
+                11.919966799,
+                55.619279766
+              ],
+              [
+                11.924567395,
+                55.62013621
+              ],
+              [
+                11.924266294,
+                55.623340236
+              ],
+              [
+                11.928292117,
+                55.635574105
+              ],
+              [
+                11.921977733,
+                55.639714489
+              ],
+              [
+                11.920452226,
+                55.639609788
+              ],
+              [
+                11.919526128,
+                55.63939038
+              ],
+              [
+                11.915802533,
+                55.638308532
+              ],
+              [
+                11.897538066,
+                55.643783291
+              ],
+              [
+                11.882836617,
+                55.63549324
+              ],
+              [
+                11.898368748,
+                55.629403769
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1958518",
+        "id_lokalid": "1700658847",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Abbetved",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "kommunekode": "0350",
+        "kommunelokalid": "1700389146",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700658847",
+        "septima_hash86": "MK3tZ7mgFBCQQQ0gXfPav/CcW8xhoAgRRJt3A1vB5H7//VsiQkU8HjCQrrgZ1YjRSHstvk1RIVPQ3SLQcOeZZA",
+        "septima_serial": "1773759"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.504631101,
+                55.902973676
+              ],
+              [
+                8.504219394,
+                55.903627221
+              ],
+              [
+                8.503691016,
+                55.904184962
+              ],
+              [
+                8.502786502,
+                55.904174035
+              ],
+              [
+                8.502562191,
+                55.903929361
+              ],
+              [
+                8.502354918,
+                55.903603349
+              ],
+              [
+                8.502032626,
+                55.902617536
+              ],
+              [
+                8.503763146,
+                55.901679906
+              ],
+              [
+                8.504631101,
+                55.902973676
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                8.42721525,
+                55.910710488
+              ],
+              [
+                8.437859294,
+                55.898143882
+              ],
+              [
+                8.440900721,
+                55.88132644
+              ],
+              [
+                8.448781259,
+                55.876150064
+              ],
+              [
+                8.445307712,
+                55.870483886
+              ],
+              [
+                8.442814042,
+                55.863833209
+              ],
+              [
+                8.456942584,
+                55.861946993
+              ],
+              [
+                8.465667446,
+                55.860608631
+              ],
+              [
+                8.476160869,
+                55.858809596
+              ],
+              [
+                8.498099233,
+                55.873281484
+              ],
+              [
+                8.487130296,
+                55.874815885
+              ],
+              [
+                8.476282582,
+                55.882585147
+              ],
+              [
+                8.487203834,
+                55.883970099
+              ],
+              [
+                8.497068161,
+                55.88248707
+              ],
+              [
+                8.500052015,
+                55.888384733
+              ],
+              [
+                8.501607734,
+                55.891447636
+              ],
+              [
+                8.486169688,
+                55.915536546
+              ],
+              [
+                8.452872998,
+                55.920325498
+              ],
+              [
+                8.436484773,
+                55.911028733
+              ],
+              [
+                8.42721525,
+                55.910710488
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1957673",
+        "id_lokalid": "1700666076",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Lønborg",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "kommunekode": "0760",
+        "kommunelokalid": "1700389184",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700666076",
+        "septima_hash86": "YuUPGbuYzrZn6NtAnswbQjJjq6Xn3QHe6zuwYNhzvn3DwgaZ/Tq3NWnXpip1jkbobICokNroO7bo7i3gyewDHg",
+        "septima_serial": "1773760"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.124809669,
+                55.054459775
+              ],
+              [
+                10.126287442,
+                55.043638414
+              ],
+              [
+                10.14092242,
+                55.033478862
+              ],
+              [
+                10.146983296,
+                55.032014175
+              ],
+              [
+                10.170033379,
+                55.036096402
+              ],
+              [
+                10.180105287,
+                55.042127862
+              ],
+              [
+                10.173682617,
+                55.051216321
+              ],
+              [
+                10.166800759,
+                55.048928423
+              ],
+              [
+                10.152377026,
+                55.050548845
+              ],
+              [
+                10.140153302,
+                55.052467803
+              ],
+              [
+                10.139967526,
+                55.059973285
+              ],
+              [
+                10.128200115,
+                55.056933602
+              ],
+              [
+                10.124809669,
+                55.054459775
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1957686",
+        "id_lokalid": "1700674288",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Lyø",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "kommunekode": "0430",
+        "kommunelokalid": "1700389158",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700674288",
+        "septima_hash86": "GfhpFaRbYwLKm3d+645OiSqD67Qtpx401ooP098S80sYegGWVOO3uqt7bt4HRDDFAjNyWLQYnntBNLbJm7c7sg",
+        "septima_serial": "1773761"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.700539938,
+                55.623078304
+              ],
+              [
+                8.693030031,
+                55.624241252
+              ],
+              [
+                8.677142481,
+                55.628817424
+              ],
+              [
+                8.676337916,
+                55.622801727
+              ],
+              [
+                8.678941178,
+                55.621467743
+              ],
+              [
+                8.674252269,
+                55.620313319
+              ],
+              [
+                8.673455292,
+                55.614432577
+              ],
+              [
+                8.670282231,
+                55.613829604
+              ],
+              [
+                8.673346934,
+                55.605542234
+              ],
+              [
+                8.675853618,
+                55.605361176
+              ],
+              [
+                8.703602269,
+                55.604462546
+              ],
+              [
+                8.70839301,
+                55.606000947
+              ],
+              [
+                8.700539938,
+                55.623078304
+              ]
+            ],
+            [
+              [
+                8.682712466,
+                55.613879818
+              ],
+              [
+                8.682173003,
+                55.617588738
+              ],
+              [
+                8.684753636,
+                55.618532321
+              ],
+              [
+                8.689938001,
+                55.613495741
+              ],
+              [
+                8.689497669,
+                55.613025311
+              ],
+              [
+                8.684839313,
+                55.612166632
+              ],
+              [
+                8.682712466,
+                55.613879818
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1962336",
+        "id_lokalid": "1700662114",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Helle",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "kommunekode": "0573",
+        "kommunelokalid": "1700389173",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700662114",
+        "septima_hash86": "LzcUS0mjXF+9aCvEsAds6pGsSET74PTbah+wXJwQNc+axODXUptgITr5/MKPb0JvwAnmZxGhlyH92Pr+x2OTYA",
+        "septima_serial": "1773762"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                9.050231636,
+                56.416396826
+              ],
+              [
+                9.044825094,
+                56.421087102
+              ],
+              [
+                9.031947921,
+                56.414765037
+              ],
+              [
+                9.020926689,
+                56.41740887
+              ],
+              [
+                9.016783009,
+                56.4144665
+              ],
+              [
+                9.014898074,
+                56.412056692
+              ],
+              [
+                9.010917887,
+                56.411609056
+              ],
+              [
+                9.006688559,
+                56.414043754
+              ],
+              [
+                8.999960452,
+                56.415734247
+              ],
+              [
+                9.00016159,
+                56.41404007
+              ],
+              [
+                9.005919526,
+                56.408942842
+              ],
+              [
+                9.019929447,
+                56.406440499
+              ],
+              [
+                9.021792652,
+                56.405632134
+              ],
+              [
+                9.024483994,
+                56.408176179
+              ],
+              [
+                9.028339456,
+                56.408530869
+              ],
+              [
+                9.036973752,
+                56.409998525
+              ],
+              [
+                9.048308662,
+                56.41372403
+              ],
+              [
+                9.050231636,
+                56.416396826
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1965569",
+        "id_lokalid": "1700691739",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Hagebro",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "kommunekode": "0791",
+        "kommunelokalid": "1700389196",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700691739",
+        "septima_hash86": "gVULlEK/JIv2PF1II6VRESd5kPKteAvVRlOO2gEs9mQW04agWs5VyGO1j8KV4BS59MldftAmkNyTQBdpNmR6PQ",
+        "septima_serial": "1773763"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.11297284,
+                55.557754993
+              ],
+              [
+                10.113423649,
+                55.559512194
+              ],
+              [
+                10.11261909,
+                55.560166147
+              ],
+              [
+                10.11440606,
+                55.563994119
+              ],
+              [
+                10.11056831,
+                55.564767887
+              ],
+              [
+                10.107441631,
+                55.561461221
+              ],
+              [
+                10.103117284,
+                55.559233001
+              ],
+              [
+                10.102331073,
+                55.557065506
+              ],
+              [
+                10.102545171,
+                55.557028264
+              ],
+              [
+                10.104613367,
+                55.55710831
+              ],
+              [
+                10.110534599,
+                55.557463132
+              ],
+              [
+                10.111460465,
+                55.55755206
+              ],
+              [
+                10.11297284,
+                55.557754993
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1958601",
+        "id_lokalid": "1700682309",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Kristianslund",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "kommunekode": "0480",
+        "kommunelokalid": "1700389163",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700682309",
+        "septima_hash86": "GPXo+ClBB8a0XF8gPUJvLHMf5EgUQittaAujynsqjViKH7YXBKW4YGHB4id5XGha5OXWa/9MG0KtvYdA2L0aOw",
+        "septima_serial": "1773764"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.93823054,
+                55.735330259
+              ],
+              [
+                11.932701463,
+                55.735225678
+              ],
+              [
+                11.932195555,
+                55.734974545
+              ],
+              [
+                11.93197024,
+                55.726933114
+              ],
+              [
+                11.92702846,
+                55.727303479
+              ],
+              [
+                11.921302131,
+                55.729203292
+              ],
+              [
+                11.91325392,
+                55.720125739
+              ],
+              [
+                11.92436309,
+                55.714716612
+              ],
+              [
+                11.928322858,
+                55.713874259
+              ],
+              [
+                11.938985921,
+                55.721921975
+              ],
+              [
+                11.945340978,
+                55.717350308
+              ],
+              [
+                11.944969398,
+                55.722664314
+              ],
+              [
+                11.940627955,
+                55.722452413
+              ],
+              [
+                11.93835619,
+                55.725118677
+              ],
+              [
+                11.936245881,
+                55.726769965
+              ],
+              [
+                11.937562555,
+                55.728208723
+              ],
+              [
+                11.942289666,
+                55.728486471
+              ],
+              [
+                11.949605099,
+                55.732396188
+              ],
+              [
+                11.946296793,
+                55.732336023
+              ],
+              [
+                11.940224781,
+                55.732525113
+              ],
+              [
+                11.93823054,
+                55.735330259
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                11.923706922,
+                55.734823345
+              ],
+              [
+                11.923748394,
+                55.734892117
+              ],
+              [
+                11.921991918,
+                55.737682959
+              ],
+              [
+                11.9180634,
+                55.738817571
+              ],
+              [
+                11.917305296,
+                55.73898041
+              ],
+              [
+                11.909396993,
+                55.736455465
+              ],
+              [
+                11.916621676,
+                55.734127168
+              ],
+              [
+                11.923706922,
+                55.734823345
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "objectid": "1957707",
+        "id_lokalid": "1700658682",
+        "id_namespace": "http://data.gov.dk/dagi2000k",
+        "status": "vedtaget",
+        "geometristatus": "endelig",
+        "virkningfra": "2025-10-30T00:00:00+01:00",
+        "virkningsaktoer": "SDFE",
+        "forretningshaendelse": "DAGIajourføring",
+        "registreringfra": "2025-10-31T12:49:59+01:00",
+        "registreringsaktoer": "SDFE",
+        "forretningsomraade": "52.20.20.27",
+        "forretningsproces": "DAGIafledning",
+        "navn": "Biltris",
+        "redigeringsret": "SDFE",
+        "dataspecifikation": "DAGI Objektspecifikation version 2.0",
+        "landekode": "DK",
+        "skala": "1:2.000.000",
+        "kommunekode": "0350",
+        "kommunelokalid": "1700389146",
+        "udtraeksdato": "2026-09-27",
+        "gmlid": "dagi.1700658682",
+        "septima_hash86": "W7DdHaIbgU9EI4nbDMD0sO5fSj3mll8Ww5WLr83Cd48A6/Dss10kuwuXwcQhJ6DSKal/1zNh9gnRFojXbOmgPg",
+        "septima_serial": "1773765"
+      }
+    }
+  ]
+}

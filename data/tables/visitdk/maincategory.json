@@ -1,0 +1,72 @@
+[
+  {
+    "id": 36,
+    "name": "Aktiviteter",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392776",
+    "septima_serial": "47392268"
+  },
+  {
+    "id": 36,
+    "name": "Aktiviteter",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392777",
+    "septima_serial": "47392269"
+  },
+  {
+    "id": 19,
+    "name": "Overnatning",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392778",
+    "septima_serial": "47392270"
+  },
+  {
+    "id": 19,
+    "name": "Overnatning",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392779",
+    "septima_serial": "47392271"
+  },
+  {
+    "id": 19,
+    "name": "Overnatning",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392780",
+    "septima_serial": "47392272"
+  },
+  {
+    "id": 19,
+    "name": "Overnatning",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392781",
+    "septima_serial": "47392273"
+  },
+  {
+    "id": 19,
+    "name": "Overnatning",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392782",
+    "septima_serial": "47392274"
+  },
+  {
+    "id": 74,
+    "name": "Service og information",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392783",
+    "septima_serial": "47392275"
+  },
+  {
+    "id": 74,
+    "name": "Service og information",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392784",
+    "septima_serial": "47392276"
+  },
+  {
+    "id": 74,
+    "name": "Service og information",
+    "septima_parent_tab": "product",
+    "septima_parent_id": "47392785",
+    "septima_serial": "47392277"
+  }
+]

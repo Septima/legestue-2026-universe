@@ -1,0 +1,5445 @@
+[
+  {
+    "forretningsnoegle": null,
+    "navne": [
+      {
+        "navn": "Irene Rennowe Rønnow",
+        "periode": {
+          "gyldigFra": null,
+          "gyldigTil": null
+        },
+        "sidstOpdateret": null
+      }
+    ],
+    "adresse_hemmelig": false,
+    "adresse_hemmelig_undtagelse": false,
+    "adresse_opdatering_ophoert": true,
+    "postadresse": [],
+    "beliggenhedsadresse": [
+      {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": null,
+        "periode": {
+          "gyldigFra": "2018-04-02",
+          "gyldigTil": null
+        },
+        "vejkode": null,
+        "vejnavn": null,
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": null,
+        "husnummerFra": null,
+        "husnummerTil": null,
+        "postdistrikt": null,
+        "sidstOpdateret": "2019-01-09T20:56:21.000+01:00",
+        "sidstValideret": null
+      }
+    ],
+    "forretningsadresse": [],
+    "telefon_nummer": [],
+    "telefax_nummer": [],
+    "elektronisk_post": [],
+    "stilling": "Ejendomsmægler",
+    "status_kode": null,
+    "attributter": [],
+    "virksomhed_summarisk_relation": [
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "BYGGESELSKABET AF 24/4 1980, HASLEV ApS",
+              "periode": {
+                "gyldigFra": "1980-04-24",
+                "gyldigTil": "1987-06-18"
+              },
+              "sidstOpdateret": "2015-03-19T00:00:00.000+01:00"
+            },
+            {
+              "navn": "PROPAS A/S",
+              "periode": {
+                "gyldigFra": "1987-06-19",
+                "gyldigTil": "1992-06-03"
+              },
+              "sidstOpdateret": "2015-03-19T00:00:00.000+01:00"
+            },
+            {
+              "navn": "STANTON A/S",
+              "periode": {
+                "gyldigFra": "1992-06-04",
+                "gyldigTil": null
+              },
+              "sidstOpdateret": "2015-03-19T00:00:00.000+01:00"
+            }
+          ],
+          "status": [],
+          "cvrNummer": 89664217,
+          "regNummer": [
+            {
+              "periode": {
+                "gyldigFra": "1987-04-28",
+                "gyldigTil": "1999-10-18"
+              },
+              "regnummer": "A/S159818",
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "periode": {
+                "gyldigFra": "1980-04-24",
+                "gyldigTil": "1987-04-27"
+              },
+              "regnummer": "ApS39402",
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "1980-04-24",
+                "gyldigTil": null
+              },
+              "sidstOpdateret": "1999-10-16T19:50:20.000+02:00"
+            }
+          ],
+          "enhedsNummer": 4000334713,
+          "sidstOpdateret": "2022-03-08T16:01:56.000+01:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "1980-04-24",
+                "gyldigTil": null
+              },
+              "sidstOpdateret": "2013-11-22T21:57:52.000+01:00",
+              "kortBeskrivelse": "A/S",
+              "langBeskrivelse": "Aktieselskab",
+              "virksomhedsformkode": 60,
+              "ansvarligDataleverandoer": "E&S"
+            }
+          ],
+          "virksomhedsstatus": [
+            {
+              "status": "NORMAL",
+              "periode": {
+                "gyldigFra": "1980-04-24",
+                "gyldigTil": null
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ]
+        },
+        "organisationer": [
+          {
+            "hovedtype": "LEDELSESORGAN",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Bestyrelse",
+                    "periode": {
+                      "gyldigFra": "1980-04-24",
+                      "gyldigTil": null
+                    },
+                    "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "BESTYRELSESMEDLEM",
+                        "periode": {
+                          "gyldigFra": "1980-04-24",
+                          "gyldigTil": "1992-06-03"
+                        },
+                        "sidstOpdateret": "2022-03-08T16:01:56.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  },
+                  {
+                    "type": "VALGFORM",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "generalforsamling",
+                        "periode": {
+                          "gyldigFra": "1980-04-24",
+                          "gyldigTil": "1992-06-03"
+                        },
+                        "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Bestyrelse",
+                "periode": {
+                  "gyldigFra": "1980-04-24",
+                  "gyldigTil": null
+                },
+                "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+              }
+            ],
+            "enhedsNummerOrganisation": 4004729348
+          },
+          {
+            "hovedtype": "LEDELSESORGAN",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Direktion",
+                    "periode": {
+                      "gyldigFra": "1980-04-24",
+                      "gyldigTil": null
+                    },
+                    "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "DIREKTØR",
+                        "periode": {
+                          "gyldigFra": "1980-04-24",
+                          "gyldigTil": "1992-06-03"
+                        },
+                        "sidstOpdateret": "2022-03-08T16:01:56.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Direktion",
+                "periode": {
+                  "gyldigFra": "1980-04-24",
+                  "gyldigTil": null
+                },
+                "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+              }
+            ],
+            "enhedsNummerOrganisation": 4004729349
+          }
+        ]
+      },
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "I. RØNNOW ApS",
+              "periode": {
+                "gyldigFra": "1983-09-05",
+                "gyldigTil": "2006-10-23"
+              },
+              "sidstOpdateret": "2013-11-22T22:12:17.000+01:00"
+            }
+          ],
+          "status": [],
+          "cvrNummer": 73329418,
+          "regNummer": [
+            {
+              "periode": {
+                "gyldigFra": "1983-09-05",
+                "gyldigTil": "1999-10-18"
+              },
+              "regnummer": "ApS58023",
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "1983-09-05",
+                "gyldigTil": "2006-10-23"
+              },
+              "sidstOpdateret": "1999-10-16T19:50:17.000+02:00"
+            }
+          ],
+          "enhedsNummer": 4001199201,
+          "sidstOpdateret": "2020-01-22T19:35:40.000+01:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "1983-09-05",
+                "gyldigTil": "2006-10-23"
+              },
+              "sidstOpdateret": "2013-11-22T22:00:13.000+01:00",
+              "kortBeskrivelse": "APS",
+              "langBeskrivelse": "Anpartsselskab",
+              "virksomhedsformkode": 80,
+              "ansvarligDataleverandoer": "E&S"
+            }
+          ],
+          "virksomhedsstatus": [
+            {
+              "status": "NORMAL",
+              "periode": {
+                "gyldigFra": "1983-09-05",
+                "gyldigTil": "2006-10-22"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "status": "OPLØST EFTER ERKLÆRING",
+              "periode": {
+                "gyldigFra": "2006-10-23",
+                "gyldigTil": "2006-10-23"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ]
+        },
+        "organisationer": [
+          {
+            "hovedtype": "LEDELSESORGAN",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Direktion",
+                    "periode": {
+                      "gyldigFra": "1983-09-05",
+                      "gyldigTil": "2006-10-23"
+                    },
+                    "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "DIREKTION",
+                        "periode": {
+                          "gyldigFra": "1983-09-05",
+                          "gyldigTil": "2006-10-23"
+                        },
+                        "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Direktion",
+                "periode": {
+                  "gyldigFra": "1983-09-05",
+                  "gyldigTil": "2006-10-23"
+                },
+                "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+              }
+            ],
+            "enhedsNummerOrganisation": 4004703725
+          }
+        ]
+      },
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "Sundhedshuset-Haslev",
+              "periode": {
+                "gyldigFra": "2014-01-12",
+                "gyldigTil": "2015-12-31"
+              },
+              "sidstOpdateret": "2016-02-02T15:07:50.000+01:00"
+            }
+          ],
+          "status": [],
+          "cvrNummer": 35579575,
+          "regNummer": [],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "2014-01-12",
+                "gyldigTil": "2015-12-31"
+              },
+              "sidstOpdateret": "2016-02-02T15:07:50.000+01:00"
+            }
+          ],
+          "enhedsNummer": 4001993788,
+          "sidstOpdateret": "2016-02-02T15:07:50.000+01:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "2014-01-12",
+                "gyldigTil": "2015-12-31"
+              },
+              "sidstOpdateret": "2016-02-02T15:07:50.000+01:00",
+              "kortBeskrivelse": "ENK",
+              "langBeskrivelse": "Enkeltmandsvirksomhed",
+              "virksomhedsformkode": 10,
+              "ansvarligDataleverandoer": "T&S"
+            }
+          ],
+          "virksomhedsstatus": []
+        },
+        "organisationer": [
+          {
+            "hovedtype": "FULDT_ANSVARLIG_DELTAGERE",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Interessenter",
+                    "periode": {
+                      "gyldigFra": "2014-01-12",
+                      "gyldigTil": null
+                    },
+                    "sidstOpdateret": null
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "INTERESSENTER",
+                        "periode": {
+                          "gyldigFra": "2014-01-12",
+                          "gyldigTil": "2015-12-31"
+                        },
+                        "sidstOpdateret": "2016-02-02T15:07:50.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Interessenter",
+                "periode": {
+                  "gyldigFra": null,
+                  "gyldigTil": null
+                },
+                "sidstOpdateret": null
+              }
+            ],
+            "enhedsNummerOrganisation": 0
+          }
+        ]
+      },
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "FINANCIERINGSAKTIESELSKABET AF 23. MAJ 1953",
+              "periode": {
+                "gyldigFra": "1953-05-23",
+                "gyldigTil": "1994-07-28"
+              },
+              "sidstOpdateret": "2015-02-09T21:00:00.000+01:00"
+            }
+          ],
+          "status": [],
+          "cvrNummer": 18660415,
+          "regNummer": [
+            {
+              "periode": {
+                "gyldigFra": "1953-05-23",
+                "gyldigTil": "1994-06-21"
+              },
+              "regnummer": "A/S24391",
+              "sidstOpdateret": "2015-02-09T21:00:00.000+01:00"
+            }
+          ],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "1953-05-23",
+                "gyldigTil": "1994-06-21"
+              },
+              "sidstOpdateret": "2015-02-09T21:00:00.000+01:00"
+            }
+          ],
+          "enhedsNummer": 4004307194,
+          "sidstOpdateret": "2015-02-09T23:00:00.000+01:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "1953-05-23",
+                "gyldigTil": "1994-06-21"
+              },
+              "sidstOpdateret": "2015-02-09T21:00:00.000+01:00",
+              "kortBeskrivelse": "A/S",
+              "langBeskrivelse": "Aktieselskab",
+              "virksomhedsformkode": 60,
+              "ansvarligDataleverandoer": "E&S"
+            }
+          ],
+          "virksomhedsstatus": [
+            {
+              "status": "NORMAL",
+              "periode": {
+                "gyldigFra": "1953-05-23",
+                "gyldigTil": "1990-02-19"
+              },
+              "sidstOpdateret": "2015-02-09T21:00:00.000+01:00"
+            },
+            {
+              "status": "UNDER TVANGSOPLØSNING",
+              "periode": {
+                "gyldigFra": "1990-02-20",
+                "gyldigTil": "1990-07-10"
+              },
+              "sidstOpdateret": "2015-02-09T21:00:00.000+01:00"
+            },
+            {
+              "status": "NORMAL",
+              "periode": {
+                "gyldigFra": "1990-07-11",
+                "gyldigTil": "1994-06-20"
+              },
+              "sidstOpdateret": "2015-02-09T21:00:00.000+01:00"
+            },
+            {
+              "status": "OPLØST EFTER FUSION",
+              "periode": {
+                "gyldigFra": "1994-06-21",
+                "gyldigTil": "1994-06-21"
+              },
+              "sidstOpdateret": "2015-02-09T21:00:00.000+01:00"
+            }
+          ]
+        },
+        "organisationer": [
+          {
+            "hovedtype": "LEDELSESORGAN",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Bestyrelse",
+                    "periode": {
+                      "gyldigFra": "1953-05-23",
+                      "gyldigTil": "1994-06-21"
+                    },
+                    "sidstOpdateret": "2015-02-09T21:00:00.000+01:00"
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "BESTYRELSE",
+                        "periode": {
+                          "gyldigFra": "1953-05-23",
+                          "gyldigTil": "1990-05-09"
+                        },
+                        "sidstOpdateret": "2015-02-09T21:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  },
+                  {
+                    "type": "VALGFORM",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "generalforsamling",
+                        "periode": {
+                          "gyldigFra": "1953-05-23",
+                          "gyldigTil": "1990-05-09"
+                        },
+                        "sidstOpdateret": "2015-02-09T21:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Bestyrelse",
+                "periode": {
+                  "gyldigFra": "1953-05-23",
+                  "gyldigTil": "1994-06-21"
+                },
+                "sidstOpdateret": "2015-02-09T23:00:00.000+01:00"
+              }
+            ],
+            "enhedsNummerOrganisation": 4005667123
+          }
+        ]
+      },
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "RØNNOW OG BRIMER ApS",
+              "periode": {
+                "gyldigFra": "1972-09-01",
+                "gyldigTil": "1988-08-17"
+              },
+              "sidstOpdateret": "2015-02-09T21:00:00.000+01:00"
+            }
+          ],
+          "status": [],
+          "cvrNummer": 46383419,
+          "regNummer": [
+            {
+              "periode": {
+                "gyldigFra": "1972-09-01",
+                "gyldigTil": "1988-07-28"
+              },
+              "regnummer": "ApS21577",
+              "sidstOpdateret": "2015-02-09T21:00:00.000+01:00"
+            }
+          ],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "1972-09-01",
+                "gyldigTil": "1988-07-28"
+              },
+              "sidstOpdateret": "2015-02-09T21:00:00.000+01:00"
+            }
+          ],
+          "enhedsNummer": 4004354309,
+          "sidstOpdateret": "2015-02-09T23:00:00.000+01:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "1972-09-01",
+                "gyldigTil": "1988-07-28"
+              },
+              "sidstOpdateret": "2015-02-09T21:00:00.000+01:00",
+              "kortBeskrivelse": "APS",
+              "langBeskrivelse": "Anpartsselskab",
+              "virksomhedsformkode": 80,
+              "ansvarligDataleverandoer": "E&S"
+            }
+          ],
+          "virksomhedsstatus": [
+            {
+              "status": "NORMAL",
+              "periode": {
+                "gyldigFra": "1972-09-01",
+                "gyldigTil": "1985-06-27"
+              },
+              "sidstOpdateret": "2015-02-09T21:00:00.000+01:00"
+            },
+            {
+              "status": "UNDER FRIVILLIG LIKVIDATION",
+              "periode": {
+                "gyldigFra": "1985-06-28",
+                "gyldigTil": "1988-07-27"
+              },
+              "sidstOpdateret": "2015-02-09T21:00:00.000+01:00"
+            },
+            {
+              "status": "OPLØST EFTER FRIVILLIG LIKVIDATION",
+              "periode": {
+                "gyldigFra": "1988-07-28",
+                "gyldigTil": "1988-07-28"
+              },
+              "sidstOpdateret": "2015-02-09T21:00:00.000+01:00"
+            }
+          ]
+        },
+        "organisationer": [
+          {
+            "hovedtype": "LEDELSESORGAN",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Direktion",
+                    "periode": {
+                      "gyldigFra": "1972-09-01",
+                      "gyldigTil": "1988-07-28"
+                    },
+                    "sidstOpdateret": "2015-02-09T21:00:00.000+01:00"
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "DIREKTION",
+                        "periode": {
+                          "gyldigFra": "1972-09-01",
+                          "gyldigTil": "1988-11-29"
+                        },
+                        "sidstOpdateret": "2015-02-09T21:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Direktion",
+                "periode": {
+                  "gyldigFra": "1972-09-01",
+                  "gyldigTil": "1988-07-28"
+                },
+                "sidstOpdateret": "2015-02-09T23:00:00.000+01:00"
+              }
+            ],
+            "enhedsNummerOrganisation": 4005794450
+          },
+          {
+            "hovedtype": "LEDELSESORGAN",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Likvidator",
+                    "periode": {
+                      "gyldigFra": "1972-09-01",
+                      "gyldigTil": "1988-07-28"
+                    },
+                    "sidstOpdateret": "2015-02-09T21:00:00.000+01:00"
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "LIKVIDATOR",
+                        "periode": {
+                          "gyldigFra": "1987-06-11",
+                          "gyldigTil": "1988-07-28"
+                        },
+                        "sidstOpdateret": "2015-02-09T21:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Likvidator",
+                "periode": {
+                  "gyldigFra": "1972-09-01",
+                  "gyldigTil": "1988-07-28"
+                },
+                "sidstOpdateret": "2015-02-09T23:00:00.000+01:00"
+              }
+            ],
+            "enhedsNummerOrganisation": 4005794452
+          }
+        ]
+      }
+    ],
+    "deltagerperson_metadata": {
+      "nyesteKontaktoplysninger": [],
+      "nyesteBeliggenhedsadresse": {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": null,
+        "periode": {
+          "gyldigFra": "2018-04-02",
+          "gyldigTil": null
+        },
+        "vejkode": null,
+        "vejnavn": null,
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": null,
+        "husnummerFra": null,
+        "husnummerTil": null,
+        "postdistrikt": null,
+        "sidstOpdateret": "2019-01-09T20:56:21.000+01:00",
+        "sidstValideret": null
+      }
+    },
+    "samt_id": "6",
+    "fejl_registreret": false,
+    "data_adgang": "0",
+    "enheds_nummer": "20464",
+    "enhedstype": "PERSON",
+    "sidst_opdateret": "2019-01-15T18:47:08.000Z",
+    "fejl_ved_indlaesning": false,
+    "naermeste_fremtidige_dato": null,
+    "fejl_beskrivelse": null,
+    "virknings_aktoer": "PO",
+    "septima_hash86": "V147u1LHEMZOWNb4cvAjh4a0XYxMQLpEtyCRQ2G1imfRZkeh56DcVlq/w0OPMODtk2WaLV9UbHIONPqs3pATjQ",
+    "septima_serial": "8"
+  },
+  {
+    "forretningsnoegle": null,
+    "navne": [
+      {
+        "navn": "Henrik Elgaard Petersen",
+        "periode": {
+          "gyldigFra": null,
+          "gyldigTil": null
+        },
+        "sidstOpdateret": null
+      }
+    ],
+    "adresse_hemmelig": false,
+    "adresse_hemmelig_undtagelse": false,
+    "adresse_opdatering_ophoert": true,
+    "postadresse": [],
+    "beliggenhedsadresse": [
+      {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": null,
+        "periode": {
+          "gyldigFra": "1994-09-01",
+          "gyldigTil": null
+        },
+        "vejkode": null,
+        "vejnavn": null,
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": null,
+        "husnummerFra": null,
+        "husnummerTil": null,
+        "postdistrikt": null,
+        "sidstOpdateret": "2024-08-15T12:24:08.000+02:00",
+        "sidstValideret": null
+      }
+    ],
+    "forretningsadresse": [],
+    "telefon_nummer": [],
+    "telefax_nummer": [],
+    "elektronisk_post": [],
+    "stilling": null,
+    "status_kode": null,
+    "attributter": [],
+    "virksomhed_summarisk_relation": [
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "BLIKKENSLAGERMESTER HENRIK PETERSEN ApS",
+              "periode": {
+                "gyldigFra": "1982-12-28",
+                "gyldigTil": "1994-04-05"
+              },
+              "sidstOpdateret": "2015-03-19T00:00:00.000+01:00"
+            },
+            {
+              "navn": "HENRIK PETERSEN ApS",
+              "periode": {
+                "gyldigFra": "1994-04-06",
+                "gyldigTil": "2015-03-19"
+              },
+              "sidstOpdateret": "2015-07-02T11:26:48.000+02:00"
+            }
+          ],
+          "status": [],
+          "cvrNummer": 70164019,
+          "regNummer": [
+            {
+              "periode": {
+                "gyldigFra": "1982-12-28",
+                "gyldigTil": "1999-10-18"
+              },
+              "regnummer": "ApS56086",
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "1982-12-28",
+                "gyldigTil": "2015-03-19"
+              },
+              "sidstOpdateret": "2015-07-02T11:26:48.000+02:00"
+            }
+          ],
+          "enhedsNummer": 4001184110,
+          "sidstOpdateret": "2019-09-13T09:27:50.000+02:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "1982-12-28",
+                "gyldigTil": "2015-03-19"
+              },
+              "sidstOpdateret": "2015-07-02T11:26:48.000+02:00",
+              "kortBeskrivelse": "APS",
+              "langBeskrivelse": "Anpartsselskab",
+              "virksomhedsformkode": 80,
+              "ansvarligDataleverandoer": "E&S"
+            }
+          ],
+          "virksomhedsstatus": [
+            {
+              "status": "NORMAL",
+              "periode": {
+                "gyldigFra": "1982-12-28",
+                "gyldigTil": "2014-06-26"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "status": "UNDER FRIVILLIG LIKVIDATION",
+              "periode": {
+                "gyldigFra": "2014-06-27",
+                "gyldigTil": "2015-03-18"
+              },
+              "sidstOpdateret": "2015-07-02T11:26:47.000+02:00"
+            },
+            {
+              "status": "OPLØST EFTER FRIVILLIG LIKVIDATION",
+              "periode": {
+                "gyldigFra": "2015-03-19",
+                "gyldigTil": "2015-03-19"
+              },
+              "sidstOpdateret": "2015-07-02T11:26:48.000+02:00"
+            }
+          ]
+        },
+        "organisationer": [
+          {
+            "hovedtype": "LEDELSESORGAN",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Direktion",
+                    "periode": {
+                      "gyldigFra": "1982-12-28",
+                      "gyldigTil": "2015-03-19"
+                    },
+                    "sidstOpdateret": "2015-07-02T11:26:48.000+02:00"
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "DIREKTION",
+                        "periode": {
+                          "gyldigFra": "1982-12-28",
+                          "gyldigTil": "2014-06-27"
+                        },
+                        "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Direktion",
+                "periode": {
+                  "gyldigFra": "1982-12-28",
+                  "gyldigTil": "2015-03-19"
+                },
+                "sidstOpdateret": "2015-07-02T11:26:48.000+02:00"
+              }
+            ],
+            "enhedsNummerOrganisation": 4004688007
+          }
+        ]
+      },
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "Blikkenslager Henrik Elgaard Petersen",
+              "periode": {
+                "gyldigFra": "2014-10-01",
+                "gyldigTil": "2018-06-25"
+              },
+              "sidstOpdateret": "2018-06-29T09:09:36.000+02:00"
+            }
+          ],
+          "status": [],
+          "cvrNummer": 36004991,
+          "regNummer": [],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "2014-10-01",
+                "gyldigTil": "2018-06-25"
+              },
+              "sidstOpdateret": "2018-06-29T09:09:36.000+02:00"
+            }
+          ],
+          "enhedsNummer": 4002037965,
+          "sidstOpdateret": "2018-06-29T09:09:36.000+02:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "2014-10-01",
+                "gyldigTil": "2018-06-25"
+              },
+              "sidstOpdateret": "2018-06-29T09:09:36.000+02:00",
+              "kortBeskrivelse": "ENK",
+              "langBeskrivelse": "Enkeltmandsvirksomhed",
+              "virksomhedsformkode": 10,
+              "ansvarligDataleverandoer": "T&S"
+            }
+          ],
+          "virksomhedsstatus": []
+        },
+        "organisationer": [
+          {
+            "hovedtype": "FULDT_ANSVARLIG_DELTAGERE",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Interessenter",
+                    "periode": {
+                      "gyldigFra": "2014-10-01",
+                      "gyldigTil": null
+                    },
+                    "sidstOpdateret": null
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "INTERESSENTER",
+                        "periode": {
+                          "gyldigFra": "2014-10-01",
+                          "gyldigTil": "2018-06-25"
+                        },
+                        "sidstOpdateret": "2018-06-29T09:09:36.000+02:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Interessenter",
+                "periode": {
+                  "gyldigFra": null,
+                  "gyldigTil": null
+                },
+                "sidstOpdateret": null
+              }
+            ],
+            "enhedsNummerOrganisation": 0
+          }
+        ]
+      }
+    ],
+    "deltagerperson_metadata": {
+      "nyesteKontaktoplysninger": [],
+      "nyesteBeliggenhedsadresse": {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": null,
+        "periode": {
+          "gyldigFra": "1994-09-01",
+          "gyldigTil": null
+        },
+        "vejkode": null,
+        "vejnavn": null,
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": null,
+        "husnummerFra": null,
+        "husnummerTil": null,
+        "postdistrikt": null,
+        "sidstOpdateret": "2024-08-15T12:24:08.000+02:00",
+        "sidstValideret": null
+      }
+    },
+    "samt_id": "3",
+    "fejl_registreret": false,
+    "data_adgang": "0",
+    "enheds_nummer": "22826",
+    "enhedstype": "PERSON",
+    "sidst_opdateret": "2024-08-15T10:24:08.000Z",
+    "fejl_ved_indlaesning": false,
+    "naermeste_fremtidige_dato": null,
+    "fejl_beskrivelse": null,
+    "virknings_aktoer": "PO",
+    "septima_hash86": "kXUCpKJPonIGAIHeeupic/kvvAunp6+rr7+MtSqtUIcL5IFDRy5i+q1YGFU3lKXkVx9abIzObfinUGoZ7fAhBg",
+    "septima_serial": "9"
+  },
+  {
+    "forretningsnoegle": null,
+    "navne": [
+      {
+        "navn": "Annie Merete Larsen",
+        "periode": {
+          "gyldigFra": null,
+          "gyldigTil": null
+        },
+        "sidstOpdateret": null
+      }
+    ],
+    "adresse_hemmelig": false,
+    "adresse_hemmelig_undtagelse": false,
+    "adresse_opdatering_ophoert": true,
+    "postadresse": [],
+    "beliggenhedsadresse": [
+      {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": null,
+        "periode": {
+          "gyldigFra": "2007-01-01",
+          "gyldigTil": null
+        },
+        "vejkode": null,
+        "vejnavn": null,
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": null,
+        "husnummerFra": null,
+        "husnummerTil": null,
+        "postdistrikt": null,
+        "sidstOpdateret": "2022-06-16T21:48:11.000+02:00",
+        "sidstValideret": null
+      }
+    ],
+    "forretningsadresse": [],
+    "telefon_nummer": [],
+    "telefax_nummer": [],
+    "elektronisk_post": [],
+    "stilling": null,
+    "status_kode": null,
+    "attributter": [],
+    "virksomhed_summarisk_relation": [
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "REVISIONSKONTORET I BIRKERØD ApS",
+              "periode": {
+                "gyldigFra": "1975-12-11",
+                "gyldigTil": "2002-08-13"
+              },
+              "sidstOpdateret": "2013-11-22T22:12:17.000+01:00"
+            }
+          ],
+          "status": [],
+          "cvrNummer": 33929528,
+          "regNummer": [
+            {
+              "periode": {
+                "gyldigFra": "1975-12-11",
+                "gyldigTil": "1999-10-18"
+              },
+              "regnummer": "ApS15812",
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "1975-12-11",
+                "gyldigTil": "2002-08-13"
+              },
+              "sidstOpdateret": "1999-10-16T19:50:11.000+02:00"
+            }
+          ],
+          "enhedsNummer": 1373747,
+          "sidstOpdateret": "2015-02-10T00:00:00.000+01:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "1975-12-11",
+                "gyldigTil": "2002-08-13"
+              },
+              "sidstOpdateret": "2013-11-22T22:00:13.000+01:00",
+              "kortBeskrivelse": "APS",
+              "langBeskrivelse": "Anpartsselskab",
+              "virksomhedsformkode": 80,
+              "ansvarligDataleverandoer": "E&S"
+            }
+          ],
+          "virksomhedsstatus": [
+            {
+              "status": "NORMAL",
+              "periode": {
+                "gyldigFra": "1975-12-11",
+                "gyldigTil": "2002-08-12"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "status": "OPLØST EFTER ERKLÆRING",
+              "periode": {
+                "gyldigFra": "2002-08-13",
+                "gyldigTil": "2002-08-13"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ]
+        },
+        "organisationer": [
+          {
+            "hovedtype": "LEDELSESORGAN",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Bestyrelse",
+                    "periode": {
+                      "gyldigFra": "1975-12-11",
+                      "gyldigTil": "2002-08-13"
+                    },
+                    "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "BESTYRELSE",
+                        "periode": {
+                          "gyldigFra": "1975-12-11",
+                          "gyldigTil": "2002-08-13"
+                        },
+                        "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  },
+                  {
+                    "type": "VALGFORM",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "generalforsamling",
+                        "periode": {
+                          "gyldigFra": "1975-12-11",
+                          "gyldigTil": "2002-08-13"
+                        },
+                        "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Bestyrelse",
+                "periode": {
+                  "gyldigFra": "1975-12-11",
+                  "gyldigTil": "2002-08-13"
+                },
+                "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+              }
+            ],
+            "enhedsNummerOrganisation": 4004649983
+          }
+        ]
+      },
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "Forlaget Fryd",
+              "periode": {
+                "gyldigFra": "2014-05-01",
+                "gyldigTil": "2014-05-14"
+              },
+              "sidstOpdateret": "2014-05-22T20:34:08.000+02:00"
+            },
+            {
+              "navn": "Forlaget Larsine",
+              "periode": {
+                "gyldigFra": "2014-05-15",
+                "gyldigTil": "2019-09-30"
+              },
+              "sidstOpdateret": "2019-09-16T12:15:34.000+02:00"
+            }
+          ],
+          "status": [],
+          "cvrNummer": 35717943,
+          "regNummer": [],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "2014-05-01",
+                "gyldigTil": "2019-09-30"
+              },
+              "sidstOpdateret": "2019-09-16T12:15:34.000+02:00"
+            }
+          ],
+          "enhedsNummer": 4002030825,
+          "sidstOpdateret": "2019-09-16T12:15:34.000+02:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "2014-05-01",
+                "gyldigTil": "2019-09-30"
+              },
+              "sidstOpdateret": "2019-09-16T12:15:34.000+02:00",
+              "kortBeskrivelse": "ENK",
+              "langBeskrivelse": "Enkeltmandsvirksomhed",
+              "virksomhedsformkode": 10,
+              "ansvarligDataleverandoer": "T&S"
+            }
+          ],
+          "virksomhedsstatus": []
+        },
+        "organisationer": [
+          {
+            "hovedtype": "FULDT_ANSVARLIG_DELTAGERE",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Interessenter",
+                    "periode": {
+                      "gyldigFra": "2014-05-01",
+                      "gyldigTil": null
+                    },
+                    "sidstOpdateret": null
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "INTERESSENTER",
+                        "periode": {
+                          "gyldigFra": "2014-05-01",
+                          "gyldigTil": "2019-09-30"
+                        },
+                        "sidstOpdateret": "2019-09-16T12:15:34.000+02:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Interessenter",
+                "periode": {
+                  "gyldigFra": null,
+                  "gyldigTil": null
+                },
+                "sidstOpdateret": null
+              }
+            ],
+            "enhedsNummerOrganisation": 0
+          }
+        ]
+      }
+    ],
+    "deltagerperson_metadata": {
+      "nyesteKontaktoplysninger": [],
+      "nyesteBeliggenhedsadresse": {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": null,
+        "periode": {
+          "gyldigFra": "2007-01-01",
+          "gyldigTil": null
+        },
+        "vejkode": null,
+        "vejnavn": null,
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": null,
+        "husnummerFra": null,
+        "husnummerTil": null,
+        "postdistrikt": null,
+        "sidstOpdateret": "2022-06-16T21:48:11.000+02:00",
+        "sidstValideret": null
+      }
+    },
+    "samt_id": "6",
+    "fejl_registreret": false,
+    "data_adgang": "0",
+    "enheds_nummer": "79767",
+    "enhedstype": "PERSON",
+    "sidst_opdateret": "2022-09-30T11:11:41.000Z",
+    "fejl_ved_indlaesning": false,
+    "naermeste_fremtidige_dato": null,
+    "fejl_beskrivelse": null,
+    "virknings_aktoer": "PO",
+    "septima_hash86": "nxnw8vgi5JSMB7ty+lIrmxuMPq7P5NnZqBInU8ZvgpLMWJb1k0zi0Yie3LM1rth8tdgu5gEqip02bpc2JM6j1Q",
+    "septima_serial": "21"
+  },
+  {
+    "forretningsnoegle": null,
+    "navne": [
+      {
+        "navn": "Kirsten Fredsted",
+        "periode": {
+          "gyldigFra": null,
+          "gyldigTil": null
+        },
+        "sidstOpdateret": null
+      }
+    ],
+    "adresse_hemmelig": false,
+    "adresse_hemmelig_undtagelse": false,
+    "adresse_opdatering_ophoert": true,
+    "postadresse": [],
+    "beliggenhedsadresse": [
+      {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": null,
+        "periode": {
+          "gyldigFra": "1979-08-01",
+          "gyldigTil": null
+        },
+        "vejkode": null,
+        "vejnavn": null,
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": null,
+        "husnummerFra": null,
+        "husnummerTil": null,
+        "postdistrikt": null,
+        "sidstOpdateret": "2024-08-15T10:49:51.000+02:00",
+        "sidstValideret": null
+      }
+    ],
+    "forretningsadresse": [],
+    "telefon_nummer": [],
+    "telefax_nummer": [],
+    "elektronisk_post": [],
+    "stilling": "Indretningsarkitekt",
+    "status_kode": null,
+    "attributter": [],
+    "virksomhed_summarisk_relation": [
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "INDRETNINGSARKITEKTERNE NYHAVN 61 KØBENHAVN ApS",
+              "periode": {
+                "gyldigFra": "1980-08-27",
+                "gyldigTil": "1988-03-18"
+              },
+              "sidstOpdateret": "2015-03-19T00:00:00.000+01:00"
+            },
+            {
+              "navn": "TEGNESTUEN BLÅTÅRN ApS",
+              "periode": {
+                "gyldigFra": "1988-03-19",
+                "gyldigTil": "2015-07-08"
+              },
+              "sidstOpdateret": "2015-07-08T10:09:31.000+02:00"
+            }
+          ],
+          "status": [],
+          "cvrNummer": 62166428,
+          "regNummer": [
+            {
+              "periode": {
+                "gyldigFra": "1980-08-27",
+                "gyldigTil": "1999-10-18"
+              },
+              "regnummer": "ApS41982",
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "1980-08-27",
+                "gyldigTil": "2015-07-08"
+              },
+              "sidstOpdateret": "2015-07-08T10:09:31.000+02:00"
+            }
+          ],
+          "enhedsNummer": 4000333944,
+          "sidstOpdateret": "2021-02-12T20:30:18.000+01:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "1980-08-27",
+                "gyldigTil": "2015-07-08"
+              },
+              "sidstOpdateret": "2015-07-08T10:09:31.000+02:00",
+              "kortBeskrivelse": "APS",
+              "langBeskrivelse": "Anpartsselskab",
+              "virksomhedsformkode": 80,
+              "ansvarligDataleverandoer": "E&S"
+            }
+          ],
+          "virksomhedsstatus": [
+            {
+              "status": "NORMAL",
+              "periode": {
+                "gyldigFra": "1980-08-27",
+                "gyldigTil": "2015-07-07"
+              },
+              "sidstOpdateret": "2015-07-08T10:09:30.000+02:00"
+            },
+            {
+              "status": "OPLØST EFTER ERKLÆRING",
+              "periode": {
+                "gyldigFra": "2015-07-08",
+                "gyldigTil": "2015-07-08"
+              },
+              "sidstOpdateret": "2015-07-08T10:09:31.000+02:00"
+            }
+          ]
+        },
+        "organisationer": [
+          {
+            "hovedtype": "LEDELSESORGAN",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Direktion",
+                    "periode": {
+                      "gyldigFra": "1980-08-27",
+                      "gyldigTil": "2015-07-08"
+                    },
+                    "sidstOpdateret": "2015-07-08T10:09:31.000+02:00"
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "DIREKTION",
+                        "periode": {
+                          "gyldigFra": "1980-08-27",
+                          "gyldigTil": "2015-06-01"
+                        },
+                        "sidstOpdateret": "2015-07-08T10:09:30.000+02:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Direktion",
+                "periode": {
+                  "gyldigFra": "1980-08-27",
+                  "gyldigTil": "2015-07-08"
+                },
+                "sidstOpdateret": "2015-07-08T10:09:31.000+02:00"
+              }
+            ],
+            "enhedsNummerOrganisation": 4004676154
+          }
+        ]
+      },
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "BLÅTÅRN TEGNESTUE K/S",
+              "periode": {
+                "gyldigFra": "2004-01-01",
+                "gyldigTil": "2014-06-16"
+              },
+              "sidstOpdateret": "2015-06-10T00:00:00.000+02:00"
+            }
+          ],
+          "status": [],
+          "cvrNummer": 27576028,
+          "regNummer": [],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "2004-01-01",
+                "gyldigTil": "2014-06-16"
+              },
+              "sidstOpdateret": "2015-06-10T00:00:00.000+02:00"
+            }
+          ],
+          "enhedsNummer": 4001453070,
+          "sidstOpdateret": "2019-09-21T02:05:46.000+02:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "2004-01-01",
+                "gyldigTil": "2014-06-16"
+              },
+              "sidstOpdateret": "2015-06-10T00:00:00.000+02:00",
+              "kortBeskrivelse": "K/S",
+              "langBeskrivelse": "Kommanditselskab",
+              "virksomhedsformkode": 40,
+              "ansvarligDataleverandoer": "E&S"
+            }
+          ],
+          "virksomhedsstatus": [
+            {
+              "status": "NORMAL",
+              "periode": {
+                "gyldigFra": "2004-01-01",
+                "gyldigTil": "2014-06-15"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "status": "SLETTET",
+              "periode": {
+                "gyldigFra": "2014-06-16",
+                "gyldigTil": "2014-06-16"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ]
+        },
+        "organisationer": [
+          {
+            "hovedtype": "LEDELSESORGAN",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Bestyrelse",
+                    "periode": {
+                      "gyldigFra": "2004-01-01",
+                      "gyldigTil": "2014-06-16"
+                    },
+                    "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "BESTYRELSE",
+                        "periode": {
+                          "gyldigFra": "2004-01-01",
+                          "gyldigTil": "2014-06-16"
+                        },
+                        "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  },
+                  {
+                    "type": "VALGFORM",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "generalforsamling",
+                        "periode": {
+                          "gyldigFra": "2004-01-01",
+                          "gyldigTil": "2014-06-16"
+                        },
+                        "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Bestyrelse",
+                "periode": {
+                  "gyldigFra": "2004-01-01",
+                  "gyldigTil": "2014-06-16"
+                },
+                "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+              }
+            ],
+            "enhedsNummerOrganisation": 4004950238
+          }
+        ]
+      },
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "Arkitekt Kirsten Fredsted",
+              "periode": {
+                "gyldigFra": "2013-12-02",
+                "gyldigTil": "2016-12-31"
+              },
+              "sidstOpdateret": "2017-04-11T12:10:56.000+02:00"
+            }
+          ],
+          "status": [],
+          "cvrNummer": 35490566,
+          "regNummer": [],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "2013-12-02",
+                "gyldigTil": "2016-12-31"
+              },
+              "sidstOpdateret": "2017-04-11T12:10:56.000+02:00"
+            }
+          ],
+          "enhedsNummer": 4002012935,
+          "sidstOpdateret": "2017-04-11T12:10:56.000+02:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "2013-12-02",
+                "gyldigTil": "2016-12-31"
+              },
+              "sidstOpdateret": "2017-04-11T12:10:56.000+02:00",
+              "kortBeskrivelse": "ENK",
+              "langBeskrivelse": "Enkeltmandsvirksomhed",
+              "virksomhedsformkode": 10,
+              "ansvarligDataleverandoer": "T&S"
+            }
+          ],
+          "virksomhedsstatus": []
+        },
+        "organisationer": [
+          {
+            "hovedtype": "FULDT_ANSVARLIG_DELTAGERE",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Interessenter",
+                    "periode": {
+                      "gyldigFra": "2013-12-02",
+                      "gyldigTil": null
+                    },
+                    "sidstOpdateret": null
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "INTERESSENTER",
+                        "periode": {
+                          "gyldigFra": "2013-12-02",
+                          "gyldigTil": "2016-12-31"
+                        },
+                        "sidstOpdateret": "2017-04-11T12:10:56.000+02:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Interessenter",
+                "periode": {
+                  "gyldigFra": null,
+                  "gyldigTil": null
+                },
+                "sidstOpdateret": null
+              }
+            ],
+            "enhedsNummerOrganisation": 0
+          }
+        ]
+      }
+    ],
+    "deltagerperson_metadata": {
+      "nyesteKontaktoplysninger": [],
+      "nyesteBeliggenhedsadresse": {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": null,
+        "periode": {
+          "gyldigFra": "1979-08-01",
+          "gyldigTil": null
+        },
+        "vejkode": null,
+        "vejnavn": null,
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": null,
+        "husnummerFra": null,
+        "husnummerTil": null,
+        "postdistrikt": null,
+        "sidstOpdateret": "2024-08-15T10:49:51.000+02:00",
+        "sidstValideret": null
+      }
+    },
+    "samt_id": "3",
+    "fejl_registreret": false,
+    "data_adgang": "0",
+    "enheds_nummer": "114806",
+    "enhedstype": "PERSON",
+    "sidst_opdateret": "2024-08-15T08:49:51.000Z",
+    "fejl_ved_indlaesning": false,
+    "naermeste_fremtidige_dato": null,
+    "fejl_beskrivelse": null,
+    "virknings_aktoer": "PO",
+    "septima_hash86": "kWmAIIgFkJGpTJ1Vem+uLENwCWMfRdJi7jA8usJsdqq2tjAj299X6FUsCObcZA2jTzlJfGlMxTBC558BRJ7MnQ",
+    "septima_serial": "29"
+  },
+  {
+    "forretningsnoegle": null,
+    "navne": [
+      {
+        "navn": "Tove Christine Iversen",
+        "periode": {
+          "gyldigFra": null,
+          "gyldigTil": null
+        },
+        "sidstOpdateret": null
+      }
+    ],
+    "adresse_hemmelig": false,
+    "adresse_hemmelig_undtagelse": false,
+    "adresse_opdatering_ophoert": true,
+    "postadresse": [],
+    "beliggenhedsadresse": [
+      {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": null,
+        "periode": {
+          "gyldigFra": "2007-01-01",
+          "gyldigTil": null
+        },
+        "vejkode": null,
+        "vejnavn": null,
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": null,
+        "husnummerFra": null,
+        "husnummerTil": null,
+        "postdistrikt": null,
+        "sidstOpdateret": "2021-08-17T18:20:06.000+02:00",
+        "sidstValideret": null
+      }
+    ],
+    "forretningsadresse": [],
+    "telefon_nummer": [],
+    "telefax_nummer": [],
+    "elektronisk_post": [],
+    "stilling": null,
+    "status_kode": null,
+    "attributter": [],
+    "virksomhed_summarisk_relation": [
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "THJ 95 AABENRAA ApS",
+              "periode": {
+                "gyldigFra": "1989-06-01",
+                "gyldigTil": "1990-02-20"
+              },
+              "sidstOpdateret": "2015-03-19T00:00:00.000+01:00"
+            },
+            {
+              "navn": "H. OG J. JØRGENSEN INVEST, ÅRSLEV ApS",
+              "periode": {
+                "gyldigFra": "1990-02-21",
+                "gyldigTil": "1990-07-09"
+              },
+              "sidstOpdateret": "2015-03-19T00:00:00.000+01:00"
+            },
+            {
+              "navn": "H. OG T. JØRGENSEN INVEST. ÅRSLEV ApS",
+              "periode": {
+                "gyldigFra": "1990-07-10",
+                "gyldigTil": "2008-12-19"
+              },
+              "sidstOpdateret": "2015-03-19T00:00:00.000+01:00"
+            }
+          ],
+          "status": [],
+          "cvrNummer": 13064202,
+          "regNummer": [
+            {
+              "periode": {
+                "gyldigFra": "1989-06-01",
+                "gyldigTil": "1999-10-18"
+              },
+              "regnummer": "ApS180140",
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "1989-06-01",
+                "gyldigTil": "2008-12-19"
+              },
+              "sidstOpdateret": "1999-10-16T19:49:50.000+02:00"
+            }
+          ],
+          "enhedsNummer": 4000841523,
+          "sidstOpdateret": "2022-06-28T10:52:15.000+02:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "1989-06-01",
+                "gyldigTil": "2008-12-19"
+              },
+              "sidstOpdateret": "2013-11-22T22:00:13.000+01:00",
+              "kortBeskrivelse": "APS",
+              "langBeskrivelse": "Anpartsselskab",
+              "virksomhedsformkode": 80,
+              "ansvarligDataleverandoer": "E&S"
+            }
+          ],
+          "virksomhedsstatus": [
+            {
+              "status": "NORMAL",
+              "periode": {
+                "gyldigFra": "1989-06-01",
+                "gyldigTil": "2008-05-06"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "status": "UNDER TVANGSOPLØSNING",
+              "periode": {
+                "gyldigFra": "2008-05-07",
+                "gyldigTil": "2008-12-18"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "status": "TVANGSOPLØST",
+              "periode": {
+                "gyldigFra": "2008-12-19",
+                "gyldigTil": "2008-12-19"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ]
+        },
+        "organisationer": [
+          {
+            "hovedtype": "LEDELSESORGAN",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Direktion",
+                    "periode": {
+                      "gyldigFra": "1989-06-01",
+                      "gyldigTil": "2008-12-19"
+                    },
+                    "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "DIREKTØR",
+                        "periode": {
+                          "gyldigFra": "2006-08-07",
+                          "gyldigTil": "2008-05-14"
+                        },
+                        "sidstOpdateret": "2022-03-08T16:01:56.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Direktion",
+                "periode": {
+                  "gyldigFra": "1989-06-01",
+                  "gyldigTil": "2008-12-19"
+                },
+                "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+              }
+            ],
+            "enhedsNummerOrganisation": 4004414129
+          }
+        ]
+      },
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "TOVE OG HANS JØRGENSENS           HANDELSSELSKAB ApS",
+              "periode": {
+                "gyldigFra": "1976-01-06",
+                "gyldigTil": "2006-04-18"
+              },
+              "sidstOpdateret": "2013-11-22T22:12:17.000+01:00"
+            }
+          ],
+          "status": [],
+          "cvrNummer": 55389128,
+          "regNummer": [
+            {
+              "periode": {
+                "gyldigFra": "1976-01-06",
+                "gyldigTil": "1999-10-18"
+              },
+              "regnummer": "ApS10973",
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "1976-01-06",
+                "gyldigTil": "2006-04-18"
+              },
+              "sidstOpdateret": "1999-10-16T19:50:14.000+02:00"
+            }
+          ],
+          "enhedsNummer": 4001154992,
+          "sidstOpdateret": "2019-10-01T02:20:46.000+02:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "1976-01-06",
+                "gyldigTil": "2006-04-18"
+              },
+              "sidstOpdateret": "2013-11-22T22:00:13.000+01:00",
+              "kortBeskrivelse": "APS",
+              "langBeskrivelse": "Anpartsselskab",
+              "virksomhedsformkode": 80,
+              "ansvarligDataleverandoer": "E&S"
+            }
+          ],
+          "virksomhedsstatus": [
+            {
+              "status": "NORMAL",
+              "periode": {
+                "gyldigFra": "1976-01-06",
+                "gyldigTil": "2005-09-29"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "status": "UNDER FRIVILLIG LIKVIDATION",
+              "periode": {
+                "gyldigFra": "2005-09-30",
+                "gyldigTil": "2006-04-17"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "status": "OPLØST EFTER FRIVILLIG LIKVIDATION",
+              "periode": {
+                "gyldigFra": "2006-04-18",
+                "gyldigTil": "2006-04-18"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ]
+        },
+        "organisationer": [
+          {
+            "hovedtype": "LEDELSESORGAN",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Direktion",
+                    "periode": {
+                      "gyldigFra": "1976-01-06",
+                      "gyldigTil": "2006-04-18"
+                    },
+                    "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "DIREKTION",
+                        "periode": {
+                          "gyldigFra": "1976-01-06",
+                          "gyldigTil": "2005-09-30"
+                        },
+                        "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Direktion",
+                "periode": {
+                  "gyldigFra": "1976-01-06",
+                  "gyldigTil": "2006-04-18"
+                },
+                "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+              }
+            ],
+            "enhedsNummerOrganisation": 4004673353
+          }
+        ]
+      },
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "Tove Jørgensen",
+              "periode": {
+                "gyldigFra": "2014-08-01",
+                "gyldigTil": "2018-10-10"
+              },
+              "sidstOpdateret": "2018-10-10T12:49:31.000+02:00"
+            }
+          ],
+          "status": [],
+          "cvrNummer": 35919007,
+          "regNummer": [],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "2014-08-01",
+                "gyldigTil": "2018-10-10"
+              },
+              "sidstOpdateret": "2018-10-10T12:49:31.000+02:00"
+            }
+          ],
+          "enhedsNummer": 4002044884,
+          "sidstOpdateret": "2018-10-10T12:49:31.000+02:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "2014-08-01",
+                "gyldigTil": "2015-09-30"
+              },
+              "sidstOpdateret": "2015-10-09T09:05:43.000+02:00",
+              "kortBeskrivelse": "ENK",
+              "langBeskrivelse": "Enkeltmandsvirksomhed",
+              "virksomhedsformkode": 10,
+              "ansvarligDataleverandoer": "T&S"
+            },
+            {
+              "periode": {
+                "gyldigFra": "2015-10-01",
+                "gyldigTil": "2018-10-10"
+              },
+              "sidstOpdateret": "2018-10-10T12:49:31.000+02:00",
+              "kortBeskrivelse": "PMV",
+              "langBeskrivelse": "Personligt ejet Mindre Virksomhed",
+              "virksomhedsformkode": 15,
+              "ansvarligDataleverandoer": "T&S"
+            }
+          ],
+          "virksomhedsstatus": []
+        },
+        "organisationer": [
+          {
+            "hovedtype": "FULDT_ANSVARLIG_DELTAGERE",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Interessenter",
+                    "periode": {
+                      "gyldigFra": "2014-08-01",
+                      "gyldigTil": null
+                    },
+                    "sidstOpdateret": null
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "INTERESSENTER",
+                        "periode": {
+                          "gyldigFra": "2014-08-01",
+                          "gyldigTil": "2018-10-10"
+                        },
+                        "sidstOpdateret": "2018-10-10T12:49:31.000+02:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Interessenter",
+                "periode": {
+                  "gyldigFra": null,
+                  "gyldigTil": null
+                },
+                "sidstOpdateret": null
+              }
+            ],
+            "enhedsNummerOrganisation": 0
+          }
+        ]
+      }
+    ],
+    "deltagerperson_metadata": {
+      "nyesteKontaktoplysninger": [],
+      "nyesteBeliggenhedsadresse": {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": null,
+        "periode": {
+          "gyldigFra": "2007-01-01",
+          "gyldigTil": null
+        },
+        "vejkode": null,
+        "vejnavn": null,
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": null,
+        "husnummerFra": null,
+        "husnummerTil": null,
+        "postdistrikt": null,
+        "sidstOpdateret": "2021-08-17T18:20:06.000+02:00",
+        "sidstValideret": null
+      }
+    },
+    "samt_id": "4",
+    "fejl_registreret": false,
+    "data_adgang": "0",
+    "enheds_nummer": "195181",
+    "enhedstype": "PERSON",
+    "sidst_opdateret": "2021-10-10T11:10:31.000Z",
+    "fejl_ved_indlaesning": false,
+    "naermeste_fremtidige_dato": null,
+    "fejl_beskrivelse": null,
+    "virknings_aktoer": "PO",
+    "septima_hash86": "hs2Cx+xT87yT7bfzDH8vZa6GBAKRgV7YzhSZSVb/56T+zmHJTBUh4be07XkJ++yMJpYEGZYgS85YKMcN91bHEw",
+    "septima_serial": "45"
+  },
+  {
+    "forretningsnoegle": null,
+    "navne": [
+      {
+        "navn": "John Ferslev",
+        "periode": {
+          "gyldigFra": null,
+          "gyldigTil": null
+        },
+        "sidstOpdateret": null
+      }
+    ],
+    "adresse_hemmelig": false,
+    "adresse_hemmelig_undtagelse": false,
+    "adresse_opdatering_ophoert": true,
+    "postadresse": [],
+    "beliggenhedsadresse": [
+      {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": null,
+        "periode": {
+          "gyldigFra": "2019-12-11",
+          "gyldigTil": null
+        },
+        "vejkode": null,
+        "vejnavn": null,
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": null,
+        "husnummerFra": null,
+        "husnummerTil": null,
+        "postdistrikt": null,
+        "sidstOpdateret": "2020-02-17T22:05:30.000+01:00",
+        "sidstValideret": null
+      }
+    ],
+    "forretningsadresse": [],
+    "telefon_nummer": [],
+    "telefax_nummer": [],
+    "elektronisk_post": [],
+    "stilling": "Direktør",
+    "status_kode": null,
+    "attributter": [],
+    "virksomhed_summarisk_relation": [
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "FBK REKLAMEBUREAU A/S",
+              "periode": {
+                "gyldigFra": "1985-11-20",
+                "gyldigTil": "2000-02-04"
+              },
+              "sidstOpdateret": "2013-11-22T22:12:17.000+01:00"
+            }
+          ],
+          "status": [
+            {
+              "periode": {
+                "gyldigFra": "1991-09-02",
+                "gyldigTil": "2000-02-04"
+              },
+              "statuskode": 1,
+              "statustekst": "Dekret",
+              "sidstOpdateret": "2013-11-22T22:01:37.000+01:00",
+              "kreditoplysningkode": 3,
+              "kreditoplysningtekst": "Konkurs"
+            }
+          ],
+          "cvrNummer": 10049237,
+          "regNummer": [
+            {
+              "periode": {
+                "gyldigFra": "1985-11-20",
+                "gyldigTil": "1999-10-18"
+              },
+              "regnummer": "A/S109663",
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "1985-11-20",
+                "gyldigTil": "2000-02-04"
+              },
+              "sidstOpdateret": "1999-10-16T19:49:46.000+02:00"
+            }
+          ],
+          "enhedsNummer": 4000799601,
+          "sidstOpdateret": "2020-02-17T22:05:30.000+01:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "1985-11-20",
+                "gyldigTil": "2000-02-04"
+              },
+              "sidstOpdateret": "2013-11-22T22:00:13.000+01:00",
+              "kortBeskrivelse": "A/S",
+              "langBeskrivelse": "Aktieselskab",
+              "virksomhedsformkode": 60,
+              "ansvarligDataleverandoer": "E&S"
+            }
+          ],
+          "virksomhedsstatus": [
+            {
+              "status": "NORMAL",
+              "periode": {
+                "gyldigFra": "1985-11-20",
+                "gyldigTil": "1991-09-03"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "status": "UNDER KONKURS",
+              "periode": {
+                "gyldigFra": "1991-09-04",
+                "gyldigTil": "2000-02-03"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "status": "OPLØST EFTER KONKURS",
+              "periode": {
+                "gyldigFra": "2000-02-04",
+                "gyldigTil": "2000-02-04"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ]
+        },
+        "organisationer": [
+          {
+            "hovedtype": "LEDELSESORGAN",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Bestyrelse",
+                    "periode": {
+                      "gyldigFra": "1985-11-20",
+                      "gyldigTil": "2000-02-04"
+                    },
+                    "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "formand",
+                        "periode": {
+                          "gyldigFra": "1985-11-20",
+                          "gyldigTil": "2000-02-04"
+                        },
+                        "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  },
+                  {
+                    "type": "VALGFORM",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "generalforsamling",
+                        "periode": {
+                          "gyldigFra": "1985-11-20",
+                          "gyldigTil": "2000-02-04"
+                        },
+                        "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Bestyrelse",
+                "periode": {
+                  "gyldigFra": "1985-11-20",
+                  "gyldigTil": "2000-02-04"
+                },
+                "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+              }
+            ],
+            "enhedsNummerOrganisation": 4004381459
+          }
+        ]
+      },
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "SHB 118 ApS",
+              "periode": {
+                "gyldigFra": "1986-11-03",
+                "gyldigTil": "1987-06-24"
+              },
+              "sidstOpdateret": "2015-03-19T00:00:00.000+01:00"
+            },
+            {
+              "navn": "FBK/2-SAXOV ApS",
+              "periode": {
+                "gyldigFra": "1987-06-25",
+                "gyldigTil": "1989-01-03"
+              },
+              "sidstOpdateret": "2015-03-19T00:00:00.000+01:00"
+            },
+            {
+              "navn": "SAXOV REKLAME & MARKETING ApS",
+              "periode": {
+                "gyldigFra": "1989-01-04",
+                "gyldigTil": "1996-07-05"
+              },
+              "sidstOpdateret": "2015-03-19T00:00:00.000+01:00"
+            },
+            {
+              "navn": "MARIEKØKKENET ApS",
+              "periode": {
+                "gyldigFra": "1996-07-06",
+                "gyldigTil": "1998-04-27"
+              },
+              "sidstOpdateret": "2015-03-19T00:00:00.000+01:00"
+            },
+            {
+              "navn": "P 2000 ApS",
+              "periode": {
+                "gyldigFra": "1998-04-28",
+                "gyldigTil": "1999-06-11"
+              },
+              "sidstOpdateret": "2015-03-19T00:00:00.000+01:00"
+            },
+            {
+              "navn": "P 2010 HOLDING ApS",
+              "periode": {
+                "gyldigFra": "1999-06-12",
+                "gyldigTil": "2007-03-06"
+              },
+              "sidstOpdateret": "2015-03-19T00:00:00.000+01:00"
+            }
+          ],
+          "status": [
+            {
+              "periode": {
+                "gyldigFra": "2002-11-15",
+                "gyldigTil": "2003-08-14"
+              },
+              "statuskode": 1,
+              "statustekst": "Dekret",
+              "sidstOpdateret": "2002-11-15T19:37:19.000+01:00",
+              "kreditoplysningkode": 3,
+              "kreditoplysningtekst": "Konkurs"
+            },
+            {
+              "periode": {
+                "gyldigFra": "2003-08-15",
+                "gyldigTil": "2007-03-06"
+              },
+              "statuskode": 5,
+              "statustekst": "Indkaldelse til fordringsprøvelse",
+              "sidstOpdateret": "2013-11-22T22:01:37.000+01:00",
+              "kreditoplysningkode": 3,
+              "kreditoplysningtekst": "Konkurs"
+            }
+          ],
+          "cvrNummer": 10473683,
+          "regNummer": [
+            {
+              "periode": {
+                "gyldigFra": "1986-11-03",
+                "gyldigTil": "1999-10-18"
+              },
+              "regnummer": "ApS156058",
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "1986-11-03",
+                "gyldigTil": "2007-03-06"
+              },
+              "sidstOpdateret": "1999-10-16T19:49:47.000+02:00"
+            }
+          ],
+          "enhedsNummer": 4000800698,
+          "sidstOpdateret": "2019-01-09T19:34:50.000+01:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "1986-11-03",
+                "gyldigTil": "2007-03-06"
+              },
+              "sidstOpdateret": "2013-11-22T22:00:13.000+01:00",
+              "kortBeskrivelse": "APS",
+              "langBeskrivelse": "Anpartsselskab",
+              "virksomhedsformkode": 80,
+              "ansvarligDataleverandoer": "E&S"
+            }
+          ],
+          "virksomhedsstatus": [
+            {
+              "status": "NORMAL",
+              "periode": {
+                "gyldigFra": "1986-11-03",
+                "gyldigTil": "2002-09-29"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "status": "UNDER TVANGSOPLØSNING",
+              "periode": {
+                "gyldigFra": "2002-09-30",
+                "gyldigTil": "2002-11-06"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "status": "UNDER KONKURS",
+              "periode": {
+                "gyldigFra": "2002-11-07",
+                "gyldigTil": "2007-03-05"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "status": "OPLØST EFTER KONKURS",
+              "periode": {
+                "gyldigFra": "2007-03-06",
+                "gyldigTil": "2007-03-06"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ]
+        },
+        "organisationer": [
+          {
+            "hovedtype": "LEDELSESORGAN",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Bestyrelse",
+                    "periode": {
+                      "gyldigFra": "1986-11-03",
+                      "gyldigTil": "2007-03-06"
+                    },
+                    "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "BESTYRELSE",
+                        "periode": {
+                          "gyldigFra": "1986-11-03",
+                          "gyldigTil": "1989-01-03"
+                        },
+                        "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  },
+                  {
+                    "type": "VALGFORM",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "generalforsamling",
+                        "periode": {
+                          "gyldigFra": "1986-11-03",
+                          "gyldigTil": "1989-01-03"
+                        },
+                        "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Bestyrelse",
+                "periode": {
+                  "gyldigFra": "1986-11-03",
+                  "gyldigTil": "2007-03-06"
+                },
+                "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+              }
+            ],
+            "enhedsNummerOrganisation": 4004382311
+          }
+        ]
+      },
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "VICH 5384 ApS",
+              "periode": {
+                "gyldigFra": "1998-03-01",
+                "gyldigTil": "1998-09-25"
+              },
+              "sidstOpdateret": "2015-03-19T00:00:00.000+01:00"
+            },
+            {
+              "navn": "BUREAUGRUPPEN UPSTAIRS ApS",
+              "periode": {
+                "gyldigFra": "1998-09-26",
+                "gyldigTil": "2004-03-12"
+              },
+              "sidstOpdateret": "2015-03-19T00:00:00.000+01:00"
+            }
+          ],
+          "status": [],
+          "cvrNummer": 20757884,
+          "regNummer": [
+            {
+              "periode": {
+                "gyldigFra": "1998-03-01",
+                "gyldigTil": "1999-10-18"
+              },
+              "regnummer": "ApS244769",
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "1998-03-01",
+                "gyldigTil": "2004-03-12"
+              },
+              "sidstOpdateret": "1999-10-16T19:50:05.000+02:00"
+            }
+          ],
+          "enhedsNummer": 4001040729,
+          "sidstOpdateret": "2019-01-09T20:19:00.000+01:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "1998-03-01",
+                "gyldigTil": "2004-03-12"
+              },
+              "sidstOpdateret": "2013-11-22T22:00:13.000+01:00",
+              "kortBeskrivelse": "APS",
+              "langBeskrivelse": "Anpartsselskab",
+              "virksomhedsformkode": 80,
+              "ansvarligDataleverandoer": "E&S"
+            }
+          ],
+          "virksomhedsstatus": [
+            {
+              "status": "NORMAL",
+              "periode": {
+                "gyldigFra": "1998-03-01",
+                "gyldigTil": "2004-02-01"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "status": "UNDER TVANGSOPLØSNING",
+              "periode": {
+                "gyldigFra": "2004-02-02",
+                "gyldigTil": "2004-03-11"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "status": "TVANGSOPLØST",
+              "periode": {
+                "gyldigFra": "2004-03-12",
+                "gyldigTil": "2004-03-12"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ]
+        },
+        "organisationer": [
+          {
+            "hovedtype": "LEDELSESORGAN",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Bestyrelse",
+                    "periode": {
+                      "gyldigFra": "1998-03-01",
+                      "gyldigTil": "2004-03-12"
+                    },
+                    "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "BESTYRELSE",
+                        "periode": {
+                          "gyldigFra": "1998-09-25",
+                          "gyldigTil": "2004-03-12"
+                        },
+                        "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  },
+                  {
+                    "type": "VALGFORM",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "generalforsamling",
+                        "periode": {
+                          "gyldigFra": "1998-09-25",
+                          "gyldigTil": "2004-03-12"
+                        },
+                        "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Bestyrelse",
+                "periode": {
+                  "gyldigFra": "1998-03-01",
+                  "gyldigTil": "2004-03-12"
+                },
+                "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+              }
+            ],
+            "enhedsNummerOrganisation": 4004581990
+          },
+          {
+            "hovedtype": "LEDELSESORGAN",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Direktion",
+                    "periode": {
+                      "gyldigFra": "1998-03-01",
+                      "gyldigTil": "2004-03-12"
+                    },
+                    "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "DIREKTION",
+                        "periode": {
+                          "gyldigFra": "1999-01-12",
+                          "gyldigTil": "2004-03-12"
+                        },
+                        "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Direktion",
+                "periode": {
+                  "gyldigFra": "1998-03-01",
+                  "gyldigTil": "2004-03-12"
+                },
+                "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+              }
+            ],
+            "enhedsNummerOrganisation": 4004581991
+          }
+        ]
+      },
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "Grafisk Reklameproduktion v/john Ferslew",
+              "periode": {
+                "gyldigFra": "2014-07-01",
+                "gyldigTil": "2015-12-30"
+              },
+              "sidstOpdateret": "2016-01-05T21:22:47.000+01:00"
+            }
+          ],
+          "status": [],
+          "cvrNummer": 35924205,
+          "regNummer": [],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "2014-07-01",
+                "gyldigTil": "2015-12-30"
+              },
+              "sidstOpdateret": "2016-01-05T21:22:47.000+01:00"
+            }
+          ],
+          "enhedsNummer": 4002036547,
+          "sidstOpdateret": "2016-01-05T21:22:47.000+01:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "2014-07-01",
+                "gyldigTil": "2015-12-30"
+              },
+              "sidstOpdateret": "2016-01-05T21:22:47.000+01:00",
+              "kortBeskrivelse": "ENK",
+              "langBeskrivelse": "Enkeltmandsvirksomhed",
+              "virksomhedsformkode": 10,
+              "ansvarligDataleverandoer": "T&S"
+            }
+          ],
+          "virksomhedsstatus": []
+        },
+        "organisationer": [
+          {
+            "hovedtype": "FULDT_ANSVARLIG_DELTAGERE",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Interessenter",
+                    "periode": {
+                      "gyldigFra": "2014-07-01",
+                      "gyldigTil": null
+                    },
+                    "sidstOpdateret": null
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "INTERESSENTER",
+                        "periode": {
+                          "gyldigFra": "2014-07-01",
+                          "gyldigTil": "2015-12-30"
+                        },
+                        "sidstOpdateret": "2016-01-05T21:22:47.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Interessenter",
+                "periode": {
+                  "gyldigFra": null,
+                  "gyldigTil": null
+                },
+                "sidstOpdateret": null
+              }
+            ],
+            "enhedsNummerOrganisation": 0
+          }
+        ]
+      },
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "JOHN FERSLEV ApS",
+              "periode": {
+                "gyldigFra": "1982-10-28",
+                "gyldigTil": "1993-01-12"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ],
+          "status": [],
+          "cvrNummer": 69717713,
+          "regNummer": [
+            {
+              "periode": {
+                "gyldigFra": "1982-10-28",
+                "gyldigTil": "1993-01-04"
+              },
+              "regnummer": "ApS56786",
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "1982-10-28",
+                "gyldigTil": "1993-01-04"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ],
+          "enhedsNummer": 4004334469,
+          "sidstOpdateret": "2020-02-17T22:05:30.000+01:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "1982-10-28",
+                "gyldigTil": "1993-01-04"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00",
+              "kortBeskrivelse": "APS",
+              "langBeskrivelse": "Anpartsselskab",
+              "virksomhedsformkode": 80,
+              "ansvarligDataleverandoer": "E&S"
+            }
+          ],
+          "virksomhedsstatus": [
+            {
+              "status": "NORMAL",
+              "periode": {
+                "gyldigFra": "1982-10-28",
+                "gyldigTil": "1992-05-22"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "status": "UNDER TVANGSOPLØSNING",
+              "periode": {
+                "gyldigFra": "1992-05-23",
+                "gyldigTil": "1993-01-03"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "status": "TVANGSOPLØST",
+              "periode": {
+                "gyldigFra": "1993-01-04",
+                "gyldigTil": "1993-01-04"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ]
+        },
+        "organisationer": [
+          {
+            "hovedtype": "LEDELSESORGAN",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Direktion",
+                    "periode": {
+                      "gyldigFra": "1982-10-28",
+                      "gyldigTil": "1993-01-04"
+                    },
+                    "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "DIREKTION",
+                        "periode": {
+                          "gyldigFra": "1982-10-28",
+                          "gyldigTil": "1992-05-23"
+                        },
+                        "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Direktion",
+                "periode": {
+                  "gyldigFra": "1982-10-28",
+                  "gyldigTil": "1993-01-04"
+                },
+                "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+              }
+            ],
+            "enhedsNummerOrganisation": 4005732433
+          }
+        ]
+      },
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "ApS KBIL 9 NR. 1521",
+              "periode": {
+                "gyldigFra": "1987-11-01",
+                "gyldigTil": "1988-02-05"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "navn": "FBK/3 - LEIF HANSEN ApS",
+              "periode": {
+                "gyldigFra": "1988-02-06",
+                "gyldigTil": "1990-05-02"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "navn": "LEIF HANSEN MARKEDSFØRING ApS",
+              "periode": {
+                "gyldigFra": "1990-05-03",
+                "gyldigTil": "1990-10-11"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "navn": "LEIF HANSEN MARKETING ApS",
+              "periode": {
+                "gyldigFra": "1990-10-12",
+                "gyldigTil": "1996-01-23"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ],
+          "status": [],
+          "cvrNummer": 11526233,
+          "regNummer": [
+            {
+              "periode": {
+                "gyldigFra": "1987-11-01",
+                "gyldigTil": "1996-01-15"
+              },
+              "regnummer": "ApS164546",
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "1987-11-01",
+                "gyldigTil": "1996-01-15"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ],
+          "enhedsNummer": 4004350030,
+          "sidstOpdateret": "2018-10-23T12:27:35.000+02:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "1987-11-01",
+                "gyldigTil": "1996-01-15"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00",
+              "kortBeskrivelse": "APS",
+              "langBeskrivelse": "Anpartsselskab",
+              "virksomhedsformkode": 80,
+              "ansvarligDataleverandoer": "E&S"
+            }
+          ],
+          "virksomhedsstatus": [
+            {
+              "status": "NORMAL",
+              "periode": {
+                "gyldigFra": "1987-11-01",
+                "gyldigTil": "1990-11-19"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "status": "NORMAL",
+              "periode": {
+                "gyldigFra": "1990-11-20",
+                "gyldigTil": "1995-11-07"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "status": "UNDER TVANGSOPLØSNING",
+              "periode": {
+                "gyldigFra": "1995-11-08",
+                "gyldigTil": "1996-01-14"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "status": "TVANGSOPLØST",
+              "periode": {
+                "gyldigFra": "1996-01-15",
+                "gyldigTil": "1996-01-15"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ]
+        },
+        "organisationer": [
+          {
+            "hovedtype": "LEDELSESORGAN",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Bestyrelse",
+                    "periode": {
+                      "gyldigFra": "1987-11-01",
+                      "gyldigTil": "1996-01-15"
+                    },
+                    "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "BESTYRELSE",
+                        "periode": {
+                          "gyldigFra": "1987-11-01",
+                          "gyldigTil": "1990-05-02"
+                        },
+                        "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  },
+                  {
+                    "type": "VALGFORM",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "generalforsamling",
+                        "periode": {
+                          "gyldigFra": "1987-11-01",
+                          "gyldigTil": "1990-05-02"
+                        },
+                        "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Bestyrelse",
+                "periode": {
+                  "gyldigFra": "1987-11-01",
+                  "gyldigTil": "1996-01-15"
+                },
+                "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+              }
+            ],
+            "enhedsNummerOrganisation": 4005779512
+          }
+        ]
+      }
+    ],
+    "deltagerperson_metadata": {
+      "nyesteKontaktoplysninger": [],
+      "nyesteBeliggenhedsadresse": {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": null,
+        "periode": {
+          "gyldigFra": "2019-12-11",
+          "gyldigTil": null
+        },
+        "vejkode": null,
+        "vejnavn": null,
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": null,
+        "husnummerFra": null,
+        "husnummerTil": null,
+        "postdistrikt": null,
+        "sidstOpdateret": "2020-02-17T22:05:30.000+01:00",
+        "sidstValideret": null
+      }
+    },
+    "samt_id": "3",
+    "fejl_registreret": false,
+    "data_adgang": "0",
+    "enheds_nummer": "228936",
+    "enhedstype": "PERSON",
+    "sidst_opdateret": "2020-02-17T21:05:30.000Z",
+    "fejl_ved_indlaesning": false,
+    "naermeste_fremtidige_dato": null,
+    "fejl_beskrivelse": null,
+    "virknings_aktoer": "PO",
+    "septima_hash86": "wbg8ifnxpK4P0ig8lGF6Vl6afJaMRw97WGEZlThmSpkTA+Y2Olu6yyvbDRifOAN0kPXLaFFD8nIaNnHNHd8mKw",
+    "septima_serial": "51"
+  },
+  {
+    "forretningsnoegle": null,
+    "navne": [
+      {
+        "navn": "Mads Kristensen",
+        "periode": {
+          "gyldigFra": null,
+          "gyldigTil": null
+        },
+        "sidstOpdateret": null
+      }
+    ],
+    "adresse_hemmelig": false,
+    "adresse_hemmelig_undtagelse": false,
+    "adresse_opdatering_ophoert": true,
+    "postadresse": [],
+    "beliggenhedsadresse": [],
+    "forretningsadresse": [],
+    "telefon_nummer": [],
+    "telefax_nummer": [],
+    "elektronisk_post": [],
+    "stilling": null,
+    "status_kode": null,
+    "attributter": [],
+    "virksomhed_summarisk_relation": [
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "JØRGEN KRISTENSEN. HOLSTEBRO A/S",
+              "periode": {
+                "gyldigFra": "1979-03-22",
+                "gyldigTil": "2015-10-21"
+              },
+              "sidstOpdateret": "2015-10-22T13:54:52.000+02:00"
+            }
+          ],
+          "status": [
+            {
+              "periode": {
+                "gyldigFra": "2014-07-28",
+                "gyldigTil": "2015-06-01"
+              },
+              "statuskode": 1,
+              "statustekst": "Dekret",
+              "sidstOpdateret": "2015-06-02T01:29:33.000+02:00",
+              "kreditoplysningkode": 3,
+              "kreditoplysningtekst": "Konkurs"
+            },
+            {
+              "periode": {
+                "gyldigFra": "2015-06-02",
+                "gyldigTil": "2015-10-06"
+              },
+              "statuskode": 5,
+              "statustekst": "Indkaldelse til fordringsprøvelse",
+              "sidstOpdateret": "2015-10-07T01:44:06.000+02:00",
+              "kreditoplysningkode": 3,
+              "kreditoplysningtekst": "Konkurs"
+            },
+            {
+              "periode": {
+                "gyldigFra": "2015-10-07",
+                "gyldigTil": null
+              },
+              "statuskode": 3,
+              "statustekst": "Regnskab og boafslutning",
+              "sidstOpdateret": "2015-12-18T11:14:46.000+01:00",
+              "kreditoplysningkode": 3,
+              "kreditoplysningtekst": "Konkurs"
+            }
+          ],
+          "cvrNummer": 85865412,
+          "regNummer": [
+            {
+              "periode": {
+                "gyldigFra": "1979-03-22",
+                "gyldigTil": "1999-10-18"
+              },
+              "regnummer": "A/S111517",
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "1979-03-22",
+                "gyldigTil": "2015-10-21"
+              },
+              "sidstOpdateret": "2015-10-22T13:54:52.000+02:00"
+            }
+          ],
+          "enhedsNummer": 4001226484,
+          "sidstOpdateret": "2019-04-25T05:18:28.000+02:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "1979-03-22",
+                "gyldigTil": "2015-10-21"
+              },
+              "sidstOpdateret": "2015-10-22T13:54:52.000+02:00",
+              "kortBeskrivelse": "A/S",
+              "langBeskrivelse": "Aktieselskab",
+              "virksomhedsformkode": 60,
+              "ansvarligDataleverandoer": "E&S"
+            }
+          ],
+          "virksomhedsstatus": [
+            {
+              "status": "NORMAL",
+              "periode": {
+                "gyldigFra": "1979-03-22",
+                "gyldigTil": "2014-07-27"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "status": "UNDER KONKURS",
+              "periode": {
+                "gyldigFra": "2014-07-28",
+                "gyldigTil": "2015-10-20"
+              },
+              "sidstOpdateret": "2015-10-22T13:54:51.000+02:00"
+            },
+            {
+              "status": "OPLØST EFTER KONKURS",
+              "periode": {
+                "gyldigFra": "2015-10-21",
+                "gyldigTil": "2015-10-21"
+              },
+              "sidstOpdateret": "2015-10-22T13:54:52.000+02:00"
+            }
+          ]
+        },
+        "organisationer": [
+          {
+            "hovedtype": "LEDELSESORGAN",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Bestyrelse",
+                    "periode": {
+                      "gyldigFra": "1979-03-22",
+                      "gyldigTil": "2015-10-21"
+                    },
+                    "sidstOpdateret": "2015-10-22T13:54:52.000+02:00"
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "BESTYRELSE",
+                        "periode": {
+                          "gyldigFra": "1979-03-22",
+                          "gyldigTil": "2014-07-28"
+                        },
+                        "sidstOpdateret": "2015-03-06T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  },
+                  {
+                    "type": "VALGFORM",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "generalforsamling",
+                        "periode": {
+                          "gyldigFra": "1979-03-22",
+                          "gyldigTil": "2014-07-28"
+                        },
+                        "sidstOpdateret": "2015-03-06T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Bestyrelse",
+                "periode": {
+                  "gyldigFra": "1979-03-22",
+                  "gyldigTil": "2015-10-21"
+                },
+                "sidstOpdateret": "2015-10-22T13:54:52.000+02:00"
+              }
+            ],
+            "enhedsNummerOrganisation": 4004722797
+          },
+          {
+            "hovedtype": "LEDELSESORGAN",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Direktion",
+                    "periode": {
+                      "gyldigFra": "1979-03-22",
+                      "gyldigTil": "2015-10-21"
+                    },
+                    "sidstOpdateret": "2015-10-22T13:54:52.000+02:00"
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "DIREKTION",
+                        "periode": {
+                          "gyldigFra": "1979-03-22",
+                          "gyldigTil": "2014-07-28"
+                        },
+                        "sidstOpdateret": "2015-03-06T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Direktion",
+                "periode": {
+                  "gyldigFra": "1979-03-22",
+                  "gyldigTil": "2015-10-21"
+                },
+                "sidstOpdateret": "2015-10-22T13:54:52.000+02:00"
+              }
+            ],
+            "enhedsNummerOrganisation": 4004722798
+          }
+        ]
+      },
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "m&m kasseapparater",
+              "periode": {
+                "gyldigFra": "2014-06-25",
+                "gyldigTil": "2018-06-30"
+              },
+              "sidstOpdateret": "2018-10-05T10:45:57.000+02:00"
+            }
+          ],
+          "status": [],
+          "cvrNummer": 35951121,
+          "regNummer": [],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "2014-06-25",
+                "gyldigTil": "2018-06-30"
+              },
+              "sidstOpdateret": "2018-10-05T10:45:57.000+02:00"
+            }
+          ],
+          "enhedsNummer": 4002040807,
+          "sidstOpdateret": "2019-01-15T21:10:19.000+01:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "2014-06-25",
+                "gyldigTil": "2018-06-30"
+              },
+              "sidstOpdateret": "2018-10-05T10:45:57.000+02:00",
+              "kortBeskrivelse": "ENK",
+              "langBeskrivelse": "Enkeltmandsvirksomhed",
+              "virksomhedsformkode": 10,
+              "ansvarligDataleverandoer": "T&S"
+            }
+          ],
+          "virksomhedsstatus": []
+        },
+        "organisationer": [
+          {
+            "hovedtype": "FULDT_ANSVARLIG_DELTAGERE",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Interessenter",
+                    "periode": {
+                      "gyldigFra": "2014-06-25",
+                      "gyldigTil": null
+                    },
+                    "sidstOpdateret": null
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "INTERESSENTER",
+                        "periode": {
+                          "gyldigFra": "2014-06-25",
+                          "gyldigTil": "2018-06-30"
+                        },
+                        "sidstOpdateret": "2018-10-05T10:45:57.000+02:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Interessenter",
+                "periode": {
+                  "gyldigFra": null,
+                  "gyldigTil": null
+                },
+                "sidstOpdateret": null
+              }
+            ],
+            "enhedsNummerOrganisation": 0
+          }
+        ]
+      }
+    ],
+    "deltagerperson_metadata": {
+      "nyesteKontaktoplysninger": [],
+      "nyesteBeliggenhedsadresse": null
+    },
+    "samt_id": "3",
+    "fejl_registreret": false,
+    "data_adgang": "0",
+    "enheds_nummer": "238479",
+    "enhedstype": "PERSON",
+    "sidst_opdateret": "2021-06-30T11:18:18.000Z",
+    "fejl_ved_indlaesning": false,
+    "naermeste_fremtidige_dato": null,
+    "fejl_beskrivelse": null,
+    "virknings_aktoer": "PO",
+    "septima_hash86": "gFhGL1zkhvah6hf+MtZ17TOtUpBmP7h7DovGh2HgJNRnA3W+DwSKgeiuvaHPCjaFsOIKINyOTTFENQNSSmG0cw",
+    "septima_serial": "53"
+  },
+  {
+    "forretningsnoegle": null,
+    "navne": [
+      {
+        "navn": "Niels Peter Georg Helskov",
+        "periode": {
+          "gyldigFra": null,
+          "gyldigTil": null
+        },
+        "sidstOpdateret": null
+      }
+    ],
+    "adresse_hemmelig": false,
+    "adresse_hemmelig_undtagelse": false,
+    "adresse_opdatering_ophoert": true,
+    "postadresse": [],
+    "beliggenhedsadresse": [
+      {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": null,
+        "periode": {
+          "gyldigFra": "2007-01-01",
+          "gyldigTil": null
+        },
+        "vejkode": null,
+        "vejnavn": null,
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": null,
+        "husnummerFra": null,
+        "husnummerTil": null,
+        "postdistrikt": null,
+        "sidstOpdateret": "2021-08-17T22:07:57.000+02:00",
+        "sidstValideret": null
+      }
+    ],
+    "forretningsadresse": [],
+    "telefon_nummer": [],
+    "telefax_nummer": [],
+    "elektronisk_post": [],
+    "stilling": null,
+    "status_kode": null,
+    "attributter": [],
+    "virksomhed_summarisk_relation": [
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "GURLI OG PAUL MADSENS FOND",
+              "periode": {
+                "gyldigFra": "1999-10-16",
+                "gyldigTil": null
+              },
+              "sidstOpdateret": "2013-11-22T22:09:56.000+01:00"
+            }
+          ],
+          "status": [],
+          "cvrNummer": 11869807,
+          "regNummer": [
+            {
+              "periode": {
+                "gyldigFra": "1987-12-14",
+                "gyldigTil": "1999-10-18"
+              },
+              "regnummer": "ERF164388",
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "1999-10-16",
+                "gyldigTil": null
+              },
+              "sidstOpdateret": "1999-10-16T19:49:49.000+02:00"
+            }
+          ],
+          "enhedsNummer": 4000841217,
+          "sidstOpdateret": "2022-03-17T03:36:20.000+01:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "1999-10-16",
+                "gyldigTil": null
+              },
+              "sidstOpdateret": "2013-11-22T21:57:52.000+01:00",
+              "kortBeskrivelse": "EFO",
+              "langBeskrivelse": "Erhvervsdrivende fond",
+              "virksomhedsformkode": 100,
+              "ansvarligDataleverandoer": "E&S"
+            }
+          ],
+          "virksomhedsstatus": [
+            {
+              "status": "NORMAL",
+              "periode": {
+                "gyldigFra": "1987-12-14",
+                "gyldigTil": null
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ]
+        },
+        "organisationer": [
+          {
+            "hovedtype": "LEDELSESORGAN",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Bestyrelse",
+                    "periode": {
+                      "gyldigFra": "1987-12-14",
+                      "gyldigTil": null
+                    },
+                    "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "BESTYRELSESMEDLEM",
+                        "periode": {
+                          "gyldigFra": "1987-12-14",
+                          "gyldigTil": "1990-10-11"
+                        },
+                        "sidstOpdateret": "2022-03-08T16:01:56.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  },
+                  {
+                    "type": "VALGFORM",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "udpeget i henhold til vedtægt",
+                        "periode": {
+                          "gyldigFra": "1987-12-14",
+                          "gyldigTil": "1990-10-11"
+                        },
+                        "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Bestyrelse",
+                "periode": {
+                  "gyldigFra": "1987-12-14",
+                  "gyldigTil": null
+                },
+                "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+              }
+            ],
+            "enhedsNummerOrganisation": 4004410389
+          }
+        ]
+      },
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "EJENDOMMEN NDR RINGGADE 67-73 I/S",
+              "periode": {
+                "gyldigFra": "1985-09-25",
+                "gyldigTil": "2018-12-31"
+              },
+              "sidstOpdateret": "2019-01-21T18:17:25.000+01:00"
+            }
+          ],
+          "status": [],
+          "cvrNummer": 79510114,
+          "regNummer": [],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "1985-09-25",
+                "gyldigTil": "2018-12-31"
+              },
+              "sidstOpdateret": "2019-01-21T18:17:25.000+01:00"
+            }
+          ],
+          "enhedsNummer": 4001205961,
+          "sidstOpdateret": "2019-09-13T10:36:01.000+02:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "1985-09-25",
+                "gyldigTil": "2018-12-31"
+              },
+              "sidstOpdateret": "2019-01-21T18:17:25.000+01:00",
+              "kortBeskrivelse": "I/S",
+              "langBeskrivelse": "Interessentskab",
+              "virksomhedsformkode": 30,
+              "ansvarligDataleverandoer": "T&S"
+            }
+          ],
+          "virksomhedsstatus": []
+        },
+        "organisationer": [
+          {
+            "hovedtype": "FULDT_ANSVARLIG_DELTAGERE",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Interessenter",
+                    "periode": {
+                      "gyldigFra": "1985-09-25",
+                      "gyldigTil": null
+                    },
+                    "sidstOpdateret": null
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "INTERESSENTER",
+                        "periode": {
+                          "gyldigFra": "2014-01-01",
+                          "gyldigTil": "2018-12-31"
+                        },
+                        "sidstOpdateret": "2019-01-21T18:17:25.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Interessenter",
+                "periode": {
+                  "gyldigFra": null,
+                  "gyldigTil": null
+                },
+                "sidstOpdateret": null
+              }
+            ],
+            "enhedsNummerOrganisation": 0
+          }
+        ]
+      },
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "EJD STOCKHOLMSGADE 25 I/S",
+              "periode": {
+                "gyldigFra": "1985-09-25",
+                "gyldigTil": "2018-07-31"
+              },
+              "sidstOpdateret": "2018-09-08T15:08:06.000+02:00"
+            }
+          ],
+          "status": [],
+          "cvrNummer": 79536318,
+          "regNummer": [],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "1985-09-25",
+                "gyldigTil": "2018-07-31"
+              },
+              "sidstOpdateret": "2018-09-08T15:08:06.000+02:00"
+            }
+          ],
+          "enhedsNummer": 4001206294,
+          "sidstOpdateret": "2019-09-13T10:36:01.000+02:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "1985-09-25",
+                "gyldigTil": "2018-07-31"
+              },
+              "sidstOpdateret": "2018-09-08T15:08:06.000+02:00",
+              "kortBeskrivelse": "I/S",
+              "langBeskrivelse": "Interessentskab",
+              "virksomhedsformkode": 30,
+              "ansvarligDataleverandoer": "T&S"
+            }
+          ],
+          "virksomhedsstatus": []
+        },
+        "organisationer": [
+          {
+            "hovedtype": "FULDT_ANSVARLIG_DELTAGERE",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Interessenter",
+                    "periode": {
+                      "gyldigFra": "1985-09-25",
+                      "gyldigTil": null
+                    },
+                    "sidstOpdateret": null
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "INTERESSENTER",
+                        "periode": {
+                          "gyldigFra": "1991-12-31",
+                          "gyldigTil": "2018-07-31"
+                        },
+                        "sidstOpdateret": "2018-09-08T15:08:06.000+02:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Interessenter",
+                "periode": {
+                  "gyldigFra": null,
+                  "gyldigTil": null
+                },
+                "sidstOpdateret": null
+              }
+            ],
+            "enhedsNummerOrganisation": 0
+          }
+        ]
+      }
+    ],
+    "deltagerperson_metadata": {
+      "nyesteKontaktoplysninger": [],
+      "nyesteBeliggenhedsadresse": {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": null,
+        "periode": {
+          "gyldigFra": "2007-01-01",
+          "gyldigTil": null
+        },
+        "vejkode": null,
+        "vejnavn": null,
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": null,
+        "husnummerFra": null,
+        "husnummerTil": null,
+        "postdistrikt": null,
+        "sidstOpdateret": "2021-08-17T22:07:57.000+02:00",
+        "sidstValideret": null
+      }
+    },
+    "samt_id": "6",
+    "fejl_registreret": false,
+    "data_adgang": "0",
+    "enheds_nummer": "261981",
+    "enhedstype": "PERSON",
+    "sidst_opdateret": "2022-01-01T12:12:17.000Z",
+    "fejl_ved_indlaesning": false,
+    "naermeste_fremtidige_dato": null,
+    "fejl_beskrivelse": null,
+    "virknings_aktoer": "PO",
+    "septima_hash86": "V89MtBq5a9tOGk+l/GPjTHuKS05cs9UGAXLVZJ802KEIF7T3smvXGQeg1ImiUrHar+kg4WBhM8YNNLOUF8SBdw",
+    "septima_serial": "60"
+  },
+  {
+    "forretningsnoegle": null,
+    "navne": [
+      {
+        "navn": "Hanne Zimmermann Jensen",
+        "periode": {
+          "gyldigFra": null,
+          "gyldigTil": null
+        },
+        "sidstOpdateret": null
+      }
+    ],
+    "adresse_hemmelig": false,
+    "adresse_hemmelig_undtagelse": false,
+    "adresse_opdatering_ophoert": true,
+    "postadresse": [],
+    "beliggenhedsadresse": [
+      {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": null,
+        "periode": {
+          "gyldigFra": "2015-12-26",
+          "gyldigTil": null
+        },
+        "vejkode": null,
+        "vejnavn": null,
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": null,
+        "husnummerFra": null,
+        "husnummerTil": null,
+        "postdistrikt": null,
+        "sidstOpdateret": "2019-01-09T20:10:52.000+01:00",
+        "sidstValideret": null
+      }
+    ],
+    "forretningsadresse": [],
+    "telefon_nummer": [],
+    "telefax_nummer": [],
+    "elektronisk_post": [],
+    "stilling": null,
+    "status_kode": null,
+    "attributter": [],
+    "virksomhed_summarisk_relation": [
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "AUT. EL-INSTALLATØR               N. CARLO JENSEN A/S",
+              "periode": {
+                "gyldigFra": "1972-06-28",
+                "gyldigTil": "2012-09-12"
+              },
+              "sidstOpdateret": "2013-11-22T22:09:56.000+01:00"
+            },
+            {
+              "navn": "ASX 4050 A/S",
+              "periode": {
+                "gyldigFra": "2012-09-13",
+                "gyldigTil": "2014-11-24"
+              },
+              "sidstOpdateret": "2015-06-10T00:00:00.000+02:00"
+            }
+          ],
+          "status": [
+            {
+              "periode": {
+                "gyldigFra": "2012-10-23",
+                "gyldigTil": "2014-04-14"
+              },
+              "statuskode": 1,
+              "statustekst": "Dekret",
+              "sidstOpdateret": "2014-04-15T02:15:19.000+02:00",
+              "kreditoplysningkode": 3,
+              "kreditoplysningtekst": "Konkurs"
+            },
+            {
+              "periode": {
+                "gyldigFra": "2014-04-15",
+                "gyldigTil": "2014-10-27"
+              },
+              "statuskode": 5,
+              "statustekst": "Indkaldelse til fordringsprøvelse",
+              "sidstOpdateret": "2015-04-28T18:24:55.000+02:00",
+              "kreditoplysningkode": 3,
+              "kreditoplysningtekst": "Konkurs"
+            },
+            {
+              "periode": {
+                "gyldigFra": "2014-10-28",
+                "gyldigTil": null
+              },
+              "statuskode": 3,
+              "statustekst": "Regnskab og boafslutning",
+              "sidstOpdateret": "2015-04-28T18:24:55.000+02:00",
+              "kreditoplysningkode": 3,
+              "kreditoplysningtekst": "Konkurs"
+            }
+          ],
+          "cvrNummer": 39499517,
+          "regNummer": [
+            {
+              "periode": {
+                "gyldigFra": "1972-06-28",
+                "gyldigTil": "1999-10-18"
+              },
+              "regnummer": "A/S52320",
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "1972-06-28",
+                "gyldigTil": "2014-11-24"
+              },
+              "sidstOpdateret": "2015-06-10T00:00:00.000+02:00"
+            }
+          ],
+          "enhedsNummer": 2260892,
+          "sidstOpdateret": "2019-11-25T11:25:37.000+01:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "1972-06-28",
+                "gyldigTil": "2014-11-24"
+              },
+              "sidstOpdateret": "2015-06-10T00:00:00.000+02:00",
+              "kortBeskrivelse": "A/S",
+              "langBeskrivelse": "Aktieselskab",
+              "virksomhedsformkode": 60,
+              "ansvarligDataleverandoer": "E&S"
+            }
+          ],
+          "virksomhedsstatus": [
+            {
+              "status": "NORMAL",
+              "periode": {
+                "gyldigFra": "1972-06-28",
+                "gyldigTil": "2012-10-16"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "status": "UNDER KONKURS",
+              "periode": {
+                "gyldigFra": "2012-10-17",
+                "gyldigTil": "2014-11-23"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "status": "OPLØST EFTER KONKURS",
+              "periode": {
+                "gyldigFra": "2014-11-24",
+                "gyldigTil": "2014-11-24"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ]
+        },
+        "organisationer": [
+          {
+            "hovedtype": "LEDELSESORGAN",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Bestyrelse",
+                    "periode": {
+                      "gyldigFra": "1972-06-28",
+                      "gyldigTil": "2014-11-24"
+                    },
+                    "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "BESTYRELSE",
+                        "periode": {
+                          "gyldigFra": "1972-06-28",
+                          "gyldigTil": "2014-11-24"
+                        },
+                        "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  },
+                  {
+                    "type": "VALGFORM",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "generalforsamling",
+                        "periode": {
+                          "gyldigFra": "1972-06-28",
+                          "gyldigTil": "2014-11-24"
+                        },
+                        "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Bestyrelse",
+                "periode": {
+                  "gyldigFra": "1972-06-28",
+                  "gyldigTil": "2014-11-24"
+                },
+                "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+              }
+            ],
+            "enhedsNummerOrganisation": 4004658156
+          }
+        ]
+      },
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "SKIK OG BRUG SHOPPING ApS",
+              "periode": {
+                "gyldigFra": "1987-03-24",
+                "gyldigTil": "1994-08-26"
+              },
+              "sidstOpdateret": "2015-03-19T00:00:00.000+01:00"
+            },
+            {
+              "navn": "HVIDEVAREHUSET, LYNGBY ApS",
+              "periode": {
+                "gyldigFra": "1994-08-27",
+                "gyldigTil": "1996-01-17"
+              },
+              "sidstOpdateret": "2015-03-19T00:00:00.000+01:00"
+            },
+            {
+              "navn": "HVIDEVAREHUSET. FREDERIKSSUND ApS",
+              "periode": {
+                "gyldigFra": "1996-01-18",
+                "gyldigTil": "2003-05-30"
+              },
+              "sidstOpdateret": "2015-03-19T00:00:00.000+01:00"
+            }
+          ],
+          "status": [],
+          "cvrNummer": 10720877,
+          "regNummer": [
+            {
+              "periode": {
+                "gyldigFra": "1987-03-24",
+                "gyldigTil": "1999-10-18"
+              },
+              "regnummer": "ApS162090",
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "1987-03-24",
+                "gyldigTil": "2003-05-30"
+              },
+              "sidstOpdateret": "1999-10-16T19:49:47.000+02:00"
+            }
+          ],
+          "enhedsNummer": 4000808249,
+          "sidstOpdateret": "2019-01-09T20:10:52.000+01:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "1987-03-24",
+                "gyldigTil": "2003-05-30"
+              },
+              "sidstOpdateret": "2013-11-22T22:00:13.000+01:00",
+              "kortBeskrivelse": "APS",
+              "langBeskrivelse": "Anpartsselskab",
+              "virksomhedsformkode": 80,
+              "ansvarligDataleverandoer": "E&S"
+            }
+          ],
+          "virksomhedsstatus": [
+            {
+              "status": "NORMAL",
+              "periode": {
+                "gyldigFra": "1987-03-24",
+                "gyldigTil": "2003-05-29"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "status": "OPLØST EFTER FUSION",
+              "periode": {
+                "gyldigFra": "2003-05-30",
+                "gyldigTil": "2003-05-30"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ]
+        },
+        "organisationer": [
+          {
+            "hovedtype": "STIFTERE",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Stiftere",
+                    "periode": {
+                      "gyldigFra": "1987-03-24",
+                      "gyldigTil": "2003-05-30"
+                    },
+                    "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "STIFTERE",
+                        "periode": {
+                          "gyldigFra": "1987-03-24",
+                          "gyldigTil": "2003-05-30"
+                        },
+                        "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Stiftere",
+                "periode": {
+                  "gyldigFra": "1987-03-24",
+                  "gyldigTil": "2003-05-30"
+                },
+                "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+              }
+            ],
+            "enhedsNummerOrganisation": 4004388635
+          },
+          {
+            "hovedtype": "LEDELSESORGAN",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Bestyrelse",
+                    "periode": {
+                      "gyldigFra": "1987-03-24",
+                      "gyldigTil": "2003-05-30"
+                    },
+                    "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "BESTYRELSE",
+                        "periode": {
+                          "gyldigFra": "1987-03-24",
+                          "gyldigTil": "1994-08-26"
+                        },
+                        "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  },
+                  {
+                    "type": "VALGFORM",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "generalforsamling",
+                        "periode": {
+                          "gyldigFra": "1987-03-24",
+                          "gyldigTil": "1994-08-26"
+                        },
+                        "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Bestyrelse",
+                "periode": {
+                  "gyldigFra": "1987-03-24",
+                  "gyldigTil": "2003-05-30"
+                },
+                "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+              }
+            ],
+            "enhedsNummerOrganisation": 4004388636
+          }
+        ]
+      },
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "N CARLO JENSEN ALT I EL ApS",
+              "periode": {
+                "gyldigFra": "2012-09-18",
+                "gyldigTil": "2013-08-21"
+              },
+              "sidstOpdateret": "2012-09-21T11:24:37.000+02:00"
+            },
+            {
+              "navn": "FREDERIKSSUND ALT I EL ApS",
+              "periode": {
+                "gyldigFra": "2013-08-22",
+                "gyldigTil": "2016-09-14"
+              },
+              "sidstOpdateret": "2016-09-24T12:46:07.000+02:00"
+            }
+          ],
+          "status": [
+            {
+              "periode": {
+                "gyldigFra": "2014-10-02",
+                "gyldigTil": "2015-09-17"
+              },
+              "statuskode": 1,
+              "statustekst": "Dekret",
+              "sidstOpdateret": "2015-09-18T01:59:53.000+02:00",
+              "kreditoplysningkode": 3,
+              "kreditoplysningtekst": "Konkurs"
+            },
+            {
+              "periode": {
+                "gyldigFra": "2015-09-18",
+                "gyldigTil": "2016-08-15"
+              },
+              "statuskode": 5,
+              "statustekst": "Indkaldelse til fordringsprøvelse",
+              "sidstOpdateret": "2016-08-16T01:12:57.000+02:00",
+              "kreditoplysningkode": 3,
+              "kreditoplysningtekst": "Konkurs"
+            },
+            {
+              "periode": {
+                "gyldigFra": "2016-08-16",
+                "gyldigTil": "2016-09-14"
+              },
+              "statuskode": 3,
+              "statustekst": "Regnskab og boafslutning",
+              "sidstOpdateret": "2016-09-24T12:46:07.000+02:00",
+              "kreditoplysningkode": 3,
+              "kreditoplysningtekst": "Konkurs"
+            }
+          ],
+          "cvrNummer": 34707405,
+          "regNummer": [],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "2012-09-18",
+                "gyldigTil": "2016-09-14"
+              },
+              "sidstOpdateret": "2016-09-24T12:46:07.000+02:00"
+            }
+          ],
+          "enhedsNummer": 4001937649,
+          "sidstOpdateret": "2019-01-09T20:10:52.000+01:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "2012-09-18",
+                "gyldigTil": "2016-09-14"
+              },
+              "sidstOpdateret": "2016-09-24T12:46:07.000+02:00",
+              "kortBeskrivelse": "APS",
+              "langBeskrivelse": "Anpartsselskab",
+              "virksomhedsformkode": 80,
+              "ansvarligDataleverandoer": "E&S"
+            }
+          ],
+          "virksomhedsstatus": [
+            {
+              "status": "NORMAL",
+              "periode": {
+                "gyldigFra": "2012-09-18",
+                "gyldigTil": "2014-08-21"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "status": "UNDER TVANGSOPLØSNING",
+              "periode": {
+                "gyldigFra": "2014-08-22",
+                "gyldigTil": "2014-10-01"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "status": "UNDER KONKURS",
+              "periode": {
+                "gyldigFra": "2014-10-02",
+                "gyldigTil": "2016-09-13"
+              },
+              "sidstOpdateret": "2016-09-24T12:46:07.000+02:00"
+            },
+            {
+              "status": "OPLØST EFTER KONKURS",
+              "periode": {
+                "gyldigFra": "2016-09-14",
+                "gyldigTil": "2016-09-14"
+              },
+              "sidstOpdateret": "2016-09-24T12:46:07.000+02:00"
+            }
+          ]
+        },
+        "organisationer": [
+          {
+            "hovedtype": "STIFTERE",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Stiftere",
+                    "periode": {
+                      "gyldigFra": "2012-09-18",
+                      "gyldigTil": "2016-09-14"
+                    },
+                    "sidstOpdateret": "2016-09-24T12:46:07.000+02:00"
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "STIFTERE",
+                        "periode": {
+                          "gyldigFra": "2012-09-18",
+                          "gyldigTil": "2016-09-14"
+                        },
+                        "sidstOpdateret": "2016-09-24T12:46:07.000+02:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Stiftere",
+                "periode": {
+                  "gyldigFra": "2012-09-18",
+                  "gyldigTil": "2016-09-14"
+                },
+                "sidstOpdateret": "2016-09-24T12:46:07.000+02:00"
+              }
+            ],
+            "enhedsNummerOrganisation": 4005532398
+          }
+        ]
+      },
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "Hanne Z. Jensen",
+              "periode": {
+                "gyldigFra": "2014-06-12",
+                "gyldigTil": "2016-12-31"
+              },
+              "sidstOpdateret": "2017-04-07T10:11:28.000+02:00"
+            }
+          ],
+          "status": [],
+          "cvrNummer": 35788948,
+          "regNummer": [],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "2014-06-12",
+                "gyldigTil": "2016-12-31"
+              },
+              "sidstOpdateret": "2017-04-07T10:11:28.000+02:00"
+            }
+          ],
+          "enhedsNummer": 4002036116,
+          "sidstOpdateret": "2017-04-07T10:11:28.000+02:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "2014-06-12",
+                "gyldigTil": "2016-12-31"
+              },
+              "sidstOpdateret": "2017-04-07T10:11:28.000+02:00",
+              "kortBeskrivelse": "ENK",
+              "langBeskrivelse": "Enkeltmandsvirksomhed",
+              "virksomhedsformkode": 10,
+              "ansvarligDataleverandoer": "T&S"
+            }
+          ],
+          "virksomhedsstatus": []
+        },
+        "organisationer": [
+          {
+            "hovedtype": "FULDT_ANSVARLIG_DELTAGERE",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Interessenter",
+                    "periode": {
+                      "gyldigFra": "2014-06-12",
+                      "gyldigTil": null
+                    },
+                    "sidstOpdateret": null
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "INTERESSENTER",
+                        "periode": {
+                          "gyldigFra": "2014-06-12",
+                          "gyldigTil": "2016-12-31"
+                        },
+                        "sidstOpdateret": "2017-04-07T10:11:28.000+02:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Interessenter",
+                "periode": {
+                  "gyldigFra": null,
+                  "gyldigTil": null
+                },
+                "sidstOpdateret": null
+              }
+            ],
+            "enhedsNummerOrganisation": 0
+          }
+        ]
+      }
+    ],
+    "deltagerperson_metadata": {
+      "nyesteKontaktoplysninger": [],
+      "nyesteBeliggenhedsadresse": {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": null,
+        "periode": {
+          "gyldigFra": "2015-12-26",
+          "gyldigTil": null
+        },
+        "vejkode": null,
+        "vejnavn": null,
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": null,
+        "husnummerFra": null,
+        "husnummerTil": null,
+        "postdistrikt": null,
+        "sidstOpdateret": "2019-01-09T20:10:52.000+01:00",
+        "sidstValideret": null
+      }
+    },
+    "samt_id": "3",
+    "fejl_registreret": false,
+    "data_adgang": "0",
+    "enheds_nummer": "276145",
+    "enhedstype": "PERSON",
+    "sidst_opdateret": "2019-12-31T12:16:42.000Z",
+    "fejl_ved_indlaesning": false,
+    "naermeste_fremtidige_dato": null,
+    "fejl_beskrivelse": null,
+    "virknings_aktoer": "PO",
+    "septima_hash86": "M3h2XW6EXeEUgSRwnG+kU592v+XtrXyf8lq7QRhAW4l3ksAgXjPLHw34+aKV0hvp6lhIcMEKOMXPzojZvNfqVg",
+    "septima_serial": "62"
+  },
+  {
+    "forretningsnoegle": null,
+    "navne": [
+      {
+        "navn": "Verner Lundby",
+        "periode": {
+          "gyldigFra": null,
+          "gyldigTil": null
+        },
+        "sidstOpdateret": null
+      }
+    ],
+    "adresse_hemmelig": false,
+    "adresse_hemmelig_undtagelse": false,
+    "adresse_opdatering_ophoert": true,
+    "postadresse": [],
+    "beliggenhedsadresse": [
+      {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": null,
+        "periode": {
+          "gyldigFra": "2023-01-01",
+          "gyldigTil": null
+        },
+        "vejkode": null,
+        "vejnavn": null,
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": null,
+        "husnummerFra": null,
+        "husnummerTil": null,
+        "postdistrikt": null,
+        "sidstOpdateret": "2024-08-15T10:25:41.000+02:00",
+        "sidstValideret": null
+      }
+    ],
+    "forretningsadresse": [],
+    "telefon_nummer": [],
+    "telefax_nummer": [],
+    "elektronisk_post": [],
+    "stilling": null,
+    "status_kode": null,
+    "attributter": [],
+    "virksomhed_summarisk_relation": [
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "ROOST SPEDITION A/S. INTERNATIONALTRANSPORT & SPEDITION",
+              "periode": {
+                "gyldigFra": "1983-11-01",
+                "gyldigTil": "2009-06-11"
+              },
+              "sidstOpdateret": "2013-11-22T22:09:56.000+01:00"
+            },
+            {
+              "navn": "A/S AF 3. MAJ 2009",
+              "periode": {
+                "gyldigFra": "2009-06-12",
+                "gyldigTil": "2009-11-13"
+              },
+              "sidstOpdateret": "2013-11-22T22:12:17.000+01:00"
+            }
+          ],
+          "status": [],
+          "cvrNummer": 73776112,
+          "regNummer": [
+            {
+              "periode": {
+                "gyldigFra": "1983-11-01",
+                "gyldigTil": "1999-10-18"
+              },
+              "regnummer": "A/S110406",
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "1983-11-01",
+                "gyldigTil": "2009-11-13"
+              },
+              "sidstOpdateret": "1999-10-16T19:50:17.000+02:00"
+            }
+          ],
+          "enhedsNummer": 4001192943,
+          "sidstOpdateret": "2021-02-09T20:31:45.000+01:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "1983-11-01",
+                "gyldigTil": "2009-11-13"
+              },
+              "sidstOpdateret": "2013-11-22T22:00:13.000+01:00",
+              "kortBeskrivelse": "A/S",
+              "langBeskrivelse": "Aktieselskab",
+              "virksomhedsformkode": 60,
+              "ansvarligDataleverandoer": "E&S"
+            }
+          ],
+          "virksomhedsstatus": [
+            {
+              "status": "NORMAL",
+              "periode": {
+                "gyldigFra": "1983-11-01",
+                "gyldigTil": "2009-11-12"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            },
+            {
+              "status": "OPLØST EFTER ERKLÆRING",
+              "periode": {
+                "gyldigFra": "2009-11-13",
+                "gyldigTil": "2009-11-13"
+              },
+              "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+            }
+          ]
+        },
+        "organisationer": [
+          {
+            "hovedtype": "LEDELSESORGAN",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Bestyrelse",
+                    "periode": {
+                      "gyldigFra": "1983-11-01",
+                      "gyldigTil": "2009-11-13"
+                    },
+                    "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "BESTYRELSE",
+                        "periode": {
+                          "gyldigFra": "1983-11-01",
+                          "gyldigTil": "2005-01-03"
+                        },
+                        "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  },
+                  {
+                    "type": "VALGFORM",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "generalforsamling",
+                        "periode": {
+                          "gyldigFra": "1983-11-01",
+                          "gyldigTil": "2005-01-03"
+                        },
+                        "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Bestyrelse",
+                "periode": {
+                  "gyldigFra": "1983-11-01",
+                  "gyldigTil": "2009-11-13"
+                },
+                "sidstOpdateret": "2015-02-10T00:00:00.000+01:00"
+              }
+            ],
+            "enhedsNummerOrganisation": 4004696634
+          }
+        ]
+      },
+      {
+        "virksomhed": {
+          "navne": [
+            {
+              "navn": "Verner Lundby Salg og marketing",
+              "periode": {
+                "gyldigFra": "2014-01-01",
+                "gyldigTil": "2016-02-18"
+              },
+              "sidstOpdateret": "2016-02-25T11:31:57.000+01:00"
+            }
+          ],
+          "status": [],
+          "cvrNummer": 35702539,
+          "regNummer": [],
+          "enhedstype": "VIRKSOMHED",
+          "livsforloeb": [
+            {
+              "periode": {
+                "gyldigFra": "2014-01-01",
+                "gyldigTil": "2016-02-18"
+              },
+              "sidstOpdateret": "2016-02-25T11:31:57.000+01:00"
+            }
+          ],
+          "enhedsNummer": 4002027823,
+          "sidstOpdateret": "2016-02-25T11:31:57.000+01:00",
+          "fejlRegistreret": false,
+          "virksomhedsform": [
+            {
+              "periode": {
+                "gyldigFra": "2014-01-01",
+                "gyldigTil": "2016-02-18"
+              },
+              "sidstOpdateret": "2016-02-25T11:31:57.000+01:00",
+              "kortBeskrivelse": "ENK",
+              "langBeskrivelse": "Enkeltmandsvirksomhed",
+              "virksomhedsformkode": 10,
+              "ansvarligDataleverandoer": "T&S"
+            }
+          ],
+          "virksomhedsstatus": []
+        },
+        "organisationer": [
+          {
+            "hovedtype": "FULDT_ANSVARLIG_DELTAGERE",
+            "attributter": [
+              {
+                "type": "FUNKTION",
+                "vaerdier": [
+                  {
+                    "vaerdi": "Interessenter",
+                    "periode": {
+                      "gyldigFra": "2014-01-01",
+                      "gyldigTil": null
+                    },
+                    "sidstOpdateret": null
+                  }
+                ],
+                "sekvensnr": 0,
+                "vaerditype": "string"
+              }
+            ],
+            "medlemsData": [
+              {
+                "attributter": [
+                  {
+                    "type": "FUNKTION",
+                    "vaerdier": [
+                      {
+                        "vaerdi": "INTERESSENTER",
+                        "periode": {
+                          "gyldigFra": "2014-01-01",
+                          "gyldigTil": "2016-02-18"
+                        },
+                        "sidstOpdateret": "2016-02-25T11:31:57.000+01:00"
+                      }
+                    ],
+                    "sekvensnr": 0,
+                    "vaerditype": "string"
+                  }
+                ]
+              }
+            ],
+            "organisationsNavn": [
+              {
+                "navn": "Interessenter",
+                "periode": {
+                  "gyldigFra": null,
+                  "gyldigTil": null
+                },
+                "sidstOpdateret": null
+              }
+            ],
+            "enhedsNummerOrganisation": 0
+          }
+        ]
+      }
+    ],
+    "deltagerperson_metadata": {
+      "nyesteKontaktoplysninger": [],
+      "nyesteBeliggenhedsadresse": {
+        "etage": null,
+        "bynavn": null,
+        "conavn": null,
+        "kommune": null,
+        "periode": {
+          "gyldigFra": "2023-01-01",
+          "gyldigTil": null
+        },
+        "vejkode": null,
+        "vejnavn": null,
+        "fritekst": null,
+        "postboks": null,
+        "sidedoer": null,
+        "adresseId": null,
+        "landekode": "DK",
+        "bogstavFra": null,
+        "bogstavTil": null,
+        "postnummer": null,
+        "husnummerFra": null,
+        "husnummerTil": null,
+        "postdistrikt": null,
+        "sidstOpdateret": "2024-08-15T10:25:41.000+02:00",
+        "sidstValideret": null
+      }
+    },
+    "samt_id": "4",
+    "fejl_registreret": false,
+    "data_adgang": "0",
+    "enheds_nummer": "294632",
+    "enhedstype": "PERSON",
+    "sidst_opdateret": "2024-08-15T08:25:41.000Z",
+    "fejl_ved_indlaesning": false,
+    "naermeste_fremtidige_dato": null,
+    "fejl_beskrivelse": null,
+    "virknings_aktoer": "PO",
+    "septima_hash86": "QV0mwSnZNbSYECEEAHI+OA3x70xpNQB/7du6VDFw9cJvTUgG0A/d8EiTJKzmtDijmoSwwASdF+tIJestZh8txA",
+    "septima_serial": "65"
+  }
+]

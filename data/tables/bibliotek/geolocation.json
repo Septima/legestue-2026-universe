@@ -1,0 +1,82 @@
+[
+  {
+    "latitude": "54.79212",
+    "longitude": "9.43103",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150973",
+    "septima_serial": "579865"
+  },
+  {
+    "latitude": "54.4801716",
+    "longitude": "9.0467115",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150974",
+    "septima_serial": "579866"
+  },
+  {
+    "latitude": "54.5188982",
+    "longitude": "9.5640843",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150975",
+    "septima_serial": "579867"
+  },
+  {
+    "latitude": "54.47328",
+    "longitude": "9.82871",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150976",
+    "septima_serial": "579868"
+  },
+  {
+    "latitude": "54.79212",
+    "longitude": "9.43103",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150977",
+    "septima_serial": "579869"
+  },
+  {
+    "latitude": "55.680887",
+    "longitude": "12.573619",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150978",
+    "septima_serial": "579870"
+  },
+  {
+    "latitude": "55.6860904",
+    "longitude": "12.5567168",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150979",
+    "septima_serial": "579871"
+  },
+  {
+    "latitude": "55.7042921",
+    "longitude": "12.4993836",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150980",
+    "septima_serial": "579872"
+  },
+  {
+    "latitude": "55.6723406",
+    "longitude": "12.5921292",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150981",
+    "septima_serial": "579873"
+  },
+  {
+    "latitude": "55.7113268",
+    "longitude": "12.4747123",
+    "septima_transaktion_id": "148197084",
+    "septima_parent_tab": "pickupagency",
+    "septima_parent_id": "1150982",
+    "septima_serial": "579874"
+  }
+]

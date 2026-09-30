@@ -1,0 +1,152 @@
+[
+  {
+    "tabelnavn": "bygningpaafremmedgrundflade",
+    "beskrivelse": "Matrikel Kortdata fra DAF, 2023",
+    "kilde": "MAT m GEO via DAF, ny version 2023",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, se url",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsoplysninger-ebr-og-mat/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": "-"
+  },
+  {
+    "tabelnavn": "bygningpaafremmedgrundpunkt",
+    "beskrivelse": "Matrikel Kortdata fra DAF, 2023",
+    "kilde": "MAT m GEO via DAF, ny version 2023",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, se url",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsoplysninger-ebr-og-mat/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": "-"
+  },
+  {
+    "tabelnavn": "centroide",
+    "beskrivelse": "Matrikel Kortdata fra DAF, 2023",
+    "kilde": "MAT m GEO via DAF, ny version 2023",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, se url",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsoplysninger-ebr-og-mat/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": "-"
+  },
+  {
+    "tabelnavn": "ejerlav",
+    "beskrivelse": "Matrikel Kortdata fra DAF, 2023",
+    "kilde": "MAT m GEO via DAF, ny version 2023",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, se url",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsoplysninger-ebr-og-mat/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": "-"
+  },
+  {
+    "tabelnavn": "ejerlejlighed",
+    "beskrivelse": "Matrikel Kortdata fra DAF, 2023",
+    "kilde": "MAT m GEO via DAF, ny version 2023",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, se url",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsoplysninger-ebr-og-mat/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": "-"
+  },
+  {
+    "tabelnavn": "ejerlejlighedslod",
+    "beskrivelse": "Matrikel Kortdata fra DAF, 2023",
+    "kilde": "MAT m GEO via DAF, ny version 2023",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, se url",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsoplysninger-ebr-og-mat/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": "-"
+  },
+  {
+    "tabelnavn": "fredskovflade",
+    "beskrivelse": "Matrikel Kortdata fra DAF, 2023",
+    "kilde": "MAT m GEO via DAF, ny version 2023",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, se url",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsoplysninger-ebr-og-mat/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": "-"
+  },
+  {
+    "tabelnavn": "fredskovlinje",
+    "beskrivelse": "Matrikel Kortdata fra DAF, 2023",
+    "kilde": "MAT m GEO via DAF, ny version 2023",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, se url",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsoplysninger-ebr-og-mat/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": "-"
+  },
+  {
+    "tabelnavn": "jordstykke",
+    "beskrivelse": "Matrikel Kortdata fra DAF, 2023",
+    "kilde": "MAT m GEO via DAF, ny version 2023",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, se url",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsoplysninger-ebr-og-mat/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": "-"
+  },
+  {
+    "tabelnavn": "klitfredningflade",
+    "beskrivelse": "Matrikel Kortdata fra DAF, 2023",
+    "kilde": "MAT m GEO via DAF, ny version 2023",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, se url",
+    "rettigheder_url": "https://datafordeler.dk/vejledning/brugervilkaar/ejendomsoplysninger-ebr-og-mat/",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "DTUS",
+    "note": "-"
+  }
+]

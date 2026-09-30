@@ -1,0 +1,152 @@
+[
+  {
+    "tabelnavn": "havn_10",
+    "beskrivelse": "Topografisk Landpolygon",
+    "kilde": "Hentes fra dataforsyningen https://dataforsyningen.dk/data/4826",
+    "rettigheder": "Stilles frit til rådighed for den offentlige sektor, private virksomheder, foreninger og til privat brug.",
+    "rettigheder_url": "https://dataforsyningen.dk/data/4826",
+    "attributtering": "SDFI",
+    "attributtering_url": "",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "havn_100",
+    "beskrivelse": "Topografisk Landpolygon",
+    "kilde": "Hentes fra dataforsyningen https://dataforsyningen.dk/data/4826",
+    "rettigheder": "Stilles frit til rådighed for den offentlige sektor, private virksomheder, foreninger og til privat brug.",
+    "rettigheder_url": "https://dataforsyningen.dk/data/4826",
+    "attributtering": "SDFI",
+    "attributtering_url": "",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "havn_1000",
+    "beskrivelse": "Topografisk Landpolygon",
+    "kilde": "Hentes fra dataforsyningen https://dataforsyningen.dk/data/4826",
+    "rettigheder": "Stilles frit til rådighed for den offentlige sektor, private virksomheder, foreninger og til privat brug.",
+    "rettigheder_url": "https://dataforsyningen.dk/data/4826",
+    "attributtering": "SDFI",
+    "attributtering_url": "",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "havn_25",
+    "beskrivelse": "Topografisk Landpolygon",
+    "kilde": "Hentes fra dataforsyningen https://dataforsyningen.dk/data/4826",
+    "rettigheder": "Stilles frit til rådighed for den offentlige sektor, private virksomheder, foreninger og til privat brug.",
+    "rettigheder_url": "https://dataforsyningen.dk/data/4826",
+    "attributtering": "SDFI",
+    "attributtering_url": "",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "havn_250",
+    "beskrivelse": "Topografisk Landpolygon",
+    "kilde": "Hentes fra dataforsyningen https://dataforsyningen.dk/data/4826",
+    "rettigheder": "Stilles frit til rådighed for den offentlige sektor, private virksomheder, foreninger og til privat brug.",
+    "rettigheder_url": "https://dataforsyningen.dk/data/4826",
+    "attributtering": "SDFI",
+    "attributtering_url": "",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "havn_2500",
+    "beskrivelse": "Topografisk Landpolygon",
+    "kilde": "Hentes fra dataforsyningen https://dataforsyningen.dk/data/4826",
+    "rettigheder": "Stilles frit til rådighed for den offentlige sektor, private virksomheder, foreninger og til privat brug.",
+    "rettigheder_url": "https://dataforsyningen.dk/data/4826",
+    "attributtering": "SDFI",
+    "attributtering_url": "",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "havn_50",
+    "beskrivelse": "Topografisk Landpolygon",
+    "kilde": "Hentes fra dataforsyningen https://dataforsyningen.dk/data/4826",
+    "rettigheder": "Stilles frit til rådighed for den offentlige sektor, private virksomheder, foreninger og til privat brug.",
+    "rettigheder_url": "https://dataforsyningen.dk/data/4826",
+    "attributtering": "SDFI",
+    "attributtering_url": "",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "havn_500",
+    "beskrivelse": "Topografisk Landpolygon",
+    "kilde": "Hentes fra dataforsyningen https://dataforsyningen.dk/data/4826",
+    "rettigheder": "Stilles frit til rådighed for den offentlige sektor, private virksomheder, foreninger og til privat brug.",
+    "rettigheder_url": "https://dataforsyningen.dk/data/4826",
+    "attributtering": "SDFI",
+    "attributtering_url": "",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "havn_ref",
+    "beskrivelse": "Topografisk Landpolygon",
+    "kilde": "Hentes fra dataforsyningen https://dataforsyningen.dk/data/4826",
+    "rettigheder": "Stilles frit til rådighed for den offentlige sektor, private virksomheder, foreninger og til privat brug.",
+    "rettigheder_url": "https://dataforsyningen.dk/data/4826",
+    "attributtering": "SDFI",
+    "attributtering_url": "",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  },
+  {
+    "tabelnavn": "havpolygon_10",
+    "beskrivelse": "Topografisk Landpolygon",
+    "kilde": "Hentes fra dataforsyningen https://dataforsyningen.dk/data/4826",
+    "rettigheder": "Stilles frit til rådighed for den offentlige sektor, private virksomheder, foreninger og til privat brug.",
+    "rettigheder_url": "https://dataforsyningen.dk/data/4826",
+    "attributtering": "SDFI",
+    "attributtering_url": "",
+    "opdateringsmetode": "cron",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "-",
+    "note": "Opdateres pt. manuelt, indtil automatisk sync er på plads"
+  }
+]

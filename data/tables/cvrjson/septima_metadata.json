@@ -1,0 +1,47 @@
+[
+  {
+    "tabelnavn": "attributter",
+    "beskrivelse": "tributter fra CVR ",
+    "kilde": "CVR data fra VIRK: https://data.virk.dk/datakatalog/erhvervsstyrelsen/system-til-system-adgang-til-cvr-data",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, som frit bl.a. kan:\n        kopieres, distribueres og offentliggøres,\n        ændres og sammensættes med andet materiale,\n        bruges kommercielt og ikke-kommercielt",
+    "rettigheder_url": "https://data.virk.dk/sites/default/files/vilkaar_for_brug_af_danske_offentlige_data_v4.pdf",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "automatic",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "Opdateres ugentligt via Virks ElasticSearch med DTUS",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "produktionsenhed",
+    "beskrivelse": "oduktionsenhed fra CVR ProduktionsEnhed",
+    "kilde": "CVR data fra VIRK: https://data.virk.dk/datakatalog/erhvervsstyrelsen/system-til-system-adgang-til-cvr-data",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, som frit bl.a. kan:\n        kopieres, distribueres og offentliggøres,\n        ændres og sammensættes med andet materiale,\n        bruges kommercielt og ikke-kommercielt",
+    "rettigheder_url": "https://data.virk.dk/sites/default/files/vilkaar_for_brug_af_danske_offentlige_data_v4.pdf",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "automatic",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "Opdateres ugentligt via Virks ElasticSearch med DTUS",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  },
+  {
+    "tabelnavn": "virksomhed",
+    "beskrivelse": "rksomhed fra CVR Virksomhed",
+    "kilde": "CVR data fra VIRK: https://data.virk.dk/datakatalog/erhvervsstyrelsen/system-til-system-adgang-til-cvr-data",
+    "rettigheder": "Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i øvrigt ubegrænset brugsret til data, som frit bl.a. kan:\n        kopieres, distribueres og offentliggøres,\n        ændres og sammensættes med andet materiale,\n        bruges kommercielt og ikke-kommercielt",
+    "rettigheder_url": "https://data.virk.dk/sites/default/files/vilkaar_for_brug_af_danske_offentlige_data_v4.pdf",
+    "attributtering": null,
+    "attributtering_url": null,
+    "opdateringsmetode": "automatic",
+    "opdateringsinterval": {
+      "days": 7
+    },
+    "opdateringsbeskrivelse": "Opdateres ugentligt via Virks ElasticSearch med DTUS",
+    "note": "Tabel- og kolonnenavne er normaliserede efter beskrivelsen for normalisering i Septimas Datatank"
+  }
+]

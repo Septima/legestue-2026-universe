@@ -1,0 +1,867 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.036621025,
+            55.82463979
+          ],
+          [
+            12.036572256,
+            55.824639017
+          ],
+          [
+            12.036561695,
+            55.824677665
+          ],
+          [
+            12.036552619,
+            55.824710792
+          ]
+        ]
+      },
+      "properties": {
+        "applikation": "Ikke tildelt",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "geometristatus": "Endelig",
+        "havnetype": "Kyst",
+        "id_lokalid": "1000258577",
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "kommentar": null,
+        "objectid": "1.00025857720151e+23",
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "registreringfra": "2015-11-24T08:43:51.000Z",
+        "registreringsaktoer": "Simmons Aerofilms",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "registreringtil": null,
+        "status": "Anlagt",
+        "tempid": null,
+        "underminimumhavn": true,
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "virkningfra": "2015-11-24T08:43:51.000Z",
+        "virkningsaktoer": "Simmons Aerofilms",
+        "virkningtil": null,
+        "septima_hash86": "lfcNhFmsYiZCRA0BGqHNhc25saMabEQCoQqi9eWV3ucB0PG1ojoPwz0xXiZNpNNFef7Fjg2OD8LARELGvseFiw",
+        "septima_serial": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.036486578,
+            55.837648642
+          ],
+          [
+            12.036487127,
+            55.837631099
+          ],
+          [
+            12.036487868,
+            55.837611932
+          ],
+          [
+            12.036263338,
+            55.837604802
+          ],
+          [
+            12.03589187,
+            55.837594019
+          ]
+        ]
+      },
+      "properties": {
+        "applikation": "Ikke tildelt",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "geometristatus": "Endelig",
+        "havnetype": "Kyst",
+        "id_lokalid": "1000258578",
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "kommentar": null,
+        "objectid": "1.00025857820151e+23",
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "registreringfra": "2015-11-24T08:43:51.000Z",
+        "registreringsaktoer": "Simmons Aerofilms",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "registreringtil": null,
+        "status": "Anlagt",
+        "tempid": null,
+        "underminimumhavn": true,
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "virkningfra": "2015-11-24T08:43:51.000Z",
+        "virkningsaktoer": "Simmons Aerofilms",
+        "virkningtil": null,
+        "septima_hash86": "cciCtCJZl+Kjn6caj3Mp+pxvAbGMniog+kGAuisbQBb8GoqUYxmI/ciyeTlaOZmj0LhQaMN/dajaNEmnL3/NyA",
+        "septima_serial": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.009215812,
+            55.8582235
+          ],
+          [
+            12.009217538,
+            55.858190016
+          ],
+          [
+            12.009216529,
+            55.858133585
+          ],
+          [
+            12.009251536,
+            55.858133628
+          ],
+          [
+            12.00925226,
+            55.858178109
+          ],
+          [
+            12.009252366,
+            55.85821047
+          ],
+          [
+            12.009249162,
+            55.858228977
+          ]
+        ]
+      },
+      "properties": {
+        "applikation": "Ikke tildelt",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "geometristatus": "Endelig",
+        "havnetype": "Kyst",
+        "id_lokalid": "1000258582",
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "kommentar": null,
+        "objectid": "1.00025858220151e+23",
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "registreringfra": "2015-11-24T08:43:51.000Z",
+        "registreringsaktoer": "Simmons Aerofilms",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "registreringtil": null,
+        "status": "Anlagt",
+        "tempid": null,
+        "underminimumhavn": true,
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "virkningfra": "2015-11-24T08:43:51.000Z",
+        "virkningsaktoer": "Simmons Aerofilms",
+        "virkningtil": null,
+        "septima_hash86": "I5r2I2CqXrEHUvYxKEP86Gn6XEjm8BG/jJKlzp6UJThPAOqNKx2hoaWkOZNn61bCLdNTm0wcKxufNHjW9wBm5w",
+        "septima_serial": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.905566543,
+            55.937506288
+          ],
+          [
+            11.905554563,
+            55.937551608
+          ],
+          [
+            11.905539431,
+            55.937556999
+          ],
+          [
+            11.905504828,
+            55.937552602
+          ],
+          [
+            11.905494478,
+            55.937544846
+          ],
+          [
+            11.905517368,
+            55.937478413
+          ],
+          [
+            11.905604161,
+            55.937467556
+          ],
+          [
+            11.90560326,
+            55.937464071
+          ],
+          [
+            11.905877798,
+            55.937428106
+          ],
+          [
+            11.90597325,
+            55.937348995
+          ],
+          [
+            11.906080003,
+            55.937264672
+          ],
+          [
+            11.906228153,
+            55.93714719
+          ],
+          [
+            11.906399178,
+            55.93701011
+          ],
+          [
+            11.906558766,
+            55.936884986
+          ],
+          [
+            11.906710581,
+            55.936763012
+          ],
+          [
+            11.906885359,
+            55.936624765
+          ],
+          [
+            11.907049609,
+            55.936493508
+          ],
+          [
+            11.907253945,
+            55.936332987
+          ],
+          [
+            11.907420548,
+            55.936198977
+          ],
+          [
+            11.907499845,
+            55.936135167
+          ],
+          [
+            11.907605802,
+            55.936055267
+          ],
+          [
+            11.90749632,
+            55.935957801
+          ],
+          [
+            11.907443132,
+            55.935934067
+          ],
+          [
+            11.907349966,
+            55.935960268
+          ],
+          [
+            11.90726997,
+            55.935931414
+          ],
+          [
+            11.907124723,
+            55.936027704
+          ],
+          [
+            11.90698399,
+            55.936122269
+          ],
+          [
+            11.906838487,
+            55.936217306
+          ],
+          [
+            11.906681059,
+            55.936319905
+          ],
+          [
+            11.906535615,
+            55.93641575
+          ],
+          [
+            11.90649854,
+            55.936438199
+          ],
+          [
+            11.906468945,
+            55.936468563
+          ],
+          [
+            11.906523688,
+            55.936534421
+          ],
+          [
+            11.906464233,
+            55.936559556
+          ],
+          [
+            11.906407139,
+            55.936579872
+          ],
+          [
+            11.906414003,
+            55.936583845
+          ],
+          [
+            11.906319674,
+            55.936637311
+          ],
+          [
+            11.906175418,
+            55.936719103
+          ],
+          [
+            11.906069526,
+            55.936793518
+          ],
+          [
+            11.90595842,
+            55.936871022
+          ],
+          [
+            11.905882514,
+            55.936922434
+          ],
+          [
+            11.905848039,
+            55.936938979
+          ],
+          [
+            11.905841233,
+            55.936942196
+          ],
+          [
+            11.90576703,
+            55.936988535
+          ],
+          [
+            11.905642798,
+            55.937064011
+          ],
+          [
+            11.905525696,
+            55.937134195
+          ],
+          [
+            11.905434549,
+            55.937187405
+          ],
+          [
+            11.905356615,
+            55.93723527
+          ],
+          [
+            11.905377702,
+            55.937290147
+          ],
+          [
+            11.90538071,
+            55.937304638
+          ],
+          [
+            11.905338886,
+            55.937329986
+          ],
+          [
+            11.90520555,
+            55.937322436
+          ],
+          [
+            11.905173122,
+            55.937342798
+          ],
+          [
+            11.905196643,
+            55.937380987
+          ],
+          [
+            11.90517296,
+            55.937509554
+          ],
+          [
+            11.905149228,
+            55.937624638
+          ],
+          [
+            11.905073955,
+            55.937748669
+          ],
+          [
+            11.904998721,
+            55.937873239
+          ],
+          [
+            11.904954266,
+            55.937951146
+          ],
+          [
+            11.90488495,
+            55.937968693
+          ],
+          [
+            11.904837081,
+            55.937960384
+          ]
+        ]
+      },
+      "properties": {
+        "applikation": "Ikke tildelt",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "geometristatus": "Endelig",
+        "havnetype": "Kyst",
+        "id_lokalid": "1000258584",
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "kommentar": null,
+        "objectid": "1.00025858420151e+23",
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "registreringfra": "2015-11-24T08:43:51.000Z",
+        "registreringsaktoer": "Simmons Aerofilms",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "registreringtil": null,
+        "status": "Anlagt",
+        "tempid": null,
+        "underminimumhavn": false,
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "virkningfra": "2015-11-24T08:43:51.000Z",
+        "virkningsaktoer": "Simmons Aerofilms",
+        "virkningtil": null,
+        "septima_hash86": "efFwPi7AUyBzj/7BYOE5lsu8gTau9fyAwgl/nBa+4R4vbJzktEAOVCKORveTzwRSoiVmtB63tNIWSqmM5/JOJQ",
+        "septima_serial": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.877494981,
+            55.808580065
+          ],
+          [
+            11.877478334,
+            55.808590253
+          ],
+          [
+            11.877465652,
+            55.808593607
+          ],
+          [
+            11.877451224,
+            55.808594933
+          ],
+          [
+            11.877436624,
+            55.808593927
+          ],
+          [
+            11.877423784,
+            55.808590811
+          ],
+          [
+            11.877406456,
+            55.808580969
+          ],
+          [
+            11.877399254,
+            55.808567744
+          ],
+          [
+            11.877400271,
+            55.808559899
+          ],
+          [
+            11.877405451,
+            55.808552227
+          ],
+          [
+            11.877414383,
+            55.808545635
+          ],
+          [
+            11.877425524,
+            55.80854088
+          ],
+          [
+            11.877449368,
+            55.808537355
+          ],
+          [
+            11.877473376,
+            55.808540388
+          ],
+          [
+            11.877484881,
+            55.808544883
+          ],
+          [
+            11.877494136,
+            55.808551319
+          ],
+          [
+            11.877499805,
+            55.808558917
+          ],
+          [
+            11.877501497,
+            55.808566698
+          ],
+          [
+            11.877494981,
+            55.808580065
+          ]
+        ]
+      },
+      "properties": {
+        "applikation": "Ikke tildelt",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "geometristatus": "Endelig",
+        "havnetype": "Kyst",
+        "id_lokalid": "1000258568",
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "kommentar": null,
+        "objectid": "1.00025856820151e+23",
+        "plannoejagtighed": "0.75",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "registreringfra": "2015-11-24T08:43:51.000Z",
+        "registreringsaktoer": "GEOMASTERS",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "registreringtil": null,
+        "status": "Anlagt",
+        "tempid": null,
+        "underminimumhavn": true,
+        "vertikalnoejagtighed": "0.30",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "virkningfra": "2015-11-24T08:43:51.000Z",
+        "virkningsaktoer": "GEOMASTERS",
+        "virkningtil": null,
+        "septima_hash86": "d+r9rA2wQJzUD7R8XLRUeThu7lKi5tUZ7HXVpL6++5DHJmxctuEs6wktQgOo0uDzcnCsWs7FGupnQM5rns4Q8w",
+        "septima_serial": "7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.035530404,
+            55.827518312
+          ],
+          [
+            12.035591317,
+            55.827318312
+          ],
+          [
+            12.035666257,
+            55.827138462
+          ],
+          [
+            12.035752275,
+            55.826885611
+          ],
+          [
+            12.035679442,
+            55.826877341
+          ],
+          [
+            12.035695218,
+            55.826821574
+          ],
+          [
+            12.035770452,
+            55.826823761
+          ]
+        ]
+      },
+      "properties": {
+        "applikation": "Ikke tildelt",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "geometristatus": "Endelig",
+        "havnetype": "Kyst",
+        "id_lokalid": "1000258569",
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "kommentar": null,
+        "objectid": "1.00025856920151e+23",
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "registreringfra": "2015-11-24T08:43:51.000Z",
+        "registreringsaktoer": "Simmons Aerofilms",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "registreringtil": null,
+        "status": "Anlagt",
+        "tempid": null,
+        "underminimumhavn": false,
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "virkningfra": "2015-11-24T08:43:51.000Z",
+        "virkningsaktoer": "Simmons Aerofilms",
+        "virkningtil": null,
+        "septima_hash86": "QlTdryCA90X/f27C4QhGdgeIJMO1RMIxWAzoMKitx1YH+/TwwDLFOGguO06eRQMngKgaog/GV1ofolZKENHcjA",
+        "septima_serial": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.875165457,
+            55.810433005
+          ],
+          [
+            11.875124933,
+            55.810435481
+          ],
+          [
+            11.875114723,
+            55.810368479
+          ],
+          [
+            11.875149328,
+            55.810344208
+          ],
+          [
+            11.875228397,
+            55.810338402
+          ],
+          [
+            11.875273544,
+            55.81035964
+          ],
+          [
+            11.875284704,
+            55.81042653
+          ],
+          [
+            11.875223796,
+            55.810429662
+          ],
+          [
+            11.875235137,
+            55.810490345
+          ]
+        ]
+      },
+      "properties": {
+        "applikation": "Ikke tildelt",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "geometristatus": "Endelig",
+        "havnetype": "Kyst",
+        "id_lokalid": "1000258570",
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "kommentar": null,
+        "objectid": "1.00025857020151e+23",
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "registreringfra": "2015-11-24T08:43:51.000Z",
+        "registreringsaktoer": "Simmons Aerofilms",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "registreringtil": null,
+        "status": "Anlagt",
+        "tempid": null,
+        "underminimumhavn": true,
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "virkningfra": "2015-11-24T08:43:51.000Z",
+        "virkningsaktoer": "Simmons Aerofilms",
+        "virkningtil": null,
+        "septima_hash86": "jjUHOJdVgyR8p32VvYoE6ujijNZQGNUyxgcg6FF5VumZ9PgbuGGbdT6owQwqO2m8NNF+7D9i/AdqqfaQo7UKYg",
+        "septima_serial": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.036928494,
+            55.825113511
+          ],
+          [
+            12.036858653,
+            55.825116944
+          ],
+          [
+            12.036806053,
+            55.825110063
+          ],
+          [
+            12.036740944,
+            55.825092254
+          ],
+          [
+            12.036757686,
+            55.825005897
+          ],
+          [
+            12.036916066,
+            55.825007378
+          ]
+        ]
+      },
+      "properties": {
+        "applikation": "Ikke tildelt",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "geometristatus": "Endelig",
+        "havnetype": "Kyst",
+        "id_lokalid": "1000258574",
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "kommentar": null,
+        "objectid": "1.00025857420151e+23",
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "registreringfra": "2015-11-24T08:43:51.000Z",
+        "registreringsaktoer": "Simmons Aerofilms",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "registreringtil": null,
+        "status": "Anlagt",
+        "tempid": null,
+        "underminimumhavn": true,
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "virkningfra": "2015-11-24T08:43:51.000Z",
+        "virkningsaktoer": "Simmons Aerofilms",
+        "virkningtil": null,
+        "septima_hash86": "y+8GO4I2zyc8lpQTtzEOETfQR7Ol5y/qRiZFYCY3xNl+Tu1b2PpyjgukSnf6DlvmLv8+TfgCatCGleReFO6f9A",
+        "septima_serial": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.642475635,
+            55.910731655
+          ],
+          [
+            10.642835612,
+            55.910716249
+          ]
+        ]
+      },
+      "properties": {
+        "applikation": "Ikke tildelt",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "geometristatus": "Endelig",
+        "havnetype": "Anløbsbro",
+        "id_lokalid": "1060862078",
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "kommentar": null,
+        "objectid": "1.0608620782015e+23",
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "registreringfra": "2015-02-24T06:57:55.000Z",
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "registreringtil": null,
+        "status": "Anlagt",
+        "tempid": null,
+        "underminimumhavn": true,
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "virkningfra": "2015-02-24T06:57:55.000Z",
+        "virkningsaktoer": "DSM GEODATA (P) LTD",
+        "virkningtil": null,
+        "septima_hash86": "scdBx7HPTVJrhr3eM2+TVaeVatxn30Wb7n1KUiKgdNXK9CRkMYgTmDLYFr/JZ6Q3GeP1LZqtXX3eDyJFHaDYAw",
+        "septima_serial": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.642866497,
+            55.910750434
+          ],
+          [
+            10.642888196,
+            55.910885211
+          ],
+          [
+            10.642849842,
+            55.910886262
+          ]
+        ]
+      },
+      "properties": {
+        "applikation": "Ikke tildelt",
+        "dataansvar": "Ikke tildelt",
+        "forretningshaendelse": "Ændret geometri og attribut",
+        "forretningsomraade": "1",
+        "forretningsproces": null,
+        "geometristatus": "Endelig",
+        "havnetype": "Anløbsbro",
+        "id_lokalid": "1060862083",
+        "id_namespace": "http://data.gov.dk/geodanmark",
+        "kommentar": null,
+        "objectid": "1.0608620832015e+23",
+        "plannoejagtighed": "0.10",
+        "planstedfaestelsesmetode": "Fotogrammetri",
+        "registreringfra": "2015-02-24T06:57:55.000Z",
+        "registreringsaktoer": "DSM GEODATA (P) LTD",
+        "registreringsspecifikation": "GeoDanmark Spec 6.0",
+        "registreringtil": null,
+        "status": "Anlagt",
+        "tempid": null,
+        "underminimumhavn": true,
+        "vertikalnoejagtighed": "0.15",
+        "vertikalstedfaestelsesmetode": "Fotogrammetri",
+        "virkningfra": "2015-02-24T06:57:55.000Z",
+        "virkningsaktoer": "DSM GEODATA (P) LTD",
+        "virkningtil": null,
+        "septima_hash86": "CG4KhczuSi3W5c6+Gxe/J2fs9KXUvvW6PEI6WNp8ZP6QLt5tzPIg2NJnuxh699byEfHh3T1EJLhFxsKQ56zxSQ",
+        "septima_serial": "12"
+      }
+    }
+  ]
+}
