@@ -1,6 +1,6 @@
 (() => {
   'use strict';
-  const { nodes, edges } = window.UNIVERSE_DATA;
+  const { nodes, edges, schemas, database, foreignKeyStatus } = window.UNIVERSE_DATA;
   const canvas = document.getElementById('universe');
   const ctx = canvas.getContext('2d');
   const search = document.getElementById('search');
@@ -12,16 +12,22 @@
   const tooltip = document.getElementById('tooltip');
   const caption = document.getElementById('caption');
   const motionButton = document.getElementById('motion');
-  const kindNames = ['Column match', 'View of', 'Variant', 'Same name'];
-  const kindColors = ['#7bded0', '#a79cf3', '#7799af', '#e8bc7c'];
+  const kindNames = ['Possible view of', 'Naming variant', 'Same name', 'Declared foreign key', 'Column name match'];
+  const kindColors = ['#a79cf3', '#7799af', '#e8bc7c', '#7bded0', '#b0d58f'];
   const colors = ['#8fe2d2','#edb989','#b6a9f0','#88c7ed','#e29fb2','#b0d58f','#e6d18e','#82d1ce','#c2b6f4','#e5a77e','#a1c5eb','#c6da9c','#edaaa9','#8acabb','#d3b4e7','#c8d589','#e8c191','#9db6df','#d2a8ac','#9bd9a8','#d9c2ee','#84b9d3','#e1bb9a'];
-  const schemaNames = [...new Set(nodes.map(n => n.s))].sort((a, b) => nodes.filter(n => n.s === b).length - nodes.filter(n => n.s === a).length);
-  const groups = new Map(schemaNames.map((s, i) => [s, { name: s, color: colors[i % colors.length], ids: [], x: 0, y: 0, z: 0 }]));
+  const schemaNames = schemas.map(s => s.name).sort((a, b) => nodes.filter(n => n.s === b).length - nodes.filter(n => n.s === a).length);
+  const groups = new Map(schemaNames.map((s, i) => [s, { ...schemas.find(g => g.name === s), color: colors[i % colors.length], ids: [], x: 0, y: 0, z: 0 }]));
   nodes.forEach((n, i) => { n.id = i; n.neighbors = []; groups.get(n.s).ids.push(i); });
-  edges.forEach(([a, b, kind, label]) => {
-    nodes[a].neighbors.push({ id: b, kind, label });
-    nodes[b].neighbors.push({ id: a, kind, label });
+  edges.forEach(([a, b, kind, constraints]) => {
+    nodes[a].neighbors.push({ id: b, kind, constraints, outgoing: true });
+    nodes[b].neighbors.push({ id: a, kind, constraints, outgoing: false });
   });
+  document.getElementById('database-name').textContent = database;
+  const fkCount = edges.filter(e => e[2] === 3).length;
+  document.getElementById('fk-status').textContent = foreignKeyStatus === 'imported'
+    ? `${fkCount} DECLARED FK PAIRS · ${edges.length - fkCount} NAMING HINTS`
+    : 'FK CATALOG NOT AVAILABLE · LINKS ARE NAMING HINTS';
+  document.getElementById('fk-legend').hidden = foreignKeyStatus !== 'imported';
   document.getElementById('table-count').textContent = nodes.length;
   document.getElementById('schema-count').textContent = groups.size;
   document.getElementById('link-count').textContent = edges.length;
@@ -98,7 +104,7 @@
     return { x: width * .5 + xx * scale * fit, y: height * (width < 650 ? .54 : .51) - yy * scale * fit, z: depth, scale: scale * fit };
   }
   function isVisible(n) { return !activeSchema || n.s === activeSchema; }
-  function isMatch(n) { return !query || (n.s + '.' + n.n).toLowerCase().includes(query) || n.c.some(c => c.toLowerCase().includes(query)); }
+  function isMatch(n) { return !query || (n.s + '.' + n.n + ' ' + (n.m.beskrivelse || '') + ' ' + (n.m.kilde || '')).toLowerCase().includes(query) || (n.c || []).some(c => c[0].toLowerCase().includes(query)); }
   function alphaFor(n) {
     if (!isVisible(n)) return 0;
     if (selected !== null) return n.id === selected ? 1 : nodes[selected].neighbors.some(r => r.id === n.id) ? .95 : .20;
@@ -138,9 +144,9 @@
       const highlighted = selected !== null && (selected === a || selected === b);
       const fade = selected !== null ? (highlighted ? 1 : .13) : (isMatch(na) || isMatch(nb) ? 1 : .15);
       const depth = clamp((projected[a].z + projected[b].z + 850) / 1400, .25, 1);
-      if (kind === 3) ctx.setLineDash([3, 5]);
-      line(projected[a], projected[b], kindColors[kind], (highlighted ? .8 : kind === 0 ? .3 : .2) * fade * depth, highlighted ? 1.5 : .8);
-      if (kind === 3) ctx.setLineDash([]);
+      if (kind === 2) ctx.setLineDash([3, 5]);
+      line(projected[a], projected[b], kindColors[kind], (highlighted ? .9 : kind === 3 ? .7 : .25) * fade * depth, highlighted ? 2 : kind === 3 ? 1.4 : .8);
+      if (kind === 2) ctx.setLineDash([]);
     }
     // Paint back to front, so nearer points cover distant ones.
     const order = nodes.map((_, i) => i).sort((a, b) => projected[a].z - projected[b].z);
@@ -149,7 +155,7 @@
       if (!alpha || p.x < -15 || p.x > width + 15 || p.y < -15 || p.y > height + 15) continue;
       const g = groups.get(n.s);
       const important = id === hovered || id === selected;
-      const radius = (n.t ? 2.2 : 2.9) * clamp(p.scale, .65, 1.5) + (n.neighbors.length > 3 ? .7 : 0);
+      const radius = 2.9 * clamp(p.scale, .65, 1.5) + (n.neighbors.length > 3 ? .7 : 0);
       const depthAlpha = clamp((p.z + 470) / 880, .38, 1);
       ctx.globalAlpha = alpha * depthAlpha;
       if (important || n.neighbors.length > 5) {
@@ -163,7 +169,7 @@
         ctx.beginPath(); ctx.arc(p.x, p.y, 9, 0, Math.PI * 2); ctx.stroke();
       }
       ctx.fillStyle = g.color; ctx.beginPath(); ctx.arc(p.x, p.y, important ? 4.6 : radius, 0, Math.PI * 2); ctx.fill();
-      if (!n.t && alpha > .8) {
+      if (alpha > .8) {
         ctx.globalAlpha = alpha * .55; ctx.fillStyle = '#fff';
         ctx.beginPath(); ctx.arc(p.x, p.y, Math.max(.8, radius * .32), 0, Math.PI * 2); ctx.fill();
       }
@@ -220,6 +226,7 @@
       const label = document.createElement('span'); label.className = 'schema-name'; label.textContent = g.name || 'All schemas';
       const count = document.createElement('span'); count.className = 'schema-count'; count.textContent = g.ids.length;
       row.append(dot, label, count);
+      if (g.name) row.title = `${g.size} · ${g.customers} customers`;
       row.addEventListener('click', () => chooseSchema(g.name)); schemasEl.append(row);
       const option = document.createElement('option'); option.value = g.name || ''; option.textContent = (g.name || 'All schemas') + ' (' + g.ids.length + ')'; mobileSchema.append(option);
     }
@@ -248,11 +255,11 @@
     results.hidden = false; results.replaceChildren();
     const rank = n => n.n.toLowerCase() === query ? 0 : n.n.toLowerCase().startsWith(query) ? 1 : n.n.toLowerCase().includes(query) ? 2 : n.s.toLowerCase().includes(query) ? 3 : 4;
     const matches = nodes.filter(isMatch).sort((a, b) => rank(a) - rank(b) || a.n.localeCompare(b.n)).slice(0, 12);
-    if (!matches.length) { const empty = document.createElement('div'); empty.className = 'no-results'; empty.textContent = 'No matching tables or columns'; results.append(empty); return; }
+    if (!matches.length) { const empty = document.createElement('div'); empty.className = 'no-results'; empty.textContent = 'No matching datasets'; results.append(empty); return; }
     for (const n of matches) {
       const row = document.createElement('button'); row.className = 'search-result'; row.type = 'button';
       row.textContent = n.n;
-      const meta = document.createElement('small'); meta.textContent = n.s + ' · ' + n.c.length + ' columns'; row.append(meta);
+      const meta = document.createElement('small'); meta.textContent = n.s + (n.m.kilde ? ' · ' + n.m.kilde : ''); row.append(meta);
       row.addEventListener('click', () => { chooseNode(n.id); results.hidden = true; search.blur(); }); results.append(row);
     }
   }
@@ -266,9 +273,20 @@
     const num = document.createElement('span'); num.textContent = number; h.append(num); return h;
   }
   function updateInspector() {
-    inspector.classList.toggle('has-selection', selected !== null);
+    inspector.classList.toggle('has-selection', selected !== null || activeSchema !== null);
     if (selected === null) {
-      inspectorBody.innerHTML = '<div class="empty-visual"><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><span>✳</span></div><p class="empty-kicker">AWAITING SELECTION</p><h2>Every point<br>has a story.</h2><p class="empty-copy">Click a star or search for a table to see its columns and connected neighbors.</p>';
+      if (activeSchema) {
+        const g = groups.get(activeSchema);
+        inspectorBody.replaceChildren(); inspectorBody.style.setProperty('--accent', g.color);
+        const kicker = document.createElement('p'); kicker.className = 'detail-schema'; kicker.textContent = '✳  SCHEMA';
+        const title = document.createElement('h2'); title.className = 'detail-title'; title.textContent = g.name;
+        const badges = document.createElement('div'); badges.className = 'detail-badges';
+        for (const text of [g.ids.length + ' DATASETS', g.size, g.customers + ' CUSTOMERS']) {
+          const badge = document.createElement('span'); badge.className = 'detail-badge'; badge.textContent = text; badges.append(badge);
+        }
+        const hint = document.createElement('p'); hint.className = 'relation-none'; hint.textContent = 'Select a dataset to see its dashboard metadata.';
+        inspectorBody.append(kicker, title, badges, hint);
+      } else inspectorBody.innerHTML = '<div class="empty-visual"><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><span>✳</span></div><p class="empty-kicker">AWAITING SELECTION</p><h2>Every point<br>has a story.</h2><p class="empty-copy">Click a star or search for a dataset to see its dashboard metadata and naming hints.</p>';
       return;
     }
     const n = nodes[selected], g = groups.get(n.s);
@@ -276,34 +294,103 @@
     const schema = document.createElement('p'); schema.className = 'detail-schema'; schema.textContent = '✳  ' + n.s;
     const title = document.createElement('h2'); title.className = 'detail-title'; title.textContent = n.n;
     const badges = document.createElement('div'); badges.className = 'detail-badges';
-    for (const text of [n.t ? 'VIEW' : 'BASE TABLE', n.c.length + ' COLUMNS', n.neighbors.length + ' LINKS']) {
-      const badge = document.createElement('span'); badge.className = 'detail-badge' + (text === 'VIEW' || text === 'BASE TABLE' ? ' kind' : ''); badge.textContent = text; badges.append(badge);
+    for (const text of [n.m.opdateringsmetode, n.m.approx_size_pretty, n.c && n.c.length + ' COLUMNS', n.m.approx_row_count != null ? Number(n.m.approx_row_count).toLocaleString('en-US') + ' ROWS' : null].filter(Boolean)) {
+      const badge = document.createElement('span'); badge.className = 'detail-badge'; badge.textContent = text; badges.append(badge);
     }
-    inspectorBody.append(schema, title, badges, heading('CONNECTED TABLES', String(n.neighbors.length).padStart(2, '0')));
-    if (!n.neighbors.length) {
-      const empty = document.createElement('p'); empty.className = 'relation-none'; empty.textContent = 'No name-based relationship detected for this table.'; inspectorBody.append(empty);
+    inspectorBody.append(schema, title, badges);
+    const fields = [
+      ['Description', n.m.beskrivelse], ['Source', n.m.kilde],
+      ['Update interval', n.m.opdateringsinterval], ['Update details', n.m.opdateringsbeskrivelse],
+      ['Rights', n.m.rettigheder], ['Rights URL', n.m.rettigheder_url],
+      ['Attribution', n.m.attributtering], ['Attribution URL', n.m.attributtering_url],
+      ['Note', n.m.note],
+    ];
+    const details = document.createElement('dl'); details.className = 'metadata-list';
+    for (const [label, value] of fields) {
+      if (!value) continue;
+      const term = document.createElement('dt'); term.textContent = label;
+      const description = document.createElement('dd');
+      if (label.endsWith('URL') && /^https?:\/\//.test(value)) {
+        const link = document.createElement('a'); link.href = value; link.target = '_blank'; link.rel = 'noopener noreferrer'; link.textContent = value; description.append(link);
+      } else description.textContent = value;
+      details.append(term, description);
     }
-    const relations = [...n.neighbors].sort((a, b) => a.kind - b.kind);
-    const relationRows = relations.map(rel => {
-      const other = nodes[rel.id];
-      const row = document.createElement('button'); row.type = 'button'; row.className = 'relation-row'; row.textContent = other.s + '.' + other.n;
-      const small = document.createElement('small'); small.style.setProperty('--rel-color', kindColors[rel.kind]);
-      const dot = document.createElement('i'); small.append(dot, document.createTextNode(kindNames[rel.kind] + (rel.kind === 0 ? ' · ' + rel.label : '')));
-      row.append(small); row.addEventListener('click', () => chooseNode(rel.id)); return row;
-    });
-    relationRows.slice(0, 5).forEach(row => inspectorBody.append(row));
-    if (relations.length > 5) {
-      const more = document.createElement('button'); more.className = 'show-more'; more.textContent = 'SHOW ALL ' + relations.length + ' CONNECTIONS ↓';
-      more.addEventListener('click', () => { more.replaceWith(...relationRows.slice(5)); }); inspectorBody.append(more);
+    function appendRelations(label, relations, emptyText) {
+      inspectorBody.append(heading(label, String(relations.length).padStart(2, '0')));
+      if (!relations.length) {
+        const empty = document.createElement('p'); empty.className = 'relation-none'; empty.textContent = emptyText; inspectorBody.append(empty);
+        return;
+      }
+      const rows = relations.map(rel => {
+        const other = nodes[rel.id];
+        const row = document.createElement('button'); row.type = 'button'; row.className = 'relation-row';
+        row.textContent = other.s + '.' + other.n;
+        const small = document.createElement('small'); small.style.setProperty('--rel-color', kindColors[rel.kind]);
+        const dot = document.createElement('i');
+        const explanation = rel.kind === 3
+          ? (rel.outgoing ? 'References' : 'Referenced by') + ' · ' + rel.constraints.map(fk =>
+              `${fk.name}: ${rel.outgoing ? fk.columns.join(', ') : fk.referenced_columns.join(', ')} → ${rel.outgoing ? fk.referenced_columns.join(', ') : fk.columns.join(', ')}`).join('; ')
+          : rel.kind === 4
+            ? `Column “${rel.constraints}” ${rel.outgoing ? 'here matches target name' : 'in target matches this name'} · unverified`
+            : kindNames[rel.kind] + ' · unverified';
+        small.append(dot, document.createTextNode(explanation)); row.append(small);
+        if (other.s !== n.s && other.m.kilde) {
+          const source = document.createElement('small'); source.textContent = 'Source: ' + other.m.kilde; row.append(source);
+        }
+        row.addEventListener('click', () => chooseNode(rel.id)); return row;
+      });
+      rows.slice(0, 5).forEach(row => inspectorBody.append(row));
+      if (rows.length > 5) {
+        const more = document.createElement('button'); more.className = 'show-more';
+        more.textContent = 'SHOW ALL ' + rows.length + ' ↓';
+        more.addEventListener('click', () => { more.replaceWith(...rows.slice(5)); }); inspectorBody.append(more);
+      }
     }
-    inspectorBody.append(heading('COLUMNS', String(n.c.length).padStart(2, '0')));
-    const columns = document.createElement('ul'); columns.className = 'column-list';
-    n.c.forEach((c, i) => { const item = document.createElement('li'); item.textContent = c; if (i >= 8) item.hidden = true; columns.append(item); });
-    inspectorBody.append(columns);
-    if (n.c.length > 8) {
-      const more = document.createElement('button'); more.className = 'show-more'; more.textContent = 'SHOW ALL ' + n.c.length + ' COLUMNS ↓';
-      more.addEventListener('click', () => { columns.querySelectorAll('[hidden]').forEach(item => item.hidden = false); more.remove(); }); inspectorBody.append(more);
+    const otherSources = n.neighbors.filter(rel => rel.kind !== 3 && nodes[rel.id].s !== n.s)
+      .sort((a, b) => nodes[a.id].s.localeCompare(nodes[b.id].s));
+    appendRelations('OTHER DATA SOURCES · NAMING HINTS', otherSources, 'No name-based hints to datasets in other schemas.');
+    if (foreignKeyStatus === 'imported') {
+      appendRelations('DECLARED FOREIGN KEYS', n.neighbors.filter(rel => rel.kind === 3), 'No declared foreign keys for this dataset.');
     }
+    appendRelations('WITHIN THIS SCHEMA · NAMING HINTS',
+      n.neighbors.filter(rel => rel.kind !== 3 && nodes[rel.id].s === n.s), 'No local naming hints detected.');
+    inspectorBody.append(heading('COLUMNS · EXPORT SNAPSHOT', n.c ? String(n.c.length).padStart(2, '0') : '—'));
+    if (!n.c) {
+      const missing = document.createElement('p'); missing.className = 'relation-none';
+      missing.textContent = 'Column metadata not available for this dashboard dataset in the separate column export.';
+      inspectorBody.append(missing);
+    } else {
+      const note = document.createElement('p'); note.className = 'relation-none';
+      note.textContent = 'From a separate column snapshot; may differ from current dashboard data.';
+      inspectorBody.append(note);
+      const columns = document.createElement('ul'); columns.className = 'column-list';
+      n.c.forEach(([name, type, nullable, comment, defaultValue, length], i) => {
+        const item = document.createElement('li'); if (i >= 10) item.hidden = true;
+        const label = document.createElement('strong'); label.textContent = name;
+        const meta = document.createElement('small');
+        meta.textContent = type + (length ? `(${length})` : '') + (nullable ? ' · nullable' : ' · not null');
+        item.append(label, meta);
+        if (comment) { const detail = document.createElement('small'); detail.textContent = comment; item.append(detail); }
+        if (defaultValue) { const detail = document.createElement('small'); detail.textContent = 'Default: ' + defaultValue; item.append(detail); }
+        const hint = n.neighbors.find(rel => rel.kind === 4 && rel.outgoing && rel.constraints === name);
+        if (hint) {
+          const link = document.createElement('button'); link.type = 'button'; link.className = 'column-hint';
+          link.textContent = '↗ Possible match: ' + nodes[hint.id].s + '.' + nodes[hint.id].n;
+          link.addEventListener('click', () => chooseNode(hint.id)); item.append(link);
+        }
+        columns.append(item);
+      });
+      inspectorBody.append(columns);
+      if (n.c.length > 10) {
+        const more = document.createElement('button'); more.type = 'button'; more.className = 'show-more';
+        more.textContent = 'SHOW ALL ' + n.c.length + ' COLUMNS ↓';
+        more.addEventListener('click', () => { columns.querySelectorAll('[hidden]').forEach(item => item.hidden = false); more.remove(); });
+        inspectorBody.append(more);
+      }
+    }
+    inspectorBody.append(heading('DATASET METADATA', 'DASHBOARD'));
+    if (details.children.length) inspectorBody.append(details);
+    else { const empty = document.createElement('p'); empty.className = 'relation-none'; empty.textContent = 'No additional metadata available.'; inspectorBody.append(empty); }
     inspectorBody.scrollTop = 0;
   }
   function hitTest(x, y) {
@@ -329,7 +416,7 @@
     if (hovered !== null) {
       const n = nodes[hovered];
       tooltip.replaceChildren(document.createTextNode(n.n));
-      const meta = document.createElement('small'); meta.textContent = n.s + ' · ' + (n.t ? 'VIEW' : 'TABLE'); tooltip.append(meta);
+      const meta = document.createElement('small'); meta.textContent = n.s + ' · ' + (n.m.approx_size_pretty || 'DATASET'); tooltip.append(meta);
       tooltip.style.left = clamp(e.clientX + 15, 8, width - 260) + 'px';
       tooltip.style.top = clamp(e.clientY + 15, 8, height - 65) + 'px'; tooltip.hidden = false;
     } else tooltip.hidden = true;

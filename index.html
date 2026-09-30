@@ -4,50 +4,50 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#080e19">
-  <title>Schema Atlas — Databox Universe</title>
+  <title>Schema Atlas — Datatank Universe</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <canvas id="universe" aria-label="Interactive 3D projection of database tables and inferred relationships"></canvas>
+  <canvas id="universe" aria-label="Interactive 3D projection of Datatank datasets and naming hints"></canvas>
 
   <header class="topbar">
-    <div class="brand"><span class="brand-mark">✳</span><span>SCHEMA <strong>ATLAS</strong></span><span class="brand-divider"></span><span class="brand-sub">DATABOX UNIVERSE</span></div>
-    <div class="top-actions"><span class="live-dot"></span><span class="top-caption">INTERACTIVE MAP</span><button id="motion" class="icon-button" title="Pause rotation" aria-label="Pause rotation">Ⅱ</button><button id="reset" class="small-button">Reset view ↗</button></div>
+    <div class="brand"><span class="brand-mark">✳</span><span>SCHEMA <strong>ATLAS</strong></span><span class="brand-divider"></span><span class="brand-sub">DATATANK UNIVERSE</span></div>
+    <div class="top-actions"><span class="top-caption">DASHBOARD SNAPSHOT</span><button id="motion" class="icon-button" title="Pause rotation" aria-label="Pause rotation">Ⅱ</button><button id="reset" class="small-button">Reset view ↗</button></div>
   </header>
 
   <aside class="sidebar panel" aria-label="Explore schemas">
     <div class="panel-eyebrow"><span class="eyebrow-line"></span> EXPLORER <span class="eyebrow-index">01 / 02</span></div>
-    <h1>Explore the<br><em>databox cosmos.</em></h1>
-    <p class="intro">A constellation of tables, views and the connections suggested by their names.</p>
+    <h1>Explore the<br><em>datatank cosmos.</em></h1>
+    <p class="intro">Datasets from the Datatank Dashboard, with connections suggested by their names.</p><p id="database-name" class="database-name"></p>
     <div class="stats">
-      <div><strong id="table-count">—</strong><span>TABLES</span></div>
+      <div><strong id="table-count">—</strong><span>DATASETS</span></div>
       <div><strong id="schema-count">—</strong><span>SCHEMAS</span></div>
-      <div><strong id="link-count">—</strong><span>LINKS</span></div>
+      <div><strong id="link-count">—</strong><span>HINTS</span></div>
     </div>
-    <label class="search-wrap"><span class="search-icon">⌕</span><input id="search" type="search" placeholder="Find a table or column…" autocomplete="off" aria-label="Search tables and columns"><kbd>/</kbd></label>
+    <label class="search-wrap"><span class="search-icon">⌕</span><input id="search" type="search" placeholder="Find a dataset or source…" autocomplete="off" aria-label="Search datasets and sources"><kbd>/</kbd></label>
     <div id="search-results" class="search-results" hidden></div>
-    <div class="list-heading"><span>SCHEMAS</span><span id="schema-list-count">ALL 23</span></div>
+    <div class="list-heading"><span>SCHEMAS</span><span id="schema-list-count">—</span></div>
     <div id="schemas" class="schema-list" role="group" aria-label="Filter by schema"></div>
     <select id="mobile-schema" class="mobile-schema" aria-label="Filter by schema"></select>
     <div class="sidebar-footer"><span class="tiny-orbit">◎</span> Select a schema to isolate its constellation.</div>
   </aside>
 
-  <aside id="inspector" class="inspector panel" aria-label="Selected table details">
+  <aside id="inspector" class="inspector panel" aria-label="Selected dataset details">
     <div class="panel-eyebrow"><span class="eyebrow-line"></span> OBJECT INSPECTOR <span class="eyebrow-index">02 / 02</span></div>
     <div id="inspector-body" class="inspector-body">
       <div class="empty-visual"><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><span>✳</span></div>
       <p class="empty-kicker">AWAITING SELECTION</p>
       <h2>Every point<br>has a story.</h2>
-      <p class="empty-copy">Click a star or search for a table to see its columns and connected neighbors.</p>
+      <p class="empty-copy">Click a star or search for a dataset to see its dashboard metadata and naming hints.</p>
     </div>
-    <div class="inspector-footer"><span class="status-dot"></span> COLUMN METADATA · NAME-BASED INFERENCES</div>
+    <div class="inspector-footer"><span class="status-dot"></span> <span id="fk-status">FK CATALOG NOT AVAILABLE</span></div>
   </aside>
 
   <div id="tooltip" class="tooltip" hidden></div>
   <div class="canvas-caption"><span class="caption-rule"></span><span id="caption">ALL SCHEMAS · 3D OVERVIEW</span></div>
   <div class="controls-hint"><span class="mouse-glyph">◉</span> DRAG TO ORBIT <span class="hint-sep">·</span> SCROLL TO ZOOM <span class="hint-sep">·</span> CLICK TO INSPECT</div>
-  <div class="legend"><span><i class="legend-dot ref"></i> Column match</span><span><i class="legend-dot view"></i> View of</span><span><i class="legend-dot variant"></i> Variant</span><span><i class="legend-dot counterpart"></i> Same name</span></div>
-  <div class="disclaimer">Links are inferred from names, not declared foreign keys.</div>
+  <div class="legend"><span id="fk-legend" hidden><i class="legend-dot confirmed"></i> Declared FK</span><span><i class="legend-dot column-match"></i> Column match</span><span><i class="legend-dot view"></i> Possible view of</span><span><i class="legend-dot variant"></i> Variant</span><span><i class="legend-dot counterpart"></i> Same name</span></div>
+  <div class="disclaimer">Column hints use a separate snapshot · only catalog-imported FKs are verified.</div>
 
   <script src="data.js"></script>
   <script src="app.js"></script>
