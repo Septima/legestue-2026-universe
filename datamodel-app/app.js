@@ -148,12 +148,12 @@ function renderView(nextMode) {
     chooser.append(option);
   });
   document.title = mode === 'schemas' ? 'Datakort · Databaseskemaer' : 'Datakort · Ejendomme og adresser';
-  document.querySelector('#map-subtitle').textContent = mode === 'schemas' ? 'Databaseskemaer og deres mulige relationer' : 'Ejendomme, adresser og deres sammenhænge';
-  document.querySelector('#choose-label').textContent = mode === 'schemas' ? 'Gå til skema' : 'Gå til element';
+  document.querySelector('#map-subtitle').textContent = mode === 'schemas' ? 'Databaseskemaer og deres mulige relationer' : 'Fagligt overblik over ejendomme, adresser og relaterede data';
+  document.querySelector('#choose-label').textContent = mode === 'schemas' ? 'Gå til skema' : 'Gå til begreb';
   document.querySelector('#relations-heading').textContent = mode === 'schemas' ? 'Mulige skemarelationer' : 'Direkte forbindelser';
   document.querySelector('.badge').textContent = mode === 'schemas'
     ? `${nodes.length} skemaer · ${edges.length} mulige relationer`
-    : `${nodes.length} elementer · Klik for at udforske`;
+    : `${nodes.length} begreber · Klik for at udforske`;
   document.querySelector('#element-metadata').hidden = mode === 'schemas';
   document.querySelector('#schema-metadata').hidden = mode !== 'schemas';
   document.querySelector('#map-note').textContent = mode === 'schemas'
