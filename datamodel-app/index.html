@@ -21,7 +21,6 @@
     .edge.spatial { stroke-dasharray: 6 5; }
     .node { cursor: pointer; outline: none; }
     .node rect { fill: white; stroke: #c4d2df; stroke-width: 1.5; filter: drop-shadow(0 3px 5px #1e355b0d); }
-    .node.added rect { fill: #f0f8f2; stroke: #a9cbb2; }
     .node:hover rect, .node:focus-visible rect { stroke: #1969b8; stroke-width: 3; }
     .node.selected rect { fill: #214f80; stroke: #143b64; stroke-width: 2.5; }
     .node text { fill: #243d55; font-size: 13px; font-weight: 600; pointer-events: none; text-anchor: middle; }
@@ -39,6 +38,16 @@
     select { width: 100%; padding: 10px 8px; border: 1px solid #cfdae5; border-radius: 7px; background: white; color: #274b70; margin-bottom: 30px; }
     h2 { font-size: 23px; line-height: 1.2; margin: 0 0 10px; }
     #description { color: #62758a; font-size: 14px; line-height: 1.6; }
+    .metadata { margin-top: 22px; padding: 15px; border: 1px solid #e1e8ee; border-radius: 10px; background: #f8fafc; }
+    .metadata h3 { margin: 0 0 13px; font-size: 13px; }
+    .metadata-label { margin: 13px 0 6px; color: #71869b; font-size: 10px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
+    .metadata-label:first-of-type { margin-top: 0; }
+    .metadata-table { display: inline-block; margin: 0 4px 4px 0; padding: 4px 6px; border-radius: 4px; background: #eaf0f5; color: #274b70; font: 11px ui-monospace, monospace; overflow-wrap: anywhere; }
+    .metadata-groups { display: grid; gap: 10px; }
+    .metadata-fields { display: flex; flex-wrap: wrap; gap: 5px; }
+    .metadata-table-name { margin: 0 0 5px; color: #71869b; font: 10px ui-monospace, monospace; }
+    .metadata-field { min-width: 0; max-width: 100%; padding: 4px 6px; border: 1px solid #dfe6ed; border-radius: 4px; background: white; color: #536a7d; font: 10px ui-monospace, monospace; overflow-wrap: anywhere; word-break: break-word; }
+    .metadata-note { margin: 11px 0 0; color: #778796; font-size: 11px; line-height: 1.5; }
     h3 { font-size: 13px; margin: 25px 0 12px; }
     #neighbors { display: grid; gap: 8px; }
     #neighbors button { text-align: left; font-size: 13px; }
@@ -77,9 +86,17 @@
       <p class="eyebrow">I centrum</p>
       <h2 id="title" aria-live="polite"></h2>
       <p id="description"></p>
+      <section class="metadata" aria-labelledby="metadata-title">
+        <h3 id="metadata-title">Indhold og metadata</h3>
+        <p class="metadata-label">Datakilde</p>
+        <div id="metadata-source"></div>
+        <p class="metadata-label">Felter i datamodellen</p>
+        <div id="metadata-fields" class="metadata-groups"></div>
+        <p id="metadata-note" class="metadata-note"></p>
+      </section>
       <h3>Direkte forbindelser</h3>
       <div id="neighbors"></div>
-      <p class="note">Valgt element er blåt. Grønne bokse er tilføjelserne til den oprindelige figur. Linjer viser overordnede sammenhænge, ikke nødvendigvis fremmednøgler eller én-til-én-forhold. Stiplet linje viser geografisk overlap.<br><br>Træk i baggrunden for at flytte kortet. Zoom med musehjulet eller knapperne. Bokse kan også vælges med Tab og Enter.<br><br>Statisk model fra databaseundersøgelsen. Ingen liveforbindelse eller persondata.</p>
+      <p class="note">Valgt element er blåt. Linjer viser overordnede sammenhænge, ikke nødvendigvis fremmednøgler eller én-til-én-forhold. Stiplet linje viser geografisk overlap.<br><br>Træk i baggrunden for at flytte kortet. Zoom med musehjulet eller knapperne. Bokse kan også vælges med Tab og Enter.<br><br>Statisk model fra databaseundersøgelsen. Ingen liveforbindelse eller persondata.</p>
     </aside>
   </main>
   <script src="app.js"></script>

@@ -38,6 +38,41 @@ const edges = [
   ['jord', 'tema', 'Geografisk overlap', true],
 ].map(([a, b, label, spatial = false]) => ({ a, b, label, spatial }));
 
+const schemaDetails = {
+  mat: [{ table: 'mat2.samletfastejendom', fields: ['bfenummer', 'id_lokalid'] }],
+  jord: [{ table: 'mat2.jordstykke', fields: ['matrikelnummer', 'ejerlavlokalid', 'samletfastejendomlokalid'] }],
+  byg: [{ table: 'bbr.bygning', fields: ['id_lokalid', 'byg007bygningsnummer', 'byg021bygningensanvendelse', 'jordstykke'] }],
+  enhed: [{ table: 'bbr.enhed', fields: ['id_lokalid', 'enh020enhedensanvendelse', 'enh026enhedenssamledeareal', 'bygning'] }],
+  adresse: [{ table: 'dar.adresse', fields: ['id_lokalid', 'adressebetegnelse', 'etagebetegnelse', 'doerbetegnelse', 'husnummer'] }],
+  hus: [{ table: 'dar.husnummer', fields: ['id_lokalid', 'husnummertekst', 'adgangspunkt', 'jordstykke', 'postnummer'] }],
+  vej: [{ table: 'dar.navngivenvej', fields: ['id_lokalid', 'vejnavn', 'vejadresseringsnavn'] }],
+  punkt: [{ table: 'dar.adressepunkt', fields: ['id_lokalid', 'position', 'oprindelse_kilde'] }],
+  dagi: [
+    { table: 'dagi.kommuneinddeling_10m', fields: ['id_lokalid', 'navn', 'kommunekode', 'regionslokalid'] },
+    { table: 'dagi.sogneinddeling_10m', fields: ['id_lokalid', 'navn', 'sognekode'] },
+    { table: 'dagi.afstemningsomraade_10m', fields: ['id_lokalid', 'navn', 'afstemningsomraadenummer'] },
+  ],
+  ebr: [{ table: 'ebr.ejendomsbeliggenhed', fields: ['id_lokalid', 'bestemtfastejendombfenr', 'adresselokalid', 'husnummerlokalid'] }],
+  ejf: [{ table: 'ejf.ejerskab', fields: ['id_lokalid', 'ejerforholdskode', 'faktiskejerandel_taeller', 'bestemtfastejendombfenr'] }],
+  cvr: [
+    { table: 'cvrjson.virksomhed', fields: ['cvr_nummer', 'navne', 'hovedbranche'] },
+    { table: 'cvrjson.produktionsenhed', fields: ['p_nummer', 'navne', 'hovedbranche'] },
+  ],
+  vur: [{ table: 'vur_sr2.ejendomsvurdering', fields: ['id', 'ejendomvaerdibeloeb', 'grundvaerdibeloeb', 'aar'] }],
+  emo: [{ table: 'emoweb.energy_labels', fields: ['bfe_number', 'energy_label_classification', 'valid_from', 'valid_to'] }],
+  geo: [{ table: 'geodanmark_aktuel.bygning', fields: ['id_lokalid', 'bbruuid', 'bygningstype', 'geometri'] }],
+  tema: [
+    { table: 'plandata.lokalplan_vedtaget', fields: ['planid', 'plannavn', 'datoikraft'] },
+    { table: 'dmp.jordforurening_v1', fields: ['objektid', 'jordforure', 'geometri'] },
+  ],
+  ejerlej: [{ table: 'mat2.ejerlejlighed', fields: ['id_lokalid', 'bfenummer', 'ejerlejlighedsnummer', 'samletfastejendomlokalid'] }],
+  ejerlav: [{ table: 'mat2.ejerlav', fields: ['id_lokalid', 'ejerlavskode', 'ejerlavsnavn'] }],
+  post: [{ table: 'dar.postnummer', fields: ['id_lokalid', 'postnr', 'navn', 'postnummerinddeling'] }],
+  postgeo: [{ table: 'dagi.postnummerinddeling_10m', fields: ['id_lokalid', 'postnummer', 'navn', 'geometri'] }],
+  region: [{ table: 'dagi.regionsinddeling_10m', fields: ['id_lokalid', 'regionskode', 'navn', 'geometri'] }],
+  dati: [{ table: 'datireg.anvisningsenhed', fields: ['anvisningsenhedsnummer', 'anvisningsenhedsnavn', 'dawaid', 'daginstitutionsnummer'] }],
+};
+
 const svg = document.querySelector('svg');
 const viewport = document.querySelector('#viewport');
 const chooser = document.querySelector('#choose');
@@ -150,6 +185,39 @@ function fitScale(points) {
   return Math.min(1.2, Math.max(.04, Math.min((width - 40) / (extentX * 2), (height - 120) / (extentY * 2))));
 }
 
+function renderMetadata(id) {
+  const details = schemaDetails[id] || [];
+  const source = document.querySelector('#metadata-source');
+  const fields = document.querySelector('#metadata-fields');
+  source.replaceChildren();
+  fields.replaceChildren();
+  details.forEach(detail => {
+    const table = document.createElement('code');
+    table.className = 'metadata-table';
+    table.textContent = detail.table;
+    source.append(table);
+
+    const group = document.createElement('div');
+    group.className = 'metadata-field-group';
+    const tableName = document.createElement('p');
+    tableName.className = 'metadata-table-name';
+    tableName.textContent = detail.table;
+    group.append(tableName);
+    const fieldList = document.createElement('div');
+    fieldList.className = 'metadata-fields';
+    detail.fields.forEach(name => {
+      const field = document.createElement('code');
+      field.className = 'metadata-field';
+      field.textContent = name;
+      fieldList.append(field);
+    });
+    group.append(fieldList);
+    fields.append(group);
+  });
+  document.querySelector('#metadata-note').textContent =
+    'Feltnavne fra det lokale databaseskema. Kortet viser ikke aktuelle registerværdier.';
+}
+
 function selectNode(id, immediate = false) {
   cancelAnimationFrame(animation);
   selected = id;
@@ -158,6 +226,7 @@ function selectNode(id, immediate = false) {
   const node = byId.get(id);
   document.querySelector('#title').textContent = `${node.label} ${node.second}`;
   document.querySelector('#description').textContent = node.description;
+  renderMetadata(id);
   const neighbors = document.querySelector('#neighbors');
   neighbors.replaceChildren();
   nodes.forEach(n => {
